@@ -38,6 +38,12 @@ dependencies = [
         "numpy>=2.3.1",
         "pandas>=2.3.0",
         "selenium>=4.34.2",
+        "opencv-python>=4.11.0.86",
+        "matplotlib>=3.10.6",
+        "torchvision>=0.23.0",
+        "torch-geometric>=2.6.1",
+        "ultralytics>=8.3.197",
+        "clip>=0.2.0",
 ]
 
 [project.optional-dependencies]
