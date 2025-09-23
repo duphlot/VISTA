@@ -1,0 +1,198 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/admin/export": [
+		"src/routes/admin/export/+server.ts"
+	],
+	"/admin/stats/compute": [
+		"src/routes/admin/stats/compute/+server.ts"
+	],
+	"/api/assistants": [
+		"src/routes/api/assistants/+server.ts"
+	],
+	"/api/assistant": [
+		"src/routes/api/assistant/+server.ts"
+	],
+	"/api/assistant/[id]": [
+		"src/routes/api/assistant/[id]/+server.ts"
+	],
+	"/api/assistant/[id]/report": [
+		"src/routes/api/assistant/[id]/report/+server.ts"
+	],
+	"/api/assistant/[id]/review": [
+		"src/routes/api/assistant/[id]/review/+server.ts"
+	],
+	"/api/assistant/[id]/subscribe": [
+		"src/routes/api/assistant/[id]/subscribe/+server.ts"
+	],
+	"/api/conversations": [
+		"src/routes/api/conversations/+server.ts"
+	],
+	"/api/conversation/[id]": [
+		"src/routes/api/conversation/[id]/+server.ts"
+	],
+	"/api/conversation/[id]/message/[messageId]": [
+		"src/routes/api/conversation/[id]/message/[messageId]/+server.ts"
+	],
+	"/api/models": [
+		"src/routes/api/models/+server.ts"
+	],
+	"/api/tools": [
+		"src/routes/api/tools/+server.ts"
+	],
+	"/api/tools/search": [
+		"src/routes/api/tools/search/+server.ts"
+	],
+	"/api/tools/[toolId]": [
+		"src/routes/api/tools/[toolId]/+server.ts"
+	],
+	"/api/tools/[toolId]/report": [
+		"src/routes/api/tools/[toolId]/report/+server.ts"
+	],
+	"/api/tools/[toolId]/review": [
+		"src/routes/api/tools/[toolId]/review/+server.ts"
+	],
+	"/api/user": [
+		"src/routes/api/user/+server.ts"
+	],
+	"/api/user/assistants": [
+		"src/routes/api/user/assistants/+server.ts"
+	],
+	"/api/user/validate-token": [
+		"src/routes/api/user/validate-token/+server.ts"
+	],
+	"/api/v2/[...slugs]": [
+		"src/routes/api/v2/[...slugs]/+server.ts"
+	],
+	"/assistants": [
+		"src/routes/assistants/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/assistant/[assistantId]": [
+		"src/routes/assistant/[assistantId]/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/assistant/[assistantId]/thumbnail.png": [
+		"src/routes/assistant/[assistantId]/thumbnail.png/+server.ts"
+	],
+	"/conversation": [
+		"src/routes/conversation/+server.ts"
+	],
+	"/conversation/[id]": [
+		"src/routes/conversation/[id]/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/conversation/[id]/+server.ts"
+	],
+	"/conversation/[id]/message/[messageId]/prompt": [
+		"src/routes/conversation/[id]/message/[messageId]/prompt/+server.ts"
+	],
+	"/conversation/[id]/message/[messageId]/vote": [
+		"src/routes/conversation/[id]/message/[messageId]/vote/+server.ts"
+	],
+	"/conversation/[id]/output/[sha256]": [
+		"src/routes/conversation/[id]/output/[sha256]/+server.ts"
+	],
+	"/conversation/[id]/share": [
+		"src/routes/conversation/[id]/share/+server.ts"
+	],
+	"/conversation/[id]/stop-generating": [
+		"src/routes/conversation/[id]/stop-generating/+server.ts"
+	],
+	"/healthcheck": [
+		"src/routes/healthcheck/+server.ts"
+	],
+	"/login": [
+		"src/routes/login/+server.ts"
+	],
+	"/login/callback": [
+		"src/routes/login/callback/+server.ts"
+	],
+	"/logout": [
+		"src/routes/logout/+server.ts"
+	],
+	"/models": [
+		"src/routes/+layout.ts"
+	],
+	"/models/[...model]/thumbnail.png": [
+		"src/routes/models/[...model]/thumbnail.png/+server.ts"
+	],
+	"/models/[...model]": [
+		"src/routes/models/[...model]/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/privacy": [
+		"src/routes/+layout.ts"
+	],
+	"/r/[id]": [
+		"src/routes/r/[id]/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/settings/(nav)": [
+		"src/routes/settings/(nav)/+layout.ts",
+		"src/routes/settings/+layout.ts",
+		"src/routes/+layout.ts",
+		"src/routes/settings/(nav)/+layout.ts",
+		"src/routes/settings/+layout.ts",
+		"src/routes/+layout.ts",
+		"src/routes/settings/(nav)/+server.ts"
+	],
+	"/settings": [
+		"src/routes/settings/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/settings/(nav)/application": [
+		"src/routes/settings/(nav)/+layout.ts",
+		"src/routes/settings/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/settings/(nav)/assistants/new": [
+		"src/routes/settings/(nav)/+layout.ts",
+		"src/routes/settings/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/settings/(nav)/assistants/[assistantId]": [
+		"src/routes/settings/(nav)/+layout.ts",
+		"src/routes/settings/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/settings/(nav)/assistants/[assistantId]/avatar.jpg": [
+		"src/routes/settings/(nav)/assistants/[assistantId]/avatar.jpg/+server.ts"
+	],
+	"/settings/(nav)/assistants/[assistantId]/edit": [
+		"src/routes/settings/(nav)/+layout.ts",
+		"src/routes/settings/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/settings/(nav)/[...model]": [
+		"src/routes/settings/(nav)/[...model]/+page.ts",
+		"src/routes/settings/(nav)/+layout.ts",
+		"src/routes/settings/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/tools": [
+		"src/routes/tools/+page.ts",
+		"src/routes/tools/+layout.ts",
+		"src/routes/+layout.ts",
+		"src/routes/tools/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/tools/new": [
+		"src/routes/tools/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/tools/[toolId]": [
+		"src/routes/tools/[toolId]/+layout.ts",
+		"src/routes/tools/+layout.ts",
+		"src/routes/+layout.ts",
+		"src/routes/tools/[toolId]/+layout.ts",
+		"src/routes/tools/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/tools/[toolId]/edit": [
+		"src/routes/tools/[toolId]/+layout.ts",
+		"src/routes/tools/+layout.ts",
+		"src/routes/+layout.ts"
+	]
+}
