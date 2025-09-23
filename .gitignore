@@ -25,7 +25,13 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-dataset
+backend/dataset
+backend/uv.lock
+frontend/node_modules
+frontend/build/
+frontend/.env
+frontend/.pnp.*
+frontend/.pnp.js
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
