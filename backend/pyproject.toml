@@ -1,0 +1,111 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "soICT"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+        "mcp[cli]",
+        "adalflow>=1.0.4",
+        "beautifulsoup4>=4.12.0",
+        "fastapi>=0.104.1",
+        "python-multipart>=0.0.6",
+        "discord-py>=2.5.2",
+        "google-generativeai>=0.8.5",
+        "openpyxl>=3.1.5",
+        "pydantic>=2.0.0",
+        "pydantic-ai>=0.1.8",
+        "pymilvus>=2.5.8",
+        "python-dotenv>=1.1.0",
+        "redis>=6.1.0",
+        "requests>=2.32.2",
+        "rq>=1.10.1",
+        "sentence-transformers>=5.0.0",
+        "tiktoken>=0.9.0",
+        "uvicorn>=0.34.2",
+        "jellyfish>=1.2.0",
+        "instructor>=1.9.0",
+        "pypdf2>=3.0.0",
+        "python-docx>=1.1.2",
+        "docx>=0.2.4",
+        "xlrd>=2.0.2",
+        "rapidfuzz>=3.13.0",
+        "docx2txt>=0.9",
+        "spacy>=3.8.7",
+        "numpy>=2.3.1",
+        "pandas>=2.3.0",
+        "selenium>=4.34.2",
+        "opencv-python>=4.11.0.86",
+        "matplotlib>=3.10.6",
+        "torchvision>=0.23.0",
+        "torch-geometric>=2.6.1",
+        "ultralytics>=8.3.197",
+        "clip>=0.2.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "black>=24.2.0",
+    "mypy>=1.8.0",
+    "flake8>=7.0.0",
+    "promptfoo",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["data*", "handlers*", "llm*", "mcp*", "utils*", "prompt_engineering*"]
+
+[tool.black]
+line-length = 88
+target-version = ["py312"]
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+)/
+'''
+
+[tool.mypy]
+python_version = "3.12"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false
+disallow_incomplete_defs = false
+namespace_packages = true
+explicit_package_bases = true
+mypy_path = "src"
+
+[[tool.mypy.overrides]]
+module = ["pymilvus.*"]
+ignore_missing_imports = true
+follow_imports = "skip"
+
+[[tool.mypy.overrides]]
+module = ["tests.*"]
+disallow_untyped_defs = false
+disallow_incomplete_defs = false
+
+[tool.flake8]
+max-line-length = 88
+extend-ignore = "E203"
+exclude = [
+    ".git",
+    "__pycache__",
+    "build",
+    "dist",
+    ".venv",
+    "venv",
+    ".tox",
+]
