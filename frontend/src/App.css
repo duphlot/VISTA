@@ -1,0 +1,25 @@
+
+::-webkit-scrollbar {
+  display: none;
+}
+* {
+  -ms-overflow-style: none; 
+  scrollbar-width: none;  
+}
+
+body {
+  background-image: url('./assets/images/image.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.bg-overlay {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(2px);
+}
+
+.bg-overlay.dark {
+  background: rgba(17, 24, 39, 0.85);
+}
