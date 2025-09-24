@@ -1,0 +1,33 @@
+frame_0000.jpg: a man and woman are getting married
+frame_0001.jpg: a man and woman are standing in a church
+frame_0002.jpg: a man and woman are standing in a church
+frame_0003.jpg: a man and woman are standing in a church
+frame_0004.jpg: a man and woman in wedding attire standing next to each other people
+frame_0005.jpg: a man and woman in a church
+frame_0006.jpg: a man and woman are standing in a church
+frame_0007.jpg: a man and woman in a church
+frame_0008.jpg: a man and woman are standing in a church
+frame_0009.jpg: a man and woman are standing in a church
+frame_0010.jpg: a man and woman are smiling at each other people
+frame_0011.jpg: a man and woman in wedding attire standing next to each other people
+frame_0012.jpg: a man and woman in wedding attire standing next to each other people
+frame_0013.jpg: a man and woman are getting married
+frame_0014.jpg: a man and woman are getting married
+frame_0015.jpg: a man and woman are getting married
+frame_0016.jpg: a man and woman in a wedding dress
+frame_0017.jpg: a man and woman are standing in a room
+frame_0018.jpg: a man and woman are standing next to each other people
+frame_0019.jpg: a man and woman are standing in a church
+frame_0020.jpg: a man and woman are standing in a church
+frame_0021.jpg: a man and woman are standing in a church
+frame_0022.jpg: a man and woman are standing in a church
+frame_0023.jpg: a man and woman are standing in a church
+frame_0024.jpg: a man and woman are getting married
+frame_0025.jpg: a man and woman are standing in a church
+frame_0026.jpg: a man and woman in a church with flowers
+frame_0027.jpg: a man and woman in a wedding dress
+frame_0028.jpg: a man and woman in a church with flowers
+frame_0029.jpg: a man and woman in a church with flowers
+frame_0030.jpg: a man and woman in a wedding dress
+frame_0031.jpg: a man and woman are standing in a church
+frame_0032.jpg: a man and woman are standing in a church

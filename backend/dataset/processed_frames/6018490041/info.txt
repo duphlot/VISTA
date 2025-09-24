@@ -1,0 +1,6 @@
+Video: 6018490041
+Total frames (input): 42
+Processed frames (newly this run): 42
+Already existed frames (skipped): 0
+Total processing time (this run): 363.58 seconds
+Average per frame: 8.66 seconds

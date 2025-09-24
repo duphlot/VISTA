@@ -1,0 +1,388 @@
+frame_0:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi bóng, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Sàn nhà",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi bóng, vui vẻ) - giữ - Bóng",
+  "Xe máy - trên - Sàn nhà"
+]
+```
+
+frame_1:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi bóng, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Sàn nhà",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi bóng, vui vẻ) - giữ - Bóng",
+  "Xe máy - trên - Sàn nhà"
+]
+```
+
+frame_2:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi bóng, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Sàn nhà",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi bóng, vui vẻ) - giữ - Bóng",
+  "Xe máy - trên - Sàn nhà"
+]
+```
+
+frame_3:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi bóng, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Sàn nhà",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi bóng, vui vẻ) - giữ - Bóng",
+  "Xe máy - trên - Sàn nhà"
+]
+```
+
+frame_4:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi bóng, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Sàn nhà",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi bóng, vui vẻ) - giữ - Bánh rán",
+  "Xe máy - trên - Sàn nhà"
+]
+```
+
+frame_5:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang n\u1eb1m, vui v\u1ebb) - n\u1eb1m tr\u00ean - Gi\u01b0\u1eddng1",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - S\u00e0n nh\u00e0",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - Th\u1ea3m",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang n\u1eb1m, vui v\u1ebb) - gi\u1eef - B\u00e1nh r\u00e1n",
+  "Xe m\u00e1y - tr\u00ean - S\u00e0n nh\u00e0"
+]
+```
+
+frame_6:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang ngậm, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Sàn nhà",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang ngậm, vui vẻ) - giữ - Bánh rán",
+  "Người2 (lớn - không xác định, mặc quần áo họa tiết da báo hồng, đang đứng, vui vẻ) - trên - Thảm"
+]
+```
+
+frame_7:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang ngậm, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Sàn nhà",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang ngậm, vui vẻ) - giữ - Bánh rán",
+  "Người2 (lớn - không xác định, mặc quần áo họa tiết da báo hồng, đang đứng, vui vẻ) - trên - Thảm",
+  "Người2 (lớn - không xác định, mặc quần áo họa tiết da báo hồng, đang đứng, vui vẻ) - trên - Xe máy (màu xanh)"
+]
+```
+
+frame_8:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ng\u1eadm, vui v\u1ebb) - n\u1eb1m tr\u00ean - Gi\u01b0\u1eddng1",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - S\u00e0n nh\u00e0",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - Th\u1ea3m",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ng\u1eadm, vui v\u1ebb) - gi\u1eef - B\u00e1nh r\u00e1n",
+  "Ng\u01b0\u1eddi2 (l\u1edbn - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n \u00e1o h\u1ecda ti\u1ebft da b\u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - tr\u00ean - Th\u1ea3m",
+  "Ng\u01b0\u1eddi2 (l\u1edbn - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n \u00e1o h\u1ecda ti\u1ebft da b\u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - tr\u00ean - Xe m\u00e1y (m\u00e0u xanh)"
+]
+```
+
+frame_9:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang ngậm, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Sàn nhà",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang ngậm, vui vẻ) - giữ - Bánh rán",
+  "Thảm - trên - Xe máy (màu xanh)"
+]
+```
+
+frame_10:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ng\u1eadm, vui v\u1ebb) - n\u1eb1m tr\u00ean - Gi\u01b0\u1eddng1",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - T\u01b0\u1eddng",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - Th\u1ea3m",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ng\u1eadm, vui v\u1ebb) - gi\u1eef - B\u00e1nh r\u00e1n",
+  "Th\u1ea3m - tr\u00ean - Xe m\u00e1y (m\u00e0u xanh)"
+]
+```
+
+frame_11:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang ngậm, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Tường",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang ngậm, vui vẻ) - giữ - Bánh rán",
+  "Thảm - trên - Xe máy (màu xanh)",
+  "Thảm - trên - Chăn (không xác định)"
+]
+```
+
+frame_12:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang ngậm, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang ngậm, vui vẻ) - giữ - Bánh rán",
+  "Thảm - trên - Xe máy (màu xanh)",
+  "Thảm - trên - Chăn (không xác định)"
+]
+```
+
+frame_13:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ng\u1eadm, vui v\u1ebb) - n\u1eb1m tr\u00ean - Gi\u01b0\u1eddng1",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - Th\u1ea3m",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ng\u1eadm, vui v\u1ebb) - gi\u1eef - B\u00e1nh r\u00e1n",
+  "Th\u1ea3m - tr\u00ean - Xe m\u00e1y (m\u00e0u xanh)",
+  "Th\u1ea3m - tr\u00ean - Ch\u0103n (kh\u00f4ng x\u00e1c \u0111\u1ecbnh)"
+]
+```
+
+frame_14:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, vui vẻ) - giữ - Bánh rán",
+  "Thảm - trên - Xe máy (màu xanh)",
+  "Thảm - trên - Chăn (không xác định)"
+]
+```
+
+frame_15:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang n\u1eb1m, vui v\u1ebb) - n\u1eb1m tr\u00ean - Gi\u01b0\u1eddng1",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - Th\u1ea3m",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang n\u1eb1m, vui v\u1ebb) - gi\u1eef - B\u00e1nh r\u00e1n",
+  "Th\u1ea3m - tr\u00ean - Xe m\u00e1y (m\u00e0u xanh)",
+  "Th\u1ea3m - tr\u00ean - Ch\u0103n (kh\u00f4ng x\u00e1c \u0111\u1ecbnh)"
+]
+```
+
+frame_16:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi, vui vẻ) - giữ - Bánh rán",
+  "Thảm - trên - Xe máy (màu xanh)",
+  "Thảm - trên - Chăn (không xác định)"
+]
+```
+
+frame_17:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ch\u01a1i, vui v\u1ebb) - n\u1eb1m tr\u00ean - Gi\u01b0\u1eddng1",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - Th\u1ea3m",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ch\u01a1i, vui v\u1ebb) - gi\u1eef - B\u00e1nh r\u00e1n",
+  "Th\u1ea3m - tr\u00ean - Xe m\u00e1y (m\u00e0u xanh)",
+  "Th\u1ea3m - tr\u00ean - Ch\u0103n (kh\u00f4ng x\u00e1c \u0111\u1ecbnh)"
+]
+```
+
+frame_18:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ng\u1ee7, vui v\u1ebb) - n\u1eb1m tr\u00ean - Gi\u01b0\u1eddng1",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - Th\u1ea3m",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ng\u1ee7, vui v\u1ebb) - gi\u1eef - B\u00e1nh r\u00e1n",
+  "Th\u1ea3m - tr\u00ean - Xe m\u00e1y (m\u00e0u xanh)",
+  "Th\u1ea3m - tr\u00ean - Ch\u0103n (kh\u00f4ng x\u00e1c \u0111\u1ecbnh)"
+]
+```
+
+frame_19:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang ngắm nhìn, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang ngắm nhìn, vui vẻ) - giữ - Bánh rán",
+  "Thảm - trên - Xe máy (màu xanh)",
+  "Thảm - trên - Chăn (không xác định)"
+]
+```
+
+frame_20:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ng\u1eafm nh\u00ecn, vui v\u1ebb) - n\u1eb1m tr\u00ean - Gi\u01b0\u1eddng1",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - Th\u1ea3m",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ng\u1eafm nh\u00ecn, vui v\u1ebb) - gi\u1eef - B\u00e1nh r\u00e1n",
+  "Th\u1ea3m - tr\u00ean - Xe m\u00e1y (m\u00e0u xanh)",
+  "Th\u1ea3m - tr\u00ean - Ch\u0103n (kh\u00f4ng x\u00e1c \u0111\u1ecbnh)"
+]
+```
+
+frame_21:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi đùa, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi đùa, vui vẻ) - giữ - Bánh rán",
+  "Thảm - trên - Xe máy (màu xanh)",
+  "Thảm - trên - Chăn (không xác định)",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi đùa, vui vẻ) - cầm - Bóng thể thao (màu xanh)",
+  "Giường1 - trên - Thảm"
+]
+```
+
+frame_22:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ch\u01a1i \u0111\u00f9a, vui v\u1ebb) - n\u1eb1m tr\u00ean - Gi\u01b0\u1eddng1",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - Th\u1ea3m",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ch\u01a1i \u0111\u00f9a, vui v\u1ebb) - gi\u1eef - B\u00e1nh r\u00e1n",
+  "Th\u1ea3m - tr\u00ean - Xe m\u00e1y (m\u00e0u xanh)",
+  "Th\u1ea3m - tr\u00ean - Ch\u0103n (kh\u00f4ng x\u00e1c \u0111\u1ecbnh)",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang ch\u01a1i \u0111\u00f9a, vui v\u1ebb) - c\u1ea7m - B\u00f3ng th\u1ec3 thao (m\u00e0u xanh)",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - Th\u1ea3m"
+]
+```
+
+frame_23:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi đùa, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi đùa, vui vẻ) - giữ - Bánh rán",
+  "Thảm - trên - Xe máy (màu xanh)",
+  "Thảm - trên - Chăn (không xác định)",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang chơi đùa, vui vẻ) - cầm - Bóng thể thao (màu xanh)",
+  "Giường1 - trên - Thảm"
+]
+```
+
+frame_24:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, vui vẻ) - nằm trên - Giường1",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, vui vẻ) - giữ - Bánh rán",
+  "Thảm - trên - Xe máy (màu xanh)",
+  "Thảm - trên - Chăn (không xác định)",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, vui vẻ) - cầm - Bóng thể thao (màu xanh)",
+  "Giường1 - trên - Thảm"
+]
+```
+
+frame_25:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang n\u1eb1m, h\u1ea1nh ph\u00fac) - n\u1eb1m tr\u00ean - Gi\u01b0\u1eddng1",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - Th\u1ea3m",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang n\u1eb1m, h\u1ea1nh ph\u00fac) - gi\u1eef - B\u00e1nh r\u00e1n",
+  "Th\u1ea3m - tr\u00ean - Xe m\u00e1y (m\u00e0u xanh)",
+  "Th\u1ea3m - tr\u00ean - Ch\u0103n (kh\u00f4ng x\u00e1c \u0111\u1ecbnh)",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang n\u1eb1m, h\u1ea1nh ph\u00fac) - c\u1ea7m - B\u00f3ng th\u1ec3 thao (m\u00e0u xanh)"
+]
+```
+
+frame_26:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, hạnh phúc) - nằm trên - Giường1",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, hạnh phúc) - giữ - Bánh rán",
+  "Thảm - trên - Xe máy (màu xanh)",
+  "Thảm - trên - Chăn (không xác định)",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, hạnh phúc) - cầm - Bóng thể thao (màu xanh)"
+]
+```
+
+frame_27:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, hạnh phúc) - nằm trên - Giường1",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, hạnh phúc) - giữ - Bánh rán",
+  "Thảm - trên - Xe máy (màu xanh)",
+  "Thảm - trên - Chăn (không xác định)",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, hạnh phúc) - cầm - Bóng thể thao (màu xanh)"
+]
+```
+
+frame_28:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang n\u1eb1m, h\u1ea1nh ph\u00fac) - n\u1eb1m tr\u00ean - Gi\u01b0\u1eddng1",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - Th\u1ea3m",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang n\u1eb1m, h\u1ea1nh ph\u00fac) - gi\u1eef - B\u00e1nh r\u00e1n",
+  "Th\u1ea3m - tr\u00ean - Xe m\u00e1y (m\u00e0u xanh)",
+  "Th\u1ea3m - tr\u00ean - Ch\u0103n (kh\u00f4ng x\u00e1c \u0111\u1ecbnh)"
+]
+```
+
+frame_29:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, hạnh phúc) - nằm trên - Giường1",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, hạnh phúc) - giữ - Bóng thể thao",
+  "Thảm - trên - Xe máy (màu xanh)",
+  "Thảm - trên - Chăn (không xác định)"
+]
+```
+
+frame_30:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, hạnh phúc) - nằm trên - Giường1",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, hạnh phúc) - giữ - Bóng thể thao",
+  "Thảm - trên - Xe máy (màu xanh)",
+  "Thảm - trên - Chăn (không xác định)"
+]
+```
+
+frame_31:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang n\u1eb1m, h\u1ea1nh ph\u00fac) - n\u1eb1m tr\u00ean - Gi\u01b0\u1eddng1",
+  "Gi\u01b0\u1eddng1 - tr\u00ean - Th\u1ea3m",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o s\u1ecdc xanh tr\u1eafng, \u0111ang n\u1eb1m, h\u1ea1nh ph\u00fac) - gi\u1eef - B\u00f3ng th\u1ec3 thao",
+  "Th\u1ea3m - tr\u00ean - Xe m\u00e1y (m\u00e0u xanh)",
+  "Th\u1ea3m - tr\u00ean - Ch\u0103n (kh\u00f4ng x\u00e1c \u0111\u1ecbnh)"
+]
+```
+
+frame_32:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, hạnh phúc) - nằm trên - Giường1",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, hạnh phúc) - giữ - Bóng thể thao",
+  "Thảm - trên - Xe máy (màu xanh)",
+  "Thảm - trên - Chăn (không xác định)"
+]
+```
+
+frame_33:
+```json
+[
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, hạnh phúc) - nằm trên - Giường1",
+  "Giường1 - trên - Thảm",
+  "Người1 (trẻ sơ sinh - không xác định, mặc áo sọc xanh trắng, đang nằm, hạnh phúc) - giữ - Bóng thể thao",
+  "Thảm - trên - Xe máy (màu xanh)",
+  "Thảm - trên - Chăn (không xác định)"
+]
+```
+

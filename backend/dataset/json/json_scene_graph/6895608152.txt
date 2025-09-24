@@ -1,0 +1,1894 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng, bình tĩnh) - đứng trên - sàn gỗ",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng, bình tĩnh) - đứng cạnh - người2 (trẻ - nam, mặc áo đỏ, đang đứng, bình tĩnh)",
+  "người2 (trẻ - nam, mặc áo đỏ, đang đứng, bình tĩnh) - đứng trên - sàn gỗ",
+  "tường - ở trên - sàn gỗ"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng, bình tĩnh) - đứng trên - sàn gỗ",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng, bình tĩnh) - đứng cạnh - người2 (trẻ - nam, mặc áo đỏ, đang đứng, bình tĩnh)",
+  "người2 (trẻ - nam, mặc áo đỏ, đang đứng, bình tĩnh) - đứng trên - sàn gỗ",
+  "tường - ở trên - sàn gỗ"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng, bình tĩnh) - đứng trên - sàn gỗ",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng, bình tĩnh) - đứng cạnh - người2 (trẻ - nam, mặc áo đỏ, đang đứng, bình tĩnh)",
+  "người2 (trẻ - nam, mặc áo đỏ, đang đứng, bình tĩnh) - đứng trên - sàn gỗ",
+  "tường - ở trên - sàn gỗ",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang tạo dáng, bình tĩnh) - đứng trên - sàn gỗ",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng, bình tĩnh)",
+  "tường - ở trên - người2 (trẻ - nam, mặc áo đỏ, đang đứng, bình tĩnh)",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang tạo dáng, bình tĩnh)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng, bình tĩnh) - đứng trên - sàn gỗ",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng, bình tĩnh) - đứng cạnh - người2 (trẻ - nam, mặc áo đỏ, đang đứng, bình tĩnh)",
+  "người2 (trẻ - nam, mặc áo đỏ, đang đứng, bình tĩnh) - đứng trên - sàn gỗ",
+  "tường - ở trên - sàn gỗ",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang tạo dáng, bình tĩnh) - đứng trên - sàn gỗ",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng, bình tĩnh)",
+  "tường - ở trên - người2 (trẻ - nam, mặc áo đỏ, đang đứng, bình tĩnh)",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang tạo dáng, bình tĩnh)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng, bình tĩnh) - đứng trên - sàn gỗ",
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng cạnh - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh) - đứng trên - sàn gỗ",
+  "tường - ở trên - sàn gỗ",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn gỗ",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh)",
+  "tường - ở trên - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng, bình tĩnh) - đứng trên - sàn gỗ",
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng cạnh - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh) - đứng trên - sàn gỗ",
+  "tường - ở trên - sàn gỗ",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn gỗ",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh)",
+  "tường - ở trên - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng, bình tĩnh) - đứng trên - sàn nhà",
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng cạnh - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh)",
+  "tường - ở trên - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng trên - sàn nhà",
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng cạnh - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh)",
+  "tường - ở trên - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng trên - sàn nhà",
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng cạnh - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh)",
+  "tường - ở trên - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng trên - sàn nhà",
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng cạnh - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh)",
+  "tường - ở trên - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng trên - sàn nhà",
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng cạnh - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh)",
+  "tường - ở trên - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người4 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người4 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng trên - sàn nhà",
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng cạnh - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh)",
+  "tường - ở trên - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người4 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người4 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng trên - sàn nhà",
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng cạnh - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh)",
+  "tường - ở trên - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người4 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người4 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng trên - sàn nhà",
+  "người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh) - đứng cạnh - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang nhìn, bình tĩnh)",
+  "tường - ở trên - người2 (trẻ - nam, mặc áo đỏ, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người4 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người4 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người4 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người4 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người4 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người4 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - trượt trên - ván trượt (màu xám)"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng, bình tĩnh)"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang đứng, bình tĩnh)"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang ngồi, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang ngồi, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang ngồi, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, đang mặc đồ màu hồng, đang ngồi, bình tĩnh)"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_30:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_31:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_32:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_33:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_34:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_35:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_36:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_37:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_38:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_39:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng, lo lắng) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng, lo lắng)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng, lo lắng) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "vợt tennis (màu trắng) - được cầm bởi - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_40:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng, lo lắng) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng, lo lắng)",
+  "người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng, lo lắng) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng, lo lắng)",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng, lo lắng)"
+]
+```
+
+frame_41:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_42:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_43:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_44:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - cầm - vợt tennis"
+]
+```
+
+frame_45:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_46:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_47:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_48:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_49:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang đi, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang đi, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang đi, bình tĩnh)"
+]
+```
+
+frame_50:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang nhảy, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang nhảy, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang nhảy, bình tĩnh)"
+]
+```
+
+frame_51:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang đứng, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang đứng, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang đứng, bình tĩnh)"
+]
+```
+
+frame_52:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_53:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_54:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_55:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)"
+]
+```
+
+frame_56:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)"
+]
+```
+
+frame_57:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)"
+]
+```
+
+frame_58:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)"
+]
+```
+
+frame_59:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)"
+]
+```
+
+frame_60:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ màu cam, đang nhảy, vui vẻ) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ màu cam, đang nhảy, vui vẻ)"
+]
+```
+
+frame_61:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ màu cam, đang ngồi, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ màu cam, đang ngồi, bình tĩnh)"
+]
+```
+
+frame_62:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ màu cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ màu cam, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_63:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)"
+]
+```
+
+frame_64:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)"
+]
+```
+
+frame_65:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)"
+]
+```
+
+frame_66:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_67:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_68:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_69:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_70:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_71:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_72:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giang tay, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giang tay, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giang tay, bình tĩnh)"
+]
+```
+
+frame_73:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giơ tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giơ tay, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giơ tay, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giơ tay, bình tĩnh)"
+]
+```
+
+frame_74:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giơ tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giơ tay, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giơ tay, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giơ tay, bình tĩnh)"
+]
+```
+
+frame_75:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giơ tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giơ tay, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giơ tay, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang giơ tay lên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giơ tay, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang giơ tay, bình tĩnh)"
+]
+```
+
+frame_76:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_77:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_78:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_79:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, bình tĩnh)"
+]
+```
+
+frame_80:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)"
+]
+```
+
+frame_81:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)"
+]
+```
+
+frame_82:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)"
+]
+```
+
+frame_83:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, ngạc nhiên)"
+]
+```
+
+frame_84:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, ngạc nhiên) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, ngạc nhiên)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, ngạc nhiên)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, ngạc nhiên)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang dang tay, ngạc nhiên)"
+]
+```
+
+frame_85:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang ngồi thiền, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang ngồi thiền, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang ngồi thiền, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang ngồi thiền, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang ngồi thiền, bình tĩnh)"
+]
+```
+
+frame_86:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang ngồi thiền, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang ngồi thiền, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang ngồi thiền, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang ngồi thiền, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang ngồi thiền, bình tĩnh)"
+]
+```
+
+frame_87:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_88:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_89:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_90:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_91:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đang xoay người - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_92:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_93:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_94:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_95:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_96:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_97:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_98:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_99:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_100:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_101:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_102:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_103:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_104:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng yên, bình tĩnh)"
+]
+```
+
+frame_105:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang nhảy, vui vẻ) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang nhảy, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang nhảy, vui vẻ)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang nhảy, vui vẻ)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang nhảy, vui vẻ)"
+]
+```
+
+frame_106:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, bình tĩnh)"
+]
+```
+
+frame_107:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, bình tĩnh)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, bình tĩnh)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ hồng, đang đứng thẳng, bình tĩnh)"
+]
+```
+
+frame_108:
+```json
+[
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng trên - sàn nhà",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng trên - sàn nhà",
+  "tường - ở trên - sàn nhà",
+  "tường - ở trên - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "tường - ở trên - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - là - sàn",
+  "tường - là - tường",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "sàn nhà - ở dưới - người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh)",
+  "sàn nhà - ở dưới - người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh)",
+  "người3 (không rõ tuổi - không rõ giới tính, mặc đồ cam, đang dang tay, vui vẻ) - đứng trên - sàn nhà",
+  "tường - ở trên - người3 (không rõ tuổi - không rõ giới tính, mặc đồ cam, đang dang tay, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy cam, đang đứng yên, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ cam, đang dang tay, vui vẻ)",
+  "người2 (không rõ tuổi - không rõ giới tính, đang mặc váy trắng, đang xoay người, bình tĩnh) - đứng cạnh - người3 (không rõ tuổi - không rõ giới tính, mặc đồ cam, đang dang tay, vui vẻ)",
+  "sàn nhà - ở dưới - người3 (không rõ tuổi - không rõ giới tính, mặc đồ cam, đang dang tay, vui vẻ)"
+]
+```
+

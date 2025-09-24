@@ -1,0 +1,112 @@
+frame_0000.jpg: a black background with a white and red flower
+frame_0001.jpg: a small child is playing in the snow
+frame_0002.jpg: a small child is walking through the snow
+frame_0003.jpg: a little boy is playing in the snow
+frame_0004.jpg: a small child in a red jacket
+frame_0005.jpg: a small child in a red jacket and blue pants
+frame_0006.jpg: a small child is playing in the snow
+frame_0007.jpg: a small child is walking in the snow
+frame_0008.jpg: a group of people are playing in the snow
+frame_0009.jpg: a man and a child are pulling a sler
+frame_0010.jpg: a man and a child are pulling a sler
+frame_0011.jpg: a man and a child are playing in the snow
+frame_0012.jpg: a person is walking in the snow
+frame_0013.jpg: a child is walking in the snow
+frame_0014.jpg: a small child is playing in the snow
+frame_0015.jpg: a small child is walking in the snow
+frame_0016.jpg: a child is walking in the snow
+frame_0017.jpg: a child is walking in the snow
+frame_0018.jpg: a small child is walking in the snow
+frame_0019.jpg: a child is playing in the snow
+frame_0020.jpg: a child is skiing down a hill
+frame_0021.jpg: a person is skiing down a hill
+frame_0022.jpg: a child is walking in the snow
+frame_0023.jpg: a child is skiing down a hill
+frame_0024.jpg: a person is skiing down a hill
+frame_0025.jpg: a child is skiing down a hill in the snow
+frame_0026.jpg: a person on a snowboard in the snow
+frame_0027.jpg: a person on a snowboard in the snow
+frame_0028.jpg: a child is skiing down a hill in the snow
+frame_0029.jpg: a small child is skiing down a hill
+frame_0030.jpg: a person on skis in the snow
+frame_0031.jpg: a small child is standing in the snow
+frame_0032.jpg: a person is skiing down a hill
+frame_0033.jpg: a small child is skating on a rink
+frame_0034.jpg: a small child is playing in the snow
+frame_0035.jpg: a little boy is walking in the snow
+frame_0036.jpg: a small child in a red and blue jacket
+frame_0037.jpg: a young boy is skating on a rink
+frame_0038.jpg: a small child is skating on a rink
+frame_0039.jpg: a young boy skating on a rink
+frame_0040.jpg: a child is playing in the snow
+frame_0041.jpg: a small child is walking in the snow
+frame_0042.jpg: a little boy is skating on a rink
+frame_0043.jpg: a small child is walking in the snow
+frame_0044.jpg: a small child is playing in the snow
+frame_0045.jpg: a small child is playing in the snow
+frame_0046.jpg: a small child is playing in the snow
+frame_0047.jpg: a group of people skating on a rink
+frame_0048.jpg: a little boy is playing with a skateboard
+frame_0049.jpg: a small child is walking in the snow
+frame_0050.jpg: a small child in a red jacket and blue pants
+frame_0051.jpg: a little boy is standing in the snow
+frame_0052.jpg: a man and a child are playing in the snow
+frame_0053.jpg: a person in a green hat and a child in a red and blue jacket
+frame_0054.jpg: a man and a child playing in the snow
+frame_0055.jpg: a man and a child playing in the snow
+frame_0056.jpg: a man and a child playing in the snow
+frame_0057.jpg: a man and a child playing in the snow
+frame_0058.jpg: a man and a child are playing in the snow
+frame_0059.jpg: a young boy is walking in the snow
+frame_0060.jpg: a small child is running in the snow
+frame_0061.jpg: a little girl is playing in the snow
+frame_0062.jpg: a small child is walking in the snow
+frame_0063.jpg: a child is walking in the snow
+frame_0064.jpg: a child is running in the snow
+frame_0065.jpg: a person is walking in the snow
+frame_0066.jpg: a person is walking in the snow
+frame_0067.jpg: a small child is playing in the snow
+frame_0068.jpg: a group of people are playing in the snow
+frame_0069.jpg: a person is playing in the snow
+frame_0070.jpg: a person walking in the snow with a dog
+frame_0071.jpg: a person is walking through the snow
+frame_0072.jpg: a person walking through the snow with a snowboard
+frame_0073.jpg: a person is walking in the snow
+frame_0074.jpg: a person is playing in the snow
+frame_0075.jpg: a person is walking in the snow with a snowboard
+frame_0076.jpg: a small child is playing in the snow
+frame_0077.jpg: a young boy playing in the snow
+frame_0078.jpg: a child is playing in the snow
+frame_0079.jpg: a small child playing in the snow
+frame_0080.jpg: a small child playing in the snow
+frame_0081.jpg: a small child is walking in the snow
+frame_0082.jpg: a small child is walking in the snow
+frame_0083.jpg: a small child playing in the snow
+frame_0084.jpg: a small child is playing in the snow
+frame_0085.jpg: a person is falling off a snowboard
+frame_0086.jpg: a man is playing with a snowboard in the snow
+frame_0087.jpg: a person in a black coat and red pants playing in the snow
+frame_0088.jpg: a man in a green hat
+frame_0089.jpg: a person in a black jacket
+frame_0090.jpg: a man and a child playing in the snow
+frame_0091.jpg: a man and a child playing in the snow
+frame_0092.jpg: a man is playing with a child in the snow
+frame_0093.jpg: a man and a child playing in the snow
+frame_0094.jpg: a man and a child playing in the snow
+frame_0095.jpg: a man and a child playing in the snow
+frame_0096.jpg: a man and a child playing in the snow
+frame_0097.jpg: a young boy playing in the snow
+frame_0098.jpg: a man and a child playing in the snow
+frame_0099.jpg: a small child is playing in the snow
+frame_0100.jpg: a young boy is playing in the snow
+frame_0101.jpg: a young boy is playing in the snow
+frame_0102.jpg: a young boy is playing in the snow
+frame_0103.jpg: a young boy is playing in the snow
+frame_0104.jpg: a little girl is walking in the snow
+frame_0105.jpg: a small child is playing in the snow
+frame_0106.jpg: a small child is walking in the snow
+frame_0107.jpg: a person is walking in the snow
+frame_0108.jpg: a man and a child are playing in the snow
+frame_0109.jpg: a man and a child are playing in the snow
+frame_0110.jpg: a man and a child playing in the snow
+frame_0111.jpg: a man and a child playing in the snow

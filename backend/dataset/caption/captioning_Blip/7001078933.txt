@@ -1,0 +1,33 @@
+frame_0000.jpg: a group of young men playing football on a field
+frame_0001.jpg: a group of people in a field playing football
+frame_0002.jpg: a group of people in costumes playing a game
+frame_0003.jpg: a group of people playing football on a field
+frame_0004.jpg: a group of people playing football on a field
+frame_0005.jpg: two people are playing with a ball in the grass
+frame_0006.jpg: a group of people playing football on a field
+frame_0007.jpg: a man in a helmet and a football uniform is playing with a ball
+frame_0008.jpg: two men are playing football on a field
+frame_0009.jpg: two men playing football in a field
+frame_0010.jpg: a man in a helmet and a man in a green shirt playing with a soccer ball
+frame_0011.jpg: a group of young boys playing football on a field
+frame_0012.jpg: two young boys playing soccer on a field
+frame_0013.jpg: two men playing football in a field
+frame_0014.jpg: two football players are playing with a ball
+frame_0015.jpg: two football players are playing with a ball
+frame_0016.jpg: two football players are playing with a ball
+frame_0017.jpg: two football players are playing with a ball
+frame_0018.jpg: a football player is running with a ball
+frame_0019.jpg: a man is trying to get into a bag
+frame_0020.jpg: a man is throwing a football ball on a field
+frame_0021.jpg: two men playing with a large tire in the grass
+frame_0022.jpg: a football player is trying to get the ball
+frame_0023.jpg: a man is trying to get into a tire
+frame_0024.jpg: two men playing tug tug in the park
+frame_0025.jpg: a group of people playing with a dog
+frame_0026.jpg: a football player is trying to get into the field
+frame_0027.jpg: a football player is trying to get the ball
+frame_0028.jpg: a football player is getting ready to throw the ball
+frame_0029.jpg: a man is standing in the grass with a bag
+frame_0030.jpg: a group of people playing fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr
+frame_0031.jpg: a man in a helmet is playing football
+frame_0032.jpg: a man is standing in the grass with his arms out

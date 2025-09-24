@@ -1,0 +1,29 @@
+frame_0000.jpg: a man and woman in the water
+frame_0001.jpg: a group of people in the water
+frame_0002.jpg: a man and woman are in the water
+frame_0003.jpg: a man and woman in the water
+frame_0004.jpg: a man and woman are in the water
+frame_0005.jpg: a man and woman are in the water
+frame_0006.jpg: a man and woman in the water
+frame_0007.jpg: a man and woman are in the water
+frame_0008.jpg: a man and woman are in the water
+frame_0009.jpg: a man and woman in the water
+frame_0010.jpg: a man and woman are in the water
+frame_0011.jpg: a man and woman are in the water
+frame_0012.jpg: a man and a woman are in the water
+frame_0013.jpg: a man is falling off the back of a woman in the water
+frame_0014.jpg: a man and woman are in the water
+frame_0015.jpg: a man and woman in the water
+frame_0016.jpg: a man and a woman are in the water
+frame_0017.jpg: a man is falling into the water while another watches
+frame_0018.jpg: a person swimming in the water with a camera
+frame_0019.jpg: a group of people swimming in the ocean
+frame_0020.jpg: a group of people swimming in the ocean
+frame_0021.jpg: a group of people swimming in the ocean
+frame_0022.jpg: a group of people are playing in the water
+frame_0023.jpg: a group of men in the water with one man holding a bottle
+frame_0024.jpg: a man is swimming in the ocean with his friends
+frame_0025.jpg: a group of men in the water
+frame_0026.jpg: a group of people are swimming in the ocean
+frame_0027.jpg: a man and woman are in the water
+frame_0028.jpg: a man in the water with a group of people

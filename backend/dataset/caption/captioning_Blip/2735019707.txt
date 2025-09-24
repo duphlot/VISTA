@@ -1,0 +1,30 @@
+frame_0000.jpg: a group of people playing drums in a room
+frame_0001.jpg: a group of people playing drums in a room
+frame_0002.jpg: a man playing a drum in a room
+frame_0003.jpg: a boy playing a drum
+frame_0004.jpg: a young boy playing drums in a crowded street
+frame_0005.jpg: a group of people playing drums in a room
+frame_0006.jpg: a group of people playing drums in a room
+frame_0007.jpg: a group of people playing drums in a room
+frame_0008.jpg: a group of people sitting around a table playing drums
+frame_0009.jpg: a group of people sitting around a drum
+frame_0010.jpg: a group of people sitting around a table
+frame_0011.jpg: a group of people eating at a restaurant
+frame_0012.jpg: a group of people sitting around a table
+frame_0013.jpg: a group of people sitting around a table
+frame_0014.jpg: a group of people sitting around a table playing drums
+frame_0015.jpg: a group of people playing drums in a room
+frame_0016.jpg: a group of people playing drums in a room
+frame_0017.jpg: a group of people playing drums in a room
+frame_0018.jpg: a group of people sitting around a table playing drums
+frame_0019.jpg: a group of people playing drums in a room
+frame_0020.jpg: a group of people playing drums in a room
+frame_0021.jpg: a group of people playing drums in a room
+frame_0022.jpg: a group of people sitting around a table playing drums
+frame_0023.jpg: a group of people sitting around a drum
+frame_0024.jpg: a woman is holding a child
+frame_0025.jpg: a group of people sitting around a drum
+frame_0026.jpg: a group of people playing drums in a room
+frame_0027.jpg: a group of people sitting around a drum
+frame_0028.jpg: a group of people playing drums in a room
+frame_0029.jpg: a group of people playing drums in a room

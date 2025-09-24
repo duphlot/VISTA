@@ -1,0 +1,284 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - khoác vai - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - đường (màu xám)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - khoác vai - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - đường (màu xám)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - khoác vai - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - đường (màu xám)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - khoác vai - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - đường (màu xám)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - khoác vai - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - đường (màu xám)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - khoác vai - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - đường (màu xám)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - khoác vai - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - đường (màu xám)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - khoác vai - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - đường (màu xám)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - khoác vai - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - đường (màu xám)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - khoác vai - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - đường (màu xám)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - khoác vai - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - đường (màu xám)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - khoác vai - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - đường (màu xám)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - khoác vai - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - đường (màu xám)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - khoác vai - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - đường (màu xám)",
+  "người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - khoác vai - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - khoác vai - người4 (trẻ - nam, mặc áo trắng, đang đi bộ, bình thường)"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - khoác vai - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - khoác vai - người4 (trẻ - nam, mặc áo trắng, đang đi bộ, bình thường)"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - khoác vai - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - khoác vai - người4 (trẻ - nam, mặc áo trắng, đang đi bộ, bình thường)"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - khoác vai - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - khoác vai - người4 (trẻ - nam, mặc áo trắng, đang đi bộ, bình thường)"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - khoác vai - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - khoác vai - người4 (trẻ - nam, mặc áo trắng, đang đi bộ, bình thường)"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - khoác vai - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - khoác vai - người4 (trẻ - nam, mặc áo trắng, đang đi bộ, bình thường)"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi bên cạnh - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang đi bộ, bình thường) - đi trên - đường (màu xám)",
+  "cây1 - ở trên - người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường)",
+  "cây1 - ở trên - đường (màu xám)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - khoác vai - người2 (trẻ - nam, mặc áo cam, đang đi bộ, bình thường)",
+  "người3 (trẻ - nam, mặc áo xám, đang đi bộ, bình thường) - khoác vai - người4 (trẻ - nam, mặc áo trắng, đang đi bộ, bình thường)"
+]
+```
+

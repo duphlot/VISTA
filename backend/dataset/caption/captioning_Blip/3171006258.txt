@@ -1,0 +1,55 @@
+frame_0000.jpg: a man is sitting in the snow in the woods
+frame_0001.jpg: a man is standing in the snow in the woods
+frame_0002.jpg: a person is kneeling in the snow
+frame_0003.jpg: a man is sitting in the snow in the woods
+frame_0004.jpg: a man is sitting in the snow in the woods
+frame_0005.jpg: a man is sitting in the snow in the woods
+frame_0006.jpg: a person is walking through the woods in the snow
+frame_0007.jpg: a man is walking through the woods in the snow
+frame_0008.jpg: a man is walking through the woods in the snow
+frame_0009.jpg: a man is walking through the woods in the snow
+frame_0010.jpg: a man is in the snow with a snowboard
+frame_0011.jpg: a bear is walking through the woods in the snow
+frame_0012.jpg: a person is in the snow with a snowboard
+frame_0013.jpg: a dog is walking through the woods in the snow
+frame_0014.jpg: a man is walking through the woods in the snow
+frame_0015.jpg: a bear is walking through the woods in the snow
+frame_0016.jpg: a man is walking through the woods in the snow
+frame_0017.jpg: a man is walking through the woods in the snow
+frame_0018.jpg: a bear is walking through the woods in the snow
+frame_0019.jpg: a man is walking through the woods in the snow
+frame_0020.jpg: a bear is walking through the woods
+frame_0021.jpg: a bear is walking through the woods in the snow
+frame_0022.jpg: a man is walking through the woods in the snow
+frame_0023.jpg: a bear is walking through the woods in the snow
+frame_0024.jpg: a man is in the snow with a snowboard
+frame_0025.jpg: a bear is walking through the woods in the snow
+frame_0026.jpg: a dog is walking through the snow covered forest
+frame_0027.jpg: a person is in the snow with a snowboard
+frame_0028.jpg: a man is sitting in the snow in the woods
+frame_0029.jpg: a dog is walking through the snow covered forest
+frame_0030.jpg: a man is kneeling in the snow
+frame_0031.jpg: a man is walking through the woods with a snowboard
+frame_0032.jpg: a bear is walking through the woods in the snow
+frame_0033.jpg: a person is in the snow with a snowboard
+frame_0034.jpg: a bird is standing in the snow in the woods
+frame_0035.jpg: a bear is walking through the woods in the snow
+frame_0036.jpg: a man is in the snow with a rifle
+frame_0037.jpg: a man is laying in the snow in the woods
+frame_0038.jpg: a dog is walking through the snow covered forest
+frame_0039.jpg: a man is kneeling in the snow
+frame_0040.jpg: a bear is walking through the snow covered forest
+frame_0041.jpg: a person riding a snowmobile through the woods
+frame_0042.jpg: a man is kneeling in the snow
+frame_0043.jpg: a person is in the snow with a snowboard
+frame_0044.jpg: a man is kneeling in the snow
+frame_0045.jpg: a man is riding a snowmobile through the woods
+frame_0046.jpg: a man is walking through the woods in the snow
+frame_0047.jpg: a bear is walking through the woods in the snow
+frame_0048.jpg: a man is in the snow with a snowboard
+frame_0049.jpg: a man is walking through the woods in the snow
+frame_0050.jpg: a man is walking through the woods in the snow
+frame_0051.jpg: a man in the woods with a snowboard
+frame_0052.jpg: a man is walking through the woods in the snow
+frame_0053.jpg: a man in the woods with a snowboard
+frame_0054.jpg: a man is walking through the woods in the snow

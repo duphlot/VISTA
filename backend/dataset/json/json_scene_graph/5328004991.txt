@@ -1,0 +1,1085 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc áo cam, đang cầm que) - bên cạnh - cốc1 (màu bạc)",
+  "người2 (trung niên, mặc áo xanh lá, đang nhìn) - phía sau - người1 (trẻ, mặc áo cam, đang cầm que)",
+  "người3 (trung niên, mặc áo xanh dương, đang đứng) - phía sau - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "lò vi sóng1 (màu bạc) - bên cạnh - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "tủ1 - trên - lò vi sóng1 (màu bạc)",
+  "tường1 - phía trên - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "sàn nhà1 - bên dưới - người1 (trẻ, mặc áo cam, đang cầm que)",
+  "trần nhà1 - phía trên - tủ1",
+  "cửa1 - bên cạnh - người3 (trung niên, mặc áo xanh dương, đang đứng)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc áo cam, đang cầm que) - bên cạnh - cốc1 (màu bạc)",
+  "người2 (trung niên, mặc áo xanh lá, đang nhìn) - phía sau - người1 (trẻ, mặc áo cam, đang cầm que)",
+  "người3 (trung niên, mặc áo xanh dương, đang đứng) - phía sau - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "lò vi sóng1 (màu bạc) - bên cạnh - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "tủ1 - trên - lò vi sóng1 (màu bạc)",
+  "tường1 - phía trên - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "sàn nhà1 - bên dưới - người1 (trẻ, mặc áo cam, đang cầm que)",
+  "trần nhà1 - phía trên - tủ1",
+  "cửa1 - bên cạnh - người3 (trung niên, mặc áo xanh dương, đang đứng)",
+  "tủ2 - phía trên - người1 (trẻ, mặc áo cam, đang cầm que)",
+  "người4 (trung niên, mặc áo hồng, đang đứng) - bên cạnh - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "bàn ăn1 (màu xanh dương) - phía dưới - người4 (trung niên, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_2:
+```json
+[
+  "người4 (trung niên, mặc áo hồng, đang đứng) - bên cạnh - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "người2 (trung niên, mặc áo xanh lá, đang nhìn) - bên cạnh - lò vi sóng1 (màu bạc)",
+  "tủ1 - trên - lò vi sóng1 (màu bạc)",
+  "tường1 - phía trên - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "sàn nhà1 - bên dưới - người1 (trẻ, mặc áo cam, đang cầm que)",
+  "trần nhà1 - phía trên - tủ1",
+  "cửa1 - bên cạnh - người3 (trung niên, mặc áo xanh dương, đang đứng)",
+  "tủ2 - phía trên - người1 (trẻ, mặc áo cam, đang cầm que)",
+  "người3 (trung niên, mặc áo xanh dương, đang đứng) - phía sau - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "bát1 (trong suốt) - phía dưới - người1 (trẻ, mặc áo cam, đang cầm que)",
+  "bàn ăn1 (màu xanh dương) - phía dưới - người4 (trung niên, mặc áo hồng, đang đứng)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - phía trước - bát1 (trong suốt)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người4 (trung niên, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_3:
+```json
+[
+  "tủ1 - ở trên - sàn nhà1",
+  "người4 (trung niên, mặc áo hồng, đang đứng) - bên cạnh - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "người2 (trung niên, mặc áo xanh lá, đang nhìn) - phía sau - tủ1",
+  "tường1 - ở trên - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "sàn nhà1 - bên dưới - người1 (trẻ, mặc áo cam, đang cầm que)",
+  "cửa1 - bên cạnh - người3 (trung niên, mặc áo xanh dương, đang đứng)",
+  "tủ2 - phía trên - người1 (trẻ, mặc áo cam, đang cầm que)",
+  "người3 (trung niên, mặc áo xanh dương, đang đứng) - phía sau - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người4 (trung niên, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - phía trước - nồi1 (kim loại)",
+  "người2 (trung niên, mặc áo cam, đang đứng) - phía trước - khay1 (kim loại)",
+  "người3 (trung niên, mặc áo hồng, đang đứng) - phía sau - cửa1",
+  "sàn nhà1 - bên dưới - khay1 (kim loại)"
+]
+```
+
+frame_4:
+```json
+[
+  "tủ1 - ở trên - sàn nhà1",
+  "người4 (trung niên, mặc áo hồng, đang đứng) - bên cạnh - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "người2 (trung niên, mặc áo xanh lá, đang nhìn) - phía sau - tủ1",
+  "tường1 - ở trên - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "sàn nhà1 - bên dưới - người1 (trẻ, mặc áo đỏ, đang cầm cốc)",
+  "cửa1 - bên cạnh - người3 (trung niên, mặc áo hồng, đang đứng)",
+  "tủ2 - phía trên - người1 (trẻ, mặc áo đỏ, đang cầm cốc)",
+  "người3 (trung niên, mặc áo hồng, đang đứng) - phía sau - người2 (trung niên, mặc áo xanh lá, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người4 (trung niên, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm cốc) - phía trước - khay1 (kim loại)",
+  "người2 (trung niên, mặc áo cam, đang đứng) - phía trước - khay1 (kim loại)",
+  "người3 (trung niên, mặc áo hồng, đang đứng) - phía sau - cửa1",
+  "sàn nhà1 - bên dưới - khay1 (kim loại)"
+]
+```
+
+frame_5:
+```json
+[
+  "tủ1 - ở trên - sàn nhà1",
+  "người4 (trung niên, mặc áo hồng, đang đứng) - bên cạnh - người2 (trung niên, mặc áo cam, đang đứng)",
+  "người2 (trung niên, mặc áo cam, đang đứng) - phía sau - tủ1",
+  "tường1 - ở trên - người2 (trung niên, mặc áo cam, đang đứng)",
+  "sàn nhà1 - bên dưới - người1 (trẻ, mặc áo đỏ, đang cầm cốc)",
+  "cửa1 - bên cạnh - người3 (trung niên, mặc áo hồng, đang đứng)",
+  "tủ2 - phía trên - người1 (trẻ, mặc áo đỏ, đang cầm cốc)",
+  "người3 (trung niên, mặc áo hồng, đang đứng) - phía sau - người2 (trung niên, mặc áo cam, đang đứng)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người4 (trung niên, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm cốc) - phía trước - khay1 (kim loại)",
+  "người2 (trung niên, mặc áo cam, đang đứng) - phía trước - khay1 (kim loại)",
+  "người3 (trung niên, mặc áo hồng, đang đứng) - phía sau - cửa1",
+  "sàn nhà1 - bên dưới - khay1 (kim loại)",
+  "cốc1 (màu nâu) - được giữ bởi - người1 (trẻ, mặc áo đỏ, đang cầm cốc)",
+  "quầy1 - ở dưới - cốc1 (màu nâu)"
+]
+```
+
+frame_6:
+```json
+[
+  "tủ1 - ở trên - sàn nhà1",
+  "người4 (trung niên, mặc áo hồng, đang đứng) - bên cạnh - người2 (trung niên, mặc áo cam, đang đứng)",
+  "người2 (trung niên, mặc áo cam, đang đứng) - phía sau - tủ1",
+  "tường1 - ở trên - người2 (trung niên, mặc áo cam, đang đứng)",
+  "sàn nhà1 - bên dưới - người1 (trẻ, mặc áo đỏ, đang cúi người)",
+  "cửa1 - bên cạnh - người3 (trung niên, mặc áo hồng, đang đứng)",
+  "tủ2 - phía trên - người1 (trẻ, mặc áo đỏ, đang cúi người)",
+  "người3 (trung niên, mặc áo hồng, đang đứng) - phía sau - người2 (trung niên, mặc áo cam, đang đứng)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người4 (trung niên, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo đỏ, đang cúi người) - phía trước - khay1 (kim loại)",
+  "người2 (trung niên, mặc áo cam, đang đứng) - phía trước - khay1 (kim loại)",
+  "người3 (trung niên, mặc áo hồng, đang đứng) - phía sau - cửa1",
+  "sàn nhà1 - bên dưới - khay1 (kim loại)",
+  "người1 (trẻ, mặc áo đỏ, đang cúi người) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang cúi người)",
+  "bàn ăn1 (màu xanh) - ở trước - người3 (trung niên, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_7:
+```json
+[
+  "tủ1 - ở trên - sàn nhà1",
+  "người4 (trung niên, mặc áo hồng, đang đứng) - bên cạnh - người2 (trung niên, mặc áo cam, đang đứng)",
+  "người2 (trung niên, mặc áo cam, đang đứng) - phía sau - tủ1",
+  "tường1 - ở trên - người2 (trung niên, mặc áo cam, đang đứng)",
+  "sàn nhà1 - bên dưới - người1 (trẻ, mặc áo đỏ, đang cúi người)",
+  "cửa1 - bên cạnh - người3 (trung niên, mặc áo hồng, đang đứng)",
+  "tủ2 - phía trên - người1 (trẻ, mặc áo đỏ, đang cúi người)",
+  "người3 (trung niên, mặc áo hồng, đang đứng) - phía sau - người2 (trung niên, mặc áo cam, đang đứng)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người4 (trung niên, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo đỏ, đang cúi người) - phía trước - khay1 (kim loại)",
+  "người2 (trung niên, mặc áo cam, đang đứng) - phía trước - khay1 (kim loại)",
+  "người3 (trung niên, mặc áo hồng, đang đứng) - phía sau - cửa1",
+  "sàn nhà1 - bên dưới - khay1 (kim loại)",
+  "người1 (trẻ, mặc áo đỏ, đang cúi người) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang cúi người)",
+  "bàn ăn1 (màu xanh) - ở trước - người3 (trung niên, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm nồi) - bên cạnh - ghế1 (màu cam)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - lò vi sóng1"
+]
+```
+
+frame_8:
+```json
+[
+  "tủ1 - ở trên - sàn nhà1",
+  "người4 (trung niên, mặc áo hồng, đang đứng) - bên cạnh - người2 (trung niên, mặc áo cam, đang đứng)",
+  "người2 (trung niên, mặc áo cam, đang đứng) - phía sau - tủ1",
+  "tường1 - ở trên - người2 (trung niên, mặc áo cam, đang đứng)",
+  "sàn nhà1 - bên dưới - người1 (trẻ, mặc áo đỏ, đang cầm nồi)",
+  "cửa1 - bên cạnh - người3 (trung niên, mặc áo hồng, đang đứng)",
+  "tủ2 - phía trên - người1 (trẻ, mặc áo đỏ, đang cầm nồi)",
+  "người3 (trung niên, mặc áo hồng, đang đứng) - phía sau - người2 (trung niên, mặc áo cam, đang đứng)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người4 (trung niên, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm nồi) - phía trước - khay1 (kim loại)",
+  "người2 (trung niên, mặc áo cam, đang đứng) - phía trước - khay1 (kim loại)",
+  "người3 (trung niên, mặc áo hồng, đang đứng) - phía sau - cửa1",
+  "sàn nhà1 - bên dưới - khay1 (kim loại)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm nồi) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang cầm nồi)",
+  "bàn ăn1 (màu xanh) - ở trước - người3 (trung niên, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm nồi) - bên cạnh - ghế1 (màu cam)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - lò vi sóng1",
+  "ly1 (trong suốt) - ở trên - quầy1"
+]
+```
+
+frame_9:
+```json
+[
+  "tủ1 - ở trên - sàn nhà1",
+  "người3 (trung niên, mặc áo hồng, đang đứng) - bên cạnh - người2 (trung niên, mặc áo cam, đang đứng)",
+  "người2 (trung niên, mặc áo cam, đang đứng) - phía sau - tủ1",
+  "tường1 - ở trên - người2 (trung niên, mặc áo cam, đang đứng)",
+  "sàn nhà1 - bên dưới - người1 (trẻ, mặc áo đỏ, đang cầm nồi)",
+  "cửa1 - bên cạnh - người4 (trung niên, mặc áo hồng, đang đứng)",
+  "tủ2 - phía trên - người1 (trẻ, mặc áo đỏ, đang cầm nồi)",
+  "người4 (trung niên, mặc áo hồng, đang đứng) - phía sau - người2 (trung niên, mặc áo cam, đang đứng)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người3 (trung niên, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm nồi) - phía trước - khay1 (kim loại)",
+  "người2 (trung niên, mặc áo cam, đang đứng) - phía trước - khay1 (kim loại)",
+  "người4 (trung niên, mặc áo hồng, đang đứng) - phía sau - cửa1",
+  "sàn nhà1 - bên dưới - khay1 (kim loại)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm nồi) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang cầm nồi)",
+  "bàn ăn1 (màu xanh) - ở trước - người4 (trung niên, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm nồi) - bên cạnh - ghế1 (màu cam)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - lò vi sóng1",
+  "ly1 (trong suốt) - ở trên - quầy1",
+  "tủ1 - phía sau - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - bàn ăn1 (màu xanh)"
+]
+```
+
+frame_10:
+```json
+[
+  "tủ1 - ở trên - sàn nhà1",
+  "người4 (trung niên, mặc áo hồng, đang nấu ăn) - bên cạnh - người2 (trung niên, mặc áo cam, đang đứng)",
+  "người2 (trung niên, mặc áo cam, đang đứng) - phía sau - tủ1",
+  "tường1 - ở trên - người2 (trung niên, mặc áo cam, đang đứng)",
+  "sàn nhà1 - bên dưới - người1 (trẻ, mặc áo đỏ, đang cầm nồi)",
+  "cửa1 - bên cạnh - người4 (trung niên, mặc áo hồng, đang nấu ăn)",
+  "tủ2 - phía trên - người1 (trẻ, mặc áo đỏ, đang cầm nồi)",
+  "người4 (trung niên, mặc áo hồng, đang nấu ăn) - phía sau - người2 (trung niên, mặc áo cam, đang đứng)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người4 (trung niên, mặc áo hồng, đang nấu ăn)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm nồi) - phía trước - khay1 (kim loại)",
+  "người2 (trung niên, mặc áo cam, đang đứng) - phía trước - khay1 (kim loại)",
+  "người4 (trung niên, mặc áo hồng, đang nấu ăn) - phía sau - cửa1",
+  "sàn nhà1 - bên dưới - khay1 (kim loại)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm nồi) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang cầm nồi)",
+  "bàn ăn1 (màu xanh) - ở trước - người4 (trung niên, mặc áo hồng, đang nấu ăn)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm nồi) - bên cạnh - ghế1 (màu cam)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - lò vi sóng1",
+  "ly1 (trong suốt) - ở trên - quầy1",
+  "tủ1 - phía sau - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - bàn ăn1 (màu xanh)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - quầy1"
+]
+```
+
+frame_11:
+```json
+[
+  "tủ1 - ở trên - sàn nhà1",
+  "người4 (trung niên, mặc áo hồng, đang nấu ăn) - bên cạnh - người2 (trung niên, mặc áo cam, đang nhìn)",
+  "người2 (trung niên, mặc áo cam, đang nhìn) - phía sau - tủ1",
+  "tường1 - ở trên - người2 (trung niên, mặc áo cam, đang nhìn)",
+  "sàn nhà1 - bên dưới - người1 (trẻ, mặc áo đỏ, đang cầm nồi)",
+  "cửa1 - bên cạnh - người4 (trung niên, mặc áo hồng, đang nấu ăn)",
+  "tủ2 - phía trên - người1 (trẻ, mặc áo đỏ, đang cầm nồi)",
+  "người4 (trung niên, mặc áo hồng, đang nấu ăn) - phía sau - người2 (trung niên, mặc áo cam, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người4 (trung niên, mặc áo hồng, đang nấu ăn)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm nồi) - phía trước - khay1 (kim loại)",
+  "người2 (trung niên, mặc áo cam, đang nhìn) - phía trước - khay1 (kim loại)",
+  "người4 (trung niên, mặc áo hồng, đang nấu ăn) - phía sau - cửa1",
+  "sàn nhà1 - bên dưới - khay1 (kim loại)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "bàn ăn1 (màu xanh) - ở trước - người4 (trung niên, mặc áo hồng, đang nấu ăn)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - bên cạnh - ghế1 (màu cam)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - lò vi sóng1",
+  "ly1 (trong suốt) - ở trên - quầy1",
+  "tủ1 - phía sau - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - bàn ăn1 (màu xanh)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - quầy1",
+  "cửa sổ-mành1 - ở trên - cửa sổ1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người2 (trung niên, mặc áo cam, đang nhìn)",
+  "tường1 - ở trên - lò vi sóng1"
+]
+```
+
+frame_12:
+```json
+[
+  "cửa sổ-mành1 - ở trên - tường1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1"
+]
+```
+
+frame_13:
+```json
+[
+  "cửa sổ-mành1 - ở trên - tường1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1"
+]
+```
+
+frame_14:
+```json
+[
+  "cửa sổ-mành1 - ở trên - tường1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1"
+]
+```
+
+frame_15:
+```json
+[
+  "cửa sổ-mành1 - ở trên - tường1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đang trộn - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ lạnh1 - ở trên - sàn nhà1"
+]
+```
+
+frame_16:
+```json
+[
+  "cửa sổ-mành1 - ở trên - tường1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đang trộn - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "cửa sổ1 - ở trên - tường1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - chạm vào - nồi1 (inox)"
+]
+```
+
+frame_17:
+```json
+[
+  "cửa sổ-mành1 - ở trên - tường1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đang trộn - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "cửa sổ1 - ở trên - tường1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - cầm - chai1 (trong suốt)",
+  "tủ4 - ở trên - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "bàn ăn1 - ở trên - quầy1"
+]
+```
+
+frame_18:
+```json
+[
+  "cửa sổ-mành1 - ở trên - tường1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đang trộn - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "cửa sổ1 - ở trên - tường1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - cầm - chai1 (trong suốt)",
+  "tủ4 - ở trên - người5 (trẻ, mặc áo hồng, đang với tay)",
+  "bàn ăn1 - ở trên - quầy1"
+]
+```
+
+frame_19:
+```json
+[
+  "cửa sổ-mành1 - ở trên - tường1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đang trộn - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "cửa sổ1 - ở trên - tường1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - cầm - chai1 (trong suốt)",
+  "tủ4 - ở trên - người5 (trẻ, mặc áo hồng, đang với tay)",
+  "bàn ăn1 - ở trên - quầy1",
+  "trần nhà1 - ở trên - tủ1"
+]
+```
+
+frame_20:
+```json
+[
+  "cửa sổ-mành1 - ở trên - tường1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đang trộn - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "cửa sổ1 - ở trên - tường1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang với tay) - cầm - chai1 (trong suốt)",
+  "tủ4 - ở trên - người5 (trẻ, mặc áo hồng, đang với tay)",
+  "bàn ăn1 - ở trên - quầy1",
+  "trần nhà1 - ở trên - tủ1"
+]
+```
+
+frame_21:
+```json
+[
+  "c\u1eeda s\u1ed5-m\u00e0nh1 - \u1edf tr\u00ean - t\u01b0\u1eddng1",
+  "t\u1ee71 - \u1edf tr\u00ean - l\u00f2 vi s\u00f3ng1",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang n\u1ea5u \u0103n) - \u1edf tr\u00ean - qu\u1ea7y1",
+  "c\u1eeda s\u1ed51 - \u1edf tr\u00ean - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang n\u1ea5u \u0103n)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang v\u1edbi tay) - b\u00ean c\u1ea1nh - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang n\u1ea5u \u0103n)",
+  "t\u1ee72 - \u1edf tr\u00ean - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang n\u1ea5u \u0103n)",
+  "l\u00f2 vi s\u00f3ng1 - \u1edf tr\u00ean - qu\u1ea7y1",
+  "t\u01b0\u1eddng1 - \u1edf tr\u00ean - l\u00f2 vi s\u00f3ng1",
+  "t\u1ee73 - \u1edf tr\u00ean - l\u00f2 vi s\u00f3ng1",
+  "t\u1ee71 - \u1edf tr\u00ean - s\u00e0n nh\u00e01",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang v\u1edbi tay) - b\u00ean c\u1ea1nh - l\u00f2 vi s\u00f3ng1",
+  "s\u00e0n nh\u00e01 - b\u00ean d\u01b0\u1edbi - qu\u1ea7y1",
+  "c\u1ed1c1 (tr\u1eafng) - \u1edf tr\u00ean - qu\u1ea7y1",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang n\u1ea5u \u0103n) - \u1edf tr\u00ean - n\u1ed3i1 (inox)",
+  "n\u1ed3i1 (inox) - \u1edf tr\u00ean - qu\u1ea7y1",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang tr\u1ed9n) - \u0111ang tr\u1ed9n - n\u1ed3i1 (inox)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang v\u1edbi tay) - \u0111ang nh\u00ecn - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang tr\u1ed9n)",
+  "t\u1ee7 l\u1ea1nh1 - \u1edf tr\u00ean - s\u00e0n nh\u00e01",
+  "c\u1eeda s\u1ed51 - \u1edf tr\u00ean - t\u01b0\u1eddng1",
+  "gh\u1ebf1 (x\u00e1m) - \u1edf tr\u00ean - qu\u1ea7y1",
+  "t\u1ee71 - \u1edf tr\u00ean - qu\u1ea7y1",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang tr\u1ed9n) - ch\u1ea1m v\u00e0o - n\u1ed3i1 (inox)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang v\u1edbi tay) - ch\u1ea1m v\u00e0o - n\u1ed3i1 (inox)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang tr\u1ed9n) - \u1edf tr\u00ean - c\u1ed1c2 (m\u00e0u n\u00e2u)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang v\u1edbi tay) - c\u1ea7m - chai1 (trong su\u1ed1t)",
+  "t\u1ee74 - \u1edf tr\u00ean - ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang v\u1edbi tay)",
+  "b\u00e0n \u0103n1 - \u1edf tr\u00ean - qu\u1ea7y1",
+  "tr\u1ea7n nh\u00e01 - \u1edf tr\u00ean - t\u1ee71"
+]
+```
+
+frame_22:
+```json
+[
+  "cửa sổ-mành1 - ở trên - tường1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang trộn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang trộn)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang trộn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang trộn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang trộn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang trộn) - đang trộn - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang trộn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "cửa sổ1 - ở trên - tường1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang trộn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang trộn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - cầm - chai1 (trong suốt)",
+  "tủ4 - ở trên - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "bàn ăn1 - ở trên - quầy1",
+  "trần nhà1 - ở trên - tủ1"
+]
+```
+
+frame_23:
+```json
+[
+  "cửa sổ-mành1 - ở trên - tường1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang trộn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang trộn)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang trộn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang trộn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang trộn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang trộn) - đang trộn - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang trộn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "cửa sổ1 - ở trên - tường1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang trộn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang trộn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - cầm - chai1 (trong suốt)",
+  "tủ4 - ở trên - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "bàn ăn1 - ở trên - quầy1",
+  "trần nhà1 - ở trên - tủ1"
+]
+```
+
+frame_24:
+```json
+[
+  "cửa sổ-mành1 - ở trên - tường1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang khuấy) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang khuấy)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang khuấy)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang khuấy)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang khuấy) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang khuấy) - đang khuấy - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang khuấy)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "cửa sổ1 - ở trên - tường1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang khuấy) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang khuấy) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - cầm - chai1 (trong suốt)",
+  "tủ4 - ở trên - người5 (trẻ, mặc áo hồng, đang nhìn)",
+  "bàn ăn1 - ở trên - quầy1",
+  "trần nhà1 - ở trên - tủ1",
+  "cốc3 (trong suốt) - ở trên - người5 (trẻ, mặc áo hồng, đang nhìn)"
+]
+```
+
+frame_25:
+```json
+[
+  "tường1 - ở trên - cửa sổ-mành1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nhìn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nhìn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang nhìn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nhìn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nhìn) - đang với - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nhìn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "cửa sổ1 - ở trên - tường1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nhìn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang nhìn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - cầm - chai1 (trong suốt)",
+  "tủ4 - ở trên - người5 (trẻ, mặc áo hồng, đang nhìn)",
+  "bàn ăn1 - ở trên - quầy1",
+  "trần nhà1 - ở trên - tủ1",
+  "cốc3 (trong suốt) - ở trên - người5 (trẻ, mặc áo hồng, đang nhìn)",
+  "người1 (trẻ, mặc áo đỏ, đang nhìn) - đứng cạnh - người5 (trẻ, mặc áo hồng, đang nhìn)",
+  "ghế1 (xám) - ở gần - cửa sổ-mành1"
+]
+```
+
+frame_26:
+```json
+[
+  "tường1 - ở trên - cửa sổ-mành1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang nấu ăn) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang nấu ăn) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đang với - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang nấu ăn) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "cửa sổ1 - ở trên - tường1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang nấu ăn) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang nấu ăn) - cầm - chai1 (trong suốt)",
+  "tủ4 - ở trên - người5 (trẻ, mặc áo hồng, đang nấu ăn)",
+  "bàn ăn1 - ở trên - quầy1",
+  "trần nhà1 - ở trên - tủ1",
+  "cốc3 (trong suốt) - ở trên - người5 (trẻ, mặc áo hồng, đang nấu ăn)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đứng cạnh - người5 (trẻ, mặc áo hồng, đang nấu ăn)",
+  "ghế1 (xám) - ở gần - cửa sổ-mành1"
+]
+```
+
+frame_27:
+```json
+[
+  "tường1 - ở trên - cửa sổ-mành1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang cầm cốc) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang cầm cốc) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đang với - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang cầm cốc) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "cửa sổ1 - ở trên - tường1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang cầm cốc) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang cầm cốc) - cầm - cốc3 (trong suốt)",
+  "tủ4 - ở trên - người5 (trẻ, mặc áo hồng, đang cầm cốc)",
+  "bàn ăn1 - ở trên - quầy1",
+  "trần nhà1 - ở trên - tủ1",
+  "cốc3 (trong suốt) - ở trên - người5 (trẻ, mặc áo hồng, đang cầm cốc)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đứng cạnh - người5 (trẻ, mặc áo hồng, đang cầm cốc)",
+  "ghế1 (xám) - ở gần - cửa sổ-mành1",
+  "cốc2 (màu nâu) - ở trên - người5 (trẻ, mặc áo hồng, đang cầm cốc)",
+  "sách1 - ở trên - ghế1 (xám)"
+]
+```
+
+frame_28:
+```json
+[
+  "tường1 - ở trên - cửa sổ-mành1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đang với - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "cửa sổ1 - ở trên - tường1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - cầm - cốc3 (trong suốt)",
+  "tủ4 - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "bàn ăn1 - ở trên - quầy1",
+  "trần nhà1 - ở trên - tủ1",
+  "cốc3 (trong suốt) - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đứng cạnh - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "ghế1 (xám) - ở gần - cửa sổ-mành1",
+  "cốc2 (màu nâu) - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "sách1 - ở trên - ghế1 (xám)"
+]
+```
+
+frame_29:
+```json
+[
+  "cửa sổ1 - ở trên - tường1",
+  "tủ1 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ2 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ3 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đang với - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - cầm - cốc3 (trong suốt)",
+  "tủ4 - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "bàn ăn1 - ở trên - quầy1",
+  "trần nhà1 - ở trên - tủ1",
+  "cốc3 (trong suốt) - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đứng cạnh - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "ghế1 (xám) - ở gần - cửa sổ-mành1",
+  "cốc2 (màu nâu) - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - ở trên - quầy1",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người2 (trẻ, mặc áo cam, đang cầm cốc)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - ở trên - cốc4 (tím)",
+  "chai1 (trắng) - ở trên - tủ bếp1",
+  "tủ bếp1 - ở trên - quầy1",
+  "cốc4 (tím) - ở trên - quầy1",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - ở trên - cốc4 (tím)"
+]
+```
+
+frame_30:
+```json
+[
+  "tủ1 - ở trên - tường1",
+  "tủ2 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ3 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ4 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đang với - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - cầm - cốc3 (trong suốt)",
+  "tủ5 - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "bàn ăn1 - ở trên - quầy1",
+  "trần nhà1 - ở trên - tủ1",
+  "cốc3 (trong suốt) - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đứng cạnh - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "ghế1 (xám) - ở gần - cửa sổ-mành1",
+  "cốc2 (màu nâu) - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - ở trên - quầy1",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người2 (trẻ, mặc áo cam, đang cầm cốc)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - ở trên - cốc4 (tím)",
+  "chai1 (trắng) - ở trên - tủ bếp1",
+  "tủ bếp1 - ở trên - quầy1",
+  "cốc4 (tím) - ở trên - quầy1",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - ở trên - cốc4 (tím)",
+  "cửa sổ1 - ở trên - tường1",
+  "tủ1 - ở trên - quầy1",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - đang giữ - cốc5 (trong suốt)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người2 (trẻ, mặc áo cam, đang giữ cốc)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - cốc5 (trong suốt)"
+]
+```
+
+frame_31:
+```json
+[
+  "tủ1 - ở trên - tường1",
+  "tủ2 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ3 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ4 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đang với - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - cầm - cốc3 (trong suốt)",
+  "tủ5 - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "bàn ăn1 - ở trên - quầy1",
+  "trần nhà1 - ở trên - tủ1",
+  "cốc3 (trong suốt) - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đứng cạnh - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "ghế1 (xám) - ở gần - cửa sổ-mành1",
+  "cốc2 (màu nâu) - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - ở trên - quầy1",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người2 (trẻ, mặc áo cam, đang cầm cốc)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - ở trên - cốc4 (tím)",
+  "chai1 (trắng) - ở trên - tủ bếp1",
+  "tủ bếp1 - ở trên - quầy1",
+  "cốc4 (tím) - ở trên - quầy1",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - ở trên - cốc4 (tím)",
+  "cửa sổ1 - ở trên - tường1",
+  "tủ1 - ở trên - quầy1",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - đang giữ - cốc5 (trong suốt)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người2 (trẻ, mặc áo cam, đang giữ cốc)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - cốc5 (trong suốt)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm) - chạm vào - cốc5 (trong suốt)"
+]
+```
+
+frame_32:
+```json
+[
+  "tủ1 - ở trên - tường1",
+  "tủ2 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ3 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ4 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đang với - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - cầm - cốc3 (trong suốt)",
+  "tủ5 - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "bàn ăn1 - ở trên - quầy1",
+  "trần nhà1 - ở trên - tủ1",
+  "cốc3 (trong suốt) - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đứng cạnh - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "ghế1 (xám) - ở gần - cửa sổ-mành1",
+  "cốc2 (màu nâu) - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - ở trên - quầy1",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người2 (trẻ, mặc áo cam, đang cầm cốc)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - ở trên - cốc4 (tím)",
+  "chai1 (trắng) - ở trên - tủ bếp1",
+  "tủ bếp1 - ở trên - quầy1",
+  "cốc4 (tím) - ở trên - quầy1",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - ở trên - cốc4 (tím)",
+  "cửa sổ1 - ở trên - tường1",
+  "tủ1 - ở trên - quầy1",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - đang giữ - cốc5 (trong suốt)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người2 (trẻ, mặc áo cam, đang giữ cốc)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - cốc5 (trong suốt)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm) - chạm vào - cốc5 (trong suốt)",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - chạm vào - cốc6 (màu đỏ, sứ) - đang cầm cốc",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - ở gần - cốc6 (màu đỏ, sứ) - đang cầm cốc"
+]
+```
+
+frame_33:
+```json
+[
+  "tủ1 - ở trên - tường1",
+  "tủ2 - ở trên - lò vi sóng1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - quầy1",
+  "cửa sổ1 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - bên cạnh - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ3 - ở trên - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "lò vi sóng1 - ở trên - quầy1",
+  "tường1 - ở trên - lò vi sóng1",
+  "tủ4 - ở trên - lò vi sóng1",
+  "tủ1 - ở trên - sàn nhà1",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - bên cạnh - lò vi sóng1",
+  "sàn nhà1 - bên dưới - quầy1",
+  "cốc1 (trắng) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - nồi1 (inox)",
+  "nồi1 (inox) - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đang với - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người1 (trẻ, mặc áo đỏ, đang nấu ăn)",
+  "tủ lạnh1 - ở trên - sàn nhà1",
+  "ghế1 (xám) - ở trên - quầy1",
+  "tủ1 - ở trên - quầy1",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - chạm vào - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - chạm vào - nồi1 (inox)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - ở trên - cốc2 (màu nâu)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - cầm - cốc3 (trong suốt)",
+  "tủ5 - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "bàn ăn1 - ở trên - quầy1",
+  "trần nhà1 - ở trên - tủ1",
+  "cốc3 (trong suốt) - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "người1 (trẻ, mặc áo đỏ, đang nấu ăn) - đứng cạnh - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "ghế1 (xám) - ở gần - cửa sổ-mành1",
+  "cốc2 (màu nâu) - ở trên - người5 (trẻ, mặc áo hồng, đang rót nước)",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - ở trên - quầy1",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người2 (trẻ, mặc áo cam, đang cầm cốc)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - ở trên - cốc4 (tím)",
+  "chai1 (trắng) - ở trên - tủ bếp1",
+  "tủ bếp1 - ở trên - quầy1",
+  "cốc4 (tím) - ở trên - quầy1",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - ở trên - cốc4 (tím)",
+  "cửa sổ1 - ở trên - tường1",
+  "tủ1 - ở trên - quầy1",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - đang giữ - cốc5 (trong suốt)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - người2 (trẻ, mặc áo cam, đang giữ cốc)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - đang nhìn - cốc5 (trong suốt)",
+  "người1 (trẻ, mặc áo đỏ, đang cầm) - chạm vào - cốc5 (trong suốt)",
+  "người2 (trẻ, mặc áo cam, đang cầm cốc) - chạm vào - cốc6 (màu đỏ, sứ) - đang cầm cốc",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - ở gần - cốc6 (màu đỏ, sứ) - đang cầm cốc",
+  "sàn nhà1 - ở dưới - bóng1 (xanh dương)",
+  "người2 (trẻ, mặc áo cam, đang nấu ăn) - ở gần - nồi1 (inox)",
+  "người5 (trẻ, mặc áo hồng, đang rót nước) - ở gần - nồi1 (inox)"
+]
+```
+
+frame_34:
+```json
+[]
+```
+
+frame_35:
+```json
+[]
+```
+
+frame_36:
+```json
+["tường - ở trên - bàn", "rèm - ở trên - bàn", "sàn nhà - ở dưới - bàn", "bàn - gần - tường-gỗ", "bàn - ở trên - bàn"]
+```
+
+frame_37:
+```json
+["tường - ở trên - bàn", "bàn - gần - tường-gỗ"]
+```
+
+frame_38:
+```json
+["tường - ở trên - bàn", "bàn - gần - tường-gỗ", "tường - lân cận - cửa sổ", "tường - lân cận - sàn", "tường - lân cận - rèm", "rèm - ở trên - bàn", "sàn - bên dưới - bàn"]
+```
+
+frame_39:
+```json
+["tường - ở trên - dao", "dao (71%) - gần - tường-gỗ", "tường - lân cận - sàn"]
+```
+

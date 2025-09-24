@@ -1,0 +1,1492 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - bàn ăn1 (màu nâu)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu vàng)",
+  "cửa sổ1 - ở phía sau - rèm cửa1",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "chai1 (màu trắng) - ở trên - bàn ăn1 (màu nâu)",
+  "chuối1 (màu vàng) - ở trên - bàn ăn1 (màu nâu)",
+  "ghế1 - ở gần - bàn ăn1 (màu nâu)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - bàn ăn1 (màu nâu)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu vàng)",
+  "cửa sổ1 - ở phía sau - rèm cửa1",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "chai1 (màu trắng) - ở trên - bàn ăn1 (màu nâu)",
+  "chuối1 (màu vàng) - ở trên - bàn ăn1 (màu nâu)",
+  "ghế1 - ở gần - bàn ăn1 (màu nâu)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bình hoa1 (màu tím) - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bình hoa2 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - bàn ăn1 (màu nâu)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu vàng)",
+  "cửa sổ1 - ở phía sau - rèm cửa1",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "chai1 (màu trắng) - ở trên - bàn ăn1 (màu nâu)",
+  "chuối1 (màu vàng) - ở trên - bàn ăn1 (màu nâu)",
+  "ghế1 - ở gần - bàn ăn1 (màu nâu)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - chuối2 (màu tím)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối2 (màu tím)"
+]
+```
+
+frame_3:
+```json
+[
+  "cửa sổ1 - ở phía sau - rèm cửa1",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu tím)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - chuối2",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối2",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3"
+]
+```
+
+frame_4:
+```json
+[
+  "cửa sổ1 - ở phía sau - bình hoa1 (trong suốt)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu tím)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - chuối2",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối2",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3"
+]
+```
+
+frame_5:
+```json
+[
+  "cửa sổ1 - ở phía sau - bình hoa1 (trong suốt)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu tím)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - chuối2 (màu trắng)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối2 (màu trắng)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3"
+]
+```
+
+frame_6:
+```json
+[
+  "cửa sổ1 - ở phía sau - bình hoa1 (trong suốt)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu tím)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - chuối2 (màu trắng)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối2 (màu trắng)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "chai1 - ở trên - tường1"
+]
+```
+
+frame_7:
+```json
+[
+  "cửa sổ1 - ở phía sau - bình hoa1 (trong suốt)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu tím)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - chuối2 (màu trắng)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối2 (màu trắng)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "chai1 - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)"
+]
+```
+
+frame_8:
+```json
+[
+  "cửa sổ1 - ở phía sau - bình hoa1 (trong suốt)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu tím)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "chai1 - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4"
+]
+```
+
+frame_9:
+```json
+[
+  "cửa sổ1 - ở phía sau - bình hoa1 (trong suốt)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu tím)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "chai1 - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4"
+]
+```
+
+frame_10:
+```json
+[
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu tím)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "chai1 - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4"
+]
+```
+
+frame_11:
+```json
+[
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "chai1 - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4"
+]
+```
+
+frame_12:
+```json
+[
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "chai1 - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4"
+]
+```
+
+frame_13:
+```json
+[
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "chai1 - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4"
+]
+```
+
+frame_14:
+```json
+[
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang cầm tay)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm tay)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm tay) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang cầm tay)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm tay)",
+  "giấy1 - ở gần - ghế3",
+  "chai1 - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm tay)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm tay) - ở trên - ghế4"
+]
+```
+
+frame_15:
+```json
+[
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang cầm tay)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm tay)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm tay) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang cầm tay)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm tay)",
+  "giấy1 - ở gần - ghế3",
+  "chai1 - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm tay)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm tay) - ở trên - ghế4"
+]
+```
+
+frame_16:
+```json
+[
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "chai1 - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4"
+]
+```
+
+frame_17:
+```json
+[
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "chai1 - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4"
+]
+```
+
+frame_18:
+```json
+[
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4"
+]
+```
+
+frame_19:
+```json
+[
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)"
+]
+```
+
+frame_20:
+```json
+[
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)"
+]
+```
+
+frame_21:
+```json
+[
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)"
+]
+```
+
+frame_22:
+```json
+[
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)"
+]
+```
+
+frame_23:
+```json
+[
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)"
+]
+```
+
+frame_24:
+```json
+[
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)"
+]
+```
+
+frame_25:
+```json
+[
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)"
+]
+```
+
+frame_26:
+```json
+[
+  "rèm cửa1 - ở gần - cửa sổ1",
+  "cửa sổ1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)"
+]
+```
+
+frame_27:
+```json
+[
+  "cửa sổ1 - ở gần - rèm cửa1",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở gần - bìa các tông1",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)"
+]
+```
+
+frame_28:
+```json
+[
+  "cửa sổ1 - ở gần - rèm cửa1",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay) - ở gần - bìa các tông1",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "thìa1 (màu bạc) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách1 (màu cam) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách2 (màu vàng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay)"
+]
+```
+
+frame_29:
+```json
+[
+  "cửa sổ1 - ở gần - rèm cửa1",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay) - ở gần - bìa các tông1",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "thìa1 (màu bạc) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách1 (màu cam) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách2 (màu vàng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm tay)",
+  "tường1 - ở gần - cửa sổ1",
+  "ghế5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang chơi đùa)"
+]
+```
+
+frame_30:
+```json
+[
+  "cửa sổ1 - ở gần - rèm cửa1",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối) - ở gần - bìa các tông1",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "thìa1 (màu bạc) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách1 (màu cam) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách2 (màu vàng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối)",
+  "tường1 - ở gần - cửa sổ1",
+  "ghế5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối) - đang ăn - chuối1 (màu xanh lá cây)"
+]
+```
+
+frame_31:
+```json
+[
+  "cửa sổ1 - ở gần - rèm cửa1",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối) - ở gần - bìa các tông1",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "thìa1 (màu bạc) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách1 (màu cam) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách2 (màu vàng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối)",
+  "tường1 - ở gần - cửa sổ1",
+  "ghế5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - đang ăn - chuối1 (màu xanh lá cây)"
+]
+```
+
+frame_32:
+```json
+[
+  "cửa sổ1 - ở gần - rèm cửa1",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "giấy1 - ở gần - ghế3",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối) - ở gần - bìa các tông1",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "thìa1 (màu bạc) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách1 (màu cam) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách2 (màu vàng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối)",
+  "tường1 - ở gần - cửa sổ1",
+  "ghế5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngậm chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - đang ăn - chuối1 (màu xanh lá cây)"
+]
+```
+
+frame_33:
+```json
+[
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "giấy1 - ở gần - ghế3",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - lò vi sóng1 (màu xanh lá cây)",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - đang ăn - chuối1 (màu xanh lá cây)",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "thìa1 (màu bạc) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách1 (màu cam) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách2 (màu vàng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở gần - cửa sổ1",
+  "ghế5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "cửa sổ1 - ở gần - tường1",
+  "tường1 - ở gần - rèm cửa1",
+  "bình hoa1 (màu tím) - ở trên - bàn2",
+  "bàn2 - ở gần - ghế5"
+]
+```
+
+frame_34:
+```json
+[
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "giấy1 - ở gần - ghế3",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - bàn1",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - đang ăn - chuối1 (màu xanh lá cây)",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "thìa1 (màu bạc) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách1 (màu cam) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách2 (màu vàng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở gần - cửa sổ1",
+  "ghế5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "cửa sổ1 - ở gần - tường1",
+  "tường1 - ở gần - rèm cửa1",
+  "bàn1 - ở gần - ghế5"
+]
+```
+
+frame_35:
+```json
+[
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "giấy1 - ở gần - ghế3",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - bàn1",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - đang ăn - chuối1 (màu xanh lá cây)",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "thìa1 (màu bạc) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách1 (màu cam) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách2 (màu vàng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở gần - cửa sổ1",
+  "ghế5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "cửa sổ1 - ở gần - tường1",
+  "tường1 - ở gần - rèm cửa1",
+  "bàn1 - ở gần - ghế5"
+]
+```
+
+frame_36:
+```json
+[
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ chơi)",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ chơi)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ chơi) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ chơi)",
+  "giấy1 - ở gần - ghế3",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ chơi)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ chơi) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - bàn1",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ chơi)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ chơi)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ chơi) - đang cầm - chuối1 (màu xanh lá cây)",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "thìa1 (màu bạc) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách1 (màu cam) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách2 (màu vàng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ chơi)",
+  "tường1 - ở gần - cửa sổ1",
+  "ghế5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ chơi)",
+  "cửa sổ1 - ở gần - tường1",
+  "tường1 - ở gần - rèm cửa1",
+  "bàn1 - ở gần - ghế5"
+]
+```
+
+frame_37:
+```json
+[
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "giấy1 - ở gần - ghế3",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - bàn1",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - đang cầm - chuối1 (màu xanh lá cây)",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "thìa1 (màu bạc) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách1 (màu cam) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách2 (màu vàng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở gần - cửa sổ1",
+  "ghế5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "cửa sổ1 - ở gần - tường1",
+  "tường1 - ở gần - rèm cửa1",
+  "bàn1 - ở gần - ghế5"
+]
+```
+
+frame_38:
+```json
+[
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "giấy1 - ở gần - ghế3",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - bàn1",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - đang cầm - chuối1 (màu xanh lá cây)",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "thìa1 (màu bạc) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách1 (màu cam) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách2 (màu vàng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở gần - cửa sổ1",
+  "ghế5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "cửa sổ1 - ở gần - tường1",
+  "tường1 - ở gần - rèm cửa1",
+  "bàn1 - ở gần - ghế5",
+  "tường1 - ở gần - tường1",
+  "tường1 - ở gần - chai2 (trong suốt)",
+  "chai2 (trong suốt) - ở gần - chai1 (trong suốt)"
+]
+```
+
+frame_39:
+```json
+[
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "giấy1 - ở gần - ghế3",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - bàn1",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - đang cầm - chuối1 (màu xanh lá cây)",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "thìa1 (màu bạc) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách1 (màu cam) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách2 (màu vàng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở gần - cửa sổ1",
+  "ghế5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "cửa sổ1 - ở gần - tường1",
+  "tường1 - ở gần - rèm cửa1",
+  "bàn1 - ở gần - ghế5",
+  "tường1 - ở gần - tường1",
+  "tường1 - ở gần - chai2 (trong suốt)",
+  "chai2 (trong suốt) - ở gần - chai1 (trong suốt)"
+]
+```
+
+frame_40:
+```json
+[
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "giấy1 - ở gần - ghế3",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - bàn1",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - đang cầm - chuối1 (màu xanh lá cây)",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "thìa1 (màu bạc) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách1 (màu cam) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách2 (màu vàng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở gần - cửa sổ1",
+  "ghế5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "cửa sổ1 - ở gần - tường1",
+  "tường1 - ở gần - rèm cửa1",
+  "bàn1 - ở gần - ghế5",
+  "tường1 - ở gần - tường1",
+  "tường1 - ở gần - chai2 (trong suốt)",
+  "chai2 (trong suốt) - ở gần - chai1 (trong suốt)",
+  "chai3 (trong suốt) - ở gần - tường1",
+  "cốc1 (trong suốt) - ở trên - chai2 (trong suốt)"
+]
+```
+
+frame_41:
+```json
+[
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "rèm cửa1 - ở gần - ghế2",
+  "ghế2 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở gần - chuối1 (màu xanh lá cây)",
+  "ghế1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tv1 (màu đen) - ở trên - tường1",
+  "ghế3 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "giấy1 - ở gần - ghế3",
+  "ghế4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở trên - ghế4",
+  "tường1 - ở gần - chai1 (trong suốt)",
+  "chai1 (trong suốt) - ở gần - bàn1",
+  "ghế1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - chuối1 (màu xanh lá cây)",
+  "chuối1 (màu xanh lá cây) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - đang cầm - chuối1 (màu xanh lá cây)",
+  "bìa các tông1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "thìa1 (màu bạc) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách1 (màu cam) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách2 (màu vàng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở gần - cửa sổ1",
+  "ghế5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "cửa sổ1 - ở gần - tường1",
+  "tường1 - ở gần - rèm cửa1",
+  "bàn1 - ở gần - ghế5",
+  "tường1 - ở gần - tường1",
+  "tường1 - ở gần - chai2 (trong suốt)",
+  "chai2 (trong suốt) - ở gần - chai1 (trong suốt)",
+  "chai3 (trong suốt) - ở gần - tường1",
+  "cốc1 (trong suốt) - ở trên - chai2 (trong suốt)",
+  "ghế1 - ở gần - rèm cửa1",
+  "ghế5 - ở gần - ghế4"
+]
+```
+
+frame_42:
+```json
+[
+  "cửa sổ1 - ở gần - rèm cửa1",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối) - ở gần - lọ hoa1 (màu tím)",
+  "bàn1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "tường1 - ở phía sau - tv1 (màu đen)",
+  "giấy1 - ở gần - bàn1"
+]
+```
+
+frame_43:
+```json
+[
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn hotdog)",
+  "cửa sổ1 - ở gần - rèm cửa1",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn hotdog)",
+  "ghế1 (màu nâu) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn hotdog)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn hotdog) - ở gần - bánh mì hotdog1 (màu nâu nhạt)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn hotdog)",
+  "người2 (lớn, không mặc áo, đang đứng) - ở trên - bàn ăn1 (màu xanh da trời)"
+]
+```
+
+frame_44:
+```json
+[
+  "ghế1 (màu nâu) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)"
+]
+```
+
+frame_45:
+```json
+[
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "ghế1 (màu nâu) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1"
+]
+```
+
+frame_46:
+```json
+[
+  "ghế1 (màu nâu) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế4 (màu đỏ) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tủ1 - ở gần - ghế2 (màu nâu)",
+  "bóng thể thao1 - ở trên - bàn ăn1 (màu xanh da trời)"
+]
+```
+
+frame_47:
+```json
+[
+  "ghế1 (màu nâu) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế4 (màu đỏ) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tủ1 - ở gần - ghế2 (màu nâu)",
+  "bóng thể thao1 - ở trên - bàn ăn1 (màu xanh da trời)"
+]
+```
+
+frame_48:
+```json
+[
+  "ghế1 (màu nâu) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế4 (màu đỏ) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tủ1 - ở gần - ghế2 (màu nâu)",
+  "bóng thể thao1 - ở trên - bàn ăn1 (màu xanh da trời)"
+]
+```
+
+frame_49:
+```json
+[
+  "ghế1 (màu nâu) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế4 (màu đỏ) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tủ1 - ở gần - ghế2 (màu nâu)",
+  "bóng thể thao1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai1 (trong suốt) - ở trên - tủ1",
+  "sàn gỗ1 - ở gần - ghế1 (màu nâu)",
+  "cửa sổ1 - ở gần - tủ1"
+]
+```
+
+frame_50:
+```json
+[
+  "ghế1 (màu nâu) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế4 (màu đỏ) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tủ1 - ở gần - ghế2 (màu nâu)",
+  "bóng thể thao1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai1 (trong suốt) - ở trên - tủ1",
+  "sàn gỗ1 - ở gần - ghế1 (màu nâu)",
+  "cửa sổ1 - ở gần - tủ1",
+  "cốc1 (màu trắng) - ở gần - tủ1",
+  "tủ2 - ở gần - tủ1",
+  "ghế5 (màu vàng ô liu) - ở gần - tủ2"
+]
+```
+
+frame_51:
+```json
+[
+  "ghế1 (màu nâu) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "ghế4 (màu đỏ) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tủ1 - ở gần - ghế2 (màu nâu)",
+  "bóng thể thao1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai1 (trong suốt) - ở trên - tủ1",
+  "sàn gỗ1 - ở gần - ghế1 (màu nâu)",
+  "cửa sổ1 - ở gần - tủ1",
+  "cốc1 (màu trắng) - ở gần - tủ1",
+  "tủ2 - ở gần - tủ1",
+  "ghế5 (màu vàng ô liu) - ở gần - tủ2"
+]
+```
+
+frame_52:
+```json
+[
+  "ghế1 (màu nâu) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế4 (màu đỏ) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tủ1 - ở gần - ghế2 (màu nâu)",
+  "bóng thể thao1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai1 (trong suốt) - ở trên - tủ1",
+  "sàn gỗ1 - ở gần - ghế1 (màu nâu)",
+  "cửa sổ1 - ở gần - tủ1",
+  "cốc1 (màu trắng) - ở gần - tủ1",
+  "tủ2 - ở gần - tủ1",
+  "ghế5 (màu vàng ô liu) - ở gần - tủ2"
+]
+```
+
+frame_53:
+```json
+[
+  "người1 (trẻ, mặc áo kẻ sọc, đang ăn) - ở gần - ghế1 (màu nâu)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)",
+  "ghế4 (màu đỏ) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tủ1 - ở gần - ghế2 (màu nâu)",
+  "bóng thể thao1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai1 (trong suốt) - ở trên - tủ1",
+  "sàn gỗ1 - ở gần - ghế1 (màu nâu)",
+  "cửa sổ1 - ở gần - tủ1",
+  "cốc1 (màu trắng) - ở gần - tủ1",
+  "tủ2 - ở gần - tủ1",
+  "ghế5 (màu vàng ô liu) - ở gần - tủ2",
+  "chuối1 (màu vàng) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn)"
+]
+```
+
+frame_54:
+```json
+[
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở gần - ghế1 (màu nâu)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "ghế4 (màu đỏ) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tủ1 - ở gần - ghế2 (màu nâu)",
+  "bóng thể thao1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai1 (trong suốt) - ở trên - tủ1",
+  "sàn gỗ1 - ở gần - ghế1 (màu nâu)",
+  "cửa sổ1 - ở gần - tủ1",
+  "cốc1 (màu trắng) - ở gần - tủ1",
+  "tủ2 - ở gần - tủ1",
+  "ghế5 (màu vàng ô liu) - ở gần - tủ2",
+  "chuối1 (màu vàng) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "sách5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bình hoa1 (màu vàng) - ở gần - tủ2"
+]
+```
+
+frame_55:
+```json
+[
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở gần - ghế3 (màu xanh lá cây)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "ghế4 (màu đỏ) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tủ1 - ở gần - ghế2 (màu nâu)",
+  "bóng thể thao1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai1 (trong suốt) - ở trên - tủ1",
+  "sàn gỗ1 - ở gần - ghế1 (màu nâu)",
+  "cửa sổ1 - ở gần - tủ1",
+  "cốc1 (màu trắng) - ở gần - tủ1",
+  "tủ2 - ở gần - tủ1",
+  "ghế5 (màu vàng ô liu) - ở gần - tủ2",
+  "chuối1 (màu vàng) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "sách5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bình hoa1 (màu vàng) - ở gần - tủ2",
+  "chai2 (trong suốt) - ở gần - cửa sổ1",
+  "chai3 (trong suốt) - ở gần - cửa sổ1",
+  "bàn2 - ở gần - chai1"
+]
+```
+
+frame_56:
+```json
+[
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở gần - ghế3 (màu xanh lá cây)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "ghế4 (màu đỏ) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tủ1 - ở gần - ghế2 (màu nâu)",
+  "bóng thể thao1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai1 (trong suốt) - ở trên - tủ1",
+  "sàn gỗ1 - ở gần - ghế1 (màu nâu)",
+  "cửa sổ1 - ở gần - tủ1",
+  "cốc1 (màu trắng) - ở gần - tủ1",
+  "tủ2 - ở gần - tủ1",
+  "ghế5 (màu vàng ô liu) - ở gần - tủ2",
+  "chuối1 (màu vàng) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "sách5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "bình hoa1 (màu vàng) - ở gần - tủ2",
+  "chai2 (trong suốt) - ở gần - cửa sổ1",
+  "chai3 (trong suốt) - ở gần - cửa sổ1",
+  "bàn2 - ở gần - chai1",
+  "ghế6 (màu nâu) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)"
+]
+```
+
+frame_57:
+```json
+[
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở gần - ghế3 (màu xanh lá cây)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "ghế4 (màu đỏ) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tủ1 - ở gần - ghế2 (màu nâu)",
+  "bóng thể thao1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai1 (trong suốt) - ở trên - tủ1",
+  "sàn gỗ1 - ở gần - ghế1 (màu nâu)",
+  "cửa sổ1 - ở gần - tủ1",
+  "cốc1 (màu trắng) - ở gần - tủ1",
+  "tủ2 - ở gần - tủ1",
+  "ghế5 (màu vàng ô liu) - ở gần - tủ2",
+  "chuối1 (màu vàng) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "sách5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "bình hoa1 (màu vàng) - ở gần - tủ2",
+  "chai2 (trong suốt) - ở gần - cửa sổ1",
+  "chai3 (trong suốt) - ở gần - cửa sổ1",
+  "bàn2 - ở gần - chai1",
+  "ghế6 (màu nâu) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "tường1 - ở trên - cửa sổ1",
+  "bàn ăn1 (màu xanh da trời) - ở trên - ghế sofa1 (màu xanh da trời)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở trên - ghế sofa1 (màu xanh da trời)",
+  "bánh donut1 (màu xanh da trời) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai4 (màu trắng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách6 - ở trên - bàn1"
+]
+```
+
+frame_58:
+```json
+[
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở gần - ghế sofa1 (màu xanh da trời)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "ghế4 (màu đỏ) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tủ1 - ở gần - ghế2 (màu nâu)",
+  "bóng thể thao1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai1 (trong suốt) - ở trên - tủ1",
+  "sàn gỗ1 - ở gần - ghế1 (màu nâu)",
+  "cửa sổ1 - ở gần - tủ1",
+  "cốc1 (màu trắng) - ở gần - tủ1",
+  "tủ2 - ở gần - tủ1",
+  "ghế5 (màu vàng ô liu) - ở gần - tủ2",
+  "chuối1 (màu vàng) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "sách5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ăn chuối)",
+  "bình hoa1 (màu vàng) - ở gần - tủ2",
+  "chai2 (trong suốt) - ở gần - cửa sổ1",
+  "chai3 (trong suốt) - ở gần - cửa sổ1",
+  "bàn2 - ở gần - chai1",
+  "ghế6 (màu nâu) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "tường1 - ở trên - cửa sổ1",
+  "bàn ăn1 (màu xanh da trời) - ở trên - ghế sofa1 (màu xanh da trời)",
+  "bánh donut1 (màu xanh da trời) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai4 (màu trắng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách6 - ở trên - bàn1",
+  "bình hoa2 (màu hồng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai5 (màu trắng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở gần - bình hoa2 (màu hồng)",
+  "cửa sổ1 - ở phía sau - bình hoa2 (màu hồng)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - cửa sổ1"
+]
+```
+
+frame_59:
+```json
+[
+  "người1 (trẻ, mặc áo kẻ sọc, đang ngồi) - ở gần - ghế2 (màu nâu)",
+  "tường1 - ở phía sau - người1 (trẻ, mặc áo kẻ sọc, đang ngồi)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngồi)",
+  "bồn rửa1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "ghế2 (màu nâu) - ở gần - tường1",
+  "sách1 - ở gần - ghế1 (màu nâu)",
+  "sách2 - ở gần - ghế1 (màu nâu)",
+  "ghế3 (màu xanh lá cây) - ở gần - sách1",
+  "sách3 - ở trên - sách2",
+  "sách4 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngồi)",
+  "giấy1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngồi)",
+  "giường1 - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn1 - ở gần - bồn rửa1",
+  "rèm cửa1 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngồi)",
+  "ghế4 (màu đỏ) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "tủ1 - ở gần - ghế2 (màu nâu)",
+  "bóng thể thao1 - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai1 (trong suốt) - ở trên - tủ1",
+  "sàn gỗ1 - ở gần - ghế1 (màu nâu)",
+  "cửa sổ1 - ở gần - tủ1",
+  "cốc1 (màu trắng) - ở gần - tủ1",
+  "tủ2 - ở gần - tủ1",
+  "ghế5 (màu vàng ô liu) - ở gần - tủ2",
+  "chuối1 (màu vàng) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngồi)",
+  "sách5 - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang ngồi)",
+  "bình hoa1 (màu vàng) - ở gần - tủ2",
+  "chai2 (trong suốt) - ở gần - cửa sổ1",
+  "chai3 (trong suốt) - ở gần - cửa sổ1",
+  "bàn2 - ở gần - chai1",
+  "tường1 - ở trên - cửa sổ1",
+  "bàn ăn1 (màu xanh da trời) - ở trên - ghế sofa1 (màu xanh da trời)",
+  "bánh donut1 (màu xanh da trời) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai4 (màu trắng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "sách6 - ở trên - bàn1",
+  "bình hoa2 (màu hồng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "chai5 (màu trắng) - ở trên - bàn ăn1 (màu xanh da trời)",
+  "người1 (trẻ, mặc áo kẻ sọc, đang ngồi) - ở gần - bình hoa2 (màu hồng)",
+  "cửa sổ1 - ở phía sau - bình hoa2 (màu hồng)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - cửa sổ1",
+  "bàn3 - ở gần - ghế2 (màu nâu)"
+]
+```
+
+frame_60:
+```json
+[
+  "người1 (trẻ, mặc áo kẻ sọc, đang nói chuyện) - ở gần - ghế3 (màu xanh lá cây)",
+  "ghế3 (màu xanh lá cây) - ở gần - bàn ăn1 (màu xanh da trời)",
+  "bàn ăn1 (màu xanh da trời) - ở gần - người1 (trẻ, mặc áo kẻ sọc, đang nói chuyện)",
+  "sàn nhà1 - ở gần - bàn1",
+  "sàn nhà2 - ở gần - sàn nhà1",
+  "bàn4 - ở gần - ghế3 (màu xanh lá cây)"
+]
+```
+

@@ -1,0 +1,199 @@
+frame_0:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1"
+]
+```
+
+frame_1:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1"
+]
+```
+
+frame_2:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1"
+]
+```
+
+frame_3:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1"
+]
+```
+
+frame_4:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (không rõ - không rõ, không rõ, đang cầm, không rõ) - giữ - dây cáp1"
+]
+```
+
+frame_5:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (không rõ - không rõ, không rõ, đang giữ, không rõ) - giữ - dây cáp1"
+]
+```
+
+frame_6:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (không rõ - không rõ, không rõ, đang giữ, không rõ) - giữ - dây cáp1"
+]
+```
+
+frame_7:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (trưởng thành - nam, mặc áo đỏ, đang giữ, phấn khích) - giữ - dây cáp1",
+  "người2 (không rõ - không rõ, không rõ, đang trượt, không rõ) - trượt - dây cáp1"
+]
+```
+
+frame_8:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (trưởng thành - nam, mặc áo đỏ, đang giữ, phấn khích) - giữ - dây cáp1",
+  "người2 (không rõ - không rõ, không rõ, đang trượt, không rõ) - trượt - dây cáp1"
+]
+```
+
+frame_9:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (trưởng thành - nam, mặc áo đỏ, đang giữ, phấn khích) - giữ - dây cáp1",
+  "người2 (không rõ - không rõ, không rõ, đang trượt, không rõ) - trượt - dây cáp1"
+]
+```
+
+frame_10:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (trưởng thành - nam, mặc áo đỏ, đang giữ, phấn khích) - giữ - dây cáp1",
+  "người2 (không rõ - không rõ, không rõ, đang trượt, không rõ) - trượt - dây cáp1"
+]
+```
+
+frame_11:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (trưởng thành - nam, mặc áo đỏ, đang giữ, phấn khích) - giữ - dây cáp1",
+  "người2 (không rõ - không rõ, không rõ, đang trượt, không rõ) - trượt - dây cáp1"
+]
+```
+
+frame_12:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (trưởng thành - nam, mặc áo đỏ, đang giữ, phấn khích) - giữ - dây cáp1",
+  "người2 (trưởng thành - nữ, mặc áo trắng, đang trượt, phấn khích) - trượt - dây cáp1"
+]
+```
+
+frame_13:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (trưởng thành - nam, mặc áo đỏ, đang giữ, phấn khích) - giữ - dây cáp1",
+  "người2 (trưởng thành - nữ, mặc áo trắng, đang trượt, phấn khích) - trượt - dây cáp1"
+]
+```
+
+frame_14:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (trưởng thành - nam, mặc áo đỏ, đang giữ, phấn khích) - giữ - dây cáp1",
+  "người2 (trưởng thành - nữ, mặc áo trắng, đang trượt, phấn khích) - trượt - dây cáp1"
+]
+```
+
+frame_15:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (trưởng thành - nam, mặc áo đỏ, đang giữ, phấn khích) - giữ - dây cáp1",
+  "người2 (trưởng thành - nữ, mặc áo trắng, đang trượt, phấn khích) - trượt - dây cáp1"
+]
+```
+
+frame_16:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (trưởng thành - nam, mặc áo đỏ, đang giữ, phấn khích) - giữ - dây cáp1",
+  "người2 (trưởng thành - nữ, mặc áo trắng, đang chuẩn bị, phấn khích) - giữ - dây cáp1"
+]
+```
+
+frame_17:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (trưởng thành - nam, mặc áo đỏ, đang giữ, phấn khích) - giữ - dây cáp1",
+  "người2 (trưởng thành - nữ, mặc áo trắng, đang chuẩn bị, phấn khích) - giữ - dây cáp1"
+]
+```
+
+frame_18:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (trưởng thành - nam, mặc áo đỏ, đang giữ, phấn khích) - giữ - dây cáp1",
+  "người2 (trưởng thành - nữ, mặc áo trắng, đang chuẩn bị, phấn khích) - giữ - dây cáp1"
+]
+```
+
+frame_19:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (trưởng thành - nam, mặc áo đỏ, đang giữ, phấn khích) - giữ - dây cáp1",
+  "người2 (trưởng thành - nữ, mặc áo trắng, đang chuẩn bị, phấn khích) - giữ - dây cáp1"
+]
+```
+
+frame_20:
+```json
+[
+  "cánh tay1 - giữ - dây cáp1",
+  "dây cáp1 - đi qua - rừng1",
+  "người1 (trưởng thành - nam, mặc áo đỏ, đang giữ, phấn khích) - giữ - dây cáp1",
+  "người2 (trưởng thành - nữ, mặc áo trắng, đang chuẩn bị, phấn khích) - giữ - dây cáp1"
+]
+```
+

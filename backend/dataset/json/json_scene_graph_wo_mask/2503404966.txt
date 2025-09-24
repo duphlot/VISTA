@@ -1,0 +1,412 @@
+frame_0:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang ngồi, không xác định) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang ngồi, không xác định) - gần - ghế1 (gỗ)"
+]
+```
+
+frame_1:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang ngồi, không xác định) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang ngồi, không xác định) - gần - ghế1 (gỗ)"
+]
+```
+
+frame_2:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang ngồi, không xác định) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang ngồi, không xác định) - gần - ghế1 (gỗ)"
+]
+```
+
+frame_3:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang ngồi, không xác định) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang ngồi, không xác định) - gần - ghế1 (gỗ)"
+]
+```
+
+frame_4:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang ngồi, không xác định) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang ngồi, không xác định) - gần - ghế1 (gỗ)"
+]
+```
+
+frame_5:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang đẩy, không xác định) - đẩy - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang đẩy, không xác định) - gần - ghế1 (gỗ)"
+]
+```
+
+frame_6:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang đứng, không xác định) - đẩy - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang đứng, không xác định) - gần - tường1 (đỏ sẫm)"
+]
+```
+
+frame_7:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang lái xe tải đồ chơi, không xác định) - đẩy - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang lái xe tải đồ chơi, không xác định) - gần - tường1 (đỏ sẫm)"
+]
+```
+
+frame_8:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang lái xe tải đồ chơi, không xác định) - đẩy - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang lái xe tải đồ chơi, không xác định) - gần - tường1 (đỏ sẫm)",
+  "xe tải đồ chơi1 (vàng) - gần - tường1 (đỏ sẫm)"
+]
+```
+
+frame_9:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang lái xe tải đồ chơi, không xác định) - đẩy - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang lái xe tải đồ chơi, không xác định) - gần - tường1 (đỏ sẫm)",
+  "xe tải đồ chơi1 (vàng) - gần - tường1 (đỏ sẫm)"
+]
+```
+
+frame_10:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - đẩy - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - gần - tường1 (đỏ sẫm)",
+  "xe tải đồ chơi1 (vàng) - gần - tường1 (đỏ sẫm)"
+]
+```
+
+frame_11:
+```json
+[
+  "b\u00e91 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang ch\u01a1i, kh\u00f4ng x\u00e1c \u0111\u1ecbnh) - \u0111\u1ea9y - xe t\u1ea3i \u0111\u1ed3 ch\u01a1i1 (v\u00e0ng)",
+  "xe t\u1ea3i \u0111\u1ed3 ch\u01a1i1 (v\u00e0ng) - g\u1ea7n - s\u00e0n nh\u00e01 (g\u1ed7)",
+  "b\u00e91 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang ch\u01a1i, kh\u00f4ng x\u00e1c \u0111\u1ecbnh) - g\u1ea7n - t\u1ee71 (tr\u1eafng)",
+  "xe t\u1ea3i \u0111\u1ed3 ch\u01a1i1 (v\u00e0ng) - g\u1ea7n - t\u1ee71 (tr\u1eafng)"
+]
+```
+
+frame_12:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - đẩy - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_13:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - đẩy - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_14:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - đẩy - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_15:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - đẩy - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_16:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - đẩy - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_17:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - đẩy - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_18:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - đẩy - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_19:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - đẩy - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, không xác định) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_20:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang ngồi trên xe, không xác định) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang ngồi trên xe, không xác định) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_21:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi xe, vui vẻ) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi xe, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_22:
+```json
+[
+  "b\u00e91 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang ch\u01a1i xe, vui v\u1ebb) - ng\u1ed3i tr\u00ean - xe t\u1ea3i \u0111\u1ed3 ch\u01a1i1 (v\u00e0ng)",
+  "xe t\u1ea3i \u0111\u1ed3 ch\u01a1i1 (v\u00e0ng) - g\u1ea7n - s\u00e0n nh\u00e01 (g\u1ed7)",
+  "b\u00e91 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang ch\u01a1i xe, vui v\u1ebb) - g\u1ea7n - t\u1ee71 (tr\u1eafng)",
+  "xe t\u1ea3i \u0111\u1ed3 ch\u01a1i1 (v\u00e0ng) - g\u1ea7n - t\u1ee71 (tr\u1eafng)"
+]
+```
+
+frame_23:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi xe, vui vẻ) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi xe, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_24:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi xe, vui vẻ) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi xe, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_25:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi xe, vui vẻ) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi xe, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_26:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi xe, vui vẻ) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi xe, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_27:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi xe, vui vẻ) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi xe, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_28:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang ngồi chơi xe, vui vẻ) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang ngồi chơi xe, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_29:
+```json
+[
+  "b\u00e91 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111\u1ee9ng ch\u01a1i g\u1ea7n t\u1ee7, vui v\u1ebb) - g\u1ea7n - xe t\u1ea3i \u0111\u1ed3 ch\u01a1i1 (v\u00e0ng)",
+  "xe t\u1ea3i \u0111\u1ed3 ch\u01a1i1 (v\u00e0ng) - g\u1ea7n - s\u00e0n nh\u00e01 (g\u1ed7)",
+  "b\u00e91 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111\u1ee9ng ch\u01a1i g\u1ea7n t\u1ee7, vui v\u1ebb) - g\u1ea7n - t\u1ee71 (tr\u1eafng)",
+  "xe t\u1ea3i \u0111\u1ed3 ch\u01a1i1 (v\u00e0ng) - g\u1ea7n - t\u1ee71 (tr\u1eafng)"
+]
+```
+
+frame_30:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi gần xe tải, vui vẻ) - gần - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi gần xe tải, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_31:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang đẩy xe tải, vui vẻ) - gần - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang đẩy xe tải, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_32:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang đẩy xe tải, vui vẻ) - gần - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang đẩy xe tải, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_33:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang đẩy xe tải, vui vẻ) - gần - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang đẩy xe tải, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_34:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang đẩy xe tải, vui vẻ) - gần - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang đẩy xe tải, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_35:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang lái xe tải, vui vẻ) - gần - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang lái xe tải, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_36:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang lái xe tải, vui vẻ) - gần - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang lái xe tải, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_37:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, vui vẻ) - gần - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_38:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, vui vẻ) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_39:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, vui vẻ) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_40:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, vui vẻ) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+
+frame_41:
+```json
+[
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, vui vẻ) - ngồi trên - xe tải đồ chơi1 (vàng)",
+  "xe tải đồ chơi1 (vàng) - gần - sàn nhà1 (gỗ)",
+  "bé1 (trẻ - không xác định, mặc áo đỏ, đang chơi, vui vẻ) - gần - tủ1 (trắng)",
+  "xe tải đồ chơi1 (vàng) - gần - tủ1 (trắng)"
+]
+```
+

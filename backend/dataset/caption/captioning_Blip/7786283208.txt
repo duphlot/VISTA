@@ -1,0 +1,33 @@
+frame_0000.jpg: a group of people playing with a dog
+frame_0001.jpg: a group of people are playing with a baby
+frame_0002.jpg: a baby is laying on the floor in a room
+frame_0003.jpg: a group of people laying on the floor
+frame_0004.jpg: a woman is laying on the floor with her feet on the floor
+frame_0005.jpg: a little girl is playing with her mother
+frame_0006.jpg: a baby is laying on the floor with a woman
+frame_0007.jpg: a young boy is playing with a toy
+frame_0008.jpg: two children are laying on the floor
+frame_0009.jpg: a man and woman laying on the floor
+frame_0010.jpg: two girls are playing with shredded shredded paper
+frame_0011.jpg: two girls playing with shredded shredded paper
+frame_0012.jpg: a little girl is playing with a toy
+frame_0013.jpg: a man is dancing on the floor with his hands in the air
+frame_0014.jpg: a baby is playing with a toy in a room
+frame_0015.jpg: a baby is playing with a toy in a room
+frame_0016.jpg: a group of people are playing with shredded paper
+frame_0017.jpg: a woman is laying on the floor with her baby
+frame_0018.jpg: a woman is laying on the floor with her feet
+frame_0019.jpg: a woman is laying on the floor with her baby
+frame_0020.jpg: a woman is laying on the floor with her feet
+frame_0021.jpg: a baby is laying on the floor with a toy
+frame_0022.jpg: a woman is laying on the floor with her baby
+frame_0023.jpg: a woman is laying on the floor with her baby
+frame_0024.jpg: a man is laying on the floor with a bunch of shredded shredded paper
+frame_0025.jpg: a baby is playing with a toy in the living room
+frame_0026.jpg: a baby is playing with a toy in a room
+frame_0027.jpg: a baby is sitting on the floor in a room
+frame_0028.jpg: a woman is playing with a dog in a room
+frame_0029.jpg: a baby is playing with shredded paper
+frame_0030.jpg: a little girl is dancing on the floor
+frame_0031.jpg: a man is playing with a bunch of shredded shredded paper
+frame_0032.jpg: a group of chickens are in a cage

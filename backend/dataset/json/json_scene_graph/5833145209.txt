@@ -1,0 +1,486 @@
+frame_0:
+```json
+[
+  "chim1 - ở trong - bát",
+  "cỏ - xung quanh - bát",
+  "đất - ở trong - bát",
+  "cây - xung quanh - bát"
+]
+```
+
+frame_1:
+```json
+[
+  "chim1 - ở trong - bát",
+  "cỏ - xung quanh - bát",
+  "đất - ở trong - bát",
+  "cây - xung quanh - bát",
+  "chim2 - ở trong - cây"
+]
+```
+
+frame_2:
+```json
+[
+  "chim1 - ở trong - bát",
+  "cỏ - xung quanh - bát",
+  "đất - ở trong - bát",
+  "cây - xung quanh - bát",
+  "chim2 - ở trong - cây",
+  "tuyết - ở trên - cỏ",
+  "đá - ở trên - cỏ"
+]
+```
+
+frame_3:
+```json
+[
+  "chim1 - ở trong - bát",
+  "cỏ - xung quanh - bát",
+  "đất - ở trong - bát",
+  "cây - xung quanh - bát",
+  "chim2 - ở trên - cây",
+  "nước - xung quanh - bát"
+]
+```
+
+frame_4:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - cát",
+  "đất - ở trong - cát",
+  "cây - xung quanh - cát",
+  "chó1 (61%) - ở trên - cát",
+  "cát - gần - đá",
+  "cát - gần - cỏ"
+]
+```
+
+frame_5:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - cát",
+  "đất - ở trong - cát",
+  "cây - xung quanh - cát",
+  "chó1 - ở trên - đất",
+  "cát - gần - đá",
+  "cát - gần - cỏ",
+  "chim1 - gần - đá",
+  "chim1 - trên - đá",
+  "chó1 - gần - đá",
+  "đá - trong - nước",
+  "cây - trên - tuyết",
+  "tuyết - gần - cỏ"
+]
+```
+
+frame_6:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - cát",
+  "đất - ở trong - cát",
+  "cây - xung quanh - cát",
+  "chó1 - ở trên - đất",
+  "cát - gần - đất",
+  "cát - gần - cỏ",
+  "chim1 - gần - đá",
+  "chim1 - trên - đá",
+  "chó1 - gần - đá",
+  "đá - trong - nước",
+  "cây - trên - tuyết",
+  "tuyết - gần - cỏ"
+]
+```
+
+frame_7:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cát",
+  "cây - xung quanh - đất",
+  "chó1 - ở trên - đất",
+  "cát - gần - đất",
+  "cát - gần - cỏ",
+  "chim1 - gần - đá",
+  "chim1 - trên - đá",
+  "chó1 - gần - đá",
+  "đá - trong - nước",
+  "cây - trên - cỏ",
+  "giấy - gần - đá",
+  "chim1 - trên - chó1",
+  "cỏ - trên - đất",
+  "đá - ở trên - đất"
+]
+```
+
+frame_8:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cát",
+  "cây - xung quanh - đất",
+  "chó1 - ở trên - đất",
+  "cát - gần - đất",
+  "cát - gần - cỏ",
+  "chim1 - gần - đá",
+  "chim1 - trên - đá",
+  "chó1 - gần - đá",
+  "đá - trong - nước",
+  "cây - trên - cỏ",
+  "chim1 - trên - chó1",
+  "cỏ - trên - đất",
+  "đá - ở trên - đất",
+  "chim2 - trên - đá"
+]
+```
+
+frame_9:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cát",
+  "cây - xung quanh - đất",
+  "chó1 - ở trên - đất",
+  "cát - gần - đất",
+  "cát - gần - cỏ",
+  "chim1 - gần - đá",
+  "chim1 - trên - đá",
+  "chó1 - gần - đá",
+  "đá - trong - nước",
+  "cây - trên - cỏ",
+  "chim1 - trên - chó1",
+  "cỏ - trên - đất",
+  "đá - ở trên - đất",
+  "chim2 - trên - đá",
+  "chim2 - gần - chim1",
+  "chim2 - trên - đá",
+  "nước - gần - đá",
+  "nước - gần - chó1"
+]
+```
+
+frame_10:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cỏ",
+  "cây - xung quanh - cỏ",
+  "chim1 - gần - cỏ",
+  "cây - trên - cỏ",
+  "chim1 - trên - cỏ",
+  "cỏ - trên - đất"
+]
+```
+
+frame_11:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cỏ",
+  "cây - xung quanh - cỏ",
+  "chim1 - gần - cỏ",
+  "cây - trên - cỏ",
+  "chim1 - trên - cỏ",
+  "cỏ - trên - đất",
+  "chim1 - trên - chim2",
+  "nước - gần - chim1",
+  "chim2 - trên - đất"
+]
+```
+
+frame_12:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cỏ",
+  "cây - xung quanh - cỏ",
+  "chim1 - gần - cỏ",
+  "cây - trên - cỏ",
+  "chim1 - trên - cỏ",
+  "cỏ - trên - đất",
+  "chim1 - trên - chim2",
+  "nước - gần - chim1",
+  "chim2 - trên - đất"
+]
+```
+
+frame_13:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cỏ",
+  "cây - xung quanh - cỏ",
+  "chim1 - gần - cỏ",
+  "cây - trên - cỏ",
+  "chim1 - trên - cỏ",
+  "cỏ - trên - đất",
+  "chim1 - trên - chim2",
+  "nước - gần - chim1",
+  "chim2 - trên - đất"
+]
+```
+
+frame_14:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cỏ",
+  "cây - xung quanh - cỏ",
+  "chim1 - gần - cỏ",
+  "cây - trên - cỏ",
+  "chim1 - trên - cỏ",
+  "cỏ - trên - đất",
+  "chim2 - trên - đất"
+]
+```
+
+frame_15:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cỏ",
+  "cây - xung quanh - cỏ",
+  "chim1 - gần - cỏ",
+  "cây - trên - cỏ",
+  "chim1 - trên - cỏ",
+  "cỏ - trên - đất",
+  "chim2 - trên - đất",
+  "chim1 - trên - thức ăn",
+  "chim2 - trên - thức ăn",
+  "giấy - ở dưới - thức ăn"
+]
+```
+
+frame_16:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cỏ",
+  "cây - xung quanh - cỏ",
+  "chim1 - gần - cỏ",
+  "cây - trên - cỏ",
+  "chim1 - trên - cỏ",
+  "cỏ - trên - đất",
+  "chim2 - trên - đất",
+  "chim1 - trên - thức ăn",
+  "chim2 - trên - thức ăn",
+  "giấy - ở dưới - thức ăn",
+  "chim1 - trên - chậu",
+  "chim2 - trên - chậu"
+]
+```
+
+frame_17:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cỏ",
+  "cây - xung quanh - cỏ",
+  "chim1 - gần - cỏ",
+  "cây - trên - cỏ",
+  "chim1 - trên - cỏ",
+  "cỏ - trên - đất",
+  "chim2 - trên - đất",
+  "chim1 - trên - thức ăn",
+  "chim2 - trên - thức ăn",
+  "giấy - ở dưới - thức ăn",
+  "chim1 - trên - chậu",
+  "chim2 - trên - chậu",
+  "đất - ở trong - chậu",
+  "cây - trên - chậu",
+  "cỏ - trên - chậu",
+  "chim2 - trên - cây"
+]
+```
+
+frame_18:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cỏ",
+  "cây - xung quanh - cỏ",
+  "chim1 - gần - cỏ",
+  "cây - trên - cỏ",
+  "chim1 - trên - cỏ",
+  "cỏ - trên - đất",
+  "chim2 - trên - đất",
+  "chim1 - trên - thức ăn",
+  "chim2 - trên - thức ăn",
+  "giấy - ở dưới - thức ăn",
+  "chim1 - trên - chậu",
+  "chim2 - trên - chậu",
+  "đất - ở trong - chậu",
+  "cây - trên - chậu",
+  "cỏ - trên - chậu",
+  "chim2 - trên - cây",
+  "chim1 - ở trên - chậu",
+  "chim1 - ở trên - cây"
+]
+```
+
+frame_19:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cỏ",
+  "cây - xung quanh - cỏ",
+  "chim1 - gần - cỏ",
+  "cây - trên - cỏ",
+  "chim1 - trên - cỏ",
+  "cỏ - trên - đất",
+  "chim2 - trên - đất",
+  "chim1 - trên - thức ăn",
+  "chim2 - trên - thức ăn",
+  "giấy - ở dưới - thức ăn",
+  "chim1 - trên - chậu",
+  "chim2 - trên - chậu",
+  "đất - ở trong - chậu",
+  "cây - trên - chậu",
+  "cỏ - trên - chậu",
+  "chim2 - trên - cây",
+  "chim1 - ở trên - chậu",
+  "chim1 - ở trên - cây"
+]
+```
+
+frame_20:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cỏ",
+  "cây - xung quanh - cỏ",
+  "chim1 - gần - cỏ",
+  "cây - trên - cỏ",
+  "chim1 - trên - cỏ",
+  "cỏ - trên - đất",
+  "chim2 - trên - đất",
+  "chim1 - trên - thức ăn",
+  "chim2 - trên - thức ăn",
+  "giấy - ở dưới - thức ăn",
+  "chim1 - trên - chậu",
+  "chim2 - trên - chậu",
+  "đất - ở trong - chậu",
+  "cây - trên - chậu",
+  "cỏ - trên - chậu",
+  "chim2 - trên - cây",
+  "chim1 - ở trên - chậu",
+  "chim1 - ở trên - cây",
+  "chim1 - trên - chậu",
+  "cây - trên - chậu",
+  "chậu - chứa - bánh"
+]
+```
+
+frame_21:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cỏ",
+  "cây - xung quanh - cỏ",
+  "chim1 - gần - cỏ",
+  "cây - trên - cỏ",
+  "chim1 - trên - cỏ",
+  "cỏ - trên - đất",
+  "chim2 - trên - đất",
+  "chim1 - trên - thức ăn",
+  "chim2 - trên - thức ăn",
+  "giấy - ở dưới - thức ăn",
+  "chim1 - trên - chậu",
+  "chim2 - trên - chậu",
+  "đất - ở trong - chậu",
+  "cây - trên - chậu",
+  "cỏ - trên - chậu",
+  "chim2 - trên - cây",
+  "chim1 - ở trên - chậu",
+  "chim1 - ở trên - cây",
+  "chim1 - trên - chậu",
+  "cây - trên - chậu",
+  "chậu - chứa - bánh",
+  "chim1 - trên - bánh",
+  "cây - trên - bánh"
+]
+```
+
+frame_22:
+```json
+[
+  "chim1 - ở trong - cây",
+  "cỏ - xung quanh - đất",
+  "đất - ở trong - cỏ",
+  "cây - xung quanh - cỏ",
+  "chim1 - gần - cỏ",
+  "cây - trên - cỏ",
+  "chim1 - trên - cỏ",
+  "cỏ - trên - đất",
+  "chim2 - trên - đất",
+  "chim1 - trên - thức ăn",
+  "chim2 - trên - thức ăn",
+  "giấy - ở dưới - thức ăn",
+  "chim1 - trên - chậu",
+  "chim2 - trên - chậu",
+  "đất - ở trong - chậu",
+  "cây - trên - chậu",
+  "cỏ - trên - chậu",
+  "chim2 - trên - cây",
+  "chim1 - ở trên - chậu",
+  "chim1 - ở trên - cây",
+  "chim1 - trên - chậu",
+  "cây - trên - chậu",
+  "chậu - chứa - bánh",
+  "chim1 - trên - bánh",
+  "cây - trên - bánh",
+  "chim1 - trên - cây"
+]
+```
+
+frame_23:
+```json
+[
+  "chó1 (71%) - gần - đá",
+  "cây - gần - đá"
+]
+```
+
+frame_24:
+```json
+[
+  "chim1 (99%) - trên - đá",
+  "cây - gần - đá"
+]
+```
+
+frame_25:
+```json
+[
+  "chim1 (100%) - trên - đá",
+  "cây - gần - đá"
+]
+```
+
+frame_26:
+```json
+[
+  "chim1 (100%) - trên - đá",
+  "cây - gần - đá",
+  "chim1 (100%) - gần - cây"
+]
+```
+

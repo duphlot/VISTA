@@ -1,0 +1,35 @@
+frame_0000.jpg: a group of people playing a musical instrument
+frame_0001.jpg: a group of people playing a video game
+frame_0002.jpg: a group of people playing a video game
+frame_0003.jpg: a group of people playing a video game
+frame_0004.jpg: a group of people playing a video game
+frame_0005.jpg: a group of people playing a video game
+frame_0006.jpg: a group of people playing a game in a living room
+frame_0007.jpg: a group of people playing a video game
+frame_0008.jpg: a group of people playing music in a living room
+frame_0009.jpg: a woman and two children playing a video game
+frame_0010.jpg: a group of people playing video games in a living room
+frame_0011.jpg: a group of people playing a video game
+frame_0012.jpg: a group of people playing a song in a living room
+frame_0013.jpg: a group of people playing a video game
+frame_0014.jpg: a group of people playing a video game
+frame_0015.jpg: a group of people playing a game in a living room
+frame_0016.jpg: a group of people playing a video game
+frame_0017.jpg: a group of people playing a video game
+frame_0018.jpg: a group of people playing a game in a living room
+frame_0019.jpg: a group of people playing a video game
+frame_0020.jpg: a group of people playing a video game
+frame_0021.jpg: a group of people playing music in a living room
+frame_0022.jpg: a group of people playing a video game
+frame_0023.jpg: a group of people playing music in a living room
+frame_0024.jpg: a group of people playing a game in a living room
+frame_0025.jpg: a group of people playing a video game
+frame_0026.jpg: a group of people playing a game in a living room
+frame_0027.jpg: a woman and two children playing a song
+frame_0028.jpg: a group of people playing a musical instrument
+frame_0029.jpg: a woman and two children playing a video game
+frame_0030.jpg: a woman and two children playing music in a living room
+frame_0031.jpg: a woman and two children playing a game
+frame_0032.jpg: a group of people playing a game in a living room
+frame_0033.jpg: a woman and two children playing a game
+frame_0034.jpg: a woman and two children playing a video game

@@ -1,0 +1,36 @@
+frame_0000.jpg: a little girl holding a pink drink
+frame_0001.jpg: a little girl holding a pink drink
+frame_0002.jpg: a little girl holding a bottle of water
+frame_0003.jpg: a little girl holding a bottle of juice
+frame_0004.jpg: a little girl holding a bottle of water
+frame_0005.jpg: a little girl holding a pink cup
+frame_0006.jpg: a little girl holding a bottle of juice
+frame_0007.jpg: a little girl holding a bottle of juice
+frame_0008.jpg: a little girl holding a bottle of water
+frame_0009.jpg: a little girl holding a bottle of juice
+frame_0010.jpg: a little girl holding a pink cup
+frame_0011.jpg: a little girl holding a pink cup
+frame_0012.jpg: a little girl holding a pink drink
+frame_0013.jpg: a little girl holding a pink drink
+frame_0014.jpg: a little girl holding a pink drink
+frame_0015.jpg: a little girl holding a pink drink
+frame_0016.jpg: a little girl holding a cup
+frame_0017.jpg: a little girl holding a bottle of water
+frame_0018.jpg: a little girl holding a bottle of water
+frame_0019.jpg: a little girl holding a bottle of milk
+frame_0020.jpg: a little girl holding a pink cup
+frame_0021.jpg: a little girl holding a bottle of orange juice
+frame_0022.jpg: a little girl holding a bottle of orange juice
+frame_0023.jpg: a little girl holding a pink cup
+frame_0024.jpg: a little girl holding a bottle of water
+frame_0025.jpg: a little girl holding a bottle of water
+frame_0026.jpg: a little girl holding a pink cup
+frame_0027.jpg: a little girl holding a cup
+frame_0028.jpg: a little girl holding a bottle of ice cream
+frame_0029.jpg: a little girl holding a pink toy
+frame_0030.jpg: a little girl standing in a living room
+frame_0031.jpg: a little girl holding a red fr fr fr fr
+frame_0032.jpg: a little girl playing with a red frc
+frame_0033.jpg: a little girl playing with a toy
+frame_0034.jpg: a little girl playing with a toy
+frame_0035.jpg: a little girl playing with a toy

@@ -1,0 +1,2334 @@
+frame_0:
+```json
+[
+  "tường1 - liền kề - xe kéo1",
+  "tòa nhà1 - liền kề - xe kéo1",
+  "xe kéo1 - ở trên - đường1",
+  "bầu trời1 - phía trên - xe kéo1",
+  "cây1 - liền kề - xe kéo1",
+  "xe tải1 - ở trên - đường1",
+  "xe kéo2 - ở trên - đường1",
+  "xe kéo3 - ở trên - đường1",
+  "người1 (không rõ - không rõ, mặc áo cam, không rõ, không rõ) - ở trên - xe kéo2",
+  "hàng rào1 - liền kề - đường1",
+  "người2 (không rõ - không rõ, mặc áo đỏ, không rõ, không rõ) - ở trên - xe kéo4"
+]
+```
+
+frame_1:
+```json
+[
+  "tường1 - liền kề - xe kéo1",
+  "tòa nhà1 - liền kề - xe kéo1",
+  "xe kéo1 - ở trên - đường1",
+  "bầu trời1 - phía trên - xe kéo1",
+  "cây1 - liền kề - xe kéo1",
+  "xe tải1 - ở trên - đường1",
+  "xe kéo2 - ở trên - đường1",
+  "xe kéo3 - ở trên - đường1",
+  "người1 (trưởng thành - không rõ, mặc áo cam, không rõ, không rõ) - ở trên - xe kéo2",
+  "hàng rào1 - liền kề - đường1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe kéo4",
+  "đường1 - liền kề - xe tải1"
+]
+```
+
+frame_2:
+```json
+[
+  "tường1 - liền kề - xe kéo1",
+  "tòa nhà1 - liền kề - xe kéo1",
+  "xe kéo1 - ở trên - đường1",
+  "bầu trời1 - phía trên - xe kéo1",
+  "cây1 - liền kề - xe kéo1",
+  "xe tải1 - ở trên - đường1",
+  "xe kéo2 - ở trên - đường1",
+  "xe kéo3 - ở trên - đường1",
+  "người1 (trưởng thành - không rõ, mặc áo cam, không rõ, không rõ) - ở trên - xe kéo2",
+  "hàng rào1 - liền kề - đường1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe đạp1",
+  "đường1 - liền kề - xe tải1",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở trên - đường1",
+  "xe đạp1 - ở trên - đường1"
+]
+```
+
+frame_3:
+```json
+[
+  "tường1 - liền kề - xe kéo1",
+  "tòa nhà1 - liền kề - xe kéo1",
+  "xe kéo1 - ở trên - đường1",
+  "bầu trời1 - phía trên - xe kéo1",
+  "cây1 - liền kề - xe kéo1",
+  "xe tải1 - ở trên - đường1",
+  "xe kéo2 - ở trên - đường1",
+  "xe kéo3 - ở trên - đường1",
+  "người1 (trưởng thành - không rõ, mặc áo cam, không rõ, không rõ) - ở trên - xe kéo2",
+  "hàng rào1 - liền kề - đường1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe đạp1",
+  "đường1 - liền kề - xe tải1",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở trên - đường1",
+  "xe đạp1 - ở trên - đường1",
+  "xe tải1 - liền kề - vali1 (màu xanh lam)",
+  "vali1 (màu xanh lam) - liền kề - người1 (trưởng thành - không rõ, mặc áo cam, không rõ, không rõ)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - xe đạp1"
+]
+```
+
+frame_4:
+```json
+[
+  "tường1 - liền kề - xe kéo1",
+  "tòa nhà1 - liền kề - xe kéo1",
+  "xe kéo1 - ở trên - đường1",
+  "bầu trời1 - phía trên - xe kéo1",
+  "cây1 - liền kề - xe kéo1",
+  "xe tải1 - ở trên - đường1",
+  "xe kéo2 - ở trên - đường1",
+  "xe kéo3 - ở trên - đường1",
+  "người1 (trưởng thành - kh\u00f4ng r\u00f5, mặc áo cam, không rõ, không rõ) - ở trên - xe kéo2",
+  "hàng rào1 - liền kề - đường1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe đạp1",
+  "đường1 - liền kề - xe tải1",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở trên - đường1",
+  "xe đạp1 - ở trên - đường1",
+  "xe tải1 - liền kề - vali1 (màu xanh lam)",
+  "vali1 (màu xanh lam) - liền kề - người1 (trưởng thành - không rõ, mặc áo cam, không rõ, không rõ)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - xe đạp1",
+  "người1 (trưởng thành - kh\u00f4ng r\u00f5, mặc áo cam, đang đi bộ, bình thường) - ở trên - xe đạp1",
+  "vỉa hè1 - liền kề - xe đạp1",
+  "ô (màu xanh lá) - ở trên - xe kéo3",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - xe tải1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe kéo3"
+]
+```
+
+frame_5:
+```json
+[
+  "đường1 - liền kề - xe kéo1",
+  "tòa nhà1 - liền kề - xe kéo1",
+  "xe kéo1 - ở trên - đường1",
+  "bầu trời1 - phía trên - xe kéo1",
+  "cây1 - liền kề - xe kéo1",
+  "xe tải1 - ở trên - đường1",
+  "xe kéo2 - ở trên - đường1",
+  "xe kéo3 - ở trên - đường1",
+  "người1 (trưởng thành - không rõ, mặc áo cam, đang đi bộ, bình thường) - ở trên - xe kéo2",
+  "hàng rào1 - liền kề - đường1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe đạp1",
+  "đường1 - liền kề - xe tải1",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở trên - đường1",
+  "xe đạp1 - ở trên - đường1",
+  "xe tải1 - liền kề - vali1 (màu xanh lam)",
+  "vali1 (màu xanh lam) - liền kề - người1 (trưởng thành - không rõ, mặc áo cam, đang đi bộ, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - xe đạp1",
+  "người1 (trưởng thành - không rõ, mặc áo cam, đang đi bộ, bình thường) - ở trên - xe đạp1",
+  "vỉa hè1 - liền kề - xe đạp1",
+  "ô (màu xanh lá) - ở trên - xe kéo3",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - xe tải1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe kéo3",
+  "xe tải1 - liền kề - người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường)"
+]
+```
+
+frame_6:
+```json
+[
+  "đường1 - liền kề - xe kéo1",
+  "tòa nhà1 - liền kề - xe kéo1",
+  "xe kéo1 - ở trên - đường1",
+  "bầu trời1 - phía trên - xe kéo1",
+  "cây1 - liền kề - xe kéo1",
+  "xe tải1 - ở trên - đường1",
+  "xe kéo2 - ở trên - đường1",
+  "xe kéo3 - ở trên - đường1",
+  "người1 (trưởng thành - không rõ, mặc áo cam, đang đi bộ, bình thường) - ở trên - xe kéo2",
+  "hàng rào1 - liền kề - đường1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe đạp1",
+  "đường1 - liền kề - xe tải1",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở trên - đường1",
+  "xe đạp1 - ở trên - đường1",
+  "xe tải1 - liền kề - vali1 (màu xanh lam)",
+  "vali1 (màu xanh lam) - liền kề - người1 (trưởng thành - không rõ, mặc áo cam, đang đi bộ, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - xe đạp1",
+  "người1 (trưởng thành - không rõ, mặc áo cam, đang đi bộ, bình thường) - ở trên - xe đạp1",
+  "vỉa hè1 - liền kề - xe đạp1",
+  "ô (màu xanh lá) - ở trên - xe kéo3",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - xe tải1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe kéo3",
+  "xe tải1 - liền kề - người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - vali1 (màu xanh lam)"
+]
+```
+
+frame_7:
+```json
+[
+  "đường1 - liền kề - xe kéo1",
+  "tòa nhà1 - liền kề - xe kéo1",
+  "xe kéo1 - ở trên - đường1",
+  "bầu trời1 - phía trên - xe kéo1",
+  "cây1 - liền kề - xe kéo1",
+  "xe tải1 - ở trên - đường1",
+  "xe kéo2 - ở trên - đường1",
+  "xe kéo3 - ở trên - đường1",
+  "người1 (trưởng thành - không rõ, mặc áo cam, đang đi bộ, bình thường) - ở trên - xe kéo2",
+  "hàng rào1 - liền kề - đường1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe đạp1",
+  "đường1 - liền kề - xe tải1",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở trên - đường1",
+  "xe đạp1 - ở trên - đường1",
+  "xe tải1 - liền kề - vali1 (màu xanh lam)",
+  "vali1 (màu xanh lam) - liền kề - người1 (trưởng thành - không rõ, mặc áo cam, đang đi bộ, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - xe đạp1",
+  "người1 (trưởng thành - không rõ, mặc áo cam, đang đi bộ, bình thường) - ở trên - xe đạp1",
+  "vỉa hè1 - liền kề - xe đạp1",
+  "ô (màu xanh lá) - ở trên - xe kéo3",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - xe tải1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe kéo3",
+  "xe tải1 - liền kề - người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - vali1 (màu xanh lam)",
+  "bầu trời1 - liền kề - cây1"
+]
+```
+
+frame_8:
+```json
+[
+  "đường1 - liền kề - xe kéo1",
+  "tòa nhà1 - liền kề - xe kéo1",
+  "xe kéo1 - ở trên - đường1",
+  "bầu trời1 - phía trên - xe kéo1",
+  "cây1 - liền kề - xe kéo1",
+  "xe tải1 - ở trên - đường1",
+  "xe kéo2 - ở trên - đường1",
+  "xe kéo3 - ở trên - đường1",
+  "người1 (trưởng thành - không rõ, mặc áo cam, đang đi bộ, bình thường) - ở trên - xe kéo2",
+  "hàng rào1 - liền kề - đường1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe đạp1",
+  "đường1 - liền kề - xe tải1",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở trên - đường1",
+  "xe đạp1 - ở trên - đường1",
+  "xe tải1 - liền kề - vali1 (màu xanh lam)",
+  "vali1 (màu xanh lam) - liền kề - người1 (trưởng thành - không rõ, mặc áo cam, đang đi bộ, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - xe đạp1",
+  "người1 (trưởng thành - không rõ, mặc áo cam, đang đi bộ, bình thường) - ở trên - xe đạp1",
+  "vỉa hè1 - liền kề - xe đạp1",
+  "ô (màu xanh lá) - ở trên - xe kéo3",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - xe tải1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe kéo3",
+  "xe tải1 - liền kề - người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - vali1 (màu xanh lam)",
+  "bầu trời1 - liền kề - cây1"
+]
+```
+
+frame_9:
+```json
+[
+  "đường1 - liền kề - xe kéo1",
+  "tòa nhà1 - liền kề - xe kéo1",
+  "xe kéo1 - ở trên - đường1",
+  "bầu trời1 - phía trên - xe kéo1",
+  "cây1 - liền kề - xe kéo1",
+  "xe tải1 - ở trên - đường1",
+  "xe kéo2 - ở trên - đường1",
+  "xe kéo3 - ở trên - đường1",
+  "người1 (trưởng thành - không rõ, mặc áo cam, đang đi xe đạp, bình thường) - ở trên - xe kéo2",
+  "hàng rào1 - liền kề - đường1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe đạp1",
+  "đường1 - liền kề - xe tải1",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở trên - đường1",
+  "xe đạp1 - ở trên - đường1",
+  "xe tải1 - liền kề - vali1 (màu xanh lam)",
+  "vali1 (màu xanh lam) - liền kề - người1 (trưởng thành - không rõ, mặc áo cam, đang đi xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - xe đạp1",
+  "người1 (trưởng thành - không rõ, mặc áo cam, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "vỉa hè1 - liền kề - xe đạp1",
+  "ô (màu xanh lá) - ở trên - xe kéo3",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - xe tải1",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang nhìn, bình thường) - ở trên - xe kéo3",
+  "xe tải1 - liền kề - người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - liền kề - vali1 (màu xanh lam)",
+  "bầu trời1 - liền kề - cây1",
+  "xe buýt1 (màu xanh lá) - liền kề - người1 (trưởng thành - không rõ, mặc áo cam, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_10:
+```json
+[
+  "ghế1 (màu hồng) - liền kề - người3 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - liền kề - tòa nhà1",
+  "cây1 - liền kề - tòa nhà1",
+  "bầu trời1 - liền kề - tòa nhà1"
+]
+```
+
+frame_11:
+```json
+[
+  "tường gạch1 - liền kề - vỉa hè1",
+  "đồng hồ đo đỗ xe1 (màu hồng) - liền kề - vỉa hè1",
+  "người1 - liền kề - tường gạch1"
+]
+```
+
+frame_12:
+```json
+[
+  "tường gạch1 - liền kề - vỉa hè1",
+  "đồng hồ đo đổ xe1 (màu hồng) - liền kề - vỉa hè1",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang ngồi, không rõ cảm xúc) - liền kề - tường gạch1"
+]
+```
+
+frame_13:
+```json
+[
+  "tường gạch1 - liền kề - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, không rõ cảm xúc)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, không rõ cảm xúc) - liền kề - tường gạch1"
+]
+```
+
+frame_14:
+```json
+[
+  "tường gạch1 - liền kề - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, nghiêm túc)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, nghiêm túc) - liền kề - tường gạch1",
+  "tường gỗ1 - liền kề - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, nghiêm túc)"
+]
+```
+
+frame_15:
+```json
+[
+  "tường gạch1 - liền kề - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, nghiêm túc)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, nghiêm túc) - liền kề - tường gạch1",
+  "tường gỗ1 - liền kề - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, nghiêm túc)",
+  "người2 (trưởng thành - nam, không rõ quần áo, đang nhìn, bình thường) - đối diện - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, nghiêm túc)",
+  "người3 (trẻ - không rõ giới tính, không rõ quần áo, đang nhìn, bình thường) - phía sau - người2 (trưởng thành - nam, không rõ quần áo, đang nhìn, bình thường)",
+  "người4 (trẻ - nam, không rõ quần áo, đang nhìn, bình thường) - phía sau - người3 (trẻ - không rõ giới tính, không rõ quần áo, đang nhìn, bình thường)",
+  "chim1 - phía sau - tường gạch1",
+  "người5 (trẻ - không rõ giới tính, không rõ quần áo, đang nhìn, bình thường) - phía trên - tường gạch1"
+]
+```
+
+frame_16:
+```json
+[
+  "tường gạch1 - liền kề - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, nghiêm túc)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, nghiêm túc) - liền kề - tường gạch1",
+  "tường gỗ1 - liền kề - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, nghiêm túc)",
+  "người2 (trưởng thành - nam, không rõ quần áo, đang nhìn, bình thường) - đối diện - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, nghiêm túc)",
+  "người3 (trẻ - không rõ giới tính, không rõ quần áo, đang nhìn, bình thường) - phía sau - người2 (trưởng thành - nam, không rõ quần áo, đang nhìn, bình thường)",
+  "người4 (trẻ - nam, không rõ quần áo, đang nhìn, bình thường) - phía sau - người3 (trẻ - không rõ giới tính, không rõ quần áo, đang nhìn, bình thường)",
+  "chim1 - phía sau - tường gạch1",
+  "người5 (trẻ - không rõ giới tính, không rõ quần áo, đang nhìn, bình thường) - phía trên - tường gạch1",
+  "tường1 (màu xanh dương) - phía sau - bánh1 (màu xanh)",
+  "bánh1 (màu xanh) - phía trên - xe kéo1",
+  "sách1 (màu vàng) - phía trên - xe kéo1",
+  "hot dog1 (màu trắng) - gần - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, nghiêm túc)",
+  "tường1 (màu xanh dương) - liền kề - xe kéo1",
+  "xe kéo1 - phía trước - tường gạch1"
+]
+```
+
+frame_17:
+```json
+[
+  "tường gạch1 - liền kề - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, nghiêm túc)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên) - liền kề - tường gạch1",
+  "tường gỗ1 - liền kề - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên)",
+  "người2 (trưởng thành - nam, không rõ quần áo, đang nhìn, bình thường) - đối diện - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên)",
+  "người3 (trẻ - không rõ giới tính, không rõ quần áo, đang nhìn, bình thường) - phía sau - người2 (trưởng thành - nam, không rõ quần áo, đang nhìn, bình thường)",
+  "người4 (trẻ - nam, không rõ quần áo, đang nhìn, bình thường) - phía sau - người3 (trẻ - không rõ giới tính, không rõ quần áo, đang nhìn, bình thường)",
+  "chim1 - phía sau - tường gạch1",
+  "người5 (trẻ - không rõ giới tính, không rõ quần áo, đang nhìn, bình thường) - phía trên - tường gạch1",
+  "tường1 (màu xanh dương) - phía sau - bánh1 (màu xanh)",
+  "bánh1 (màu xanh) - phía trên - xe kéo1",
+  "sách1 (màu vàng) - phía trên - xe kéo1",
+  "hot dog1 (màu trắng) - gần - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên)",
+  "tường1 (màu xanh dương) - liền kề - xe kéo1",
+  "xe kéo1 - phía trước - tường gạch1",
+  "tường1 (màu xanh dương) - liền kề - xe đạp1 (màu hồng)",
+  "sàn nhà1 - phía dưới - xe đạp1 (màu hồng)",
+  "xe đạp2 (màu vàng be) - phía trên - sàn nhà1",
+  "xe đạp2 (màu vàng be) - liền kề - tường1 (màu xanh dương)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên) - phía trước - tường1 (màu xanh dương)"
+]
+```
+
+frame_18:
+```json
+[
+  "tường gạch1 - liền kề - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên) - liền kề - tường gạch1",
+  "tường gỗ1 - liền kề - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên)",
+  "người2 (trưởng thành - nam, không rõ quần áo, đang nhìn, bình thường) - đối diện - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên)",
+  "người3 (trẻ - không rõ giới tính, không rõ quần áo, đang nhìn, bình thường) - phía sau - người2 (trưởng thành - nam, không rõ quần áo, đang nhìn, bình thường)",
+  "người4 (trẻ - nam, không rõ quần áo, đang nhìn, bình thường) - phía sau - người3 (trẻ - không rõ giới tính, không rõ quần áo, đang nhìn, bình thường)",
+  "chim1 - phía sau - tường gạch1",
+  "người5 (trẻ - không rõ giới tính, không rõ quần áo, đang nhìn, bình thường) - phía trên - tường gạch1",
+  "tường1 (màu xanh dương) - phía sau - bánh1 (màu xanh)",
+  "bánh1 (màu xanh) - phía trên - xe kéo1",
+  "sách1 (màu vàng) - phía trên - xe kéo1",
+  "hot dog1 (màu trắng) - gần - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên)",
+  "tường1 (màu xanh dương) - liền kề - xe kéo1",
+  "xe kéo1 - phía trước - tường gạch1",
+  "tường1 (màu xanh dương) - liền kề - xe đạp1 (màu hồng)",
+  "sàn nhà1 - phía dưới - xe đạp1 (màu hồng)",
+  "xe đạp2 (màu vàng be) - phía trên - sàn nhà1",
+  "xe đạp2 (màu vàng be) - liền kề - tường1 (màu xanh dương)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên) - phía trước - tường1 (màu xanh dương)",
+  "tường1 (màu xanh dương) - liền kề - tường1 (màu xanh dương)"
+]
+```
+
+frame_19:
+```json
+[
+  "rèm1 - liền kề - tường2 (màu xanh dương)",
+  "tường1 (màu xanh dương) - liền kề - rèm1",
+  "bàn1 - phía dưới - xe kéo1",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên) - phía trước - tường1 (màu xanh dương)",
+  "bánh1 (màu trắng) - phía trên - xe kéo1",
+  "tường1 (màu xanh dương) - liền kề - bánh1 (màu trắng)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên) - phía trước - bánh1 (màu trắng)",
+  "xe kéo1 - gần - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên)"
+]
+```
+
+frame_20:
+```json
+[
+  "rèm1 - liền kề - tường2 (màu xanh dương)",
+  "tường1 (màu xanh dương) - liền kề - rèm1",
+  "bàn1 - phía dưới - xe kéo1",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên) - phía trước - tường1 (màu xanh dương)",
+  "bánh1 (màu trắng) - phía trên - xe kéo1",
+  "tường1 (màu xanh dương) - liền kề - bánh1 (màu trắng)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên) - phía trước - bánh1 (màu trắng)",
+  "xe kéo1 - gần - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên)"
+]
+```
+
+frame_21:
+```json
+[
+  "tường1 (màu xanh dương) - liền kề - rèm1",
+  "rèm1 - liền kề - tường2 (màu xanh dương)",
+  "bàn1 - phía dưới - xe kéo1",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên) - phía trước - tường1 (màu xanh dương)",
+  "bánh1 (màu trắng) - phía trên - xe kéo1",
+  "tường1 (màu xanh dương) - liền kề - bánh1 (màu trắng)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên) - phía trước - bánh1 (màu trắng)",
+  "xe kéo1 - gần - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, ngạc nhiên) - gần - xe kéo1",
+  "chim1 (màu tím) - gần - xe kéo1",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang nhìn, ngạc nhiên) - phía trước - tường1 (màu xanh dương)"
+]
+```
+
+frame_22:
+```json
+[
+  "s\u00e0n nh\u00e01 - li\u1ec1n k\u1ec1 - b\u00e1nh1 (m\u00e0u tr\u1eafng)",
+  "b\u00e1nh1 (m\u00e0u tr\u1eafng) - \u1edf tr\u00ean - xe k\u00e9o1",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng r\u00f5 qu\u1ea7n \u00e1o, \u0111ang h\u00e1 mi\u1ec7ng, ng\u1ea1c nhi\u00ean) - \u1edf ph\u00eda tr\u01b0\u1edbc - b\u00e1nh1 (m\u00e0u tr\u1eafng)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng r\u00f5 qu\u1ea7n \u00e1o, \u0111ang h\u00e1 mi\u1ec7ng, ng\u1ea1c nhi\u00ean) - \u1edf g\u1ea7n - xe k\u00e9o1",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng r\u00f5 qu\u1ea7n \u00e1o, \u0111ang nh\u00ecn, ng\u1ea1c nhi\u00ean) - \u1edf g\u1ea7n - xe k\u00e9o1",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng r\u00f5 qu\u1ea7n \u00e1o, \u0111ang nh\u00ecn, ng\u1ea1c nhi\u00ean) - \u1edf ph\u00eda tr\u01b0\u1edbc - s\u00e0n nh\u00e01",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c qu\u1ea7n \u00e1o m\u00e0u h\u1ed3ng, \u0111ang ng\u1ed3i, ng\u1ea1c nhi\u00ean) - \u1edf g\u1ea7n - xe k\u00e9o1",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c qu\u1ea7n \u00e1o m\u00e0u h\u1ed3ng, \u0111ang ng\u1ed3i, ng\u1ea1c nhi\u00ean) - \u1edf ph\u00eda tr\u01b0\u1edbc - b\u00e1nh1 (m\u00e0u tr\u1eafng)",
+  "d\u00f91 (m\u00e0u xanh l\u00e1 c\u00e2y) - \u1edf ph\u00eda tr\u00ean - xe k\u00e9o1"
+]
+```
+
+frame_23:
+```json
+[
+  "bàn1 - ở gần - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên)",
+  "tường1 - ở trên - nước1",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên) - ở gần - bánh2 (màu hồng)",
+  "bánh2 (màu hồng) - ở gần - tường1",
+  "nước1 - ở gần - bàn1"
+]
+```
+
+frame_24:
+```json
+[
+  "nhà - ở gần - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên)",
+  "đường - ở gần - xe đạp1 (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên) - dựa vào - xe đạp1 (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang há miệng, ngạc nhiên) - ở gần - người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - giữ - laptop1 (màu vàng)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - cây (màu xanh lá cây)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - vali1 (màu xanh lam)"
+]
+```
+
+frame_25:
+```json
+[
+  "nhà - ở gần - người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang quay lưng, bình thường)",
+  "đường - ở gần - xe đạp1 (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang quay lưng, bình thường) - dựa vào - xe đạp1 (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang quay lưng, bình thường) - ở gần - người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - giữ - laptop1 (màu vàng)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - cây (màu xanh lá cây)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - vali1 (màu xanh lam)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang quay lưng, bình thường) - ở gần - vali1 (màu xanh lam)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng thẳng, bình thường) - ở gần - vali1 (màu xanh lam)"
+]
+```
+
+frame_26:
+```json
+[
+  "nhà - ở gần - người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang quay lưng, bình thường)",
+  "đường - ở gần - xe đạp1 (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang quay lưng, bình thường) - dựa vào - xe đạp1 (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang quay lưng, bình thường) - ở gần - người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - giữ - laptop1 (màu vàng)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - cây (màu xanh lá cây)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - vali1 (màu xanh lam)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang quay lưng, bình thường) - ở gần - vali1 (màu xanh lam)",
+  "người3 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng thẳng, bình thường) - ở gần - vali1 (màu xanh lam)"
+]
+```
+
+frame_27:
+```json
+[
+  "nhà - ở gần - người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường)",
+  "đường - ở gần - xe đạp1 (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - dựa vào - xe đạp1 (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ở gần - người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - giữ - laptop1 (màu vàng)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - cây (màu xanh lá cây)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - vali1 (màu xanh lam)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ở gần - vali1 (màu xanh lam)",
+  "người3 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng thẳng, bình thường) - ở gần - vali1 (màu xanh lam)"
+]
+```
+
+frame_28:
+```json
+[
+  "tường - ở gần - người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường)",
+  "đường - ở gần - xe đạp1 (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - dựa vào - xe đạp1 (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ở gần - người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - giữ - laptop1 (màu vàng)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - cây (màu xanh lá cây)",
+  "người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - vali1 (màu xanh lam)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ở gần - vali1 (màu xanh lam)",
+  "người3 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng thẳng, bình thường) - ở gần - vali1 (màu xanh lam)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ở gần - ghế1 (màu vàng)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ở gần - người3 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng thẳng, bình thường)"
+]
+```
+
+frame_29:
+```json
+[
+  "tường - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - đường",
+  "cây (màu xanh lá cây) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - không rõ giới tính, mặc áo cam, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "tòa nhà - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)"
+]
+```
+
+frame_30:
+```json
+[
+  "tường - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - đường",
+  "cây (màu xanh lá cây) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "tòa nhà - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người2 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở trên - đường"
+]
+```
+
+frame_31:
+```json
+[
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "tường - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "tòa nhà - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở trên - đường",
+  "cây (màu xanh lá cây) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)"
+]
+```
+
+frame_32:
+```json
+[
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "tường - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "tòa nhà - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở trên - đường",
+  "cây (màu xanh lá cây) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng quay lưng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng quay lưng, bình thường) - ở gần - tường",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng quay lưng, bình thường) - ở gần - lều (màu đỏ)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)"
+]
+```
+
+frame_33:
+```json
+[
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "tường - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "tòa nhà - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở trên - đường",
+  "cây (màu xanh lá cây) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng quay lưng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng quay lưng, bình thường) - ở gần - tường",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng quay lưng, bình thường) - ở gần - lều (màu đỏ)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng quay lưng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)"
+]
+```
+
+frame_34:
+```json
+[
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "tường - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "tòa nhà - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở trên - đường",
+  "cây (màu xanh lá cây) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng quay lưng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng quay lưng, bình thường) - ở gần - tường",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng quay lưng, bình thường) - ở gần - lều (màu đỏ)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng quay lưng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - túi xách (màu tím)",
+  "túi xách (màu tím) - ở trên - sàn",
+  "tường - ở gần - lều (màu đỏ)",
+  "tường - ở gần - cây (màu xanh lá cây)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "đường - ở gần - vỉa hè"
+]
+```
+
+frame_35:
+```json
+[
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - tường",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - lều (màu đỏ)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - túi xách (màu tím)",
+  "túi xách (màu tím) - ở trên - vỉa hè",
+  "tường - ở gần - lều (màu đỏ)",
+  "tường - ở gần - cây (màu xanh lá cây)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "tường - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "tòa nhà - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở trên - đường",
+  "cây (màu xanh lá cây) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)"
+]
+```
+
+frame_36:
+```json
+[
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - tường",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - lều (màu đỏ)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - túi xách (màu tím)",
+  "túi xách (màu tím) - ở trên - vỉa hè",
+  "tường - ở gần - lều (màu đỏ)",
+  "tường - ở gần - cây (màu xanh lá cây)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "tường - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "tòa nhà - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở trên - đường",
+  "cây (màu xanh lá cây) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - vỉa hè"
+]
+```
+
+frame_37:
+```json
+[
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - tường",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - lều (màu đỏ)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - túi xách (màu tím)",
+  "túi xách (màu tím) - ở trên - vỉa hè",
+  "tường - ở gần - lều (màu đỏ)",
+  "tường - ở gần - cây (màu xanh lá cây)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "tường - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "tòa nhà - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở trên - đường",
+  "cây (màu xanh lá cây) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - vỉa hè",
+  "xe máy (màu xanh dương) - ở trên - vỉa hè",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - xe đạp (màu đỏ)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - xe máy (màu xanh dương)",
+  "xe đạp (màu đỏ) - ở trên - vỉa hè",
+  "lều (màu đỏ) - ở gần - túi xách (màu tím)"
+]
+```
+
+frame_38:
+```json
+[
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - tường",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - túi xách (màu tím)",
+  "túi xách (màu tím) - ở trên - vỉa hè",
+  "tường - ở gần - lều (màu đỏ)",
+  "tường - ở gần - cây (màu xanh lá cây)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "tường - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "tòa nhà - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở trên - đường",
+  "cây (màu xanh lá cây) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - vỉa hè",
+  "xe máy (màu xanh dương) - ở trên - vỉa hè",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - xe đạp (màu đỏ)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - xe máy (màu xanh dương)",
+  "xe đạp (màu đỏ) - ở trên - vỉa hè",
+  "lều (màu đỏ) - ở gần - túi xách (màu tím)",
+  "bàn ăn (màu xanh dương) - ở trên - vỉa hè",
+  "người3 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người3 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)"
+]
+```
+
+frame_39:
+```json
+[
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - tường",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - túi xách (màu tím)",
+  "túi xách (màu tím) - ở trên - vỉa hè",
+  "tường - ở gần - lều (màu đỏ)",
+  "tường - ở gần - cây (màu xanh lá cây)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "tường - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "tòa nhà - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở trên - đường",
+  "cây (màu xanh lá cây) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - vỉa hè",
+  "xe máy (màu xanh dương) - ở trên - vỉa hè",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - xe đạp (màu đỏ)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - xe máy (màu xanh dương)",
+  "xe đạp (màu đỏ) - ở trên - vỉa hè",
+  "lều (màu đỏ) - ở gần - túi xách (màu tím)",
+  "bàn ăn (màu xanh dương) - ở trên - vỉa hè",
+  "người3 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người3 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - ghế (màu đen)",
+  "ô (màu xanh) - ở trên - ghế (màu đen)"
+]
+```
+
+frame_40:
+```json
+[
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - tường",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - túi xách (màu tím)",
+  "túi xách (màu tím) - ở trên - vỉa hè",
+  "tường - ở gần - lều (màu đỏ)",
+  "tường - ở gần - cây (màu xanh lá cây)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "tường - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "tòa nhà - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở trên - đường",
+  "cây (màu xanh lá cây) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - vỉa hè",
+  "xe máy (màu xanh dương) - ở trên - vỉa hè",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - xe đạp (màu đỏ)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường) - ở gần - xe máy (màu xanh dương)",
+  "xe đạp (màu đỏ) - ở trên - vỉa hè",
+  "lều (màu đỏ) - ở gần - túi xách (màu tím)",
+  "bàn ăn (màu xanh dương) - ở trên - vỉa hè",
+  "người3 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người3 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - ghế (màu đen)",
+  "ô (màu xanh) - ở trên - ghế (màu đen)",
+  "người9 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - xe đạp (màu đỏ)",
+  "người9 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - vỉa hè",
+  "người10 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - ô (màu xanh)",
+  "người10 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - người6 (trưởng thành - nam, mặc áo hồng, đang đứng, bình thường)"
+]
+```
+
+frame_41:
+```json
+[
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - tường",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - lều (màu đỏ)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - túi xách (màu tím)",
+  "túi xách (màu tím) - ở trên - vỉa hè",
+  "tường - ở gần - lều (màu đỏ)",
+  "tường - ở gần - cây (màu xanh lá cây)",
+  "người8 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - đường",
+  "tường - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "tòa nhà - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường) - ở trên - đường",
+  "cây (màu xanh lá cây) - ở gần - người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường)",
+  "người7 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - vỉa hè",
+  "xe máy (màu xanh dương) - ở trên - vỉa hè",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - xe đạp (màu đỏ)",
+  "người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - xe máy (màu xanh dương)",
+  "xe đạp (màu đỏ) - ở trên - vỉa hè",
+  "lều (màu đỏ) - ở gần - túi xách (màu tím)",
+  "bàn ăn (màu xanh dương) - ở trên - vỉa hè",
+  "người3 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người3 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người5 (trưởng thành - nam, mặc áo cam, đang đứng, bình thường)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo khoác màu cam nhạt, đang đứng, bình thường) - ở gần - ghế (màu đen)",
+  "ô (màu xanh) - ở trên - ghế (màu đen)",
+  "người9 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - xe đạp (màu đỏ)",
+  "người9 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - vỉa hè",
+  "người10 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - ô (màu xanh)",
+  "người10 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - người6 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường)",
+  "người1 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - người10 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường)",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - lều (màu đỏ)",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - vỉa hè",
+  "xe (màu xanh dương) - ở trên - vỉa hè",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - xe đạp (màu đỏ)",
+  "người10 (trưởng thành - nam, mặc áo hồng, đang đi bộ, bình thường) - ở gần - người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)"
+]
+```
+
+frame_42:
+```json
+[
+  "nhà - ở gần - tòa nhà",
+  "tòa nhà - ở gần - cây (màu xanh lá cây)",
+  "đường - ở gần - vỉa hè",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - xe (màu xanh dương)",
+  "người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)"
+]
+```
+
+frame_43:
+```json
+[
+  "nhà - ở gần - tòa nhà",
+  "tòa nhà - ở gần - cây (màu xanh lá cây)",
+  "đường - ở gần - vỉa hè",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - xe (màu xanh dương)",
+  "người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)"
+]
+```
+
+frame_44:
+```json
+[
+  "nhà - ở gần - tòa nhà",
+  "tòa nhà - ở gần - cây (màu xanh lá cây)",
+  "đường - ở gần - vỉa hè",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - xe (màu xanh dương)",
+  "người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "thuyền (màu tím) - ở gần - người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "thuyền (màu tím) - ở gần - người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)"
+]
+```
+
+frame_45:
+```json
+[
+  "tòa nhà - ở gần - cây (màu xanh lá cây)",
+  "đường - ở gần - vỉa hè",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - xe (màu xanh dương)",
+  "người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "lều (màu đỏ) - ở gần - người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "lều (màu đỏ) - ở gần - người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - lều (màu đỏ)"
+]
+```
+
+frame_46:
+```json
+[
+  "tòa nhà - ở gần - cây (màu xanh lá cây)",
+  "đường - ở gần - vỉa hè",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - xe (màu xanh dương)",
+  "người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "lều (màu đỏ) - ở gần - người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "lều (màu đỏ) - ở gần - người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - lều (màu đỏ)",
+  "người11 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - tường",
+  "tường - ở gần - tòa nhà",
+  "tòa nhà - ở gần - bầu trời",
+  "bầu trời - ở trên - cây (màu xanh lá cây)",
+  "vali (màu xanh dương) - ở gần - tường",
+  "người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - vali (màu xanh dương)"
+]
+```
+
+frame_47:
+```json
+[
+  "tòa nhà - ở gần - cây (màu xanh lá cây)",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - xe (màu xanh dương)",
+  "người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "lều (màu đỏ) - ở gần - người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "lều (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - tường",
+  "tường - ở gần - tòa nhà",
+  "tòa nhà - ở gần - bầu trời",
+  "bầu trời - ở trên - cây (màu xanh lá cây)",
+  "vali (màu xanh dương) - ở gần - tường",
+  "người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - vali (màu xanh dương)",
+  "ghế1 (màu cam) - ở gần - vali (màu xanh dương)"
+]
+```
+
+frame_48:
+```json
+[
+  "bầu trời - ở gần - cây (màu xanh lá cây)",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - xe (màu xanh dương)",
+  "người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "lều (màu đỏ) - ở gần - người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường)",
+  "lều (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - tường",
+  "tường - ở gần - tòa nhà",
+  "tòa nhà - ở gần - bầu trời",
+  "bầu trời - ở trên - cây (màu xanh lá cây)",
+  "vali (màu xanh dương) - ở gần - tường",
+  "người12 (trưởng thành - không rõ giới tính, không rõ quần áo, đang đứng, bình thường) - ở gần - vali (màu xanh dương)",
+  "ghế1 (màu cam) - ở gần - vali (màu xanh dương)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ở gần - vali (màu xanh dương)"
+]
+```
+
+frame_49:
+```json
+[
+  "cây (màu xanh lá cây) - ở gần - tòa nhà",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - xe hơi (màu xanh dương)",
+  "lều (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - tường",
+  "tường - ở gần - tòa nhà",
+  "tòa nhà - ở gần - bầu trời",
+  "bầu trời - ở trên - cây (màu xanh lá cây)",
+  "vali (màu xanh dương) - ở gần - tường",
+  "ghế1 (màu cam) - ở gần - vali (màu xanh dương)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ở gần - vali (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - mang theo - vali (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - mang theo - ghế1 (màu cam)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - đạp - xe đạp (màu đen)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - mang theo - vali (màu xanh dương)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ngồi trên - ghế1 (màu cam)"
+]
+```
+
+frame_50:
+```json
+[
+  "cây (màu xanh lá cây) - ở gần - tòa nhà",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - ở gần - xe hơi (màu xanh dương)",
+  "lều (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - ở gần - tường",
+  "tường - ở gần - tòa nhà",
+  "tòa nhà - ở gần - bầu trời",
+  "bầu trời - ở trên - cây (màu xanh lá cây)",
+  "vali (màu xanh dương) - ở gần - tường",
+  "ghế1 (màu cam) - ở gần - vali (màu xanh dương)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ở gần - vali (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - mang theo - vali (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - mang theo - ghế1 (màu cam)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - đạp - xe đạp (màu đen)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - mang theo - vali (màu xanh dương)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ngồi trên - ghế1 (màu cam)",
+  "xe tải - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_51:
+```json
+[
+  "cây (màu xanh lá cây) - ở gần - tòa nhà",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - ở gần - xe hơi (màu xanh dương)",
+  "lều (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - ở gần - tường",
+  "tường - ở gần - tòa nhà",
+  "tòa nhà - ở gần - bầu trời",
+  "bầu trời - ở trên - cây (màu xanh lá cây)",
+  "vali (màu xanh dương) - ở gần - tường",
+  "ghế1 (màu cam) - ở gần - vali (màu xanh dương)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ở gần - vali (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - mang theo - vali (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - mang theo - ghế1 (màu cam)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - đạp - xe đạp (màu đen)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - mang theo - vali (màu xanh dương)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ngồi trên - ghế1 (màu cam)",
+  "xe tải - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_52:
+```json
+[
+  "cây (màu xanh lá cây) - ở gần - tòa nhà",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - ở gần - xe hơi (màu xanh dương)",
+  "lều (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - ở gần - tường",
+  "tường - ở gần - tòa nhà",
+  "tòa nhà - ở gần - bầu trời",
+  "bầu trời - ở trên - cây (màu xanh lá cây)",
+  "vali (màu xanh dương) - ở gần - tường",
+  "ghế1 (màu cam) - ở gần - vali (màu xanh dương)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ở gần - vali (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - mang theo - vali (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi xe máy, bình thường) - mang theo - ghế1 (màu cam)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - đạp - xe đạp (màu đen)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - mang theo - vali (màu xanh dương)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - ngồi trên - ghế1 (màu cam)",
+  "xe tải - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_53:
+```json
+[
+  "cây (màu xanh lá cây) - ở gần - tòa nhà",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - ở gần - xe hơi (màu xanh dương)",
+  "lều (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - ở gần - tường",
+  "tường - ở gần - tòa nhà",
+  "tòa nhà - ở gần - bầu trời",
+  "bầu trời - ở trên - cây (màu xanh lá cây)",
+  "ghế1 (màu cam) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường) - đạp - xe đạp (màu đen)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, bình thường) - đứng cạnh - ghế1 (màu cam)",
+  "xe tải - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_54:
+```json
+[
+  "cây (màu xanh lá cây) - ở gần - tòa nhà",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - xe hơi (màu xanh dương)",
+  "lều (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - lều (màu đỏ)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - tường",
+  "tường - ở gần - tòa nhà",
+  "tòa nhà - ở gần - bầu trời",
+  "bầu trời - ở trên - cây (màu xanh lá cây)",
+  "ghế1 (màu cam) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường) - đứng cạnh - ghế1 (màu cam)"
+]
+```
+
+frame_55:
+```json
+[
+  "cây (màu xanh lá cây) - ở gần - nhà",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - xe hơi (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - tường",
+  "tường - ở gần - nhà",
+  "nhà - ở gần - bầu trời",
+  "bầu trời - ở trên - cây (màu xanh lá cây)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường) - đứng cạnh - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường)"
+]
+```
+
+frame_56:
+```json
+[
+  "cây (màu xanh lá cây) - ở gần - nhà",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - xe hơi (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - tường",
+  "tường - ở gần - nhà",
+  "nhà - ở gần - bầu trời",
+  "bầu trời - ở trên - cây (màu xanh lá cây)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường) - đứng cạnh - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bình thường) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường)"
+]
+```
+
+frame_57:
+```json
+[
+  "cây (màu xanh lá cây) - ở gần - nhà",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe máy, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe máy, bình thường) - ở gần - xe hơi (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe máy, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe máy, bình thường) - ở gần - tường",
+  "tường - ở gần - nhà",
+  "nhà - ở gần - bầu trời",
+  "bầu trời - ở trên - cây (màu xanh lá cây)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường) - đứng cạnh - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe máy, bình thường) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường)",
+  "mái nhà - ở trên - nhà"
+]
+```
+
+frame_58:
+```json
+[
+  "cây (màu xanh lá cây) - ở gần - nhà",
+  "đường - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe máy, bình thường) - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe máy, bình thường) - ở gần - xe hơi (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe máy, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe máy, bình thường) - ở gần - tường",
+  "tường - ở gần - nhà",
+  "nhà - ở gần - bầu trời",
+  "bầu trời - ở trên - cây (màu xanh lá cây)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường) - đứng cạnh - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe máy, bình thường) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường)",
+  "mái nhà - ở trên - nhà",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo vàng, đang đứng, bình thường)",
+  "nhà - ở gần - xe hơi (màu xanh dương)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe máy, bình thường) - ở gần - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đi, bình thường)"
+]
+```
+
+frame_59:
+```json
+[
+  "mái nhà - ở trên - nhà",
+  "cây (màu xanh lá cây) - ở gần - nhà",
+  "đường - ở gần - nhà",
+  "nhà - ở gần - cây (màu xanh lá cây)",
+  "nhà - ở gần - xe hơi1 (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở gần - xe hơi2 (màu tím)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi, vui vẻ) - ở gần - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi, vui vẻ) - ở gần - xe hơi1 (màu xanh dương)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi, vui vẻ) - ở gần - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi, vui vẻ) - ở gần - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)"
+]
+```
+
+frame_60:
+```json
+[
+  "mái nhà - ở trên - nhà",
+  "cây (màu xanh lá cây) - ở gần - nhà",
+  "đường - ở gần - nhà",
+  "nhà - ở gần - cây (màu xanh lá cây)",
+  "nhà - ở gần - xe hơi1 (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở gần - xe hơi2 (màu tím)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi, vui vẻ) - ở gần - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi, vui vẻ) - ở gần - xe hơi1 (màu xanh dương)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi, vui vẻ) - ở gần - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi, vui vẻ) - ở gần - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)"
+]
+```
+
+frame_61:
+```json
+[
+  "mái nhà - ở trên - nhà",
+  "cây (màu xanh lá cây) - ở gần - nhà",
+  "đường - ở gần - nhà",
+  "nhà - ở gần - cây (màu xanh lá cây)",
+  "nhà - ở gần - xe hơi1 (màu xanh dương)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở gần - xe hơi2 (màu tím)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi, vui vẻ) - ở gần - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi, vui vẻ) - ở gần - xe hơi1 (màu xanh dương)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi, vui vẻ) - ở gần - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi, vui vẻ) - ở gần - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "tivi (màu be) - ở gần - nhà",
+  "tivi (màu be) - ở gần - đường"
+]
+```
+
+frame_62:
+```json
+[
+  "trần nhà - ở trên - tường",
+  "tường - ở gần - mái nhà",
+  "mái nhà - ở trên - tường",
+  "xe hơi1 (màu xanh dương) - ở gần - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ) - ở trên - xe đạp (màu nâu)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ) - ở gần - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ) - ở gần - xe hơi1 (màu xanh dương)",
+  "đường - ở gần - vỉa hè",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở gần - vỉa hè"
+]
+```
+
+frame_63:
+```json
+[
+  "tường - ở trên - trần nhà",
+  "tường - ở gần - mái nhà",
+  "mái nhà - ở trên - tường",
+  "xe hơi1 (màu xanh dương) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi trên xe đạp, vui vẻ) - ở trên - xe đạp (màu nâu)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi trên xe đạp, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi trên xe đạp, vui vẻ) - ở gần - xe hơi1 (màu xanh dương)",
+  "vỉa hè - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở trên - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi trên xe đạp, vui vẻ)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở gần - vỉa hè",
+  "va li (màu xanh lá cây) - ở trên - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "vỉa hè - ở dưới - tường"
+]
+```
+
+frame_64:
+```json
+[
+  "tường - ở trên - trần nhà",
+  "tường - ở gần - mái nhà",
+  "mái nhà - ở trên - tường",
+  "xe hơi1 (màu xanh dương) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi trên xe đạp, vui vẻ) - ở trên - xe đạp (màu nâu)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi trên xe đạp, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi trên xe đạp, vui vẻ) - ở gần - xe hơi1 (màu xanh dương)",
+  "vỉa hè - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở trên - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi trên xe đạp, vui vẻ)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở gần - vỉa hè",
+  "va li (màu xanh lá cây) - ở trên - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "vỉa hè - ở dưới - tường"
+]
+```
+
+frame_65:
+```json
+[
+  "tường - ở trên - trần nhà",
+  "tường - ở gần - mái nhà",
+  "mái nhà - ở trên - tường",
+  "xe hơi1 (màu xanh dương) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi trên xe đạp, vui vẻ) - ở trên - xe đạp (màu nâu)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi trên xe đạp, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi trên xe đạp, vui vẻ) - ở gần - xe hơi1 (màu xanh dương)",
+  "vỉa hè - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở trên - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi trên xe đạp, vui vẻ)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở gần - vỉa hè",
+  "va li (màu xanh lá cây) - ở trên - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "vỉa hè - ở dưới - tường",
+  "tòa nhà - ở trên - tường",
+  "cây - ở trên - tòa nhà",
+  "ô (màu xanh lá cây) - ở trên - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang đứng, lo lắng)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang đứng, lo lắng) - ở gần - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang đứng, lo lắng)",
+  "cửa sổ - ở trên - tường"
+]
+```
+
+frame_66:
+```json
+[
+  "tường - ở trên - trần nhà",
+  "tường - ở gần - mái nhà",
+  "mái nhà - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - tường",
+  "vỉa hè - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở trên - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang đứng, lo lắng)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở gần - vỉa hè",
+  "va li (màu xanh lá cây) - ở trên - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "vỉa hè - ở dưới - tường",
+  "tòa nhà - ở trên - tường",
+  "cây - ở trên - tòa nhà",
+  "ô (màu xanh lá cây) - ở trên - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang đứng, lo lắng)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang đứng, lo lắng) - ở gần - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang đứng, lo lắng)",
+  "cửa sổ - ở trên - tường",
+  "hàng rào - ở gần - cửa sổ",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang đứng, lo lắng)",
+  "vỉa hè - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)"
+]
+```
+
+frame_67:
+```json
+[
+  "tường - ở trên - trần nhà",
+  "tường - ở gần - mái nhà",
+  "mái nhà - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - tường",
+  "vỉa hè - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở trên - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang đứng, lo lắng)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở gần - vỉa hè",
+  "va li (màu xanh lá cây) - ở trên - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "vỉa hè - ở dưới - tường",
+  "tòa nhà - ở trên - tường",
+  "cây - ở trên - tòa nhà",
+  "ô (màu xanh lá cây) - ở trên - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang đứng, lo lắng)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang đứng, lo lắng) - ở gần - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang đứng, lo lắng)",
+  "cửa sổ - ở trên - tường",
+  "hàng rào - ở gần - cửa sổ",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang đứng, lo lắng)",
+  "vỉa hè - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "ô (màu xanh lá cây) - ở trên - người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ)"
+]
+```
+
+frame_68:
+```json
+[
+  "cửa sổ - ở trên - tường",
+  "tường - ở gần - trần nhà",
+  "tường - ở gần - mái nhà",
+  "mái nhà - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - tường",
+  "vỉa hè - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở trên - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở gần - vỉa hè",
+  "va li (màu xanh lá cây) - ở trên - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "vỉa hè - ở dưới - tường",
+  "tòa nhà - ở trên - tường",
+  "cây - ở trên - tòa nhà",
+  "ô (màu xanh lá cây) - ở trên - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng) - ở gần - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng)",
+  "cửa sổ - ở trên - tường",
+  "hàng rào - ở gần - cửa sổ",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng)",
+  "vỉa hè - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "ô (màu xanh lá cây) - ở trên - người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "tường - ở gần - túi xách (màu tím)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở trước mặt - người5 (trưởng thành - nam, mặc áo trắng, đang đứng, lo lắng)"
+]
+```
+
+frame_69:
+```json
+[
+  "cửa sổ - ở trên - tường",
+  "tường - ở gần - trần nhà",
+  "tường - ở gần - mái nhà",
+  "mái nhà - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - tường",
+  "vỉa hè - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở trên - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở gần - vỉa hè",
+  "vali (màu xanh lá cây) - ở trên - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "vỉa hè - ở dưới - tường",
+  "tòa nhà - ở trên - tường",
+  "cây - ở trên - tòa nhà",
+  "ô (màu xanh lá cây) - ở trên - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng) - ở gần - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng)",
+  "cửa sổ - ở trên - tường",
+  "hàng rào - ở gần - cửa sổ",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng)",
+  "vỉa hè - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "ô (màu xanh lá cây) - ở trên - người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "tường - ở gần - túi xách (màu tím)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở trước mặt - người5 (trưởng thành - nam, mặc áo trắng, đang đứng, lo lắng)",
+  "người5 (trưởng thành - nam, mặc áo trắng, đang đứng, lo lắng) - ở gần - vali (màu xanh lá cây)",
+  "người5 (trưởng thành - nam, mặc áo trắng, đang đứng, lo lắng) - ở sau - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "ô (màu xanh lá cây) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - vali (màu xanh lá cây)"
+]
+```
+
+frame_70:
+```json
+[
+  "cửa sổ - ở trên - tường",
+  "tường - ở gần - trần nhà",
+  "tường - ở gần - mái nhà",
+  "mái nhà - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - tường",
+  "vỉa hè - ở gần - đường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở trên - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường) - ở gần - vỉa hè",
+  "vali (màu xanh lá cây) - ở trên - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "vỉa hè - ở dưới - tường",
+  "tòa nhà - ở trên - tường",
+  "cây - ở trên - tòa nhà",
+  "ô (màu xanh lá cây) - ở trên - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng) - ở gần - người2 (trưởng thành - không rõ giới tính, mặc áo đỏ, đang đứng, bình thường)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng)",
+  "cửa sổ - ở trên - tường",
+  "hàng rào - ở gần - cửa sổ",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng)",
+  "vỉa hè - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "ô (màu xanh lá cây) - ở trên - người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ)",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng nhạt, đang nhìn, lo lắng) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "tường - ở gần - túi xách (màu tím)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở trước mặt - người5 (trưởng thành - nam, mặc áo trắng, đang đứng, lo lắng)",
+  "người5 (trưởng thành - nam, mặc áo trắng, đang đứng, lo lắng) - ở gần - vali (màu xanh lá cây)",
+  "người5 (trưởng thành - nam, mặc áo trắng, đang đứng, lo lắng) - ở sau - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "ô (màu xanh lá cây) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - vali (màu xanh lá cây)",
+  "xe đạp (màu tím) - ở gần - người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ)",
+  "xe đạp (màu tím) - ở gần - đường",
+  "người5 (trưởng thành - nam, mặc áo trắng, đang đứng, lo lắng) - ở gần - người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ)"
+]
+```
+
+frame_71:
+```json
+[
+  "cửa sổ - ở trên - tường",
+  "tường - ở gần - trần nhà",
+  "tường - ở gần - mái nhà",
+  "mái nhà - ở trên - tường",
+  "vỉa hè - ở gần - đường",
+  "vỉa hè - ở dưới - tường",
+  "tòa nhà - ở trên - tường",
+  "cây - ở trên - tòa nhà",
+  "cửa sổ - ở trên - tường",
+  "hàng rào - ở gần - cửa sổ",
+  "tường - ở gần - túi xách (màu tím)",
+  "ô (màu xanh lá cây) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - vali (màu xanh lá cây)",
+  "xe đạp (màu tím) - ở gần - người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ)",
+  "xe đạp (màu tím) - ở gần - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - tường",
+  "vali (màu xanh lá cây) - ở trên - sàn",
+  "sàn - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ) - ở gần - vali (màu xanh lá cây)"
+]
+```
+
+frame_72:
+```json
+[
+  "cửa sổ - ở trên - tường",
+  "tường - ở gần - trần nhà",
+  "tường - ở gần - mái nhà",
+  "mái nhà - ở trên - tường",
+  "vỉa hè - ở gần - đường",
+  "vỉa hè - ở dưới - tường",
+  "tòa nhà - ở trên - tường",
+  "cây - ở trên - tòa nhà",
+  "cửa sổ - ở trên - tường",
+  "hàng rào - ở gần - cửa sổ",
+  "tường - ở gần - túi xách (màu tím)",
+  "ô (màu xanh lá cây) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - vali (màu xanh lá cây)",
+  "xe đạp (màu tím) - ở gần - người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ)",
+  "xe đạp (màu tím) - ở gần - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - tường",
+  "vali (màu xanh lá cây) - ở trên - sàn",
+  "sàn - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - vali (màu xanh lá cây)",
+  "vali (màu xanh lá cây) - ở trên - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)"
+]
+```
+
+frame_73:
+```json
+[
+  "cửa sổ - ở trên - tường gạch",
+  "tường gạch - ở gần - trần nhà",
+  "tường gạch - ở gần - mái nhà",
+  "mái nhà - ở trên - tường gạch",
+  "vỉa hè - ở gần - đường",
+  "vỉa hè - ở dưới - tường",
+  "tòa nhà - ở trên - tường",
+  "cây - ở trên - tòa nhà",
+  "cửa sổ - ở trên - tường",
+  "hàng rào - ở gần - cửa sổ",
+  "tường - ở gần - túi xách (màu tím)",
+  "ô (màu xanh lá cây) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - vali (màu xanh lá cây)",
+  "xe đạp (màu tím) - ở gần - người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ)",
+  "xe đạp (màu tím) - ở gần - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - tường",
+  "vali (màu xanh lá cây) - ở trên - sàn",
+  "sàn - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - vali (màu xanh lá cây)",
+  "vali (màu xanh lá cây) - ở trên - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)"
+]
+```
+
+frame_74:
+```json
+[
+  "tường gạch - ở trên - tường",
+  "vỉa hè - ở dưới - tường",
+  "cửa sổ - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - tường",
+  "vali (màu xanh lá cây) - ở trên - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - vali (màu xanh lá cây)"
+]
+```
+
+frame_75:
+```json
+[
+  "tường gạch - ở trên - tường",
+  "vỉa hè - ở dưới - tường",
+  "cửa sổ - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - tường",
+  "vali (màu xanh lá cây) - ở trên - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - vali (màu xanh lá cây)",
+  "xe đạp - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)"
+]
+```
+
+frame_76:
+```json
+[
+  "tường gạch - ở trên - tường",
+  "vỉa hè - ở dưới - tường",
+  "cửa sổ - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - tường",
+  "vali (màu xanh lá cây) - ở trên - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - vali (màu xanh lá cây)",
+  "xe đạp - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - vỉa hè"
+]
+```
+
+frame_77:
+```json
+[
+  "tường gạch - ở trên - tường",
+  "vỉa hè - ở dưới - tường",
+  "cửa sổ - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - tường",
+  "vali (màu xanh lá cây) - ở trên - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - vali (màu xanh lá cây)",
+  "xe đạp - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - vỉa hè",
+  "nhà - ở trên - vỉa hè",
+  "tòa nhà - ở trên - người2 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ)",
+  "bầu trời - ở trên - tòa nhà",
+  "cây - ở trên - tường"
+]
+```
+
+frame_78:
+```json
+[
+  "tường gạch - ở trên - tường",
+  "vỉa hè - ở dưới - tường",
+  "cửa sổ - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - vỉa hè",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - tường",
+  "vali (màu xanh lá cây) - ở trên - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - vali (màu xanh lá cây)",
+  "xe đạp - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - vỉa hè",
+  "nhà - ở trên - vỉa hè",
+  "tòa nhà - ở trên - người2 (trưởng thành - nữ, mặc áo hồng, đang đứng, vui vẻ)",
+  "bầu trời - ở trên - tòa nhà",
+  "cây - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở trên - xe đạp",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "tòa nhà - ở trên - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)"
+]
+```
+
+frame_79:
+```json
+[
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "c\u00e2y - \u1edf tr\u00ean - t\u01b0\u1eddng",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, vui v\u1ebb) - \u1edf g\u1ea7n - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, vui v\u1ebb) - \u1edf g\u1ea7n - t\u01b0\u1eddng",
+  "vali (m\u00e0u xanh l\u00e1 c\u00e2y) - \u1edf tr\u00ean - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - \u1edf g\u1ea7n - vali (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "xe m\u00e1y - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - \u1edf g\u1ea7n - v\u1ec9a h\u00e8",
+  "t\u00f2a nh\u00e0 - \u1edf tr\u00ean - v\u1ec9a h\u00e8",
+  "t\u00f2a nh\u00e0 - \u1edf tr\u00ean - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, vui v\u1ebb) - \u1edf tr\u00ean - xe m\u00e1y",
+  "v\u1ec9a h\u00e8 - \u1edf d\u01b0\u1edbi - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, vui v\u1ebb)",
+  "t\u00f2a nh\u00e0 - \u1edf tr\u00ean - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, vui v\u1ebb)",
+  "t\u01b0\u1eddng - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - che khu\u1ea5t - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb)"
+]
+```
+
+frame_80:
+```json
+[
+  "tường - ở trên - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đẩy xe, vui vẻ) - ở gần - tường",
+  "vali (màu xanh da trời) - ở trên - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đẩy xe, vui vẻ)",
+  "xe máy - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đẩy xe, vui vẻ)",
+  "sàn nhà - ở dưới - xe máy",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đẩy xe, vui vẻ) - ở trên - xe máy",
+  "tường - ở trên - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đẩy xe, vui vẻ)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đẩy xe, vui vẻ)",
+  "vỉa hè - ở gần - cây cảnh (màu vàng)"
+]
+```
+
+frame_81:
+```json
+[
+  "tường - ở trên - tuyết",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, vui vẻ)",
+  "đường - ở dưới - xe đạp1",
+  "người2 (trưởng thành - không rõ, mặc áo hồng nhạt, đang đi bộ, không rõ) - ở trên - xe đạp2",
+  "chó - ở gần - người2 (trưởng thành - không rõ, mặc áo hồng nhạt, đang đi bộ, không rõ)",
+  "đường - ở dưới - xe đạp2",
+  "xe đạp2 - ở trên - đường"
+]
+```
+
+frame_82:
+```json
+[
+  "nhà - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi, vui vẻ) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi, vui vẻ)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang ngồi, vui vẻ)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu vàng) - ở gần - xe tải1",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây"
+]
+```
+
+frame_83:
+```json
+[
+  "nhà - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu vàng) - ở gần - xe tải1",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây"
+]
+```
+
+frame_84:
+```json
+[
+  "nhà - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu vàng) - ở gần - xe tải1",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây"
+]
+```
+
+frame_85:
+```json
+[
+  "tường - ở trên - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu vàng) - ở gần - xe tải1",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ) - ở gần - xe tải1 (màu xám)",
+  "xe đạp1 - ở gần - xe tải1 (màu xám)"
+]
+```
+
+frame_86:
+```json
+[
+  "tường - ở trên - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu vàng) - ở gần - xe tải1",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ) - ở gần - xe tải1 (màu xám)",
+  "xe đạp1 - ở gần - xe tải1 (màu xám)",
+  "ô (màu trắng) - ở gần - người2 (trưởng thành - nam, mặc áo cam, lo lắng)",
+  "người2 (trưởng thành - nam, mặc áo cam, lo lắng) - ở gần - xe tải1 (màu xám)",
+  "xe đạp2 - ở gần - người2 (trưởng thành - nam, mặc áo cam, lo lắng)"
+]
+```
+
+frame_87:
+```json
+[
+  "tường - ở trên - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu vàng) - ở gần - xe tải1",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang lái xe đạp, vui vẻ) - ở gần - xe tải1 (màu xám)",
+  "xe đạp1 - ở gần - xe tải1 (màu xám)",
+  "ô (màu trắng) - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang lái xe đạp, lo lắng)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang lái xe đạp, lo lắng) - ở gần - xe tải1 (màu xám)",
+  "xe đạp2 - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang lái xe đạp, lo lắng)",
+  "đường - ở dưới - xe đạp2",
+  "người2 (trưởng thành - nam, mặc áo cam, đang lái xe đạp, lo lắng) - ở trên - đường"
+]
+```
+
+frame_88:
+```json
+[
+  "tường - ở trên - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu vàng) - ở gần - xe tải1",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ) - ở gần - xe tải1 (màu xám)",
+  "xe đạp1 - ở gần - xe tải1 (màu xám)",
+  "ô (màu trắng) - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đi xe đạp, lo lắng)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đi xe đạp, lo lắng) - ở gần - xe tải1 (màu xám)",
+  "xe đạp2 - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đi xe đạp, lo lắng)",
+  "đường - ở dưới - xe đạp2",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đi xe đạp, lo lắng) - ở trên - đường",
+  "người3 (trưởng thành - không rõ, mặc đồ hồng, đang đứng cạnh xe tải, bối rối) - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - người3 (trưởng thành - không rõ, mặc đồ hồng, đang đứng cạnh xe tải, bối rối)"
+]
+```
+
+frame_89:
+```json
+[
+  "tường - ở trên - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu vàng) - ở gần - xe tải1",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ) - ở gần - xe tải1 (màu xám)",
+  "xe đạp1 - ở gần - xe tải1 (màu xám)",
+  "ô (màu trắng) - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đi xe đạp, lo lắng)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đi xe đạp, lo lắng) - ở gần - xe tải1 (màu xám)",
+  "xe đạp2 - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đi xe đạp, lo lắng)",
+  "đường - ở dưới - xe đạp2",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đi xe đạp, lo lắng) - ở trên - đường",
+  "người3 (trưởng thành - không rõ, mặc đồ hồng, đang đứng cạnh xe tải, bối rối) - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - người3 (trưởng thành - không rõ, mặc đồ hồng, đang đứng cạnh xe tải, bối rối)",
+  "người3 (trưởng thành - không rõ, mặc đồ hồng, đang đứng cạnh xe tải, bối rối) - ngồi trên - ghế1 (màu vàng)",
+  "ghế1 (màu vàng) - ở gần - người3 (trưởng thành - không rõ, mặc đồ hồng, đang đứng cạnh xe tải, bối rối)",
+  "người4 (trưởng thành - không rõ, mặc đồ cam, đang đứng cạnh xe tải, căng thẳng) - ở gần - xe tải1 (màu xám)"
+]
+```
+
+frame_90:
+```json
+[
+  "tường - ở trên - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu vàng) - ở gần - xe tải1",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi xe đạp, vui vẻ) - ở gần - xe tải1 (màu xám)",
+  "xe đạp1 - ở gần - xe tải1 (màu xám)",
+  "ô (màu trắng) - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đi xe đạp, lo lắng)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đi xe đạp, lo lắng) - ở gần - xe tải1 (màu xám)",
+  "xe đạp2 - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đi xe đạp, lo lắng)",
+  "đường - ở dưới - xe đạp2",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đi xe đạp, lo lắng) - ở trên - đường",
+  "người3 (trưởng thành - không rõ, mặc đồ hồng, đang đứng cạnh xe tải, bối rối) - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - người3 (trưởng thành - không rõ, mặc đồ hồng, đang đứng cạnh xe tải, bối rối)",
+  "người3 (trưởng thành - không rõ, mặc đồ hồng, đang đứng cạnh xe tải, bối rối) - ngồi trên - ghế1 (màu vàng)",
+  "ghế1 (màu vàng) - ở gần - người3 (trưởng thành - không rõ, mặc đồ hồng, đang đứng cạnh xe tải, bối rối)",
+  "người4 (trưởng thành - không rõ, mặc đồ cam, đang đứng cạnh xe tải, căng thẳng) - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - người4 (trưởng thành - không rõ, mặc đồ cam, đang đứng cạnh xe tải, căng thẳng)",
+  "cây - ở trên - tòa nhà",
+  "người5 (trưởng thành - không rõ, mặc đồ hồng, đang đứng, ngạc nhiên) - ở gần - người4 (trưởng thành - không rõ, mặc đồ cam, đang đứng cạnh xe tải, căng thẳng)",
+  "vỉa hè - ở gần - người5 (trưởng thành - không rõ, mặc đồ hồng, đang đứng, ngạc nhiên)"
+]
+```
+
+frame_91:
+```json
+[
+  "t\u01b0\u1eddng - \u1edf tr\u00ean - nh\u00e0",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111\u1ee9ng, b\u1ed1i r\u1ed1i) - \u1edf g\u1ea7n - t\u01b0\u1eddng",
+  "xe \u0111\u1ea1p1 - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111\u1ee9ng, b\u1ed1i r\u1ed1i)",
+  "v\u1ec9a h\u00e8 - \u1edf d\u01b0\u1edbi - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111\u1ee9ng, b\u1ed1i r\u1ed1i)",
+  "\u0111\u01b0\u1eddng - \u1edf d\u01b0\u1edbi - xe \u0111\u1ea1p1",
+  "gh\u1ebf1 (m\u00e0u \u0111\u1ecf) - \u1edf g\u1ea7n - v\u00f2i r\u00f3ng",
+  "xe t\u1ea3i1 (m\u00e0u x\u00e1m) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "nh\u00e0 - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "t\u00f2a nh\u00e0 - \u1edf g\u1ea7n - c\u00e2y",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111\u1ee9ng, b\u1ed1i r\u1ed1i) - \u1edf g\u1ea7n - xe t\u1ea3i1 (m\u00e0u x\u00e1m)",
+  "xe \u0111\u1ea1p1 - \u1edf g\u1ea7n - xe t\u1ea3i1 (m\u00e0u x\u00e1m)",
+  "\u00f4 (m\u00e0u tr\u1eafng) - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng, lo l\u1eafng)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng, lo l\u1eafng) - \u1edf g\u1ea7n - xe t\u1ea3i1 (m\u00e0u x\u00e1m)",
+  "xe \u0111\u1ea1p2 - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng, lo l\u1eafng)",
+  "\u0111\u01b0\u1eddng - \u1edf d\u01b0\u1edbi - xe \u0111\u1ea1p2",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng, lo l\u1eafng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111\u1ee9ng, b\u1ed1i r\u1ed1i) - \u1edf g\u1ea7n - xe t\u1ea3i1 (m\u00e0u x\u00e1m)",
+  "v\u1ec9a h\u00e8 - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111\u1ee9ng, b\u1ed1i r\u1ed1i)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111\u1ee9ng, b\u1ed1i r\u1ed1i) - \u1edf g\u1ea7n - gh\u1ebf1 (m\u00e0u \u0111\u1ecf)",
+  "gh\u1ebf1 (m\u00e0u \u0111\u1ecf) - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111\u1ee9ng, b\u1ed1i r\u1ed1i)",
+  "v\u00f2i r\u00f3ng - \u1edf g\u1ea7n - xe t\u1ea3i1 (m\u00e0u x\u00e1m)",
+  "v\u1ec9a h\u00e8 - \u1edf g\u1ea7n - v\u00f2i r\u00f3ng",
+  "c\u00e2y - \u1edf tr\u00ean - t\u00f2a nh\u00e0"
+]
+```
+
+frame_92:
+```json
+[
+  "tường - ở trên - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, bối rối) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, bối rối)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, bối rối)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu đỏ) - ở gần - vòi rồng",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, bối rối) - ở gần - xe tải1 (màu xám)",
+  "xe đạp1 - ở gần - xe tải1 (màu xám)",
+  "ô (màu trắng) - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở gần - xe tải1 (màu xám)",
+  "xe đạp2 - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "đường - ở dưới - xe đạp2",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở trên - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, bối rối) - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, bối rối)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, bối rối) - ở gần - ghế1 (màu đỏ)",
+  "ghế1 (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đứng, bối rối)",
+  "vòi rồng - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - vòi rồng",
+  "cây - ở trên - tòa nhà",
+  "sàn nhà - ở trên - vỉa hè",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đứng, ngạc nhiên) - cầm - ô (màu trắng)",
+  "ghế2 (màu nâu) - ở gần - ô (màu trắng)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở gần - ghế2 (màu nâu)"
+]
+```
+
+frame_93:
+```json
+[
+  "tường - ở trên - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu đỏ) - ở gần - vòi rồng",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - xe tải1 (màu xám)",
+  "xe đạp1 - ở gần - xe tải1 (màu xám)",
+  "ô (màu trắng) - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở gần - xe tải1 (màu xám)",
+  "xe đạp2 - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "đường - ở dưới - xe đạp2",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở trên - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - ghế1 (màu đỏ)",
+  "ghế1 (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "vòi rồng - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - vòi rồng",
+  "cây - ở trên - tòa nhà",
+  "sàn nhà - ở trên - vỉa hè",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở gần - vỉa hè"
+]
+```
+
+frame_94:
+```json
+[
+  "tường - ở trên - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu đỏ) - ở gần - vòi rồng",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - xe tải1 (màu xám)",
+  "xe đạp1 - ở gần - xe tải1 (màu xám)",
+  "ô (màu trắng) - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở gần - xe tải1 (màu xám)",
+  "xe đạp2 - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "đường - ở dưới - xe đạp2",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở trên - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - ghế1 (màu đỏ)",
+  "ghế1 (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "vòi rồng - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - vòi rồng",
+  "cây - ở trên - tòa nhà",
+  "sàn nhà - ở trên - vỉa hè",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở gần - vỉa hè",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở gần - tường",
+  "túi xách1 (màu tím) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "vỉa hè - ở gần - túi xách1 (màu tím)"
+]
+```
+
+frame_95:
+```json
+[
+  "tường - ở trên - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu đỏ) - ở gần - vòi rồng",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - xe tải1 (màu xám)",
+  "xe đạp1 - ở gần - xe tải1 (màu xám)",
+  "ô (màu trắng) - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở gần - xe tải1 (màu xám)",
+  "xe đạp2 - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "đường - ở dưới - xe đạp2",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở trên - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - ghế1 (màu đỏ)",
+  "ghế1 (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "vòi rồng - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - vòi rồng",
+  "cây - ở trên - tòa nhà",
+  "sàn nhà - ở trên - vỉa hè",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở gần - vỉa hè",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở gần - tường",
+  "túi xách1 (màu tím) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "vỉa hè - ở gần - túi xách1 (màu tím)",
+  "dao1 (màu xám) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở gần - vòi chữa cháy (màu vàng)"
+]
+```
+
+frame_96:
+```json
+[
+  "t\u01b0\u1eddng - \u1edf tr\u00ean - nh\u00e0",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i) - \u1edf g\u1ea7n - t\u01b0\u1eddng",
+  "xe \u0111\u1ea1p1 - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i)",
+  "v\u1ec9a h\u00e8 - \u1edf d\u01b0\u1edbi - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i)",
+  "\u0111\u01b0\u1eddng - \u1edf d\u01b0\u1edbi - xe \u0111\u1ea1p1",
+  "gh\u1ebf1 (m\u00e0u \u0111\u1ecf) - \u1edf g\u1ea7n - v\u00f2i r\u1ed3ng",
+  "xe t\u1ea3i1 (m\u00e0u x\u00e1m) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "nh\u00e0 - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "t\u00f2a nh\u00e0 - \u1edf g\u1ea7n - c\u00e2y",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i) - \u1edf g\u1ea7n - xe t\u1ea3i1 (m\u00e0u x\u00e1m)",
+  "xe \u0111\u1ea1p1 - \u1edf g\u1ea7n - xe t\u1ea3i1 (m\u00e0u x\u00e1m)",
+  "\u00f4 (m\u00e0u tr\u1eafng) - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng, lo l\u1eafng)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng, lo l\u1eafng) - \u1edf g\u1ea7n - xe t\u1ea3i1 (m\u00e0u x\u00e1m)",
+  "xe \u0111\u1ea1p2 - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng, lo l\u1eafng)",
+  "\u0111\u01b0\u1eddng - \u1edf d\u01b0\u1edbi - xe \u0111\u1ea1p2",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng, lo l\u1eafng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i) - \u1edf g\u1ea7n - xe t\u1ea3i1 (m\u00e0u x\u00e1m)",
+  "v\u1ec9a h\u00e8 - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i) - \u1edf g\u1ea7n - gh\u1ebf1 (m\u00e0u \u0111\u1ecf)",
+  "gh\u1ebf1 (m\u00e0u \u0111\u1ecf) - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i)",
+  "v\u00f2i r\u1ed3ng - \u1edf g\u1ea7n - xe t\u1ea3i1 (m\u00e0u x\u00e1m)",
+  "v\u1ec9a h\u00e8 - \u1edf g\u1ea7n - v\u00f2i r\u1ed3ng",
+  "c\u00e2y - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "s\u00e0n nh\u00e0 - \u1edf tr\u00ean - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng nh\u1ea1t, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i)",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u1edf g\u1ea7n - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u1edf g\u1ea7n - t\u01b0\u1eddng",
+  "t\u00fai x\u00e1ch1 (m\u00e0u t\u00edm) - \u1edf g\u1ea7n - ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean)",
+  "v\u1ec9a h\u00e8 - \u1edf g\u1ea7n - t\u00fai x\u00e1ch1 (m\u00e0u t\u00edm)",
+  "dao1 (m\u00e0u x\u00e1m) - \u1edf g\u1ea7n - ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean)",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u1edf g\u1ea7n - v\u00f2i ch\u1eefa ch\u00e1y (m\u00e0u v\u00e0ng)",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u1ec9 tay, ng\u1ea1c nhi\u00ean) - \u1edf g\u1ea7n - vali (m\u00e0u xanh n\u01b0\u1edbc bi\u1ec3n)",
+  "\u00f4 (m\u00e0u xanh ng\u1ecdc) - \u1edf g\u1ea7n - ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u1ec9 tay, ng\u1ea1c nhi\u00ean)",
+  "v\u1ec9a h\u00e8 - \u1edf g\u1ea7n - vali (m\u00e0u xanh n\u01b0\u1edbc bi\u1ec3n)"
+]
+```
+
+frame_97:
+```json
+[
+  "tường - ở trên - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu đỏ) - ở gần - vòi rồng",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - xe tải1 (màu xám)",
+  "xe đạp1 - ở gần - xe tải1 (màu xám)",
+  "ô (màu trắng) - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở gần - xe tải1 (màu xám)",
+  "xe đạp2 - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "đường - ở dưới - xe đạp2",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở trên - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - ghế1 (màu đỏ)",
+  "ghế1 (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "vòi rồng - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - vòi rồng",
+  "cây - ở trên - tòa nhà",
+  "sàn nhà - ở trên - vỉa hè",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vỉa hè",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - tường",
+  "túi xách1 (màu tím) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên)",
+  "vỉa hè - ở gần - túi xách1 (màu tím)",
+  "dao1 (màu xám) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vòi chữa cháy (màu vàng)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vali (màu xanh nước biển)",
+  "ô (màu xanh ngọc) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên)",
+  "vỉa hè - ở gần - vali (màu xanh nước biển)"
+]
+```
+
+frame_98:
+```json
+[
+  "tường - ở trên - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu đỏ) - ở gần - vòi rồng",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - xe tải1 (màu xám)",
+  "xe đạp1 - ở gần - xe tải1 (màu xám)",
+  "ô (màu trắng) - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở gần - xe tải1 (màu xám)",
+  "xe đạp2 - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "đường - ở dưới - xe đạp2",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở trên - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - ghế1 (màu đỏ)",
+  "ghế1 (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "vòi rồng - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - vòi rồng",
+  "cây - ở trên - tòa nhà",
+  "sàn nhà - ở trên - vỉa hè",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vỉa hè",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - tường",
+  "túi xách1 (màu tím) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên)",
+  "vỉa hè - ở gần - túi xách1 (màu tím)",
+  "dao1 (màu xám) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vòi chữa cháy (màu vàng)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vali (màu xanh nước biển)",
+  "ô (màu xanh ngọc) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên)",
+  "vỉa hè - ở gần - vali (màu xanh nước biển)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vòi chữa cháy (màu vàng)",
+  "vỉa hè - ở gần - đường"
+]
+```
+
+frame_99:
+```json
+[
+  "tường - ở trên - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu đỏ) - ở gần - vòi rồng",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - xe tải1 (màu xám)",
+  "xe đạp1 - ở gần - xe tải1 (màu xám)",
+  "ô (màu trắng) - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở gần - xe tải1 (màu xám)",
+  "xe đạp2 - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "đường - ở dưới - xe đạp2",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở trên - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - ghế1 (màu đỏ)",
+  "ghế1 (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "vòi rồng - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - vòi rồng",
+  "cây - ở trên - tòa nhà",
+  "sàn nhà - ở trên - vỉa hè",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vỉa hè",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - tường",
+  "túi xách1 (màu tím) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên)",
+  "vỉa hè - ở gần - túi xách1 (màu tím)",
+  "dao1 (màu xám) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vòi chữa cháy (màu vàng)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vali (màu xanh nước biển)",
+  "ô (màu xanh ngọc) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên)",
+  "vỉa hè - ở gần - vali (màu xanh nước biển)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vòi chữa cháy (màu vàng)",
+  "vỉa hè - ở gần - đường",
+  "người4 (trẻ - nữ, mặc áo hồng, đang đi bộ, lo lắng) - ở gần - ghế1 (màu đỏ)",
+  "người4 (trẻ - nữ, mặc áo hồng, đang đi bộ, lo lắng) - ở gần - đường",
+  "đường - ở gần - ghế1 (màu đỏ)",
+  "vỉa hè - ở gần - đường",
+  "người5 (trưởng thành - nam, mặc quần áo đen, đang đứng, sợ hãi) - ở gần - vòi chữa cháy (màu vàng)"
+]
+```
+
+frame_100:
+```json
+[
+  "tường - ở trên - nhà",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - tường",
+  "xe đạp1 - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "vỉa hè - ở dưới - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "đường - ở dưới - xe đạp1",
+  "ghế1 (màu đỏ) - ở gần - vòi rồng",
+  "xe tải1 (màu xám) - ở trên - đường",
+  "nhà - ở trên - tòa nhà",
+  "tòa nhà - ở gần - cây",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - xe tải1 (màu xám)",
+  "xe đạp1 - ở gần - xe tải1 (màu xám)",
+  "ô (màu trắng) - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở gần - xe tải1 (màu xám)",
+  "xe đạp2 - ở gần - người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng)",
+  "đường - ở dưới - xe đạp2",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, lo lắng) - ở trên - đường",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối) - ở gần - ghế1 (màu đỏ)",
+  "ghế1 (màu đỏ) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "vòi rồng - ở gần - xe tải1 (màu xám)",
+  "vỉa hè - ở gần - vòi rồng",
+  "cây - ở trên - tòa nhà",
+  "sàn nhà - ở trên - vỉa hè",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vỉa hè",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - tường",
+  "túi xách1 (màu tím) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên)",
+  "vỉa hè - ở gần - túi xách1 (màu tím)",
+  "dao1 (màu xám) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vòi chữa cháy (màu vàng)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vali (màu xanh nước biển)",
+  "ô (màu xanh ngọc) - ở gần - người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên)",
+  "vỉa hè - ở gần - vali (màu xanh nước biển)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - người1 (trưởng thành - nam, mặc áo hồng nhạt, đang đi bộ, bối rối)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang chỉ tay, ngạc nhiên) - ở gần - vòi chữa cháy (màu vàng)",
+  "vỉa hè - ở gần - đường",
+  "người4 (trẻ - nữ, mặc áo hồng, đang đi bộ, lo lắng) - ở gần - ghế1 (màu đỏ)",
+  "người4 (trẻ - nữ, mặc áo hồng, đang đi bộ, lo lắng) - ở gần - đường",
+  "đường - ở gần - ghế1 (màu đỏ)",
+  "vỉa hè - ở gần - đường",
+  "người5 (trưởng thành - nam, mặc quần áo đen, đang đứng, sợ hãi) - ở gần - vòi chữa cháy (màu vàng)"
+]
+```
+

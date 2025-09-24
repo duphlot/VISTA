@@ -1,0 +1,31 @@
+frame_0000.jpg: a man climbing up a rocky mountain
+frame_0001.jpg: a group of climbers climbing up a steep
+frame_0002.jpg: two men climbing up a rocky mountain
+frame_0003.jpg: two climbers climbing up a steep in the mountains
+frame_0004.jpg: two climbers climbing up a rocky mountain
+frame_0005.jpg: two climbers climbing up a steep in the mountains
+frame_0006.jpg: a group of people climbing up a mountain
+frame_0007.jpg: two climbers climbing up a rocky mountain
+frame_0008.jpg: two people climbing up a rocky mountain
+frame_0009.jpg: two people climbing up a rocky mountain
+frame_0010.jpg: a group of people climbing up a rocky mountain
+frame_0011.jpg: a man climbing up a rocky mountain
+frame_0012.jpg: a man climbing up a rocky mountain
+frame_0013.jpg: a man climbing up a rocky mountain
+frame_0014.jpg: a man climbing up a rocky mountain
+frame_0015.jpg: a man climbing up a rocky mountain
+frame_0016.jpg: a man climbing up a rocky mountain
+frame_0017.jpg: a man climbing up a rocky mountain
+frame_0018.jpg: a man climbing up a rocky mountain
+frame_0019.jpg: a group of people climbing up a rocky mountain
+frame_0020.jpg: a group of people climbing up a rocky mountain
+frame_0021.jpg: a group of people climbing up a mountain
+frame_0022.jpg: a group of people climbing up a mountain
+frame_0023.jpg: two climbers climbing up a rocky mountain
+frame_0024.jpg: a group of people climbing up a rocky mountain
+frame_0025.jpg: a man climbing up a rocky mountain
+frame_0026.jpg: a man climbing up a rocky mountain
+frame_0027.jpg: a man climbing up a rocky mountain
+frame_0028.jpg: a man climbing up a rocky mountain
+frame_0029.jpg: a man climbing up a rocky mountain
+frame_0030.jpg: a man climbing up a rocky mountain

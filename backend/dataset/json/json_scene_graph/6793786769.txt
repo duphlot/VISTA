@@ -1,0 +1,1087 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, đang nằm, tò mò) - phía trên - xe tải1 (màu xanh lam)",
+  "người1 (trẻ - chưa rõ giới tính, đang nằm, tò mò) - phía trên - xe tải2 (màu tím)",
+  "xe tải1 (màu xanh lam) - trên - bụi bẩn",
+  "xe tải2 (màu tím) - trên - sàn nhà"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, đang nằm, tò mò) - phía trên - xe tải1 (màu xanh lam)",
+  "người1 (trẻ - chưa rõ giới tính, đang nằm, tò mò) - phía trên - xe tải2 (màu tím)",
+  "xe tải1 (màu xanh lam) - trên - bụi bẩn",
+  "xe tải2 (màu tím) - trên - sàn nhà",
+  "xe tải1 (màu xanh lam) - trên - thảm",
+  "xe tải2 (màu tím) - trên - thảm",
+  "tường - phía sau - xe tải2 (màu tím)",
+  "sàn nhà - bên cạnh - thảm",
+  "cát - trên - thảm"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, đang nằm, tò mò) - phía trên - xe tải1 (màu xanh lam)",
+  "người1 (trẻ - chưa rõ giới tính, đang nằm, tò mò) - phía trên - xe tải2 (màu tím)",
+  "xe tải1 (màu xanh lam) - trên - bụi bẩn",
+  "xe tải2 (màu tím) - trên - sàn nhà",
+  "xe tải1 (màu xanh lam) - trên - thảm",
+  "xe tải2 (màu tím) - trên - thảm",
+  "tường - phía sau - xe tải2 (màu tím)",
+  "sàn nhà - bên cạnh - thảm",
+  "cát - trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, đang nằm, tò mò) - phía trên - xe tải3 (màu xám)",
+  "người3 (trẻ - chưa rõ giới tính, đang nằm, tò mò) - phía trên - xe tải1 (màu xanh lam)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, đang nằm, tò mò) - phía trên - xe tải1 (màu xanh lam)",
+  "người1 (trẻ - chưa rõ giới tính, đang nằm, tò mò) - phía trên - xe tải2 (màu tím)",
+  "xe tải1 (màu xanh lam) - trên - sàn nhà",
+  "xe tải2 (màu tím) - trên - sàn nhà",
+  "xe tải1 (màu xanh lam) - trên - thảm",
+  "xe tải2 (màu tím) - trên - thảm",
+  "tường - phía sau - xe tải2 (màu tím)",
+  "sàn nhà - bên cạnh - thảm",
+  "người (trẻ - chưa rõ giới tính, đang nằm, tò mò) - phía trên - xe tải1 (màu xanh lam)",
+  "người (trẻ - chưa rõ giới tính, đang nằm, tò mò) - phía trên - xe tải2 (màu tím)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, đang nằm, tò mò) - phía trên - xe tải1 (màu xanh lam)",
+  "người1 (trẻ - chưa rõ giới tính, đang nằm, tò mò) - phía trên - xe tải2 (màu tím)",
+  "xe tải1 (màu xanh lam) - trên - sàn nhà",
+  "xe tải2 (màu tím) - trên - sàn nhà",
+  "xe tải1 (màu xanh lam) - trên - thảm",
+  "xe tải2 (màu tím) - trên - thảm",
+  "tường - phía sau - xe tải2 (màu tím)",
+  "sàn nhà - bên cạnh - thảm",
+  "người1 (trẻ - chưa rõ giới tính, đang nhìn, tò mò) - phía trên - xe tải1 (màu xanh lam)",
+  "người1 (trẻ - chưa rõ giới tính, đang nhìn, tò mò) - phía trên - xe tải2 (màu tím)",
+  "xe tải1 (màu xanh lam) - bên cạnh - tàu hỏa (màu xanh lá cây)",
+  "xe tải2 (màu tím) - bên cạnh - tàu hỏa (màu xanh lá cây)",
+  "người1 (trẻ - chưa rõ giới tính, đang nhìn, tò mò) - phía trên - tàu hỏa (màu xanh lá cây)",
+  "đất - bên dưới - xe tải1 (màu xanh lam)",
+  "đất - bên dưới - xe tải2 (màu tím)",
+  "đất - bên dưới - tàu hỏa (màu xanh lá cây)",
+  "người1 (trẻ - chưa rõ giới tính, đang nhìn, tò mò) - ở trên - đất"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - xe tải2 (màu tím)",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - xe tải1 (màu xanh lam)",
+  "xe tải1 (màu xanh lam) - trên - sàn nhà",
+  "xe tải2 (màu tím) - trên - sàn nhà",
+  "xe tải1 (màu xanh lam) - trên - thảm",
+  "xe tải2 (màu tím) - trên - thảm",
+  "tường - phía sau - xe tải2 (màu tím)",
+  "sàn nhà - bên cạnh - thảm",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - tàu hỏa1 (màu xanh lá cây)",
+  "xe tải1 (màu xanh lam) - bên cạnh - tàu hỏa1 (màu xanh lá cây)",
+  "xe tải2 (màu tím) - bên cạnh - tàu hỏa1 (màu xanh lá cây)",
+  "đất - bên dưới - xe tải1 (màu xanh lam)",
+  "đất - bên dưới - xe tải2 (màu tím)",
+  "đất - bên dưới - tàu hỏa1 (màu xanh lá cây)",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - ở trên - đất",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, buồn) - phía trên - tàu hỏa2 (màu đỏ)",
+  "tàu hỏa1 (màu xanh lá cây) - bên cạnh - tàu hỏa2 (màu đỏ)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - xe tải2 (màu tím)",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - xe tải1 (màu xanh lá cây)",
+  "xe tải1 (màu xanh lá cây) - trên - đất",
+  "xe tải2 (màu tím) - trên - đất",
+  "xe tải1 (màu xanh lá cây) - bên cạnh - tàu hỏa1 (màu xanh lam)",
+  "xe tải2 (màu tím) - bên cạnh - tàu hỏa1 (màu xanh lam)",
+  "đất - bên dưới - xe tải1 (màu xanh lá cây)",
+  "đất - bên dưới - xe tải2 (màu tím)",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - ở trên - đất",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - tàu hỏa1 (màu xanh lam)"
+]
+```
+
+frame_7:
+```json
+[
+  "tường - bên cạnh - ghế dài (màu cam)",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - xe tải2 (màu tím)",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - xe tải1 (màu xanh lá cây)",
+  "xe tải1 (màu xanh lá cây) - trên - đất",
+  "xe tải2 (màu tím) - trên - đất",
+  "xe tải1 (màu xanh lá cây) - bên cạnh - tàu hỏa1 (màu xanh lam)",
+  "xe tải2 (màu tím) - bên cạnh - tàu hỏa1 (màu xanh lam)",
+  "đất - bên dưới - xe tải1 (màu xanh lá cây)",
+  "đất - bên dưới - xe tải2 (màu tím)",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - ở trên - đất",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - tàu hỏa1 (màu xanh lam)",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - trên - thảm"
+]
+```
+
+frame_8:
+```json
+[
+  "ghế dài (màu cam) - bên cạnh - tường",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - xe tải2 (màu tím)",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - xe tải1 (màu xanh lá cây)",
+  "xe tải1 (màu xanh lá cây) - trên - đất",
+  "xe tải2 (màu tím) - trên - đất",
+  "xe tải1 (màu xanh lá cây) - bên cạnh - tàu hỏa1 (màu xanh lam)",
+  "xe tải2 (màu tím) - bên cạnh - tàu hỏa1 (màu xanh lam)",
+  "đất - bên dưới - xe tải1 (màu xanh lá cây)",
+  "đất - bên dưới - xe tải2 (màu tím)",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - ở trên - đất",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - tàu hỏa1 (màu xanh lam)",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - trên - thảm",
+  "ghế dài (màu hồng) - phía trên - đất",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - tàu hỏa1 (màu xanh lam)",
+  "xe tải1 (màu xanh lá cây) - bên cạnh - tàu hỏa2 (màu đỏ)",
+  "tàu hỏa2 (màu đỏ) - bên cạnh - tàu hỏa1 (màu xanh lam)",
+  "xe tải1 (màu xanh lá cây) - trên - thảm",
+  "xe tải1 (màu xanh lá cây) - trên - tấm thảm"
+]
+```
+
+frame_9:
+```json
+[
+  "s\u00e0n - ph\u00eda tr\u00ean - th\u1ea3m",
+  "th\u1ea3m - b\u00ean d\u01b0\u1edbi - xe t\u1ea3i3 (m\u00e0u t\u00edm)",
+  "th\u1ea3m - b\u00ean d\u01b0\u1edbi - t\u00e0u h\u1ecfa2 (m\u00e0u \u0111\u1ecf)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - ch\u01b0a r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng m\u1eb7c g\u00ec, \u0111ang nh\u00ecn, t\u00f2 m\u00f2) - ph\u00eda tr\u00ean - t\u00e0u h\u1ecfa2 (m\u00e0u \u0111\u1ecf)",
+  "xe t\u1ea3i3 (m\u00e0u t\u00edm) - b\u00ean c\u1ea1nh - t\u00e0u h\u1ecfa2 (m\u00e0u \u0111\u1ecf)",
+  "\u0111\u1ea5t - b\u00ean d\u01b0\u1edbi - t\u00e0u h\u1ecfa2 (m\u00e0u \u0111\u1ecf)",
+  "\u0111\u1ea5t - b\u00ean d\u01b0\u1edbi - c\u00e1t",
+  "xe t\u1ea3i3 (m\u00e0u t\u00edm) - ph\u00eda tr\u00ean - \u0111\u1ea5t"
+]
+```
+
+frame_10:
+```json
+[
+  "sàn - phía trên - thảm",
+  "thảm - bên dưới - xe tải3 (màu tím)",
+  "thảm - bên dưới - người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - xe tải3 (màu tím)",
+  "xe tải3 (màu tím) - bên cạnh - người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "đất - bên dưới - xe tải3 (màu tím)",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người3 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "xe tải1 (màu xanh) - bên cạnh - xe tải3 (màu tím)",
+  "xe tải1 (màu xanh) - trên - thảm"
+]
+```
+
+frame_11:
+```json
+[
+  "sàn - phía trên - thảm",
+  "thảm - bên dưới - xe tải3 (màu đỏ)",
+  "thảm - bên dưới - người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - xe tải3 (màu đỏ)",
+  "xe tải3 (màu đỏ) - bên cạnh - người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "đất - bên dưới - xe tải3 (màu đỏ)",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người3 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "xe tải1 (màu xanh dương) - bên cạnh - xe tải3 (màu đỏ)",
+  "xe tải1 (màu xanh dương) - trên - thảm",
+  "tường - phía trên - sàn",
+  "sàn gỗ - bên dưới - xe tải1 (màu xanh dương)"
+]
+```
+
+frame_12:
+```json
+[
+  "tường - phía trên - ghế dài",
+  "ghế dài - phía trên - thảm",
+  "sàn - phía trên - thảm",
+  "thảm - bên dưới - xe tải3 (màu đỏ)",
+  "thảm - bên dưới - người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - xe tải3 (màu đỏ)",
+  "xe tải3 (màu đỏ) - bên cạnh - người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "đất - bên dưới - xe tải3 (màu đỏ)",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người3 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "xe tải1 (màu xanh dương) - bên cạnh - xe tải3 (màu đỏ)",
+  "xe tải1 (màu xanh dương) - trên - thảm",
+  "tường - phía trên - sàn",
+  "sàn gỗ - bên dưới - xe tải1 (màu xanh dương)",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - bên cạnh - người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)"
+]
+```
+
+frame_13:
+```json
+[
+  "tường - phía trên - sàn",
+  "sàn - phía trên - thảm",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người3 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "tường - phía trên - ghế dài",
+  "ghế dài - phía trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - bên cạnh - người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "sàn - phía trên - người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)"
+]
+```
+
+frame_14:
+```json
+[
+  "tường - phía trên - sàn",
+  "sàn - phía trên - thảm",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người3 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "tường - phía trên - ghế dài",
+  "ghế dài - phía trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - bên cạnh - người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "sàn - phía trên - người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)"
+]
+```
+
+frame_15:
+```json
+[
+  "tường - phía trên - sàn",
+  "sàn - phía trên - thảm",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người3 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "tường - phía trên - ghế dài",
+  "ghế dài - phía trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - bên cạnh - người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "sàn - phía trên - người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - ghế dài",
+  "thảm - bên cạnh - người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "tủ - bên cạnh - người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)"
+]
+```
+
+frame_16:
+```json
+[
+  "tường - phía trên - sàn",
+  "sàn - phía trên - thảm",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người3 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "tường - phía trên - ghế dài",
+  "ghế dài - phía trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - bên cạnh - người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "sàn - phía trên - người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - ghế dài",
+  "thảm - bên cạnh - người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "tủ - bên cạnh - người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)"
+]
+```
+
+frame_17:
+```json
+[
+  "sàn - phía trên - thảm",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người3 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - bên cạnh - người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "sàn - phía trên - người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "người5 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, ngạc nhiên) - phía trên - sàn",
+  "người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - người5 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, ngạc nhiên)"
+]
+```
+
+frame_18:
+```json
+[
+  "tường - phía trên - sàn",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang ngồi, tò mò) - phía trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang ngồi, tò mò) - phía trên - thảm",
+  "người3 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang ngồi, tò mò) - bên cạnh - người1 (trẻ - chưa rõ giới tính, không mặc gì, đang ngồi, tò mò)",
+  "người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - thảm",
+  "sàn - phía trên - người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "người5 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, ngạc nhiên) - phía trên - sàn",
+  "người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - phía trên - người5 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, ngạc nhiên)",
+  "sàn - phía trên - thảm",
+  "tường - phía trên - người5 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, ngạc nhiên)"
+]
+```
+
+frame_19:
+```json
+[
+  "cửa sổ - ở trên - ghế dài (61%)",
+  "tường - ở trên - sàn",
+  "tường - ở trên - ghế dài (61%)",
+  "ghế dài (61%) - ở trên - sàn",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - ở trên - sàn",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang ngồi, tò mò) - ở trên - sàn",
+  "người3 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - ở trên - sàn",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang ngồi, tò mò) - bên cạnh - người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - ở trên - sàn",
+  "người5 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, ngạc nhiên) - ở trên - sàn",
+  "người4 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - ở trên - người5 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, ngạc nhiên)",
+  "tường (gỗ) - ở trên - sàn"
+]
+```
+
+frame_20:
+```json
+[
+  "cửa sổ - ở trên - tường",
+  "tường - ở trên - sàn",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - ở trên - sàn",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang ngồi, tò mò) - ở trên - sàn",
+  "chó (82%) - ở trên - sàn",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - bên cạnh - chó (82%)",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang ngồi, tò mò) - ở trên - người3 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò)",
+  "sàn gỗ - ở trên - sàn",
+  "người3 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - ở trên - chó (82%)"
+]
+```
+
+frame_21:
+```json
+[
+  "thảm - ở trên - sàn",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - ở trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang ngồi, tò mò) - ở trên - thảm",
+  "người3 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - ở trên - thảm"
+]
+```
+
+frame_22:
+```json
+[
+  "thảm - ở trên - sàn",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, tò mò) - ở trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang ngồi, tò mò) - ở trên - thảm",
+  "cát - ở trên - thảm"
+]
+```
+
+frame_23:
+```json
+[
+  "thảm - ở trên - sàn",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - thảm"
+]
+```
+
+frame_24:
+```json
+[
+  "thảm - ở trên - sàn",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - thảm"
+]
+```
+
+frame_25:
+```json
+[
+  "thảm - ở trên - sàn",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - thảm"
+]
+```
+
+frame_26:
+```json
+[
+  "thảm - ở trên - sàn",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - thảm",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - thảm",
+  "cửa sổ - ở trên - ghế dài",
+  "ghế dài - ở trên - sàn",
+  "người3 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - sàn",
+  "ngựa - ở trên - sàn",
+  "người4 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - sàn",
+  "tường - ở trên - sàn"
+]
+```
+
+frame_27:
+```json
+[
+  "sàn - ở trên - sàn gỗ",
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - tuyết",
+  "cửa sổ - ở trên - tường",
+  "người3 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - cát",
+  "người4 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - cát",
+  "người2 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - tuyết",
+  "tường - ở trên - sàn",
+  "người5 (trẻ - chưa rõ giới tính, không mặc gì, đang đứng, tò mò) - ở trên - tường"
+]
+```
+
+frame_28:
+```json
+[
+  "mèo1 - ở trên - sàn",
+  "sàn - ở trên - sàn gỗ",
+  "tường gạch - ở trên - sàn",
+  "sách - ở trên - sàn gỗ",
+  "giấy - ở trên - sách",
+  "tường - ở trên - tường gạch"
+]
+```
+
+frame_29:
+```json
+[
+  "tường gạch - ở trên - sàn",
+  "sách - ở trên - sàn gỗ",
+  "giấy - ở trên - sách",
+  "tường - ở trên - tường gạch",
+  "người1 (không rõ tuổi - không rõ giới tính, không rõ mặc gì, không rõ đang làm gì, không rõ cảm xúc) - bên cạnh - tường gạch",
+  "ghế - bên cạnh - tường gạch",
+  "sàn nhà - ở trên - thảm",
+  "vali - ở trên - sàn nhà",
+  "kệ - ở trên - tường",
+  "sách - ở trên - kệ",
+  "giấy - ở trên - kệ",
+  "người1 (không rõ tuổi - không rõ giới tính, không rõ mặc gì, không rõ đang làm gì, không rõ cảm xúc) - ở trên - sàn nhà",
+  "ghế - bên cạnh - tường"
+]
+```
+
+frame_30:
+```json
+[
+  "tường gạch - ở trên - sàn",
+  "sách - ở trên - sàn gỗ",
+  "giấy - ở trên - sách",
+  "tường - ở trên - tường gạch",
+  "người1 (không rõ tuổi - không rõ giới tính, không rõ mặc gì, không rõ đang làm gì, không rõ cảm xúc) - bên cạnh - tường gạch",
+  "ghế - bên cạnh - tường gạch",
+  "sàn nhà - ở trên - thảm",
+  "vali - ở trên - sàn nhà",
+  "kệ - ở trên - tường",
+  "sách - ở trên - kệ",
+  "giấy - ở trên - kệ",
+  "người1 (không rõ tuổi - không rõ giới tính, mặc áo hồng, đang đứng, không rõ cảm xúc) - ở trên - thảm",
+  "ghế - bên cạnh - tường",
+  "tường gạch - bên cạnh - tường",
+  "ghế1 (màu vàng) - bên cạnh - tường gạch",
+  "tường gỗ - bên cạnh - ghế1 (màu vàng)",
+  "ghế2 (màu đỏ) - ở trên - thảm",
+  "giấy - ở trên - ghế2 (màu đỏ)",
+  "thảm - bên dưới - ghế2 (màu đỏ)"
+]
+```
+
+frame_31:
+```json
+[
+  "tường gạch - ở trên - sàn",
+  "sách - ở trên - sàn gỗ",
+  "giấy - ở trên - sách",
+  "tường - ở trên - tường gạch",
+  "người1 (trẻ - không rõ giới tính, mặc áo hồng, đang đứng, không rõ cảm xúc) - bên cạnh - tường gạch",
+  "ghế - bên cạnh - tường gạch",
+  "sàn nhà - ở trên - thảm",
+  "vali - ở trên - sàn nhà",
+  "kệ - ở trên - tường",
+  "sách - ở trên - kệ",
+  "giấy - ở trên - kệ",
+  "người1 (trẻ - không rõ giới tính, mặc áo hồng, đang chạm vào, không rõ cảm xúc) - ở trên - thảm",
+  "ghế - bên cạnh - tường",
+  "tường gạch - bên cạnh - tường",
+  "ghế1 (màu vàng) - bên cạnh - tường gạch",
+  "tường gỗ - bên cạnh - ghế1 (màu vàng)",
+  "ghế2 (màu đỏ) - ở trên - thảm",
+  "giấy - ở trên - ghế2 (màu đỏ)",
+  "thảm - bên dưới - ghế2 (màu đỏ)",
+  "bánh - ở trên - thảm",
+  "ghế1 (màu vàng) - ở trên - bánh"
+]
+```
+
+frame_32:
+```json
+[
+  "tường gạch - ở trên - sàn",
+  "sách - ở trên - sàn gỗ",
+  "giấy - ở trên - sách",
+  "tường - ở trên - tường gạch",
+  "người1 (trẻ - không rõ giới tính, mặc áo hồng, đang đứng, không rõ cảm xúc) - bên cạnh - tường gạch",
+  "ghế - bên cạnh - tường gạch",
+  "sàn nhà - ở trên - thảm",
+  "vali - ở trên - sàn nhà",
+  "kệ - ở trên - tường",
+  "sách - ở trên - kệ",
+  "giấy - ở trên - kệ",
+  "người1 (trẻ - không rõ giới tính, mặc áo hồng, đang chạm vào, không rõ cảm xúc) - ở trên - thảm",
+  "ghế - bên cạnh - tường",
+  "tường gạch - bên cạnh - tường",
+  "ghế1 (màu vàng) - bên cạnh - tường gạch",
+  "tường gỗ - bên cạnh - ghế1 (màu vàng)",
+  "ghế2 (màu đỏ) - ở trên - thảm",
+  "giấy - ở trên - ghế2 (màu đỏ)",
+  "thảm - bên dưới - ghế2 (màu đỏ)",
+  "bánh - ở trên - thảm",
+  "ghế1 (màu vàng) - ở trên - bánh",
+  "ghế1 (màu vàng) - bên cạnh - ghế2 (màu đỏ)",
+  "ghế2 (màu đỏ) - ở trên - tường gạch",
+  "tường gạch - bên cạnh - ghế2 (màu đỏ)",
+  "ghế1 (màu vàng) - bên cạnh - người1 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, không rõ cảm xúc)",
+  "ghế - ở trên - tường gạch",
+  "tường - ở trên - giấy"
+]
+```
+
+frame_33:
+```json
+[
+  "tường gạch - ở trên - sàn",
+  "sách - ở trên - sàn gỗ",
+  "giấy - ở trên - sách",
+  "tường - ở trên - tường gạch",
+  "người1 (trẻ - không rõ giới tính, mặc áo hồng, đang đứng, không rõ cảm xúc) - bên cạnh - tường gạch",
+  "ghế - bên cạnh - tường gạch",
+  "sàn nhà - ở trên - thảm",
+  "vali - ở trên - sàn nhà",
+  "kệ - ở trên - tường",
+  "sách - ở trên - kệ",
+  "giấy - ở trên - kệ",
+  "người1 (trẻ - không rõ giới tính, mặc áo hồng, đang chạm vào, không rõ cảm xúc) - ở trên - thảm",
+  "ghế - bên cạnh - tường",
+  "tường gạch - bên cạnh - tường",
+  "ghế1 (màu vàng) - bên cạnh - tường gạch",
+  "tường gỗ - bên cạnh - ghế1 (màu vàng)",
+  "ghế2 (màu đỏ) - ở trên - thảm",
+  "giấy - ở trên - ghế2 (màu đỏ)",
+  "thảm - bên dưới - ghế2 (màu đỏ)",
+  "bánh - ở trên - thảm",
+  "ghế1 (màu vàng) - ở trên - bánh",
+  "ghế1 (màu vàng) - bên cạnh - ghế2 (màu đỏ)",
+  "ghế2 (màu đỏ) - ở trên - tường gạch",
+  "tường gạch - bên cạnh - ghế2 (màu đỏ)",
+  "ghế1 (màu vàng) - bên cạnh - người1 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, không rõ cảm xúc)",
+  "ghế - ở trên - tường gạch",
+  "tường - ở trên - giấy",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang đứng, không rõ cảm xúc) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo hồng, đang đứng, không rõ cảm xúc) - ở trên - thảm"
+]
+```
+
+frame_34:
+```json
+[
+  "tường gạch - ở trên - sàn",
+  "sách1 - ở trên - sàn gỗ",
+  "giấy - ở trên - sách1",
+  "tường - ở trên - tường gạch",
+  "người1 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, không rõ cảm xúc) - bên cạnh - tường gạch",
+  "ghế - bên cạnh - tường gạch",
+  "sàn nhà - ở trên - thảm",
+  "vali - ở trên - sàn nhà",
+  "kệ - ở trên - tường",
+  "sách2 - ở trên - kệ",
+  "giấy - ở trên - kệ",
+  "người1 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, không rõ cảm xúc) - ở trên - thảm",
+  "ghế - bên cạnh - tường",
+  "tường gạch - bên cạnh - tường",
+  "ghế1 (màu vàng) - bên cạnh - tường gạch",
+  "tường gỗ - bên cạnh - ghế1 (màu vàng)",
+  "ghế2 (màu đỏ) - ở trên - thảm",
+  "giấy - ở trên - ghế2 (màu đỏ)",
+  "thảm - bên dưới - ghế2 (màu đỏ)",
+  "bánh - ở trên - thảm",
+  "ghế1 (màu vàng) - ở trên - bánh",
+  "ghế1 (màu vàng) - bên cạnh - ghế2 (màu đỏ)",
+  "ghế2 (màu đỏ) - ở trên - tường gạch",
+  "tường gạch - bên cạnh - ghế2 (màu đỏ)",
+  "ghế1 (màu vàng) - bên cạnh - người1 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, không rõ cảm xúc)",
+  "ghế - ở trên - tường gạch",
+  "tường - ở trên - giấy",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang đứng, không rõ cảm xúc) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, không rõ cảm xúc) - ở trên - thảm",
+  "ghế1 (màu vàng) - ở trên - sàn gỗ",
+  "sách3 - ở trên - sàn gỗ",
+  "tường - bên cạnh - ghế2 (màu đỏ)",
+  "ghế3 (màu đỏ) - bên cạnh - tường"
+]
+```
+
+frame_35:
+```json
+[
+  "rèm - bên cạnh - ti vi",
+  "ti vi (màu nâu) - ở trên - sách1",
+  "ghế2 (màu đỏ) - bên cạnh - rèm",
+  "sách1 (màu nâu) - ở trên - sàn nhà",
+  "sàn nhà - ở trên - thảm",
+  "tường gỗ - bên cạnh - tường",
+  "ghế dài (màu hồng) - bên cạnh - cửa sổ",
+  "tường - ở trên - thảm",
+  "ghế2 (màu đỏ) - ở trên - sàn nhà",
+  "sách2 - ở trên - ghế2 (màu đỏ)",
+  "tường - bên cạnh - ghế2 (màu đỏ)"
+]
+```
+
+frame_36:
+```json
+[
+  "tường gỗ - bên cạnh - tường",
+  "tường - ở trên - thảm",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - tường",
+  "cửa sổ - ở trên - thảm",
+  "thảm - ở trên - sàn gỗ",
+  "người2 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - sàn gỗ",
+  "tường - bên cạnh - người1 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc)",
+  "thảm - ở trên - ghế dài",
+  "sàn gỗ - ở trên - thảm"
+]
+```
+
+frame_37:
+```json
+[
+  "tường gỗ - bên cạnh - tường",
+  "tường - ở trên - thảm",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - tường",
+  "cửa sổ - ở trên - thảm",
+  "thảm - ở trên - sàn gỗ",
+  "người2 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - sàn gỗ",
+  "tường - bên cạnh - người1 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc)",
+  "thảm - ở trên - ghế dài (màu hồng)",
+  "sàn gỗ - ở trên - thảm"
+]
+```
+
+frame_38:
+```json
+[
+  "cửa sổ - ở trên - sàn nhà",
+  "tường - ở trên - thảm",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - tường",
+  "cửa sổ - ở trên - thảm",
+  "thảm - ở trên - sàn nhà",
+  "người2 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - sàn nhà",
+  "tường - bên cạnh - người1 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc)",
+  "thảm - ở trên - ghế dài (màu hồng)",
+  "sàn nhà - ở trên - thảm"
+]
+```
+
+frame_39:
+```json
+[
+  "cửa sổ - ở trên - thảm",
+  "tường - ở trên - thảm",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - tường",
+  "cửa sổ - ở trên - sàn nhà",
+  "thảm - ở trên - sàn nhà",
+  "người2 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - sàn nhà",
+  "tường - bên cạnh - người1 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc)",
+  "thảm - ở trên - ghế dài (màu hồng)",
+  "sàn nhà - ở trên - thảm",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo sọc, đang đứng, không rõ cảm xúc) - bên cạnh - thảm",
+  "người4 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang đứng, không rõ cảm xúc) - bên cạnh - người3 (trưởng thành - không rõ giới tính, mặc áo sọc, đang đứng, không rõ cảm xúc)",
+  "người2 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - người3 (trưởng thành - không rõ giới tính, mặc áo sọc, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_40:
+```json
+[
+  "cửa sổ - ở trên - thảm",
+  "tường - ở trên - thảm",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - tường",
+  "cửa sổ - ở trên - sàn nhà",
+  "thảm - ở trên - sàn nhà",
+  "người2 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - sàn nhà",
+  "tường - bên cạnh - người1 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc)",
+  "thảm - ở trên - ghế dài (màu hồng)",
+  "sàn nhà - ở trên - thảm",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo sọc, đang đứng, không rõ cảm xúc) - bên cạnh - thảm",
+  "người4 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang đứng, không rõ cảm xúc) - bên cạnh - người3 (trưởng thành - không rõ giới tính, mặc áo sọc, đang đứng, không rõ cảm xúc)",
+  "người2 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - người3 (trưởng thành - không rõ giới tính, mặc áo sọc, đang đứng, không rõ cảm xúc)",
+  "ghế dài (màu hồng) - ở trên - thảm",
+  "thảm - ở trên - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang đứng, không rõ cảm xúc) - bên cạnh - thảm",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo sọc, đang đứng, không rõ cảm xúc) - bên cạnh - ghế dài (màu hồng)",
+  "người4 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang đứng, không rõ cảm xúc) - bên cạnh - sàn nhà"
+]
+```
+
+frame_41:
+```json
+[
+  "cửa sổ - ở trên - thảm",
+  "tường - ở trên - thảm",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - tường",
+  "cửa sổ - ở trên - sàn nhà",
+  "thảm - ở trên - sàn nhà",
+  "người2 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - sàn nhà",
+  "tường - bên cạnh - người1 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc)",
+  "thảm - ở trên - ghế dài (màu hồng)",
+  "sàn nhà - ở trên - thảm",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo sọc, đang đứng, không rõ cảm xúc) - bên cạnh - thảm",
+  "người4 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang đứng, không rõ cảm xúc) - bên cạnh - người3 (trưởng thành - không rõ giới tính, mặc áo sọc, đang đứng, không rõ cảm xúc)",
+  "người2 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc) - bên cạnh - người3 (trưởng thành - không rõ giới tính, mặc áo sọc, đang đứng, không rõ cảm xúc)",
+  "ghế dài (màu hồng) - ở trên - thảm",
+  "thảm - ở trên - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang đứng, không rõ cảm xúc) - bên cạnh - thảm",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo sọc, đang đứng, không rõ cảm xúc) - bên cạnh - ghế dài (màu hồng)",
+  "người4 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang đứng, không rõ cảm xúc) - bên cạnh - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, lo lắng) - bên cạnh - thảm"
+]
+```
+
+frame_42:
+```json
+[
+  "người4 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang nằm, không rõ cảm xúc) - trên - sàn nhà"
+]
+```
+
+frame_43:
+```json
+["người4 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang nằm, không rõ cảm xúc) - ở trong - hình ảnh"]
+```
+
+frame_44:
+```json
+[
+  "sách1 (màu nâu) - trên - bàn ăn1",
+  "sách2 (màu xanh lá cây) - trên - bàn ăn1",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang đứng, không rõ cảm xúc) - trên - bàn ăn1",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, không rõ hành động, không rõ cảm xúc) - trên - bàn ăn1",
+  "bàn ăn1 - chứa - người2"
+]
+```
+
+frame_45:
+```json
+[
+  "sách1 (màu nâu) - trên - bàn ăn1",
+  "sách2 (màu xanh lá cây) - trên - bàn ăn1",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang đứng, không rõ cảm xúc) - trên - bàn ăn1",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, không rõ hành động, không rõ cảm xúc) - trên - đoàn tàu",
+  "bàn ăn1 - chứa - người2",
+  "thảm1 (màu hồng) - ở dưới - đoàn tàu",
+  "đoàn tàu - bị che bởi - người3 (trưởng thành - không rõ giới tính, mặc đồ đỏ, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_46:
+```json
+[
+  "tường1 - ở trên - kệ1",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang đứng, không rõ cảm xúc) - trên - thảm1",
+  "xe tải1 (màu xanh dương) - trên - thảm1",
+  "xe tải2 (màu xanh lá cây) - trên - thảm1",
+  "xe tải3 (màu xám) - trên - thảm1",
+  "thảm1 (màu hồng) - ở dưới - người1"
+]
+```
+
+frame_47:
+```json
+[
+  "s\u00e1ch1 - \u1edf tr\u00ean - k\u1ec71",
+  "s\u00e1ch2 - \u1edf tr\u00ean - k\u1ec71",
+  "k\u1ec71 - \u1edf sau - s\u00e1ch1",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang \u0111\u1ee9ng, kh\u00f4ng r\u00f5 c\u1ea3m x\u00fac) - tr\u00ean - xe t\u1ea3i1",
+  "xe t\u1ea3i1 (m\u00e0u xanh d\u01b0\u01a1ng) - tr\u00ean - th\u1ea3m1",
+  "xe t\u1ea3i2 (m\u00e0u xanh l\u00e1 c\u00e2y) - tr\u00ean - th\u1ea3m1",
+  "th\u1ea3m1 (m\u00e0u h\u1ed3ng) - \u1edf d\u01b0\u1edbi - ng\u01b0\u1eddi1",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang \u0111\u1ee9ng, kh\u00f4ng r\u00f5 c\u1ea3m x\u00fac) - \u1edf g\u1ea7n - xe t\u1ea3i1"
+]
+```
+
+frame_48:
+```json
+[
+  "kệ - ở trên - sách1",
+  "kệ - ở trên - sách2",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang đứng, không rõ cảm xúc) - trên - xe tải1",
+  "xe tải1 (màu xanh dương) - trên - thảm1",
+  "xe tải2 (màu xanh lá cây) - trên - thảm1",
+  "thảm1 (màu hồng) - ở dưới - người1",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang đứng, không rõ cảm xúc) - ở gần - xe tải1",
+  "kệ - ở trên - người1",
+  "kệ - ở trên - người2",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang đứng, không rõ cảm xúc) - trên - bàn1",
+  "bàn1 - ở dưới - xe tải2",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang đứng, không rõ cảm xúc) - trên - bàn1",
+  "kệ - ở trên - bàn1",
+  "xe tải3 (màu xám) - trên - thảm1"
+]
+```
+
+frame_49:
+```json
+[
+  "k\u1ec7 - \u1edf tr\u00ean - s\u00e1ch1",
+  "k\u1ec7 - \u1edf tr\u00ean - s\u00e1ch2",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang nh\u00ecn, kh\u00f4ng r\u00f5 c\u1ea3m x\u00fac) - tr\u00ean - xe t\u1ea3i1",
+  "xe t\u1ea3i1 (m\u00e0u xanh d\u01b0\u01a1ng) - tr\u00ean - th\u1ea3m1",
+  "xe t\u1ea3i2 (m\u00e0u xanh l\u00e1 c\u00e2y) - tr\u00ean - th\u1ea3m1",
+  "th\u1ea3m1 (m\u00e0u h\u1ed3ng) - \u1edf d\u01b0\u1edbi - ng\u01b0\u1eddi1",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang nh\u00ecn, kh\u00f4ng r\u00f5 c\u1ea3m x\u00fac) - \u1edf g\u1ea7n - xe t\u1ea3i1",
+  "k\u1ec7 - \u1edf tr\u00ean - ng\u01b0\u1eddi1",
+  "k\u1ec7 - \u1edf tr\u00ean - ng\u01b0\u1eddi2",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang nh\u00ecn, kh\u00f4ng r\u00f5 c\u1ea3m x\u00fac) - tr\u00ean - b\u00e0n1",
+  "b\u00e0n1 - \u1edf d\u01b0\u1edbi - xe t\u1ea3i2",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang nh\u00ecn, kh\u00f4ng r\u00f5 c\u1ea3m x\u00fac) - tr\u00ean - b\u00e0n1",
+  "k\u1ec7 - \u1edf tr\u00ean - b\u00e0n1",
+  "xe t\u1ea3i3 (m\u00e0u x\u00e1m) - tr\u00ean - th\u1ea3m1",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u0111\u1ed3 cam, \u0111ang nh\u00ecn, kh\u00f4ng r\u00f5 c\u1ea3m x\u00fac) - tr\u00ean - th\u1ea3m1"
+]
+```
+
+frame_50:
+```json
+[
+  "kệ - ở trên - sách1",
+  "kệ - ở trên - sách2",
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - xe tải1",
+  "xe tải1 (màu xanh dương) - trên - sàn gỗ",
+  "xe tải2 (màu xanh lá cây) - trên - sàn gỗ",
+  "sàn gỗ - ở dưới - người3",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang nhìn, không rõ cảm xúc) - ở gần - xe tải1",
+  "kệ - ở trên - người3",
+  "kệ - ở trên - người2",
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - tường",
+  "tường - ở dưới - xe tải2",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang nhìn, không rõ cảm xúc) - trên - tường",
+  "kệ - ở trên - tường",
+  "xe tải3 (màu xám) - trên - sàn gỗ",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang nhìn, không rõ cảm xúc) - trên - sàn gỗ"
+]
+```
+
+frame_51:
+```json
+[
+  "kệ - ở trên - sách1",
+  "kệ - ở trên - sách2",
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - xe tải1",
+  "xe tải1 (màu xanh dương) - trên - sàn gỗ",
+  "xe tải2 (màu xanh lá cây) - trên - sàn gỗ",
+  "sàn gỗ - ở dưới - người3",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang nhìn, không rõ cảm xúc) - ở gần - xe tải1",
+  "kệ - ở trên - người3",
+  "kệ - ở trên - người2",
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - tường",
+  "tường - ở dưới - xe tải2",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang nhìn, không rõ cảm xúc) - trên - tường",
+  "kệ - ở trên - tường",
+  "xe tải3 (màu xám) - trên - sàn gỗ",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - sàn gỗ",
+  "trần nhà - ở trên - sách1",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - xe tải2",
+  "xe tải3 (màu tím) - trên - sàn gỗ"
+]
+```
+
+frame_52:
+```json
+[
+  "kệ - ở trên - sách1",
+  "kệ - ở trên - sách2",
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - xe tải1",
+  "xe tải1 (màu xanh dương) - trên - sàn gỗ",
+  "xe tải2 (màu xanh lá cây) - trên - sàn gỗ",
+  "sàn gỗ - ở dưới - người3",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang nhìn, không rõ cảm xúc) - ở gần - xe tải1",
+  "kệ - ở trên - người3",
+  "kệ - ở trên - người2",
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - tường",
+  "tường - ở dưới - xe tải2",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang nhìn, không rõ cảm xúc) - trên - tường",
+  "kệ - ở trên - tường",
+  "xe tải3 (màu xám) - trên - sàn gỗ",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - sàn gỗ",
+  "trần nhà - ở trên - sách1",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - xe tải2",
+  "xe tải3 (màu tím) - trên - sàn gỗ",
+  "sách1 - ở trên - kệ",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - ở gần - xe tải2",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - ở gần - người2"
+]
+```
+
+frame_53:
+```json
+[
+  "kệ - ở trên - sách1",
+  "kệ - ở trên - sách2",
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - xe tải1",
+  "xe tải1 (màu xanh dương) - trên - sàn gỗ",
+  "xe tải2 (màu xanh lá cây) - trên - sàn gỗ",
+  "sàn gỗ - ở dưới - người3",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - ở gần - xe tải1",
+  "kệ - ở trên - người3",
+  "kệ - ở trên - người2",
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - tường",
+  "tường - ở dưới - xe tải2",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - trên - tường",
+  "kệ - ở trên - tường",
+  "xe tải3 (màu xám) - trên - sàn gỗ",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - sàn gỗ",
+  "trần nhà - ở trên - sách1",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - xe tải2",
+  "xe tải3 (màu tím) - trên - sàn gỗ",
+  "sách1 - ở trên - kệ",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - ở gần - xe tải2",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - ở gần - người2",
+  "tường - trên - bàn",
+  "bàn - ở trên - xe tải2",
+  "bàn - ở trên - xe tải1",
+  "bàn - ở trên - xe tải3"
+]
+```
+
+frame_54:
+```json
+[
+  "kệ - ở trên - sách1",
+  "kệ - ở trên - sách2",
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - xe tải1",
+  "xe tải1 (màu xanh dương) - trên - sàn gỗ",
+  "xe tải2 (màu xanh lá cây) - trên - sàn gỗ",
+  "sàn gỗ - ở dưới - người3",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - ở gần - xe tải1",
+  "kệ - ở trên - người3",
+  "kệ - ở trên - người2",
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - tường",
+  "tường - ở dưới - xe tải2",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - trên - tường",
+  "kệ - ở trên - tường",
+  "xe tải3 (màu xám) - trên - sàn gỗ",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - sàn gỗ",
+  "trần nhà - ở trên - sách1",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - xe tải2",
+  "xe tải3 (màu tím) - trên - sàn gỗ",
+  "sách1 - ở trên - kệ",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - ở gần - xe tải2",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - ở gần - người2",
+  "tường - trên - bàn",
+  "bàn - ở trên - xe tải2",
+  "bàn - ở trên - xe tải1",
+  "bàn - ở trên - xe tải3",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang cầm đồ chơi, vui vẻ) - đang chạm vào - bàn",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - đang chạm vào - xe tải4 (màu xanh dương)",
+  "xe tải4 (màu xanh dương) - trên - bàn"
+]
+```
+
+frame_55:
+```json
+[
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - xe lửa1 (màu vàng)",
+  "xe lửa1 (màu vàng) - trên - sàn nhà",
+  "xe lửa2 (màu đỏ) - trên - sàn nhà",
+  "xe lửa3 (màu xanh lá cây) - trên - sàn nhà",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - ở gần - xe lửa2 (màu đỏ)",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - trên - sàn nhà",
+  "sàn nhà - ở dưới - người3",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - ở gần - người2",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - trên - xe lửa3 (màu xanh lá cây)"
+]
+```
+
+frame_56:
+```json
+[
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - xe lửa1 (màu vàng)",
+  "xe lửa1 (màu vàng) - trên - sàn nhà",
+  "xe lửa2 (màu đỏ) - trên - sàn nhà",
+  "xe lửa3 (màu xanh lá cây) - trên - sàn nhà",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - ở gần - xe lửa2 (màu đỏ)",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - trên - sàn nhà",
+  "sàn nhà - ở dưới - người3",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - ở gần - người2",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - trên - xe lửa3 (màu xanh lá cây)",
+  "người4 (trưởng thành - không rõ giới tính, mặc đồ cam, đang ngồi, không rõ cảm xúc) - trên - thảm (màu tím)"
+]
+```
+
+frame_57:
+```json
+[
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - xe lửa1 (màu vàng)",
+  "xe lửa1 (màu vàng) - trên - sàn nhà",
+  "xe lửa2 (màu đỏ) - trên - sàn nhà",
+  "xe lửa3 (màu xanh lá cây) - trên - sàn nhà",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - ở gần - xe lửa2 (màu đỏ)",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - trên - sàn nhà",
+  "sàn nhà - ở dưới - người3",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - ở gần - người2",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - trên - xe lửa3 (màu xanh lá cây)",
+  "người4 (trưởng thành - không rõ giới tính, mặc đồ cam, đang ngồi, không rõ cảm xúc) - trên - thảm (màu tím)",
+  "sách1 (màu xám) - ở gần - xe lửa2 (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - ở gần - sách1 (màu xám)"
+]
+```
+
+frame_58:
+```json
+[
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - xe lửa1 (màu vàng)",
+  "xe lửa1 (màu vàng) - trên - sàn nhà",
+  "xe lửa2 (màu đỏ) - trên - sàn nhà",
+  "xe lửa3 (màu xanh lá cây) - trên - sàn nhà",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - ở gần - xe lửa2 (màu đỏ)",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - trên - sàn nhà",
+  "sàn nhà - ở dưới - người3",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - ở gần - người2",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - trên - xe lửa3 (màu xanh lá cây)",
+  "người4 (trưởng thành - không rõ giới tính, mặc đồ cam, đang ngồi, không rõ cảm xúc) - trên - thảm (màu tím)",
+  "sách1 (màu vàng) - ở gần - xe lửa2 (màu đỏ)",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - ở gần - sách1 (màu vàng)"
+]
+```
+
+frame_59:
+```json
+[
+  "người3 (trẻ - không rõ giới tính, mặc đồ cam, đang nhìn, không rõ cảm xúc) - trên - xe lửa1 (màu vàng)",
+  "xe lửa1 (màu vàng) - trên - thảm (màu tím)",
+  "xe lửa2 (màu đỏ) - trên - thảm (màu tím)",
+  "xe lửa3 (màu xanh lá cây) - trên - thảm (màu tím)",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - ở gần - xe lửa2 (màu đỏ)",
+  "người2 (trẻ - không rõ giới tính, mặc đồ hồng, đang chơi, vui vẻ) - trên - thảm (màu tím)",
+  "thảm (màu tím) - ở dưới - người3",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - trên - thảm (màu tím)",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - ở gần - người2",
+  "người1 (trưởng thành - không rõ giới tính, mặc đồ cam, đang cúi xuống, không rõ cảm xúc) - trên - xe lửa3 (màu xanh lá cây)",
+  "người4 (trưởng thành - không rõ giới tính, mặc đồ hồng, đang ngồi, không rõ cảm xúc) - trên - thảm (màu tím)"
+]
+```
+

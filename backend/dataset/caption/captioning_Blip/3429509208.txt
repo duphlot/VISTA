@@ -1,0 +1,21 @@
+frame_0000.jpg: a person vacuuming a wooden floor with a vacuum
+frame_0001.jpg: a person vacuuming a hardwood floor with a vacuum
+frame_0002.jpg: a person vacuuming a wooden floor with a vacuum
+frame_0003.jpg: a person vacuuming a wooden floor with a vacuum
+frame_0004.jpg: a person vacuuming a wooden floor with a vacuum
+frame_0005.jpg: a vacuum cleaner on a wooden floor
+frame_0006.jpg: a person vacuuming a wooden floor with a vacuum
+frame_0007.jpg: a person vacuuming a wooden floor with a vacuum
+frame_0008.jpg: a young boy is playing with a vacuum
+frame_0009.jpg: a man is holding a vacuum cleaner
+frame_0010.jpg: a small child is playing with a vacuum
+frame_0011.jpg: a young boy is playing with a vacuum
+frame_0012.jpg: a man holding a vacuum cleaner in his hand
+frame_0013.jpg: a person vacuuming a hardwood floor with a vacuum
+frame_0014.jpg: a little boy is playing with a vacuum
+frame_0015.jpg: a young boy is playing with a vacuum
+frame_0016.jpg: a young boy is playing with a vacuum
+frame_0017.jpg: a little boy standing next to a vacuum
+frame_0018.jpg: a little boy is sitting in a chair
+frame_0019.jpg: a woman with a white shirt and a black tie
+frame_0020.jpg: a little girl looking at something in the mirror

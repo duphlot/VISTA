@@ -1,0 +1,43 @@
+frame_0000.jpg: three children playing in the grass
+frame_0001.jpg: two children playing in the grass with a ball
+frame_0002.jpg: two young girls playing with a ball in the grass
+frame_0003.jpg: two children playing in the grass with a ball
+frame_0004.jpg: a little girl running through a field with a kite
+frame_0005.jpg: a man and a little girl playing with a kite
+frame_0006.jpg: a man is throwing a frck in the air
+frame_0007.jpg: a man and a child playing in the grass
+frame_0008.jpg: a young boy is playing with a frc
+frame_0009.jpg: a young boy is playing with a kite
+frame_0010.jpg: a young boy is playing with a frc
+frame_0011.jpg: two children playing with a frc frc frc frc frc frc frc fr
+frame_0012.jpg: two children playing with a frc fr frc frc frc frc frc frc
+frame_0013.jpg: two children playing in a field with a frc
+frame_0014.jpg: two people playing frc in a field
+frame_0015.jpg: two children playing with a frc frc frc frc frc frc frc fr
+frame_0016.jpg: a young boy is playing with a frc frc
+frame_0017.jpg: a young boy is playing with a kite
+frame_0018.jpg: a man is running in the grass
+frame_0019.jpg: a man and a little girl playing in the grass
+frame_0020.jpg: a man and a little boy playing with a kite
+frame_0021.jpg: a man and a little girl playing with a ball
+frame_0022.jpg: a man is standing on a golf course
+frame_0023.jpg: a group of flags flying in the air
+frame_0024.jpg: a kite flying in the air
+frame_0025.jpg: two kites flying in the air
+frame_0026.jpg: a kite flying in the air over a forest
+frame_0027.jpg: a kite flying in the air over a field
+frame_0028.jpg: a kite flying in the air over a field
+frame_0029.jpg: a kite flying in the air over a flag
+frame_0030.jpg: a kite flying in the air over a forest
+frame_0031.jpg: a man flying a kite in the air
+frame_0032.jpg: a young boy running in a field with a kite
+frame_0033.jpg: a little boy running in the grass with a kite
+frame_0034.jpg: a young boy is running in the grass
+frame_0035.jpg: a man is standing in the grass with a frc
+frame_0036.jpg: a man is standing in the grass with his hands on his hips
+frame_0037.jpg: a man and a little girl playing with a frc
+frame_0038.jpg: a man and a little girl playing with a frc
+frame_0039.jpg: a man is playing with a small dog
+frame_0040.jpg: a man and a child playing in the grass
+frame_0041.jpg: a man and a little girl playing in the grass
+frame_0042.jpg: a man and a small child playing in the grass

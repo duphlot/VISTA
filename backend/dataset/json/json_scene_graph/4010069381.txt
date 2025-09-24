@@ -1,0 +1,312 @@
+frame_0:
+```json
+[
+  "người1 (trưởng thành, mặc áo ba lỗ, đang chơi nhạc cụ) - phía trước - biểu ngữ",
+  "người2 (trưởng thành, mặc áo sơ mi, đang chơi nhạc cụ) - phía trước - biểu ngữ",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - phía sau - biểu ngữ",
+  "tường - phía sau - biểu ngữ"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trưởng thành, mặc áo ba lỗ, đang ngồi) - ngồi trên - ghế1 (màu cam)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "tường - phía sau - biểu ngữ",
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "sàn - phía trước - ghế1 (màu cam)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trưởng thành, mặc áo ba lỗ, đang ngồi) - ngồi trên - ghế1 (màu cam)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "tường - phía sau - biểu ngữ",
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "sàn - phía trước - ghế1 (màu cam)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - bánh donut",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người2 (trưởng thành, mặc áo sơ mi, đang đứng)",
+  "tường - phía sau - rèm"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trưởng thành, mặc áo ba lỗ, đang ngồi) - ngồi trên - ghế1 (màu hồng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "tường - phía sau - biểu ngữ",
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "sàn - phía trước - ghế1 (màu hồng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - bạt che",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người2 (trưởng thành, mặc áo sơ mi, đang đứng)",
+  "tường - phía sau - rèm"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trưởng thành, mặc áo ba lỗ, đang ngồi) - ngồi trên - ghế1 (màu hồng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "tường - phía sau - biểu ngữ",
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "sàn - phía trước - ghế1 (màu hồng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - bạt che",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người2 (trưởng thành, mặc áo sơ mi, đang đứng)",
+  "tường - phía sau - rèm"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trưởng thành, mặc áo ba lỗ, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "tường - phía sau - biểu ngữ",
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "sàn - phía trước - người1 (trưởng thành, mặc áo ba lỗ, đang đứng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - bạt che",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người2 (trưởng thành, mặc áo sơ mi, đang đứng)",
+  "tường - phía sau - rèm",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo ba lỗ, đang đứng)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trưởng thành, mặc áo ba lỗ, đang ngồi) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "tường - phía sau - biểu ngữ",
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "sàn - phía trước - người1 (trưởng thành, mặc áo ba lỗ, đang ngồi)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - bạt che",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người2 (trưởng thành, mặc áo sơ mi, đang đứng)",
+  "tường - phía sau - rèm",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - người4 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo ba lỗ, đang ngồi)",
+  "người4 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trưởng thành, mặc áo ba lỗ, đang ngồi) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "tường - phía sau - biểu ngữ",
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "sàn - phía trước - người1 (trưởng thành, mặc áo ba lỗ, đang ngồi)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - bạt che",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người2 (trưởng thành, mặc áo sơ mi, đang đứng)",
+  "tường - phía sau - rèm",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - người4 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo ba lỗ, đang ngồi)",
+  "người4 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trưởng thành, mặc áo ba lỗ, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "tường - phía sau - biểu ngữ",
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "sàn - phía trước - người1 (trưởng thành, mặc áo ba lỗ, đang đứng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - bạt che",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người2 (trưởng thành, mặc áo sơ mi, đang đứng)",
+  "tường - phía sau - rèm",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - người4 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo ba lỗ, đang đứng)",
+  "người4 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)"
+]
+```
+
+frame_9:
+```json
+[
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "người1 (trưởng thành, mặc áo ba lỗ, đang ngồi) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang ngồi) - đứng cạnh - bạt che",
+  "tường - phía sau - rèm",
+  "tường - phía sau - biểu ngữ",
+  "sàn - phía trước - người1 (trưởng thành, mặc áo ba lỗ, đang ngồi)",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người2 (trưởng thành, mặc áo sơ mi, đang ngồi)",
+  "người4 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang ngồi) - đứng cạnh - người4 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo ba lỗ, đang ngồi)"
+]
+```
+
+frame_10:
+```json
+[
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "người1 (trưởng thành, mặc áo ba lỗ, đang ngồi) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang ngồi) - đứng cạnh - bạt che",
+  "tường - phía sau - rèm",
+  "tường - phía sau - biểu ngữ",
+  "sàn - phía trước - người1 (trưởng thành, mặc áo ba lỗ, đang ngồi)",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người2 (trưởng thành, mặc áo sơ mi, đang ngồi)",
+  "người4 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang ngồi) - đứng cạnh - người4 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo ba lỗ, đang ngồi)",
+  "người5 (trưởng thành, mặc áo ba lỗ, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo ba lỗ, đang ngồi)",
+  "gấu bông1 (màu đỏ) - đứng cạnh - người4 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người4 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)"
+]
+```
+
+frame_11:
+```json
+[
+  "bi\u1ec3u ng\u1eef - ph\u00eda tr\u00ean - l\u1ec1u",
+  "r\u00e8m - ph\u00eda sau - bi\u1ec3u ng\u1eef",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o ba l\u1ed7, \u0111ang ng\u1ed3i) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o s\u01a1 mi, \u0111ang ng\u1ed3i) - \u0111\u1ee9ng c\u1ea1nh - b\u1ea1t che",
+  "t\u01b0\u1eddng - ph\u00eda sau - r\u00e8m",
+  "t\u01b0\u1eddng - ph\u00eda sau - bi\u1ec3u ng\u1eef",
+  "s\u00e0n - ph\u00eda tr\u01b0\u1edbc - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o ba l\u1ed7, \u0111ang ng\u1ed3i)",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang ng\u1ed3i) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o s\u01a1 mi, \u0111ang ng\u1ed3i)",
+  "ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang ng\u1ed3i) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang ng\u1ed3i)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o s\u01a1 mi, \u0111ang ng\u1ed3i) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang ng\u1ed3i)",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang ng\u1ed3i) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o ba l\u1ed7, \u0111ang ng\u1ed3i)",
+  "ng\u01b0\u1eddi5 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o ba l\u1ed7, \u0111ang ng\u1ed3i) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o ba l\u1ed7, \u0111ang ng\u1ed3i)",
+  "ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang ng\u1ed3i) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang ng\u1ed3i)"
+]
+```
+
+frame_12:
+```json
+[
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "người1 (trưởng thành, mặc áo ba lỗ, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - bạt che",
+  "tường - phía sau - rèm",
+  "tường - phía sau - biểu ngữ",
+  "sàn - phía trước - người1 (trưởng thành, mặc áo ba lỗ, đang đứng)",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người2 (trưởng thành, mặc áo sơ mi, đang đứng)",
+  "người4 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - người4 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo ba lỗ, đang đứng)",
+  "người5 (trưởng thành, mặc áo ba lỗ, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo ba lỗ, đang đứng)",
+  "người4 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)"
+]
+```
+
+frame_13:
+```json
+[
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "người1 (trưởng thành, mặc áo ba lỗ, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - bạt che",
+  "tường - phía sau - rèm",
+  "tường - phía sau - biểu ngữ",
+  "sàn - phía trước - người1 (trưởng thành, mặc áo ba lỗ, đang đứng)",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người2 (trưởng thành, mặc áo sơ mi, đang đứng)",
+  "người4 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang đứng) - đứng cạnh - người4 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo ba lỗ, đang đứng)",
+  "người5 (trưởng thành, mặc áo ba lỗ, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo ba lỗ, đang đứng)",
+  "người4 (trưởng thành, mặc áo tối màu, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "người5 (trưởng thành, mặc áo ba lỗ, đang đứng) - đứng cạnh - người2 (trưởng thành, mặc áo sơ mi, đang xem)",
+  "người5 (trưởng thành, mặc áo ba lỗ, đang xem) - đứng cạnh - người3 (trưởng thành, mặc áo tối màu, đang xem)",
+  "người4 (trưởng thành, mặc áo tối màu, đang xem) - đứng cạnh - người5 (trưởng thành, mặc áo ba lỗ, đang xem)"
+]
+```
+
+frame_14:
+```json
+[
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "tường - phía sau - rèm",
+  "tường - phía sau - biểu ngữ",
+  "sàn - phía trước - người1 (trưởng thành, mặc áo ba lỗ, đang ngồi)",
+  "người1 (trưởng thành, mặc áo ba lỗ, đang ngồi) - ngồi trên - ghế1 (màu vàng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang ngồi) - ngồi cạnh - ghế1 (màu vàng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang ngồi) - phía sau - rèm",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - phía sau - người2 (trưởng thành, mặc áo sơ mi, đang ngồi)",
+  "người4 (trưởng thành, mặc áo tối màu, đang ngồi) - phía sau - người3 (trưởng thành, mặc áo tối màu, đang đứng)"
+]
+```
+
+frame_15:
+```json
+[
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "tường - phía sau - rèm",
+  "tường - phía sau - biểu ngữ",
+  "sàn - phía trước - người1 (trưởng thành, mặc áo ba lỗ, đang ngồi)",
+  "người1 (trưởng thành, mặc áo ba lỗ, đang đứng) - ngồi trên - ghế1 (màu vàng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang nói chuyện) - ngồi cạnh - ghế1 (màu vàng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang nói chuyện) - phía sau - rèm",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - phía sau - người2 (trưởng thành, mặc áo sơ mi, đang nói chuyện)",
+  "người4 (trưởng thành, mặc áo tối màu, đang ngồi) - phía sau - người3 (trưởng thành, mặc áo tối màu, đang đứng)"
+]
+```
+
+frame_16:
+```json
+[
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "tường - phía sau - rèm",
+  "tường - phía sau - biểu ngữ",
+  "sàn - phía trước - người1 (trưởng thành, mặc áo ba lỗ, đang ngồi)",
+  "người1 (trưởng thành, mặc áo ba lỗ, đang ngồi) - ngồi trên - ghế1 (màu vàng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang nói chuyện) - ngồi cạnh - ghế1 (màu vàng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang nói chuyện) - phía sau - rèm",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - phía sau - người2 (trưởng thành, mặc áo sơ mi, đang nói chuyện)",
+  "người4 (trưởng thành, mặc áo tối màu, đang ngồi) - phía sau - người3 (trưởng thành, mặc áo tối màu, đang đứng)"
+]
+```
+
+frame_17:
+```json
+[
+  "biểu ngữ - phía trên - lều",
+  "rèm - phía sau - biểu ngữ",
+  "tường - phía sau - rèm",
+  "tường - phía sau - biểu ngữ",
+  "sàn - phía trước - người1 (trưởng thành, mặc áo ba lỗ, đang ngồi)",
+  "người1 (trưởng thành, mặc áo ba lỗ, đang ngồi) - ngồi trên - ghế1 (màu vàng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang nói chuyện) - ngồi cạnh - ghế2 (màu cam)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang nói chuyện) - phía sau - rèm",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - phía sau - người2 (trưởng thành, mặc áo sơ mi, đang nói chuyện)",
+  "người4 (trưởng thành, mặc áo tối màu, đang ngồi) - phía sau - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "bánh rán - gần - ghế2 (màu cam)"
+]
+```
+
+frame_18:
+```json
+[
+  "biểu ngữ - phía trên - rèm",
+  "rèm - phía sau - tường",
+  "tường - phía sau - biểu ngữ",
+  "sàn - phía trước - người1 (trưởng thành, mặc áo ba lỗ, đang ngồi)",
+  "người1 (trưởng thành, mặc áo ba lỗ, đang ngồi) - ngồi trên - ghế1 (màu vàng)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang nói chuyện) - ngồi cạnh - ghế2 (màu cam)",
+  "người2 (trưởng thành, mặc áo sơ mi, đang nói chuyện) - phía sau - tường",
+  "người3 (trưởng thành, mặc áo tối màu, đang đứng) - phía sau - người2 (trưởng thành, mặc áo sơ mi, đang nói chuyện)",
+  "người4 (trưởng thành, mặc áo tối màu, đang ngồi) - phía sau - người3 (trưởng thành, mặc áo tối màu, đang đứng)",
+  "bánh rán - gần - ghế2 (màu cam)"
+]
+```
+

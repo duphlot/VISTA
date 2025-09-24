@@ -1,0 +1,32 @@
+frame_0000.jpg: a man is cutting a fish on a cutting board
+frame_0001.jpg: a man is cutting a fish on a table
+frame_0002.jpg: a man is cutting a fish on a table
+frame_0003.jpg: a man is cutting a fish on a table
+frame_0004.jpg: a man is cutting a fish on a table
+frame_0005.jpg: a man is cutting a fish on a table
+frame_0006.jpg: a man is holding a fish on a sheet
+frame_0007.jpg: a man is cutting a fish on a table
+frame_0008.jpg: a man is cutting a fish on a table
+frame_0009.jpg: a man is cutting fish on a table
+frame_0010.jpg: a man is cutting a fish on a table
+frame_0011.jpg: a man is cutting a fish on a table
+frame_0012.jpg: a man is cutting a fish on a table
+frame_0013.jpg: a man is cutting a fish on a table
+frame_0014.jpg: a man is cutting a fish on a table
+frame_0015.jpg: a man is cutting a fish on a table
+frame_0016.jpg: a man is cutting a fish on a table
+frame_0017.jpg: a man is cutting a fish on a table
+frame_0018.jpg: a man is holding a fish on a metal tray
+frame_0019.jpg: a man is cutting fish on a metal tray
+frame_0020.jpg: a man is cutting a fish on a table
+frame_0021.jpg: a man is cutting a fish on a table
+frame_0022.jpg: a man is cleaning a sink with a brush
+frame_0023.jpg: a man is cutting a piece of wood
+frame_0024.jpg: a man is using a knife to cut a piece of metal
+frame_0025.jpg: a man is cutting a fish on a table
+frame_0026.jpg: a man is cutting a piece of wood
+frame_0027.jpg: a man is working on a roof with a hammer
+frame_0028.jpg: a man is working on a metal roof
+frame_0029.jpg: a man is working on a metal roof
+frame_0030.jpg: a man is cutting a fish on a table
+frame_0031.jpg: a man is cutting a fish on a table

@@ -1,0 +1,49 @@
+frame_0000.jpg: two dogs playing on the floor in a living room
+frame_0001.jpg: two dogs are playing on the floor in a living room
+frame_0002.jpg: two dogs playing on the floor in a living room
+frame_0003.jpg: two dogs are playing on the floor in the living room
+frame_0004.jpg: two dogs are playing on the floor in the living room
+frame_0005.jpg: two dogs playing on the floor in a living room
+frame_0006.jpg: two dogs are playing on the floor
+frame_0007.jpg: two dogs are playing on the floor in the living room
+frame_0008.jpg: two dogs are playing on the floor in the living room
+frame_0009.jpg: two dogs playing on the floor in a living room
+frame_0010.jpg: two dogs are playing on the floor in the living room
+frame_0011.jpg: two dogs are playing on the floor in the living room
+frame_0012.jpg: two dogs playing on the floor in a living room
+frame_0013.jpg: two dogs playing on the floor in a living room
+frame_0014.jpg: two dogs are playing on the floor in the living room
+frame_0015.jpg: two dogs are playing with each other dogs
+frame_0016.jpg: two dogs playing with each other dogs
+frame_0017.jpg: two dogs are playing on the floor in the living room
+frame_0018.jpg: two dogs are playing on the floor in the living room
+frame_0019.jpg: two dogs are laying on the floor in a living room
+frame_0020.jpg: two dogs are laying on the floor in a living room
+frame_0021.jpg: two dogs are playing on the floor in the living room
+frame_0022.jpg: two dogs laying on the floor in a living room
+frame_0023.jpg: two dogs laying on the floor in a living room
+frame_0024.jpg: two dogs laying on the floor in a living room
+frame_0025.jpg: two dogs laying on the floor in a living room
+frame_0026.jpg: two dogs are laying on the floor in a living room
+frame_0027.jpg: two dogs playing with each other dogs
+frame_0028.jpg: two dogs laying on the floor in a living room
+frame_0029.jpg: two dogs are laying on the floor in a living room
+frame_0030.jpg: two dogs laying on the floor in front of a tv
+frame_0031.jpg: two dogs are playing with each other dogs
+frame_0032.jpg: two dogs are playing with each other dogs
+frame_0033.jpg: two dogs playing in the living room
+frame_0034.jpg: two dogs are playing on the floor in the living room
+frame_0035.jpg: two dogs are playing in the living room
+frame_0036.jpg: three dogs are standing on a table in front of a fireplace
+frame_0037.jpg: two dogs are playing on the floor in front of a fireplace
+frame_0038.jpg: a dog is standing on the floor in front of a couch
+frame_0039.jpg: a dog is standing on the floor in a living room
+frame_0040.jpg: two cats playing on the floor in a living room
+frame_0041.jpg: two cats playing with each other cats
+frame_0042.jpg: two cats playing in the living room
+frame_0043.jpg: a cat is sitting on the floor in front of a couch
+frame_0044.jpg: two cats are sitting in front of a fireplace
+frame_0045.jpg: a cat is laying on the floor in front of a fireplace
+frame_0046.jpg: a cat is sitting on the floor in front of a fire place
+frame_0047.jpg: a dog is laying on the floor in front of a fire place
+frame_0048.jpg: two dogs are playing in the living room

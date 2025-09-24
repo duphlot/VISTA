@@ -1,0 +1,452 @@
+frame_0:
+```json
+[
+  "tường - là - trần nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng cạnh - ghế1",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang ngồi, trung lập) - ngồi trên - sàn nhà",
+  "ghế2 - đặt trên - sàn nhà",
+  "ghế1 - đặt trên - sàn nhà",
+  "tủ lạnh - ở - sàn nhà",
+  "sàn nhà - là - trần nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - sàn nhà",
+  "ghế3 - đặt trên - sàn nhà"
+]
+```
+
+frame_1:
+```json
+[
+  "tường - là - trần nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng cạnh - ghế1",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang ngồi, trung lập) - ngồi trên - sàn nhà",
+  "ghế2 - đặt trên - sàn nhà",
+  "ghế1 - đặt trên - sàn nhà",
+  "tủ lạnh - ở - sàn nhà",
+  "sàn nhà - là - trần nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế3",
+  "ghế3 - đặt trên - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang ngồi, trung lập) - ngồi trên - sàn nhà"
+]
+```
+
+frame_2:
+```json
+[
+  "tường - là - trần nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng cạnh - ghế1",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "ghế2 - đặt trên - sàn nhà",
+  "ghế1 - đặt trên - sàn nhà",
+  "tủ lạnh - ở - sàn nhà",
+  "sàn nhà - là - trần nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế3",
+  "ghế3 - đặt trên - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang ngồi, trung lập) - ngồi trên - ghế băng"
+]
+```
+
+frame_3:
+```json
+[
+  "tường - là - trần nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng cạnh - ghế1",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "ghế2 - đặt trên - sàn nhà",
+  "ghế1 - đặt trên - sàn nhà",
+  "tủ lạnh - ở - sàn nhà",
+  "sàn nhà - là - trần nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế3",
+  "ghế3 - đặt trên - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang đứng, trung lập) - ngồi trên - ghế băng"
+]
+```
+
+frame_4:
+```json
+[
+  "tường - là - trần nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang với tay, trung lập) - đứng cạnh - tường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "ghế2 - đặt trên - sàn nhà",
+  "ghế1 - đặt trên - sàn nhà",
+  "tủ lạnh - ở - sàn nhà",
+  "sàn nhà - là - trần nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "ghế3 - đặt trên - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang đứng, trung lập) - đứng trên - sàn nhà"
+]
+```
+
+frame_5:
+```json
+[
+  "tường - là - trần nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang với tay, trung lập) - đứng cạnh - tường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "ghế2 - đặt trên - sàn nhà",
+  "ghế1 - đặt trên - sàn nhà",
+  "tủ lạnh - ở - sàn nhà",
+  "sàn nhà - là - trần nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang với tay, trung lập) - đứng trên - sàn nhà",
+  "ghế3 - đặt trên - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - cầm - gậy bóng chày (kim loại)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - đứng trên - sàn nhà",
+  "gậy bóng chày (kim loại) - dựa vào - tường"
+]
+```
+
+frame_6:
+```json
+[
+  "tường - là - trần nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang vẫy tay, trung lập) - đứng cạnh - tường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "ghế2 - đặt trên - sàn nhà",
+  "ghế1 - đặt trên - sàn nhà",
+  "tủ lạnh - ở - sàn nhà",
+  "sàn nhà - là - trần nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang với tay, trung lập) - ngồi trên - sàn nhà",
+  "ghế3 - đặt trên - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - đứng trên - sàn nhà",
+  "gậy bóng chày (kim loại) - dựa vào - tường",
+  "người5 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - sàn nhà",
+  "người6 (trưởng thành - nam, mặc áo trắng, đang nhìn, trung lập) - ngồi trên - sàn nhà",
+  "túi xách (màu hồng) - đặt trên - sàn nhà",
+  "người7 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - sàn nhà"
+]
+```
+
+frame_7:
+```json
+[
+  "trần nhà - là - tường",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang vẫy tay, trung lập) - đứng cạnh - tường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "ghế2 - đặt trên - sàn nhà",
+  "ghế1 - đặt trên - sàn nhà",
+  "tủ lạnh - ở - sàn nhà",
+  "sàn nhà - là - trần nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang với tay, trung lập) - ngồi trên - sàn nhà",
+  "ghế3 - đặt trên - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - đứng trên - sàn nhà",
+  "gậy bóng chày (kim loại) - tựa vào - tường",
+  "người5 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - sàn nhà",
+  "người6 (trưởng thành - nam, mặc áo trắng, đang nhìn, trung lập) - ngồi trên - sàn nhà",
+  "túi xách (màu hồng) - đặt trên - sàn nhà",
+  "người7 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - cầm - gậy bóng chày (kim loại)"
+]
+```
+
+frame_8:
+```json
+[
+  "tủ lạnh - ở - tường",
+  "tường - là - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - đứng cạnh - ghế1",
+  "ghế1 - ở trên - sàn nhà",
+  "ghế2 - ở trên - sàn nhà",
+  "sàn nhà - là - tường",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang với tay, trung lập) - ngồi trên - ghế3",
+  "ghế3 - ở trên - sàn nhà",
+  "người5 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế2",
+  "người6 (trưởng thành - nam, mặc áo trắng, đang nhìn, trung lập) - ngồi trên - ghế1",
+  "túi xách (màu hồng) - đặt trên - sàn nhà",
+  "người7 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế3",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang vẫy tay, trung lập) - đứng cạnh - tường"
+]
+```
+
+frame_9:
+```json
+[
+  "tủ lạnh - ở - tường",
+  "tường - là - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - đứng cạnh - ghế1",
+  "ghế1 - ở trên - sàn nhà",
+  "ghế2 - ở trên - sàn nhà",
+  "sàn nhà - là - tường",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang với tay, trung lập) - ngồi trên - ghế3",
+  "ghế3 - ở trên - sàn nhà",
+  "người5 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế2",
+  "người6 (trưởng thành - nam, mặc áo trắng, đang nhìn, trung lập) - ngồi trên - ghế1",
+  "túi xách (màu hồng) - đặt trên - sàn nhà",
+  "người7 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế3",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang vẫy tay, trung lập) - đứng cạnh - tường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "ghế4 (màu vàng) - ở trên - sàn nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang với tay, trung lập) - ngồi trên - ghế5 (màu cam)",
+  "ghế5 (màu cam) - ở trên - sàn nhà",
+  "gậy bóng chày (màu nâu) - ở trên - ghế5 (màu cam)"
+]
+```
+
+frame_10:
+```json
+[
+  "tủ lạnh - ở - tường",
+  "tường - là - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - đứng cạnh - ghế1",
+  "ghế1 - ở trên - sàn nhà",
+  "ghế2 - ở trên - sàn nhà",
+  "sàn nhà - là - tường",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang với tay, trung lập) - ngồi trên - ghế3",
+  "ghế3 - ở trên - sàn nhà",
+  "người5 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế2",
+  "người6 (trưởng thành - nam, mặc áo trắng, đang nhìn, trung lập) - ngồi trên - ghế1",
+  "túi xách (màu hồng) - đặt trên - sàn nhà",
+  "người7 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế3",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng cạnh - tường",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "ghế4 (màu vàng) - ở trên - sàn nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập) - ngồi trên - ghế5 (màu cam)",
+  "ghế5 (màu cam) - ở trên - sàn nhà",
+  "gậy bóng chày (màu nâu) - ở trên - ghế5 (màu cam)",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng trên - sàn nhà"
+]
+```
+
+frame_11:
+```json
+[
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập) - ngồi trên - ghế5 (màu cam)",
+  "ghế5 (màu cam) - ở trên - sàn nhà",
+  "người5 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế2",
+  "ghế2 - ở trên - sàn nhà",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "tường - là - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - đứng cạnh - ghế1",
+  "ghế1 - ở trên - sàn nhà",
+  "sàn nhà - là - tường",
+  "người6 (trưởng thành - nam, mặc áo trắng, đang nhìn, trung lập) - ngồi trên - ghế1",
+  "tủ lạnh - ở - tường",
+  "người7 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế3",
+  "ghế3 - ở trên - sàn nhà",
+  "ghế4 (màu vàng) - ở trên - sàn nhà",
+  "người8 (trưởng thành - không rõ giới tính, mặc áo hồng, đang dang tay, trung lập) - ở trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng cạnh - người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập)",
+  "sàn nhà - là - tường"
+]
+```
+
+frame_12:
+```json
+[
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập) - ngồi trên - ghế5 (màu cam)",
+  "ghế5 (màu cam) - ở trên - sàn nhà",
+  "người5 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế2",
+  "ghế2 - ở trên - sàn nhà",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "tường - là - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - đứng cạnh - ghế1",
+  "ghế1 - ở trên - sàn nhà",
+  "sàn nhà - là - tường",
+  "người6 (trưởng thành - nam, mặc áo trắng, đang nhìn, trung lập) - ngồi trên - ghế1",
+  "tủ lạnh - ở - tường",
+  "người7 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế3",
+  "ghế3 - ở trên - sàn nhà",
+  "ghế4 (màu vàng) - ở trên - sàn nhà",
+  "người8 (trưởng thành - không rõ giới tính, mặc áo hồng, đang dang tay, trung lập) - ở trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng cạnh - người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập)",
+  "sàn nhà - là - tường",
+  "tường - ở trên - sàn nhà",
+  "người9 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, trung lập) - đứng trên - sàn nhà"
+]
+```
+
+frame_13:
+```json
+[
+  "tường - ở trên - sàn nhà",
+  "sàn nhà - là - tường",
+  "người8 (trưởng thành - không rõ giới tính, mặc áo hồng, đang dang tay, trung lập) - đứng trên - sàn nhà",
+  "ghế4 (màu vàng) - ở trên - sàn nhà",
+  "người7 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế3",
+  "ghế3 - ở trên - sàn nhà",
+  "tủ lạnh - ở - tường",
+  "người6 (trưởng thành - nam, mặc áo trắng, đang nhìn, trung lập) - ngồi trên - ghế1",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - đứng cạnh - ghế1",
+  "ghế1 - ở trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng cạnh - người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "người5 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế2",
+  "ghế2 - ở trên - sàn nhà",
+  "ghế5 (màu cam) - ở trên - sàn nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập) - ngồi trên - ghế5",
+  "người9 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, trung lập) - đang dang tay - người8 (trưởng thành - không rõ giới tính, mặc áo hồng, đang dang tay, trung lập)",
+  "người9 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đứng, trung lập) - tương tác - ghế4 (màu vàng)"
+]
+```
+
+frame_14:
+```json
+[
+  "tường - ở trên - sàn nhà",
+  "sàn nhà - là - tường",
+  "người8 (trưởng thành - không rõ giới tính, mặc áo hồng, đang dang tay, trung lập) - đứng trên - sàn nhà",
+  "ghế4 (màu vàng) - ở trên - sàn nhà",
+  "người7 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế3",
+  "ghế3 - ở trên - sàn nhà",
+  "tủ lạnh - ở - tường",
+  "người6 (trưởng thành - nam, mặc áo trắng, đang nhìn, trung lập) - ngồi trên - ghế1",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - đứng cạnh - ghế1",
+  "ghế1 - ở trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng cạnh - người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "người5 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế2",
+  "ghế2 - ở trên - sàn nhà",
+  "ghế5 (màu cam) - ở trên - sàn nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập) - ngồi trên - ghế5",
+  "người9 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đấm, tức giận) - tương tác - người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập)",
+  "người9 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đấm, tức giận) - ở gần - sàn nhà"
+]
+```
+
+frame_15:
+```json
+[
+  "tường - ở trên - sàn nhà",
+  "sàn nhà - là - tường",
+  "người8 (trưởng thành - không rõ giới tính, mặc áo hồng, đang dang tay, trung lập) - đứng trên - sàn nhà",
+  "ghế4 (màu vàng) - ở trên - sàn nhà",
+  "người7 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế3",
+  "ghế3 - ở trên - sàn nhà",
+  "tủ lạnh - ở - tường",
+  "người6 (trưởng thành - nam, mặc áo trắng, đang nhìn, trung lập) - ngồi trên - ghế1",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - đứng cạnh - ghế1",
+  "ghế1 - ở trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng cạnh - người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "người5 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế2",
+  "ghế2 - ở trên - sàn nhà",
+  "ghế5 (màu cam) - ở trên - sàn nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập) - ngồi trên - ghế5",
+  "người9 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đấm, tức giận) - tương tác - người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập)",
+  "người9 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đấm, tức giận) - ở gần - sàn nhà"
+]
+```
+
+frame_16:
+```json
+[
+  "tường - ở trên - sàn nhà",
+  "sàn nhà - là - tường",
+  "người8 (trưởng thành - không rõ giới tính, mặc áo hồng, đang dang tay, trung lập) - đứng trên - sàn nhà",
+  "ghế4 (màu vàng) - ở trên - sàn nhà",
+  "người7 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế3",
+  "ghế3 - ở trên - sàn nhà",
+  "tủ lạnh - ở - tường",
+  "người6 (trưởng thành - nam, mặc áo trắng, đang nhìn, trung lập) - ngồi trên - ghế1",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - đứng cạnh - ghế1",
+  "ghế1 - ở trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng cạnh - người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "người5 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế2",
+  "ghế2 - ở trên - sàn nhà",
+  "ghế5 (màu cam) - ở trên - sàn nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập) - ngồi trên - ghế5",
+  "người9 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đấm, tức giận) - tương tác - người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập)",
+  "người9 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đấm, tức giận) - ở gần - sàn nhà",
+  "trần nhà - ở trên - tường",
+  "ghế6 (màu hồng) - ở trên - sàn nhà",
+  "người10 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ngồi trên - ghế6"
+]
+```
+
+frame_17:
+```json
+[
+  "trần nhà - ở trên - tường",
+  "sàn nhà - là - tường",
+  "người8 (trưởng thành - không rõ giới tính, mặc áo hồng, đang dang tay, trung lập) - đứng trên - sàn nhà",
+  "ghế4 (màu vàng) - ở trên - sàn nhà",
+  "người7 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế3",
+  "ghế3 - ở trên - sàn nhà",
+  "tủ lạnh - ở - tường",
+  "người6 (trưởng thành - nam, mặc áo trắng, đang nhìn, trung lập) - ngồi trên - ghế1",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - đứng cạnh - ghế1",
+  "ghế1 - ở trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng cạnh - người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "người5 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế2",
+  "ghế2 - ở trên - sàn nhà",
+  "ghế5 (màu cam) - ở trên - sàn nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập) - ngồi trên - ghế5",
+  "người9 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đấm, tức giận) - tương tác - người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập)",
+  "người9 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đấm, tức giận) - ở gần - sàn nhà",
+  "ghế6 (màu hồng) - ở trên - sàn nhà",
+  "người10 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ngồi trên - ghế6",
+  "người11 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ngồi trên - ghế7 (màu tím)",
+  "ghế7 (màu tím) - ở trên - sàn nhà",
+  "sàn nhà - ở dưới - trần nhà",
+  "tường - ở trên - sàn nhà",
+  "người12 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ở trên - sàn nhà",
+  "va li (màu xanh) - ở trên - sàn nhà"
+]
+```
+
+frame_18:
+```json
+[
+  "trần nhà - ở trên - tường",
+  "sàn nhà - là - tường",
+  "người8 (trưởng thành - không rõ giới tính, mặc áo hồng, đang dang tay, trung lập) - đứng trên - sàn nhà",
+  "ghế4 (màu vàng) - ở trên - sàn nhà",
+  "người7 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế3",
+  "ghế3 - ở trên - sàn nhà",
+  "tủ lạnh - ở - tường",
+  "người6 (trưởng thành - nam, mặc áo trắng, đang nhìn, trung lập) - ngồi trên - ghế1",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - đứng cạnh - ghế1",
+  "ghế1 - ở trên - sàn nhà",
+  "người1 (trưởng thành - không rõ giới tính, mặc áo khoác trắng, đang đứng, trung lập) - đứng cạnh - người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập)",
+  "người2 (trưởng thành - không rõ giới tính, mặc áo trắng, đang đứng, trung lập) - đứng trên - sàn nhà",
+  "người5 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, trung lập) - ngồi trên - ghế2",
+  "ghế2 - ở trên - sàn nhà",
+  "ghế5 (màu cam) - ở trên - sàn nhà",
+  "người3 (trưởng thành - không rõ giới tính, mặc áo hồng, đang nói chuyện - trung lập) - ngồi trên - ghế5",
+  "người9 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đấm, tức giận) - tương tác - người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập)",
+  "người9 (trưởng thành - không rõ giới tính, mặc áo hồng, đang đấm, tức giận) - ở gần - sàn nhà",
+  "ghế6 (màu hồng) - ở trên - sàn nhà",
+  "người10 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ngồi trên - ghế6",
+  "người11 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ngồi trên - ghế7 (màu tím)",
+  "ghế7 (màu tím) - ở trên - sàn nhà",
+  "sàn nhà - ở dưới - trần nhà",
+  "tường - ở trên - sàn nhà",
+  "người12 (trưởng thành - không rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ở trên - sàn nhà",
+  "va li (màu xanh) - ở trên - sàn nhà"
+]
+```
+
+frame_19:
+```json
+[
+  "tường - ở trên - sàn nhà",
+  "sàn nhà - ở dưới - tường",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - ở gần - mèo1 (màu hồng)",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - ở gần - sàn nhà",
+  "mèo1 (màu hồng) - ở trên - sàn nhà",
+  "người4 (trưởng thành - không rõ giới tính, mặc áo cam, đang cầm gậy bóng chày, trung lập) - ở gần - người13 (trưởng thành - không rõ giới tính, mặc áo cam, đang đứng, trung lập)",
+  "người13 (trưởng thành - không rõ giới tính, mặc áo cam, đang đứng, trung lập) - ở trên - sàn nhà"
+]
+```
+
+frame_20:
+```json
+["tuyết - ở trên - biển", "bầu trời - ở trên - biển", "biển - ở dưới - tuyết"]
+```
+
+frame_21:
+```json
+["b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - n\u01b0\u1edbc", "ng\u01b0\u1eddi1 (kh\u00f4ng x\u00e1c \u0111\u1ecbnh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng x\u00e1c \u0111\u1ecbnh) - \u1edf g\u1ea7n - b\u1ea7u tr\u1eddi", "n\u01b0\u1edbc - \u1edf d\u01b0\u1edbi - b\u1ea7u tr\u1eddi"]
+```
+
+frame_22:
+```json
+["nước - ở gần - người1 (không xác định - không xác định, không xác định, không xác định, không xác định)", "người1 (không xác định - không xác định, không xác định, không xác định, không xác định) - ở trong - nước"]
+```
+

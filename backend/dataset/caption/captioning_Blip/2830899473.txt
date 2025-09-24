@@ -1,0 +1,22 @@
+frame_0000.jpg: a group of people walking down a road
+frame_0001.jpg: a man is walking down the street with a backpack
+frame_0002.jpg: a group of people walking down a road
+frame_0003.jpg: a man is carrying a backpack down the road
+frame_0004.jpg: a man in a backpack is walking down the street
+frame_0005.jpg: a man is walking down the street with a backpack
+frame_0006.jpg: a man is walking down the street with a backpack
+frame_0007.jpg: a group of people walking down the street
+frame_0008.jpg: a group of people walking down the road
+frame_0009.jpg: a man is walking down the road with a backpack
+frame_0010.jpg: a man is walking down the road with a backpack
+frame_0011.jpg: a group of people walking down the road
+frame_0012.jpg: a group of people walking down a road
+frame_0013.jpg: a group of people walking down the street
+frame_0014.jpg: a man and woman walking down the road
+frame_0015.jpg: two people are standing on the side of the road
+frame_0016.jpg: a man is walking down the street with a backpack
+frame_0017.jpg: a group of people walking down the street
+frame_0018.jpg: a man in an orange shirt is walking down the street
+frame_0019.jpg: two people walking down the street with backpacks
+frame_0020.jpg: two people are walking down the street with backpacks
+frame_0021.jpg: a man in a hat is taking a picture of a woman

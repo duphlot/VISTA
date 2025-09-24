@@ -1,0 +1,19 @@
+frame_0000.jpg: a man playing a guitar while another plays the guitar
+frame_0001.jpg: a man playing a guitar while another plays
+frame_0002.jpg: a man playing guitar while another plays guitar
+frame_0003.jpg: a man playing a guitar while another plays
+frame_0004.jpg: a man playing a guitar while another plays
+frame_0005.jpg: a man playing a guitar while another plays
+frame_0006.jpg: a man playing a guitar while another plays the guitar
+frame_0007.jpg: a man playing a guitar while another plays
+frame_0008.jpg: a man playing guitar while another plays guitar
+frame_0009.jpg: a man playing guitar and another playing guitar
+frame_0010.jpg: a man playing a guitar while another plays the guitar
+frame_0011.jpg: a man playing guitar while another plays guitar
+frame_0012.jpg: a man playing guitar while another plays guitar
+frame_0013.jpg: a man playing guitar while a woman plays guitar
+frame_0014.jpg: a group of people playing instruments in a room
+frame_0015.jpg: a man playing guitar in front of a woman
+frame_0016.jpg: a man playing a guitar in front of a woman
+frame_0017.jpg: a man playing a guitar in front of a woman
+frame_0018.jpg: a man playing a guitar in front of a woman

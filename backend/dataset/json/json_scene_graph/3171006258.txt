@@ -1,0 +1,1234 @@
+frame_0:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu hồng) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi, không rõ cảm xúc) - dựa vào - cây1"
+]
+```
+
+frame_1:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang nằm, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu hồng) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang nằm, không rõ cảm xúc) - dựa vào - cây1"
+]
+```
+
+frame_2:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu hồng) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu hồng) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - đang cưỡi - ván trượt tuyết1 (màu hồng)"
+]
+```
+
+frame_3:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu hồng) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu hồng) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - đang cưỡi - ván trượt tuyết1 (màu hồng)"
+]
+```
+
+frame_4:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu hồng) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu hồng) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi, không rõ cảm xúc) - đang cưỡi - ván trượt tuyết1 (màu hồng)"
+]
+```
+
+frame_5:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu hồng) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu hồng) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi, không rõ cảm xúc) - đang cưỡi - ván trượt tuyết1 (màu hồng)",
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang nằm, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang nằm, không rõ cảm xúc) - gần - cây1"
+]
+```
+
+frame_6:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1"
+]
+```
+
+frame_7:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1"
+]
+```
+
+frame_8:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1"
+]
+```
+
+frame_9:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)"
+]
+```
+
+frame_10:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)"
+]
+```
+
+frame_11:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)"
+]
+```
+
+frame_12:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)"
+]
+```
+
+frame_13:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)"
+]
+```
+
+frame_14:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_15:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi)"
+]
+```
+
+frame_16:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi)"
+]
+```
+
+frame_17:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi)"
+]
+```
+
+frame_18:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, không rõ cảm xúc)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã trên tuyết, sợ hãi)"
+]
+```
+
+frame_19:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)"
+]
+```
+
+frame_20:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)"
+]
+```
+
+frame_21:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)"
+]
+```
+
+frame_22:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)"
+]
+```
+
+frame_23:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)"
+]
+```
+
+frame_24:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)"
+]
+```
+
+frame_25:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)"
+]
+```
+
+frame_26:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)"
+]
+```
+
+frame_27:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang đứng, không rõ cảm xúc)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)"
+]
+```
+
+frame_28:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi trên ván trượt, lo lắng) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi trên ván trượt, lo lắng) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi trên ván trượt, lo lắng)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi trên ván trượt, lo lắng) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi trên ván trượt, lo lắng) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi trên ván trượt, lo lắng)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang ngồi trên ván trượt, lo lắng)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang nằm trên tuyết, sợ hãi)"
+]
+```
+
+frame_29:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn)",
+  "tuyết1 - ở dưới - cây1"
+]
+```
+
+frame_30:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - mang - ba lô1"
+]
+```
+
+frame_31:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang trượt tuyết, đau đớn)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - mang - ba lô1"
+]
+```
+
+frame_32:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - mang - ba lô1",
+  "chim1 (màu đỏ) - ở trên - tuyết1",
+  "chim2 (màu xám) - ở trên - tuyết1"
+]
+```
+
+frame_33:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_34:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_35:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu cam, đang ngã, đau đớn) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_36:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_37:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_38:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_39:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_40:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngã, đau đớn) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_41:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt tuyết, sảng khoái) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt tuyết, sảng khoái) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt tuyết, sảng khoái)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt tuyết, sảng khoái) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt tuyết, sảng khoái)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt tuyết, sảng khoái) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_42:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt tuyết, sảng khoái) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt tuyết, sảng khoái) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt tuyết, sảng khoái)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt tuyết, sảng khoái) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt tuyết, sảng khoái)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt tuyết, sảng khoái) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_43:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_44:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_45:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_46:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_47:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang ngồi, vui vẻ) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, sợ hãi) - ở trên - tuyết1"
+]
+```
+
+frame_48:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_49:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_50:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_51:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang trượt ngã, hoảng sợ) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_52:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_53:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên)",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1"
+]
+```
+
+frame_54:
+```json
+[
+  "cây1 - ở trong - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - ở trên - tuyết1",
+  "ván trượt tuyết1 (màu xanh lá cây) - ở trên - tuyết1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - dựa vào - cây1",
+  "ván trượt tuyết1 (màu xanh lá cây) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - gần - cây1",
+  "tuyết1 - ở dưới - cây1",
+  "người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi) - mang - ba lô1",
+  "ba lô1 (màu xám) - thuộc về - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên) - ở trên - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên) - gần - người1 (trưởng thành - không xác định, mặc áo khoác tối màu, đang trượt tuyết, sợ hãi)",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên) - dựa vào - cây1",
+  "ván trượt tuyết2 (màu tím) - ở trên - tuyết1",
+  "tuyết1 - ở dưới - cây1",
+  "người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên) - mang - ba lô1",
+  "tuyết1 - ở dưới - cây1",
+  "cây1 - ở trong - tuyết1",
+  "cây1 - ở trong - tuyết1",
+  "ván trượt tuyết2 (màu tím) - thuộc về - người2 (trưởng thành - không xác định, mặc áo khoác màu hồng, đang đi bộ, ngạc nhiên)"
+]
+```
+

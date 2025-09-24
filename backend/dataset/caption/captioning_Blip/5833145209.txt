@@ -1,0 +1,27 @@
+frame_0000.jpg: a bird bath in a bird bath
+frame_0001.jpg: two birds are sitting on a bird bath
+frame_0002.jpg: a bird is sitting on a bird bath
+frame_0003.jpg: a small bird is sitting on top of a bird feeder
+frame_0004.jpg: two birds are sitting on a bird bath
+frame_0005.jpg: two birds are sitting on a bird bath
+frame_0006.jpg: a bird is sitting on top of a bird bath
+frame_0007.jpg: two birds are sitting on a bird bath
+frame_0008.jpg: two birds are sitting on a bird bath
+frame_0009.jpg: two birds are sitting on a bird bath
+frame_0010.jpg: a bird is sitting on top of a bird bath
+frame_0011.jpg: two birds are sitting on a bird bath
+frame_0012.jpg: two birds are sitting on a bird bath
+frame_0013.jpg: two birds are sitting on a bird bath
+frame_0014.jpg: a deer is standing in the grass
+frame_0015.jpg: two birds are sitting on a bird bath
+frame_0016.jpg: two birds are sitting on a bird bath
+frame_0017.jpg: two birds are sitting on a bird bath
+frame_0018.jpg: a bird is sitting on a bird bath
+frame_0019.jpg: a bird is sitting on top of a birdbat
+frame_0020.jpg: a bird is sitting on a bird feeder
+frame_0021.jpg: a bird is sitting on a bird bath
+frame_0022.jpg: a bird is sitting on a bird bath
+frame_0023.jpg: a bird is sitting on a bird bath
+frame_0024.jpg: a bird is sitting on a bird bath
+frame_0025.jpg: a bird is sitting on a bird bath
+frame_0026.jpg: a bird bath in the garden

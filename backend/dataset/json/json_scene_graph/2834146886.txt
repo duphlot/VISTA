@@ -1,0 +1,616 @@
+frame_0:
+```json
+[
+  "mèo1 (màu hồng) - gần - sàn-gỗ1",
+  "chó1 (màu xanh dương) - trên - sàn1",
+  "chó1 (màu xanh dương) - gần - sàn-gỗ1",
+  "mèo1 (màu hồng) - gần - chó1 (màu xanh dương)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đứng) - gần - tường1",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - trên - sàn-gỗ1",
+  "chim1 (màu vàng) - trên - sàn-gỗ1"
+]
+```
+
+frame_2:
+```json
+[
+  "chó1 - trên - sàn nhà",
+  "chó2 - trên - sàn nhà",
+  "chó1 - gần - ghế sofa1"
+]
+```
+
+frame_3:
+```json
+[
+  "chó1 - trên - sàn nhà",
+  "chó1 - gần - sàn gỗ",
+  "chó1 - gần - ghế sofa1"
+]
+```
+
+frame_4:
+```json
+[
+  "giường1 - trên - sàn nhà",
+  "giường1 - gần - sàn gỗ"
+]
+```
+
+frame_5:
+```json
+[
+  "giường1 - trên - sàn nhà",
+  "giường1 - gần - sàn gỗ",
+  "thảm (màu hồng) - gần - chăn (màu xanh ngọc)"
+]
+```
+
+frame_6:
+```json
+[
+  "bồn rửa1 (màu xanh) - trên - sàn nhà",
+  "bồn rửa1 (màu xanh) - gần - sàn gỗ",
+  "sàn nhà - một phần của - sàn gỗ"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ, mặc đồ tối màu, đang đứng) - gần - sàn nhà",
+  "chén1 (màu xanh) - gần - sàn gỗ",
+  "sàn nhà - một phần của - sàn gỗ"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ, mặc đồ tối màu, đang đứng) - gần - sàn nhà",
+  "sàn nhà - một phần của - sàn gỗ",
+  "người1 (trẻ, mặc đồ tối màu, đang đứng) - gần - laptop (màu vàng)",
+  "sàn gỗ - trên - bàn",
+  "laptop (màu vàng) - trên - bàn"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ, mặc đồ tối màu, đang đứng) - gần - sàn nhà",
+  "sàn nhà - một phần của - sàn gỗ",
+  "người1 (trẻ, mặc đồ tối màu, đang đứng) - gần - laptop (màu vàng)",
+  "sàn gỗ - trên - bàn",
+  "laptop (màu vàng) - trên - bàn",
+  "người1 (trẻ, mặc đồ tối màu, đang đứng) - gần - bàn phím (màu hồng)",
+  "bàn phím (màu hồng) - trên - bàn"
+]
+```
+
+frame_10:
+```json
+[
+  "cốc (màu hồng) - trên - bàn",
+  "giấy - trên - hộp giấy",
+  "bàn - bên cạnh - ghế sofa",
+  "hộp giấy - trên - bàn",
+  "người1 (trẻ, mặc đồ tối màu, đang đứng) - gần - bàn",
+  "bàn phím (màu hồng) - trên - bàn"
+]
+```
+
+frame_11:
+```json
+[
+  "cốc (màu hồng) - trên - bàn",
+  "bàn phím1 (màu hồng) - trên - bàn",
+  "người1 (trẻ, mặc đồ tối màu, đang đứng) - gần - bàn",
+  "bàn - bên cạnh - người1 (trẻ, mặc đồ tối màu, đang đứng)",
+  "bàn - chứa - hộp giấy",
+  "chuột - trên - bàn",
+  "bàn phím2 (màu hồng) - trên - bàn"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ, mặc đồ tối màu, đang đứng) - gần - bàn ăn",
+  "bàn ăn - bên cạnh - người1 (trẻ, mặc đồ tối màu, đang đứng)",
+  "bàn ăn - chứa - hộp giấy",
+  "chuột - trên - bàn ăn",
+  "bàn phím1 (màu hồng) - trên - bàn ăn",
+  "cốc (màu hồng) - trên - bàn ăn",
+  "bàn - bên cạnh - người1 (trẻ, mặc đồ tối màu, đang đứng)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ, mặc đồ tối màu, đang đứng) - trên - sàn-gỗ",
+  "sàn nhà - gần - sàn-gỗ"
+]
+```
+
+frame_14:
+```json
+["người1 (trẻ, mặc đồ tối màu, đang đứng) - trên - tuyết"]
+```
+
+frame_15:
+```json
+["tường - ở trên - sàn nhà", "người1 (trẻ, mặc đồ tối màu, đang đứng) - ở trên - sàn nhà", "người2 (trẻ, mặc đồ tối màu, đang đứng) - ở trên - sàn nhà"]
+```
+
+frame_16:
+```json
+["tường - ở trên - sàn nhà", "chó1 - ở trên - sàn nhà", "người1 (trẻ, mặc đồ tối màu, đang đứng) - ở trên - sàn nhà"]
+```
+
+frame_17:
+```json
+["tường - ở trên - sàn nhà", "chó1 - ở trên - sàn nhà", "người1 (trẻ, mặc đồ tối màu, đang đứng) - ở trên - sàn nhà"]
+```
+
+frame_18:
+```json
+["tường - ở trên - sàn nhà (màu tím)", "chó1 - ở trên - sàn nhà (màu tím)", "tường - ở trên - sàn gỗ", "chó1 - ở trên - sàn nhà"]
+```
+
+frame_19:
+```json
+["chó1 - ở trên - sàn nhà (màu tím)", "sàn nhà - là - vỉa hè"]
+```
+
+frame_20:
+```json
+["chó1 - ở trên - sàn nhà", "sàn nhà - là - vỉa hè"]
+```
+
+frame_21:
+```json
+["người1 (trẻ, không mặc áo, đang đứng) - ở trên - sàn nhà", "người2 (trẻ, không mặc áo, đang đứng) - ở trên - sàn nhà"]
+```
+
+frame_22:
+```json
+["người1 (trẻ, không mặc áo, đang đứng) - ở trên - vỉa hè", "người1 (trẻ, không mặc áo, đang đứng) - ở trên - người2 (trẻ, không mặc áo, đang đứng)"]
+```
+
+frame_23:
+```json
+["người1 (trẻ, không mặc áo, đang nhìn) - ở trên - sàn nhà"]
+```
+
+frame_24:
+```json
+["người1 (trẻ, không mặc áo, đang nhìn) - ở trên - sàn nhà"]
+```
+
+frame_25:
+```json
+["người1 (trẻ, không mặc áo, đang nằm) - ở trên - vỉa hè"]
+```
+
+frame_26:
+```json
+["người1 (trẻ, không mặc áo, đang đứng) - ở trên - vỉa hè", "người1 (trẻ, không mặc áo, đang đứng) - ở trên - tuyết", "người1 (trẻ, không mặc áo, đang đứng) - ở trên - bầu trời"]
+```
+
+frame_27:
+```json
+["mèo1 (màu tím) - ở trên - tuyết", "mèo1 (màu tím) - ở trên - giấy", "mèo1 (màu tím) - ở trên - núi", "mèo1 (màu tím) - ở trên - chăn", "mèo2 (màu tím) - ở trên - chăn"]
+```
+
+frame_28:
+```json
+["bầu trời - ở trên - tuyết"]
+```
+
+frame_29:
+```json
+["chim - ở trên - vỉa hè", "chim - ở trên - cát", "chim - ở trên - sàn nhà", "chim - ở trên - tuyết", "chim - ở trên - bầu trời"]
+```
+
+frame_30:
+```json
+["chó (màu xanh nhạt) - ở trên - sàn nhà", "bàn chân - ở trên - sàn nhà"]
+```
+
+frame_31:
+```json
+["cửa sổ - ở trên - nĩa", "nĩa - ở trên - sàn nhà", "chó (màu xanh nhạt) - ở trên - sàn nhà", "tường - bên cạnh - chó (màu xanh nhạt)"]
+```
+
+frame_32:
+```json
+["người1 (không rõ tuổi, không rõ quần áo, không rõ hành động) - ở trên - tường"]
+```
+
+frame_33:
+```json
+["cây1 - ở trên - chó1", "tường - ở trên - chó1"]
+```
+
+frame_34:
+```json
+["mèo1 (76%) - ở trên - nệm1", "tường1 - ở trên - nệm1"]
+```
+
+frame_35:
+```json
+["người1 (trẻ, không mặc áo, không có hành động) - ở trên - sàn nhà", "tường1 - ở trên - nệm1"]
+```
+
+frame_36:
+```json
+["bàn1 - ở trên - sàn nhà", "chó1 (đen) - trên - nệm1", "nệm1 - bên cạnh - hộp1"]
+```
+
+frame_37:
+```json
+["tường1 - bên cạnh - nệm1", "nệm1 - trên - bàn1", "nệm1 - bên cạnh - bìa cứng1", "giấy1 - trên - bàn1"]
+```
+
+frame_38:
+```json
+["giường1 (màu hồng) - nằm trên - nền1"]
+```
+
+frame_39:
+```json
+["pizza1 (màu ô liu) - trên - giường1 (màu hồng)", "ghế1 (bằng gỗ) - bên cạnh - pizza1 (màu ô liu)"]
+```
+
+frame_40:
+```json
+["pizza1 (màu ô liu) - trên - giuong1 (màu hồng)", "ghế1 (bằng gỗ) - bên cạnh - pizza1 (màu ô liu)", "chó1 - trên - pizza1 (màu ô liu)", "dao1 (màu hồng) - bên cạnh - pizza1 (màu ô liu)"]
+```
+
+frame_41:
+```json
+["giường1 (màu hồng) - chứa - chó1", "bàn1 - bên dưới - giường1 (màu hồng)", "dao1 (màu hồng) - bên cạnh - giường1 (màu hồng)"]
+```
+
+frame_42:
+```json
+["bàn1 - bên dưới - giường1 (màu hồng)", "giường1 (màu hồng) - chứa - chó1", "bàn ăn1 - 72% - giường1 (màu hồng)"]
+```
+
+frame_43:
+```json
+["cừu1 - trên - giường1 (màu hồng)", "bàn ăn1 - bên dưới - giường1 (màu hồng)"]
+```
+
+frame_44:
+```json
+["người1 (không xác định, mặc quần áo tối màu, không xác định) - ở trong - giuờng1 (màu hồng)", "sàn nhà1 - bên dưới - giuờng1 (màu hồng)", "ly rượu1 (màu cam) - ở trong - giuờng1 (màu hồng)"]
+```
+
+frame_45:
+```json
+["chó1 (màu đen) - trên - giuờng1 (màu hồng)", "chó2 (màu trắng và nâu) - nhìn vào - chó1 (màu đen)"]
+```
+
+frame_46:
+```json
+["chó2 (màu trắng và nâu) - ở trên - mặt đất (màu xám)", "chó1 (màu đen) - ở trên - mặt đất (màu xám)", "chó2 (màu trắng và nâu) - gần - chó1 (màu đen)"]
+```
+
+frame_47:
+```json
+["tường - ở trên - thức ăn", "bìa cứng - ở trên - tường", "chó2 (màu trắng và nâu) - ở gần - thức ăn"]
+```
+
+frame_48:
+```json
+["tường - ở trên - sàn", "bìa cứng - ở trên - tường", "chó2 (màu trắng và nâu) - ở gần - giấy"]
+```
+
+frame_49:
+```json
+["tường - ở trên - sàn", "bìa cứng - ở trên - tường", "chó2 (màu trắng và nâu) - ở trên - giường"]
+```
+
+frame_50:
+```json
+["tường - ở trên - giường", "chó2 (màu trắng và nâu) - ở trên - giường"]
+```
+
+frame_51:
+```json
+["tường - ở trên - giường", "chó2 (màu trắng và nâu) - ở trên - giường", "gấu (màu hồng) - ở trên - giường"]
+```
+
+frame_52:
+```json
+["tường - ở trên - giường", "chó2 (màu trắng và nâu) - ở trên - giường", "ly rượu vang (màu vàng) - ở trên - giường"]
+```
+
+frame_53:
+```json
+["tường - ở trên - giường", "chó2 (màu trắng và nâu) - ở trên - giường"]
+```
+
+frame_54:
+```json
+["tường - ở trên - giường", "chó (màu trắng và nâu) - ở trên - giường"]
+```
+
+frame_55:
+```json
+["tường - ở trên - giường", "chó (màu trắng và nâu) - ở trên - giường"]
+```
+
+frame_56:
+```json
+["tường - ở trên - giường", "chó (màu trắng và nâu) - ở trên - giường"]
+```
+
+frame_57:
+```json
+["chó (màu trắng và nâu) - ở trên - giường", "sàn - ở dưới - chó (màu trắng và nâu)", "mèo - ở trên - giường", "giường - ở trên - sàn"]
+```
+
+frame_58:
+```json
+["pizza (59%) - bên cạnh - chó (màu trắng và nâu)"]
+```
+
+frame_59:
+```json
+["người1 (Không rõ tuổi, không rõ quần áo, không rõ hành động) - ở - cây", "người1 (Không rõ tuổi, không rõ quần áo, không rõ hành động) - ở - pizza", "tường - ở - pizza", "pizza - ở - chó (màu trắng và nâu)", "cây - ở - pizza"]
+```
+
+frame_60:
+```json
+["sàn nhà - ở - điện thoại di động (54%)", "người1 (Không rõ tuổi, mặc áo tối màu, không rõ hành động) - ở - sàn nhà"]
+```
+
+frame_61:
+```json
+["tường - ở - chó (57%)", "ghế - ở - chó (57%)"]
+```
+
+frame_62:
+```json
+["người1 (không xác định, không xác định, không xác định) - ở - sàn", "người1 (không xác định, không xác định, không xác định) - ở - tường"]
+```
+
+frame_63:
+```json
+["người1 (không xác định, không xác định, không xác định) - ở - tường"]
+```
+
+frame_64:
+```json
+["chó1 - ở - tường", "sàn nhà - ở - tường", "người1 (không xác định, không xác định, không xác định) - ở - tường"]
+```
+
+frame_65:
+```json
+["người1 (không xác định, không xác định, không xác định) - cạnh - dao1", "dao1 - ở trên - quần1"]
+```
+
+frame_66:
+```json
+["bàn điều khiển - bên cạnh - chó", "dao1 - trên - ghế1"]
+```
+
+frame_67:
+```json
+["c\u1eeda s\u1ed5 - b\u00ean c\u1ea1nh - ng\u01b0\u1eddi1 (trung ni\u00ean, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ng\u1ed3i)", "tr\u1ea7n nh\u00e0 - b\u00ean c\u1ea1nh - ng\u01b0\u1eddi1 (trung ni\u00ean, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ng\u1ed3i)"]
+```
+
+frame_68:
+```json
+[
+  "giường - ở trên - sàn"
+]
+```
+
+frame_69:
+```json
+["người1 (không xác định, không xác định, không xác định) - ngồi trên - ghế"]
+```
+
+frame_70:
+```json
+["chó1 (lông trắng) - nằm trên - ghế"]
+```
+
+frame_71:
+```json
+["chó1 (lông trắng) - nằm trên - sàn"]
+```
+
+frame_72:
+```json
+["chó1 (lông trắng) - nằm trên - sàn"]
+```
+
+frame_73:
+```json
+["biển - liền kề - cát", "chim1 (97%) - trên - cát"]
+```
+
+frame_74:
+```json
+["v\u00e1n tr\u01b0\u1ee3t s\u00f3ng (71%) - li\u1ec1n k\u1ec1 - c\u00e1t", "v\u00e1n tr\u01b0\u1ee3t s\u00f3ng (71%) - li\u1ec1n k\u1ec1 - t\u01b0\u1eddng", "v\u00e1n tr\u01b0\u1ee3t s\u00f3ng (71%) - li\u1ec1n k\u1ec1 - bi\u1ec3n", "bi\u1ec3n - li\u1ec1n k\u1ec1 - t\u01b0\u1eddng", "c\u00e1t - li\u1ec1n k\u1ec1 - t\u01b0\u1eddng"]
+```
+
+frame_75:
+```json
+["táo (96%) - trên - sàn", "ván trượt sóng (68%) - liền kề - nước", "ván trượt sóng (68%) - trên - sàn"]
+```
+
+frame_76:
+```json
+["cốc (màu tím) - trên - bàn ăn", "bát (màu xanh lá cây) - trên - bàn ăn", "bàn ăn - một phần của - bàn"]
+```
+
+frame_77:
+```json
+["cốc (màu tím) - trên - bàn ăn", "bát (màu xanh lá cây) - trên - bàn ăn", "dao - trên - bàn ăn", "bàn ăn - một phần của - bàn"]
+```
+
+frame_78:
+```json
+["giấy (màu trắng) - trên - sàn nhà", "thảm - trên - sàn nhà", "sàn nhà - là - sàn nhà"]
+```
+
+frame_79:
+```json
+["cửa sổ - trên - cát", "sàn nhà - là - sàn gỗ", "sàn nhà - là - sàn"]
+```
+
+frame_80:
+```json
+["người1 (không rõ, không mặc gì, không rõ hành động) - trên - vỉa hè"]
+```
+
+frame_81:
+```json
+["người1 (không rõ, không mặc gì, không rõ hành động) - trên - sàn", "người1 (không rõ, không mặc gì, không rõ hành động) - trên - vỉa hè"]
+```
+
+frame_82:
+```json
+[
+  "ch\u00f31 (m\u00e0u xanh lam) - \u1edf tr\u00ean - s\u00e0n",
+  "ch\u00f31 (m\u00e0u xanh lam) - \u1edf g\u1ea7n - t\u01b0\u1eddng",
+  "ch\u00f31 (m\u00e0u xanh lam) - \u1edf g\u1ea7n - c\u1eeda s\u1ed5"
+]
+```
+
+frame_83:
+```json
+[
+  "chó1 (màu xanh lam) - ở trên - sàn",
+  "chó1 (màu xanh lam) - ở gần - tường"
+]
+```
+
+frame_84:
+```json
+[
+  "ch\u00f31 (m\u00e0u xanh lam) - \u1edf tr\u00ean - s\u00e0n",
+  "ch\u00f31 (m\u00e0u xanh lam) - \u1edf g\u1ea7n - t\u01b0\u1eddng"
+]
+```
+
+frame_85:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, không rõ hành động) - ở trên - sàn",
+  "người1 (không rõ tuổi, không rõ quần áo, không rõ hành động) - ở gần - tường",
+  "trần nhà1 - ở trên - bàn1",
+  "bàn1 - ở trên - sàn",
+  "tường - ở trên - sàn"
+]
+```
+
+frame_86:
+```json
+[
+  "chó1 (màu xanh lam) - ở trên - sàn",
+  "tivi1 (màu nâu) - ở trên - chó1 (màu xanh lam)",
+  "tivi1 (màu nâu) - ở trên - vỉa hè",
+  "chó1 (màu xanh lam) - ở trên - vỉa hè"
+]
+```
+
+frame_87:
+```json
+[
+  "chó1 (màu xanh lam) - ở trên - sàn",
+  "xe hơi1 - ở trên - chó1 (màu xanh lam)",
+  "xe hơi1 - ở trên - tường",
+  "chó1 (màu xanh lam) - ở trên - tường"
+]
+```
+
+frame_88:
+```json
+[
+  "tivi1 - ở trên - sàn-gỗ",
+  "bò1 (màu tím) - ở trên - sàn",
+  "bò1 (màu tím) - ở trên - sàn-gỗ"
+]
+```
+
+frame_89:
+```json
+[
+  "chó1 (96%) - ở trên - sàn",
+  "chó1 (96%) - ở trên - vỉa hè"
+]
+```
+
+frame_90:
+```json
+[
+  "chó1 (96%) - ở trên - sàn",
+  "chó1 (96%) - ở trên - vỉa hè",
+  "ghế1 (62%) - ở trên - sàn"
+]
+```
+
+frame_91:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, không rõ hành động) - ở trên - sàn",
+  "sàn - tiếp giáp với - tuyết"
+]
+```
+
+frame_92:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, không rõ hành động) - ở trên - cát",
+  "cát - tiếp giáp với - tuyết"
+]
+```
+
+frame_93:
+```json
+[
+  "tường - bên cạnh - người1 (không rõ tuổi, không rõ quần áo, không rõ hành động)",
+  "người1 (không rõ tuổi, không rõ quần áo, không rõ hành động) - ở trên - vỉa hè",
+  "vỉa hè - là một phần của - sàn",
+  "tuyết - là một phần của - sàn"
+]
+```
+
+frame_94:
+```json
+[
+  "tường - bên cạnh - người1 (không rõ tuổi, không rõ quần áo, không rõ hành động)",
+  "người1 (không rõ tuổi, không rõ quần áo, không rõ hành động) - ở trên - vỉa hè",
+  "vỉa hè - là một phần của - sàn",
+  "tuyết - là một phần của - sàn",
+  "vỉa hè - bên cạnh - cát",
+  "nước - là một phần của - tuyết"
+]
+```
+
+frame_95:
+```json
+[
+  "tường - bên cạnh - người1 (không rõ tuổi, không rõ quần áo, không rõ hành động)",
+  "người1 (không rõ tuổi, không rõ quần áo, không rõ hành động) - ở trên - vỉa hè",
+  "vỉa hè - là một phần của - sàn",
+  "tuyết - là một phần của - sàn",
+  "vỉa hè - bên cạnh - cát",
+  "nước - là một phần của - tuyết"
+]
+```
+

@@ -1,0 +1,112 @@
+frame_0000.jpg: a baby laying on the floor
+frame_0001.jpg: a baby laying on the floor with his feet on the floor
+frame_0002.jpg: a baby laying on the floor
+frame_0003.jpg: a baby laying on the floor
+frame_0004.jpg: a baby laying on the floor with a stuffed animal
+frame_0005.jpg: a baby laying on the floor with a stuffed animal
+frame_0006.jpg: a baby laying on the floor
+frame_0007.jpg: a baby laying on the floor
+frame_0008.jpg: a baby laying on the floor with toys
+frame_0009.jpg: a baby laying on the floor
+frame_0010.jpg: a baby laying on the floor with a teddy bear
+frame_0011.jpg: a baby laying on the floor with a teddy bear
+frame_0012.jpg: a baby laying on the floor
+frame_0013.jpg: a baby laying on the floor with a teddy bear
+frame_0014.jpg: a baby laying on the floor with a stuffed animal
+frame_0015.jpg: a baby laying on the floor with a stuffed animal
+frame_0016.jpg: a baby laying on the floor with a teddy bear
+frame_0017.jpg: a baby laying on the floor with stuffed animals
+frame_0018.jpg: a baby laying on the floor
+frame_0019.jpg: a baby laying on the floor with toys
+frame_0020.jpg: a baby laying on the floor
+frame_0021.jpg: a baby laying on the floor with toys
+frame_0022.jpg: a baby laying on the floor with toys
+frame_0023.jpg: a baby laying on the floor with toys
+frame_0024.jpg: a baby laying on the floor
+frame_0025.jpg: a baby laying on the floor with toys
+frame_0026.jpg: a baby laying on the floor
+frame_0027.jpg: a baby laying on the floor
+frame_0028.jpg: a baby playing with a teddy bear on the floor
+frame_0029.jpg: a baby laying on the floor
+frame_0030.jpg: a baby laying on the floor
+frame_0031.jpg: a baby laying on the floor with toys
+frame_0032.jpg: a baby laying on the floor
+frame_0033.jpg: a baby playing with toys on the floor
+frame_0034.jpg: a baby playing with a teddy bear on the floor
+frame_0035.jpg: a baby playing with a teddy bear on the floor
+frame_0036.jpg: a baby laying on the floor
+frame_0037.jpg: a baby laying on the floor with toys
+frame_0038.jpg: a baby laying on the floor with toys
+frame_0039.jpg: a baby laying on the floor
+frame_0040.jpg: a baby laying on the floor
+frame_0041.jpg: a baby laying on the floor
+frame_0042.jpg: two babies playing on the floor
+frame_0043.jpg: a baby laying on the floor
+frame_0044.jpg: a baby laying on the floor
+frame_0045.jpg: a baby laying on the floor
+frame_0046.jpg: a woman and child playing on the floor
+frame_0047.jpg: a young boy and a young girl playing on the floor
+frame_0048.jpg: a young boy and a young girl playing on the floor
+frame_0049.jpg: two children playing on the floor with toys
+frame_0050.jpg: a young boy and a young girl playing on the floor
+frame_0051.jpg: two babies playing on the floor
+frame_0052.jpg: two babies playing on the floor
+frame_0053.jpg: a baby laying on the floor
+frame_0054.jpg: a baby laying on the floor with toys
+frame_0055.jpg: two babies playing on the floor with toys
+frame_0056.jpg: a baby laying on the floor with toys
+frame_0057.jpg: a baby laying on the floor
+frame_0058.jpg: a baby laying on the floor with toys
+frame_0059.jpg: a baby laying on the floor with toys
+frame_0060.jpg: a baby laying on the floor with toys
+frame_0061.jpg: two babies playing on the floor
+frame_0062.jpg: a baby laying on the floor
+frame_0063.jpg: a baby laying on the floor
+frame_0064.jpg: two babies playing on the floor with toys
+frame_0065.jpg: two babies playing on the floor with toys
+frame_0066.jpg: two babies playing on the floor
+frame_0067.jpg: two babies playing on the floor with toys
+frame_0068.jpg: two babies playing on the floor
+frame_0069.jpg: a baby laying on the floor
+frame_0070.jpg: two babies playing on the floor
+frame_0071.jpg: two babies playing with toys on the floor
+frame_0072.jpg: two babies playing on the floor
+frame_0073.jpg: a baby laying on the floor with a teddy bear
+frame_0074.jpg: a baby playing with toys on the floor
+frame_0075.jpg: a baby playing with a teddy bear on the floor
+frame_0076.jpg: two babies playing on the floor with toys
+frame_0077.jpg: two babies playing on the floor with toys
+frame_0078.jpg: a baby playing with a teddy bear on the floor
+frame_0079.jpg: a baby playing with a stuffed bear on the floor
+frame_0080.jpg: a baby playing with a stuffed bear
+frame_0081.jpg: a baby sitting on the floor
+frame_0082.jpg: a baby playing with a teddy bear on the floor
+frame_0083.jpg: a baby playing with a toy on the floor
+frame_0084.jpg: a baby playing with a toy on the floor
+frame_0085.jpg: a baby sitting on the floor playing with a toy
+frame_0086.jpg: a baby playing with a stuffed animal
+frame_0087.jpg: a baby playing with a toy
+frame_0088.jpg: a baby playing with a stuffed animal
+frame_0089.jpg: a baby playing with a stuffed animal
+frame_0090.jpg: a baby playing with a toy on the floor
+frame_0091.jpg: two babies playing on the floor with toys
+frame_0092.jpg: two babies playing on the floor with toys
+frame_0093.jpg: a baby playing with a toy
+frame_0094.jpg: a baby playing with a stuffed animal on the floor
+frame_0095.jpg: a baby playing with a stuffed animal
+frame_0096.jpg: a baby playing with a toy
+frame_0097.jpg: a baby playing with a toy on the floor
+frame_0098.jpg: a baby playing with a stuffed bear
+frame_0099.jpg: a woman and a baby playing on the floor
+frame_0100.jpg: a baby playing with a stuffed penguin
+frame_0101.jpg: a baby playing with a stuffed penguin
+frame_0102.jpg: a woman and a baby playing with toys on the floor
+frame_0103.jpg: a baby playing with a stuffed penguin
+frame_0104.jpg: a woman and a baby playing with a stuffed penguin
+frame_0105.jpg: a woman and a baby playing on the floor
+frame_0106.jpg: a woman and a baby playing with stuffed animals
+frame_0107.jpg: a baby playing with a stuffed animal
+frame_0108.jpg: a baby playing with a teddy bear on the floor
+frame_0109.jpg: a baby playing with a stuffed animal
+frame_0110.jpg: a baby sitting on the floor playing with a teddy bear
+frame_0111.jpg: a baby sitting on the floor

@@ -1,0 +1,814 @@
+frame_0:
+```json
+[
+  "đường thẳng1 - bên trên - gậy1",
+  "bầu trời - ở giữa - gậy1",
+  "bầu trời - ở giữa - đường thẳng1"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - gần - tuyết"
+]
+```
+
+frame_2:
+```json
+[
+  "người2 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - gần - tuyết",
+  "người1 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết"
+]
+```
+
+frame_3:
+```json
+[
+  "người2 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - gần - tuyết",
+  "người1 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết"
+]
+```
+
+frame_4:
+```json
+[
+  "người2 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - gần - tuyết",
+  "người1 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - gần - xe máy (màu tím và xanh lá cây)",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - trên - tuyết"
+]
+```
+
+frame_5:
+```json
+[
+  "người2 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - gần - tuyết",
+  "người1 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - gần - xe máy (màu tím và xanh lá cây)",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - trên - tuyết"
+]
+```
+
+frame_6:
+```json
+[
+  "người2 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang cúi người) - gần - tuyết",
+  "người1 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang cúi người) - gần - xe máy (màu tím và xanh lá cây)",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang cúi người) - trên - tuyết"
+]
+```
+
+frame_7:
+```json
+[
+  "người2 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang cúi người) - gần - tuyết",
+  "người1 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang cúi người) - gần - tuyết"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - kéo - xe trượt (màu hồng)",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - gần - tuyết",
+  "cây (xanh) - gần - tuyết"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - kéo - xe trượt (màu hồng)",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - gần - tuyết",
+  "cây (xanh) - gần - tuyết"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu da cam, đang đứng) - gần - tuyết",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - gần - tuyết"
+]
+```
+
+frame_12:
+```json
+[
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - gần - tuyết"
+]
+```
+
+frame_13:
+```json
+["người3 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - gần - tuyết"]
+```
+
+frame_14:
+```json
+["người3 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - gần - tuyết"]
+```
+
+frame_15:
+```json
+["người3 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"]
+```
+
+frame_16:
+```json
+["người3 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"]
+```
+
+frame_17:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"]
+```
+
+frame_18:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"]
+```
+
+frame_19:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"]
+```
+
+frame_20:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"]
+```
+
+frame_21:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết", "cây1 - ở trên - tuyết"]
+```
+
+frame_22:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết", "cây1 - ở trên - tuyết"]
+```
+
+frame_23:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết", "cây1 - ở trên - tuyết"]
+```
+
+frame_24:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết", "cây1 - ở trên - tuyết"]
+```
+
+frame_25:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"]
+```
+
+frame_26:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"]
+```
+
+frame_27:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"]
+```
+
+frame_28:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết", "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - vỉa hè"]
+```
+
+frame_29:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"]
+```
+
+frame_30:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"]
+```
+
+frame_31:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"]
+```
+
+frame_32:
+```json
+["tường - ở trên - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)", "tuyết - ở dưới - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)"]
+```
+
+frame_33:
+```json
+["tường - ở trên - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)", "tuyết - ở dưới - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)"]
+```
+
+frame_34:
+```json
+["tuyết - ở dưới - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)"]
+```
+
+frame_35:
+```json
+["tuyết - ở dưới - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)"]
+```
+
+frame_36:
+```json
+["tuyết - ở dưới - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)"]
+```
+
+frame_37:
+```json
+["tuyết - ở dưới - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)"]
+```
+
+frame_38:
+```json
+["tuyết - ở dưới - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)", "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - cưỡi trên - ván trượt tuyết (màu tím)"]
+```
+
+frame_39:
+```json
+["tuyết - ở dưới - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)", "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - cưỡi trên - ván trượt tuyết (màu tím)"]
+```
+
+frame_40:
+```json
+["tuyết - ở dưới - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)"]
+```
+
+frame_41:
+```json
+["tuyết - ở dưới - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)"]
+```
+
+frame_42:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - sàn", "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết"]
+```
+
+frame_43:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết"]
+```
+
+frame_44:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết"]
+```
+
+frame_45:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết", "người2 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết"]
+```
+
+frame_46:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang trượt tuyết) - ở trên - ván trượt tuyết", "người2 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết"]
+```
+
+frame_47:
+```json
+["người2 (không rõ tuổi, mặc quần áo màu hồng, đang trượt tuyết) - ở trên - tuyết", "người1 (không rõ tuổi, mặc quần áo màu hồng, đang trượt tuyết) - ở trên - ván trượt tuyết"]
+```
+
+frame_48:
+```json
+["người2 (không rõ tuổi, mặc quần áo màu hồng, đang trượt tuyết) - ở trên - tuyết"]
+```
+
+frame_49:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang trượt tuyết) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết"
+]
+```
+
+frame_50:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"
+]
+```
+
+frame_51:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, không rõ hành động) - ở trên - tuyết"
+]
+```
+
+frame_52:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, không rõ hành động) - ở trên - tuyết"
+]
+```
+
+frame_53:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đi) - ở trên - tuyết"
+]
+```
+
+frame_54:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang chỉ) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đi) - ở trên - tuyết",
+  "xe hơi1 (màu xanh dương) - ở trên - tuyết"
+]
+```
+
+frame_55:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang cúi xuống) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đi) - ở trên - tuyết"
+]
+```
+
+frame_56:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - bên cạnh - người2 (không rõ tuổi, mặc quần áo màu cam, đang đứng)",
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đứng) - ở trên - tuyết"
+]
+```
+
+frame_57:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - bên cạnh - người2 (không rõ tuổi, mặc quần áo màu cam, đang đứng)",
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đứng) - ở trên - tuyết"
+]
+```
+
+frame_58:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - bên cạnh - người2 (không rõ tuổi, mặc quần áo màu cam, đang đi)",
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đi) - ở trên - tuyết"
+]
+```
+
+frame_59:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - bên cạnh - người2 (không rõ tuổi, mặc quần áo màu cam, đang đứng)",
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đứng) - ở trên - tuyết"
+]
+```
+
+frame_60:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - bên cạnh - người2 (không rõ tuổi, mặc quần áo màu cam, đang đi)",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đi) - ở trên - tuyết",
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"
+]
+```
+
+frame_61:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - bên cạnh - người2 (không rõ tuổi, mặc quần áo màu cam, đang đi)",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đi) - ở trên - tuyết",
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"
+]
+```
+
+frame_62:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - bên cạnh - người2 (không rõ tuổi, mặc quần áo màu cam, đang đi)",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đi) - ở trên - tuyết",
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết"
+]
+```
+
+frame_63:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đi) - ở trên - tuyết",
+  "cây1 (màu xanh lá cây) - ở trên - tuyết"
+]
+```
+
+frame_64:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đi) - ở trên - tuyết",
+  "cây1 (màu xanh lá cây) - ở trên - tuyết"
+]
+```
+
+frame_65:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đi) - ở trên - tuyết",
+  "cây1 (màu xanh lá cây) - ở trên - tuyết"
+]
+```
+
+frame_66:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đi) - ở trên - tuyết",
+  "cây1 (màu xanh lá cây) - ở trên - tuyết",
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - đứng cạnh - cây1 (màu xanh lá cây)"
+]
+```
+
+frame_67:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu cam, đang đi) - ở trên - tuyết",
+  "cây1 (màu xanh lá cây) - ở trên - tuyết",
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - đứng cạnh - cây1 (màu xanh lá cây)"
+]
+```
+
+frame_68:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết"]
+```
+
+frame_69:
+```json
+["cây - bên cạnh - người2 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động)", "người2 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - bên cạnh - tuyết", "người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - ở trên - tuyết"]
+```
+
+frame_70:
+```json
+["cây - bên cạnh - người2 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động)", "người2 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - bên cạnh - tuyết", "người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - ở trên - tuyết"]
+```
+
+frame_71:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - ở trên - tuyết", "cây - bên cạnh - người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động)", "người2 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - bên cạnh - tuyết"]
+```
+
+frame_72:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - ở trên - tuyết", "cây - bên cạnh - người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động)", "người2 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - bên cạnh - tuyết"]
+```
+
+frame_73:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - ở trên - tuyết", "cây - bên cạnh - người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động)", "người2 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - bên cạnh - tuyết"]
+```
+
+frame_74:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - ở trên - tuyết", "cây - bên cạnh - người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động)", "người2 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - bên cạnh - tuyết"]
+```
+
+frame_75:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - ở trên - tuyết", "cây - bên cạnh - người2 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động)", "người2 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - ở trên - tuyết"]
+```
+
+frame_76:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - ở trên - tuyết", "cây - bên cạnh - người2 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động)", "người2 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - ở trên - tuyết"]
+```
+
+frame_77:
+```json
+["người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - ở trên - tuyết", "cây - bên cạnh - người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động)", "người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - ở trên - tuyết"]
+```
+
+frame_78:
+```json
+["cây - bên cạnh - người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động)", "người1 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - ở trên - tuyết"]
+```
+
+frame_79:
+```json
+["cây - bên cạnh - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)", "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết"]
+```
+
+frame_80:
+```json
+[
+  "cây - bên cạnh - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)",
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu đỏ, đang đứng) - ở trên - tuyết"
+]
+```
+
+frame_81:
+```json
+[
+  "cây - bên cạnh - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)",
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu đỏ, đang đứng) - ở trên - tuyết"
+]
+```
+
+frame_82:
+```json
+[
+  "cây - bên cạnh - người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi bộ)",
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu đỏ, đang đứng) - ở trên - tuyết"
+]
+```
+
+frame_83:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu đỏ, đang đứng) - ở trên - tuyết"
+]
+```
+
+frame_84:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu đỏ, đang đứng) - ở trên - tuyết"
+]
+```
+
+frame_85:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang nằm) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu đỏ, đang đứng) - ở trên - ván trượt tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết"
+]
+```
+
+frame_86:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang nằm) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu đỏ, đang đứng) - ở trên - ván trượt tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết"
+]
+```
+
+frame_87:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết"
+]
+```
+
+frame_88:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết"
+]
+```
+
+frame_89:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết"
+]
+```
+
+frame_90:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết"
+]
+```
+
+frame_91:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết"
+]
+```
+
+frame_92:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang cúi người) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu hồng, đang cúi người) - ở trên - tuyết"
+]
+```
+
+frame_93:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang cúi người) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu hồng, đang cúi người) - ở trên - tuyết"
+]
+```
+
+frame_94:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang cúi người) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu hồng, đang cúi người) - ở trên - tuyết",
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang cúi người) - đứng cạnh - người2 (không rõ tuổi, mặc quần áo màu hồng, đang cúi người)"
+]
+```
+
+frame_95:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - ván trượt tuyết (màu xanh lam)",
+  "cây (màu xanh lá cây) - ở trên - tuyết",
+  "người2 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết",
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - đứng cạnh - người2 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)",
+  "người2 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết"
+]
+```
+
+frame_96:
+```json
+[
+  "người1 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - đứng cạnh - người2 (không rõ tuổi, mặc quần áo màu hồng, đang đứng)",
+  "người2 (không rõ tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết"
+]
+```
+
+frame_97:
+```json
+[
+  "người1 (khó xác định tuổi, mặc quần áo màu nâu, đang đứng) - đứng cạnh - người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đứng)",
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đứng) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết"
+]
+```
+
+frame_98:
+```json
+[
+  "người1 (khó xác định tuổi, mặc quần áo màu nâu, đang đi) - ở trên - tuyết",
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết"
+]
+```
+
+frame_99:
+```json
+[
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang cầm) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết"
+]
+```
+
+frame_100:
+```json
+[
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết"
+]
+```
+
+frame_101:
+```json
+[
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết"
+]
+```
+
+frame_102:
+```json
+[
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết"
+]
+```
+
+frame_103:
+```json
+[
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết"
+]
+```
+
+frame_104:
+```json
+[
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - đứng cạnh - tuyết"
+]
+```
+
+frame_105:
+```json
+[
+  "người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - đứng cạnh - tuyết",
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết"
+]
+```
+
+frame_106:
+```json
+[
+  "người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - đứng cạnh - tuyết",
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết"
+]
+```
+
+frame_107:
+```json
+[
+  "người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - đứng cạnh - cây (màu xanh)",
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết"
+]
+```
+
+frame_108:
+```json
+[
+  "người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - đứng cạnh - cây (màu xanh)",
+  "người2 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết"
+]
+```
+
+frame_109:
+```json
+[
+  "người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - đứng cạnh - cây (màu xanh)"
+]
+```
+
+frame_110:
+```json
+[
+  "người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "người2 (khó xác định tuổi, mặc quần áo màu đỏ, đang đi bộ) - ở trên - tuyết",
+  "người2 (khó xác định tuổi, mặc quần áo màu đỏ, đang đi bộ) - đứng cạnh - người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ)",
+  "người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - đứng cạnh - cây (màu xanh)"
+]
+```
+
+frame_111:
+```json
+[
+  "người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - ở trên - tuyết",
+  "người2 (khó xác định tuổi, mặc quần áo màu đỏ, đang đi bộ) - ở trên - tuyết",
+  "người2 (khó xác định tuổi, mặc quần áo màu đỏ, đang đi bộ) - đứng cạnh - người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ)",
+  "người1 (khó xác định tuổi, mặc quần áo màu hồng, đang đi bộ) - đứng cạnh - cây (màu xanh)"
+]
+```
+

@@ -1,0 +1,406 @@
+frame_0:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang cầm đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang cầm đồ chơi, tò mò) - dựa vào - bàn (màu nâu)"
+]
+```
+
+frame_1:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang cầm đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang cầm đồ chơi, tò mò) - dựa vào - bàn (màu nâu)"
+]
+```
+
+frame_2:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)"
+]
+```
+
+frame_3:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu vàng)"
+]
+```
+
+frame_4:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu vàng)"
+]
+```
+
+frame_5:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu vàng)"
+]
+```
+
+frame_6:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu vàng)"
+]
+```
+
+frame_7:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu vàng)"
+]
+```
+
+frame_8:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu vàng)"
+]
+```
+
+frame_9:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu vàng)"
+]
+```
+
+frame_10:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu vàng)"
+]
+```
+
+frame_11:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu vàng)"
+]
+```
+
+frame_12:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu vàng)"
+]
+```
+
+frame_13:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu vàng)"
+]
+```
+
+frame_14:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu vàng)"
+]
+```
+
+frame_15:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu vàng)"
+]
+```
+
+frame_16:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, tò mò) - chạm vào - bàn (màu nâu)"
+]
+```
+
+frame_17:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn, tò mò) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn, tò mò) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn, tò mò) - chạm vào - bàn (màu nâu)"
+]
+```
+
+frame_18:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, buồn bã) - cầm - đồ chơi (màu đỏ)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, buồn bã) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, buồn bã) - chạm vào - bàn (màu nâu)"
+]
+```
+
+frame_19:
+```json
+[
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn, buồn bã) - dựa vào - bàn (màu nâu)",
+  "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn, buồn bã) - chạm vào - bàn (màu nâu)"
+]
+```
+
+frame_20:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn, buồn bã) - dựa vào - bàn (màu nâu)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn, buồn bã) - chạm vào - bàn (màu nâu)"]
+```
+
+frame_21:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn, buồn bã) - dựa vào - bàn (màu nâu)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn, buồn bã) - chạm vào - bàn (màu nâu)"]
+```
+
+frame_22:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn, buồn bã) - dựa vào - bàn (màu nâu)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn, buồn bã) - chạm vào - bàn (màu nâu)"]
+```
+
+frame_23:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn, buồn bã) - dựa vào - bàn (màu nâu)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn, buồn bã) - chạm vào - bàn (màu nâu)"]
+```
+
+frame_24:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, vui vẻ) - dựa vào - bàn (màu nâu)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, vui vẻ) - chạm vào - bàn (màu nâu)"]
+```
+
+frame_25:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, vui vẻ) - dựa vào - bàn (màu nâu)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, vui vẻ) - chạm vào - bàn (màu nâu)"]
+```
+
+frame_26:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, vui vẻ) - chạm vào - bàn (màu nâu)"]
+```
+
+frame_27:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - chạm vào - đồ chơi (màu đỏ)"]
+```
+
+frame_28:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)"]
+```
+
+frame_29:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)"]
+```
+
+frame_30:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)"]
+```
+
+frame_31:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn - bàn (màu nâu)) - trên - bàn (màu nâu)"]
+```
+
+frame_32:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn - bàn (màu nâu)) - trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - nhìn - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+
+frame_33:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang nhìn - bàn (màu nâu)) - trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - nhìn - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+
+frame_34:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - nhìn - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+
+frame_35:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - nhìn - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+
+frame_36:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - nhìn - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+
+frame_37:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - nhìn - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+
+frame_38:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - nhìn - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+
+frame_39:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - nhìn - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+
+frame_40:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - nhìn - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+
+frame_41:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - nhìn - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+
+frame_42:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - nhìn - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+
+frame_43:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - nhìn - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+
+frame_44:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - nhìn - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+
+frame_45:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)"]
+```
+
+frame_46:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)"]
+```
+
+frame_47:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang cầm đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang cầm đồ chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang cầm đồ chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang cầm đồ chơi, trung tính) - ở trên - bàn (màu nâu)"]
+```
+
+frame_48:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang ngậm đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang ngậm đồ chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang ngậm đồ chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang ngậm đồ chơi, trung tính) - ở trên - bàn (màu nâu)"]
+```
+
+frame_49:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - cầm - đồ chơi (màu vàng)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - ở trước - tủ (bằng gỗ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - ở trên - bàn (màu nâu)"]
+```
+
+frame_50:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - ở trên - bàn (màu nâu)"]
+```
+
+frame_51:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - ở trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang đứng, trung tính) - ở cạnh - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính)"]
+```
+
+frame_52:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - ở trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - ở cạnh - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính)"]
+```
+
+frame_53:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - ở trên - bàn (màu nâu)", "em bé2 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - ở cạnh - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính)"]
+```
+
+frame_54:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - ở trên - bàn (màu nâu)"]
+```
+
+frame_55:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - ở trên - bàn (màu nâu)"]
+```
+
+frame_56:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - ở trên - bàn (màu nâu)"]
+```
+
+frame_57:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - ở trên - bàn (màu nâu)"]
+```
+
+frame_58:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - ở trên - bàn (màu nâu)", "người1 (trẻ, không xác định giới tính, mặc áo xám, đang di chuyển, không rõ) - phía sau - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính)"]
+```
+
+frame_59:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - ở trên - bàn (màu nâu)", "người1 (trẻ, không xác định giới tính, mặc áo xám, đang chơi, trung tính) - phía sau - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính)"]
+```
+
+frame_60:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - ở trên - bàn (màu nâu)", "người1 (trẻ, không xác định giới tính, mặc áo xám, đang chơi, trung tính) - phía sau - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính)"]
+```
+
+frame_61:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính) - ở trên - bàn (màu nâu)", "người1 (trẻ, không xác định giới tính, mặc áo xám, đang chơi, trung tính) - phía sau - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi đồ chơi, trung tính)"]
+```
+
+frame_62:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang cầm đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang cầm đồ chơi, trung tính) - ở trên - bàn (màu nâu)", "người1 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - phía sau - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang cầm đồ chơi, trung tính)"]
+```
+
+frame_63:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang cầm đồ chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang ăn, trung tính) - ở trên - bàn (màu nâu)", "người1 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - phía sau - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang ăn, trung tính)"]
+```
+
+frame_64:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - cầm - đồ chơi (màu đỏ)", "em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)", "người1 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - phía sau - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+
+frame_65:
+```json
+["em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính) - ở trên - bàn (màu nâu)", "người1 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - phía sau - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)", "người1 (trẻ, không xác định giới tính, mặc áo xám, đang nhìn, trung tính) - đánh - em bé1 (trẻ, không xác định giới tính, mặc áo đỏ, đang chơi, trung tính)"]
+```
+

@@ -1,0 +1,730 @@
+frame_0:
+```json
+[
+  "chó (trưởng thành, lông trắng và nâu, đang đứng, tò mò) - nhìn về phía - chó chihuahua (nhỏ, lông đen, đang chạy, sợ hãi)",
+  "chó (trưởng thành, lông trắng và nâu, đang đứng, tò mò) - trên - sàn (gỗ)",
+  "chó chihuahua (nhỏ, lông đen, đang chạy, sợ hãi) - trên - sàn (gỗ)"
+]
+```
+
+frame_1:
+```json
+[
+  "chó (trưởng thành, lông trắng và nâu, đang cúi đầu, tò mò) - nhìn về phía - chó chihuahua (nhỏ, lông đen, đang chạy, sợ hãi)",
+  "chó (trưởng thành, lông trắng và nâu, đang cúi đầu, tò mò) - trên - sàn (gỗ)",
+  "chó chihuahua (nhỏ, lông đen, đang chạy, sợ hãi) - trên - sàn (gỗ)"
+]
+```
+
+frame_2:
+```json
+[
+  "ch\u00f3 (tr\u01b0\u1edfng th\u00e0nh, l\u00f4ng tr\u1eafng v\u00e0 n\u00e2u, \u0111ang c\u00fai \u0111\u1ea7u, t\u00f2 m\u00f2) - nh\u00ecn v\u1ec1 ph\u00eda - ch\u00f3 chihuahua (nh\u1ecf, l\u00f4ng \u0111en, \u0111ang ch\u1ea1y, s\u1ee3 h\u00e3i)",
+  "ch\u00f3 (tr\u01b0\u1edfng th\u00e0nh, l\u00f4ng tr\u1eafng v\u00e0 n\u00e2u, \u0111ang c\u00fai \u0111\u1ea7u, t\u00f2 m\u00f2) - tr\u00ean - s\u00e0n (g\u1ed7)",
+  "ch\u00f3 chihuahua (nh\u1ecf, l\u00f4ng \u0111en, \u0111ang ch\u1ea1y, s\u1ee3 h\u00e3i) - tr\u00ean - s\u00e0n (g\u1ed7)",
+  "sofa - \u0111\u1eb7t b\u00ean c\u1ea1nh - ch\u00f3 (tr\u01b0\u1edfng th\u00e0nh, l\u00f4ng tr\u1eafng v\u00e0 n\u00e2u, \u0111ang c\u00fai \u0111\u1ea7u, t\u00f2 m\u00f2)",
+  "sofa - \u0111\u1eb7t b\u00ean c\u1ea1nh - ch\u00f3 chihuahua (nh\u1ecf, l\u00f4ng \u0111en, \u0111ang ch\u1ea1y, s\u1ee3 h\u00e3i)"
+]
+```
+
+frame_3:
+```json
+[
+  "chó (trưởng thành, lông trắng và nâu, đang cúi đầu, tò mò) - trên - sàn (gỗ)",
+  "chó chihuahua (nhỏ, lông đen, đang chạy, sợ hãi) - trên - sàn (gỗ)",
+  "sofa - đặt bên cạnh - chó (trưởng thành, lông trắng và nâu, đang cúi đầu, tò mò)",
+  "sofa - đặt bên cạnh - chó chihuahua (nhỏ, lông đen, đang chạy, sợ hãi)"
+]
+```
+
+frame_4:
+```json
+[
+  "chó (trưởng thành, lông trắng và nâu, đang cúi đầu, tò mò) - trên - sàn (gỗ)",
+  "chó chihuahua (nhỏ, lông đen, đang chạy, sợ hãi) - trên - sàn (gỗ)",
+  "sofa - đặt bên cạnh - chó (trưởng thành, lông trắng và nâu, đang cúi đầu, tò mò)",
+  "sofa - đặt bên cạnh - chó chihuahua (nhỏ, lông đen, đang chạy, sợ hãi)"
+]
+```
+
+frame_5:
+```json
+[
+  "chó (trưởng thành, lông trắng và nâu, đang cúi đầu, tò mò) - trên - sàn (gỗ)",
+  "chó chihuahua (nhỏ, lông đen, đang chạy, sợ hãi) - trên - sàn (gỗ)",
+  "sofa - đặt bên cạnh - chó (trưởng thành, lông trắng và nâu, đang cúi đầu, tò mò)",
+  "sofa - đặt bên cạnh - chó chihuahua (nhỏ, lông đen, đang chạy, sợ hãi)"
+]
+```
+
+frame_6:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)"
+]
+```
+
+frame_7:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)"
+]
+```
+
+frame_8:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)",
+  "chó (đen) - trên - sàn (gỗ)",
+  "máy tính xách tay - trên - bàn"
+]
+```
+
+frame_9:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)",
+  "chó (đen) - trên - sàn (gỗ)",
+  "máy tính xách tay - trên - bàn"
+]
+```
+
+frame_10:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)",
+  "chó (đen) - trên - sàn (gỗ)",
+  "máy tính xách tay - trên - bàn",
+  "kính - trên - bàn",
+  "hộp khăn giấy - trên - bàn",
+  "chuột - trên - bàn"
+]
+```
+
+frame_11:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)",
+  "máy tính xách tay - trên - bàn",
+  "kính - trên - bàn",
+  "hộp khăn giấy - trên - bàn",
+  "chuột - trên - bàn"
+]
+```
+
+frame_12:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)",
+  "máy tính xách tay - trên - bàn",
+  "kính - trên - bàn",
+  "hộp khăn giấy - trên - bàn",
+  "chuột - trên - bàn"
+]
+```
+
+frame_13:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)",
+  "máy tính xách tay - trên - bàn",
+  "kính - trên - bàn",
+  "hộp khăn giấy - trên - bàn",
+  "chuột - trên - bàn"
+]
+```
+
+frame_14:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)",
+  "máy tính xách tay - trên - bàn",
+  "kính - trên - bàn",
+  "hộp khăn giấy - trên - bàn",
+  "chuột - trên - bàn",
+  "chó - trên - sàn (gỗ)"
+]
+```
+
+frame_15:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)",
+  "máy tính xách tay - trên - bàn",
+  "kính - trên - bàn",
+  "hộp khăn giấy - trên - bàn",
+  "chuột - trên - bàn",
+  "chó - trên - sàn (gỗ)"
+]
+```
+
+frame_16:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)",
+  "máy tính xách tay - trên - bàn",
+  "kính - trên - bàn",
+  "hộp khăn giấy - trên - bàn",
+  "chuột - trên - bàn",
+  "chó - trên - sàn (gỗ)"
+]
+```
+
+frame_17:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "chó - trên - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)"
+]
+```
+
+frame_18:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "chó - trên - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)"
+]
+```
+
+frame_19:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "chó - trên - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)"
+]
+```
+
+frame_20:
+```json
+[
+  "ghế sofa - bên cạnh - sàn (gỗ)",
+  "chó (màu đen, nhỏ) - trên - sàn (gỗ)",
+  "bàn - trên - sàn (gỗ)"
+]
+```
+
+frame_21:
+```json
+[
+  "chó (màu đen, nhỏ) - trên - sàn (gỗ)"
+]
+```
+
+frame_22:
+```json
+["chó (màu đen, nhỏ) - nhìn - máy ảnh"]
+```
+
+frame_23:
+```json
+["chó (màu đen, nhỏ) - nhìn - máy ảnh"]
+```
+
+frame_24:
+```json
+["chó (màu đen, nhỏ) - ở trên - sàn"]
+```
+
+frame_25:
+```json
+["chó (màu đen, nhỏ) - ở trên - sàn"]
+```
+
+frame_26:
+```json
+["chó (màu đen, nhỏ) - ở trên - sàn"]
+```
+
+frame_27:
+```json
+["chó (màu đen, nhỏ) - ở trên - sàn (màu be)"]
+```
+
+frame_28:
+```json
+["chó (màu đen, nhỏ) - ở trên - sàn (màu be)"]
+```
+
+frame_29:
+```json
+["chó (màu đen, nhỏ) - ở trên - sàn (màu be)"]
+```
+
+frame_30:
+```json
+["chó (màu đen, nhỏ) - ở gần - bàn chân (trần, không rõ cảm xúc)"]
+```
+
+frame_31:
+```json
+["chó (màu đen, nhỏ) - ở gần - gối (có hoa văn)", "chó (màu đen, nhỏ) - ở gần - sàn nhà (màu be)"]
+```
+
+frame_32:
+```json
+["chó (màu đen, nhỏ) - ở gần - gối (có hoa văn)", "chó (màu đen, nhỏ) - ở gần - sàn nhà (màu be)"]
+```
+
+frame_33:
+```json
+["chó (màu đen, nhỏ) - ở gần - gối (có hoa văn)", "chó (màu đen, nhỏ) - ở gần - sàn nhà (màu be)"]
+```
+
+frame_34:
+```json
+["chó (màu đen, nhỏ) - ở gần - gối (có hoa văn)", "chó (màu đen, nhỏ) - ở gần - sàn nhà (màu be)"]
+```
+
+frame_35:
+```json
+["chó (màu đen, nhỏ) - ở gần - gối (có hoa văn)"]
+```
+
+frame_36:
+```json
+["chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)"]
+```
+
+frame_37:
+```json
+["chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)"]
+```
+
+frame_38:
+```json
+["chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)"]
+```
+
+frame_39:
+```json
+["chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)"]
+```
+
+frame_40:
+```json
+["chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)"]
+```
+
+frame_41:
+```json
+["chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)"]
+```
+
+frame_42:
+```json
+["chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)"]
+```
+
+frame_43:
+```json
+["chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)"]
+```
+
+frame_44:
+```json
+["chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)"]
+```
+
+frame_45:
+```json
+["chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)", "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang nhìn, tò mò) - nhìn - chó (màu đen, nhỏ)"]
+```
+
+frame_46:
+```json
+["chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)", "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang ngửi, tò mò) - ngửi - chó (màu đen, nhỏ)"]
+```
+
+frame_47:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang ngửi, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang ngửi, tò mò)"
+]
+```
+
+frame_48:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang ngửi, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang ngửi, tò mò)"
+]
+```
+
+frame_49:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang ngửi, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang ngửi, tò mò)"
+]
+```
+
+frame_50:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang ngửi, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang ngửi, tò mò)"
+]
+```
+
+frame_51:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang ngửi, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang ngửi, tò mò)"
+]
+```
+
+frame_52:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang tìm kiếm, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang tìm kiếm, tò mò)"
+]
+```
+
+frame_53:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang tìm kiếm, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang tìm kiếm, tò mò)"
+]
+```
+
+frame_54:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang tìm kiếm, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang tìm kiếm, tò mò)"
+]
+```
+
+frame_55:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang tìm kiếm, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang tìm kiếm, tò mò)"
+]
+```
+
+frame_56:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang tìm kiếm, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang tìm kiếm, tò mò)"
+]
+```
+
+frame_57:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang đứng, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang đứng, tò mò)"
+]
+```
+
+frame_58:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang đứng, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang đứng, tò mò)"
+]
+```
+
+frame_59:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang đứng, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang đứng, tò mò)"
+]
+```
+
+frame_60:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang đứng, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang đứng, tò mò)"
+]
+```
+
+frame_61:
+```json
+[
+  "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)",
+  "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang đứng, tò mò) - ở trên - gối (có hoa văn)",
+  "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang đứng, tò mò)"
+]
+```
+
+frame_62:
+```json
+["chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)", "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang nằm, tò mò) - ở trên - gối (có hoa văn)", "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang nằm, tò mò)"]
+```
+
+frame_63:
+```json
+["chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)", "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang nằn, tò mò) - ở trên - gối (có hoa văn)", "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang nằn, tò mò)"]
+```
+
+frame_64:
+```json
+["chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)", "chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang nằm, tò mò) - ở trên - gối (có hoa văn)", "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang nằm, tò mò)"]
+```
+
+frame_65:
+```json
+["chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang nằm, tò mò) - ở trên - gối (có hoa văn)", "chó (màu đen, nhỏ) - ở trên - gối (có hoa văn)", "chó (màu đen, nhỏ) - ở gần - chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang nằm, tò mò)"]
+```
+
+frame_66:
+```json
+["chó1 (trưởng thành - giống đực, có vòng cổ màu tím, đang ngửi, tò mò) - ở trên - gối (có hoa văn)", "chó (màu đen, nhỏ) - ở gần - túi (màu xanh nước biển)"]
+```
+
+frame_67:
+```json
+["gối (có hoa văn) - bên cạnh - ghế1 (màu đen)"]
+```
+
+frame_68:
+```json
+["ghế1 (màu đen) - nằm trên - ghế (bằng gỗ)"]
+```
+
+frame_69:
+```json
+["tai1 - \u1edf tr\u00ean - ch\u00f31", "ch\u00f31 - \u1edf g\u1ea7n - gh\u1ebf1 (m\u00e0u \u0111en)", "gh\u1ebf1 (m\u00e0u \u0111en) - n\u1eb1m tr\u00ean - gh\u1ebf (b\u1eb1ng g\u1ed7)"]
+```
+
+frame_70:
+```json
+["tai1 - ở trên - chó1", "chó1 - ở gần - ghê1 (màu đen)", "ghế1 (màu đen) - nằm trên - ghế (bằng gỗ)"]
+```
+
+frame_71:
+```json
+["tai1 - ở trên - chó1", "chó1 - ở gần - ghế1 (màu đen)", "ghế1 (màu đen) - nằm trên - ghế (bằng gỗ)"]
+```
+
+frame_72:
+```json
+["tai1 - ở trên - chó1", "chó1 - ở gần - ghế1 (màu đen)", "ghế1 (màu đen) - nằm trên - ghế (bằng gỗ)"]
+```
+
+frame_73:
+```json
+["tai1 - ở trên - chó1", "chó1 - ở gần - sàn (màu be)", "sàn (màu be) - ở dưới - thảm (màu xanh da trời)"]
+```
+
+frame_74:
+```json
+["tai1 - ở trên - chó1", "chó1 - ở gần - sàn (màu be)", "sàn (màu be) - ở dưới - thảm (màu xanh da trời)"]
+```
+
+frame_75:
+```json
+["bát (màu be) - ở trên - bàn (màu nâu)", "phong bì - ở trên - bàn (màu nâu)", "táo - ở trong - bát (màu be)"]
+```
+
+frame_76:
+```json
+["b\u00e1t (m\u00e0u be) - \u1edf tr\u00ean - b\u00e0n (m\u00e0u n\u00e2u)", "phong b\u00ec - \u1edf tr\u00ean - b\u00e0n (m\u00e0u n\u00e2u)", "t\u00e1o - \u1edf trong - b\u00e1t (m\u00e0u be)", "c\u00e1c t\u00fai gi\u1ea5y - \u1edf tr\u00ean - phong b\u00ec", "c\u00e1c t\u00fai gi\u1ea5y - \u1edf tr\u00ean - b\u00e0n (m\u00e0u n\u00e2u)"]
+```
+
+frame_77:
+```json
+[
+  "cốc (màu trắng) - ở trên - bàn (màu nâu)",
+  "bát (màu be) - ở trên - bàn (màu nâu)",
+  "phong bì - ở trên - bàn (màu nâu)",
+  "táo - ở trong - bát (màu be)"
+]
+```
+
+frame_78:
+```json
+[
+  "bát (màu be) - ở trên - bàn (màu nâu)",
+  "bàn (màu nâu) - bên dưới - bát (màu be)"
+]
+```
+
+frame_79:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)"
+]
+```
+
+frame_80:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)"
+]
+```
+
+frame_81:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)",
+  "người1 (không rõ - không rõ, mặc đồ tối màu, đang đi, không rõ) - ở dưới - bàn (màu nâu)"
+]
+```
+
+frame_82:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)",
+  "người1 (không rõ - không rõ, mặc đồ tối màu, đang đi, không rõ) - ở dưới - bàn (màu nâu)"
+]
+```
+
+frame_83:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)",
+  "người1 (không rõ - không rõ, mặc đồ tối màu, đang đi, không rõ) - ở dưới - bàn (màu nâu)"
+]
+```
+
+frame_84:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)",
+  "người1 (không rõ - không rõ, mặc đồ tối màu, đang đi, không rõ) - ở dưới - bàn (màu nâu)"
+]
+```
+
+frame_85:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)",
+  "người1 (không rõ - không rõ, mặc đồ tối màu, đang đi, không rõ) - ở dưới - bàn (màu nâu)"
+]
+```
+
+frame_86:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)",
+  "người1 (không rõ - không rõ, mặc đồ tối màu, đang bò, không rõ) - ở dưới - bàn (màu nâu)"
+]
+```
+
+frame_87:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)",
+  "người1 (khong rõ - khong rõ, mặc đồ tối màu, đang đi, không rõ) - ở dưới - bàn (màu nâu)"
+]
+```
+
+frame_88:
+```json
+[
+  "b\u00e0n (m\u00e0u n\u00e2u) - \u1edf tr\u00ean - s\u00e0n nh\u00e0 (m\u00e0u n\u00e2u)",
+  "s\u00e0n nh\u00e0 (m\u00e0u n\u00e2u) - b\u00ean d\u01b0\u1edbi - b\u00e0n (m\u00e0u n\u00e2u)",
+  "ng\u01b0\u1eddi1 (khong r\u00f5 - khong r\u00f5, m\u1eb7c \u0111\u1ed3 t\u1ed1i m\u00e0u, \u0111ang \u0111i, kh\u00f4ng r\u00f5) - \u1edf tr\u00ean - s\u00e0n nh\u00e0 (m\u00e0u n\u00e2u)"
+]
+```
+
+frame_89:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)",
+  "người1 (không rõ - không rõ, mặc đồ tối màu, đang đi, không rõ) - ở trên - sàn nhà (màu nâu)"
+]
+```
+
+frame_90:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)",
+  "người1 (không rõ - không rõ, mặc đồ tối màu, đang đi, không rõ) - ở trên - sàn nhà (màu nâu)"
+]
+```
+
+frame_91:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)",
+  "người1 (không rõ - không rõ, mặc đồ tối màu, đang đi, không rõ) - ở trên - sàn nhà (màu nâu)"
+]
+```
+
+frame_92:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)",
+  "người1 (không rõ - không rõ, mặc đồ tối màu, đang đi, không rõ) - ở trên - sàn nhà (màu nâu)"
+]
+```
+
+frame_93:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)",
+  "người1 (không rõ - không rõ, mặc đồ tối màu, đang đi, không rõ) - ở trên - sàn nhà (màu nâu)"
+]
+```
+
+frame_94:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)",
+  "người1 (không rõ - không rõ, mặc đồ tối màu, đang đi, không rõ) - ở trên - sàn nhà (màu nâu)"
+]
+```
+
+frame_95:
+```json
+[
+  "bàn (màu nâu) - ở trên - sàn nhà (màu nâu)",
+  "sàn nhà (màu nâu) - bên dưới - bàn (màu nâu)",
+  "người1 (không rõ - không rõ, mặc đồ tối màu, đang đi, không rõ) - ở trên - sàn nhà (màu nâu)"
+]
+```
+

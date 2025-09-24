@@ -1,0 +1,250 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - đang nắm - dây thừng",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - ở trên - bụi bẩn",
+  "cây - ở - bụi bẩn"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - đang nắm - dây thừng",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - ở trên - bụi bẩn",
+  "cây - ở - bụi bẩn",
+  "sông - ở dưới - bụi bẩn"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - đang nắm - dây thừng",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - ở trên - bụi bẩn",
+  "cây - ở - bụi bẩn",
+  "sông - ở dưới - bụi bẩn"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - đang nắm - găng tay bóng chày",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - ở trên - bụi bẩn",
+  "cây - ở - bụi bẩn",
+  "sông - ở dưới - bụi bẩn"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - đang nắm - găng tay bóng chày",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - ở trên - cây",
+  "cây - ở - bụi bẩn",
+  "sông - ở dưới - bụi bẩn"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - ở trên - cây",
+  "cây - ở - bụi bẩn",
+  "sông - ở dưới - bụi bẩn"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - ở trên - cây",
+  "cây - ở - sông",
+  "sông - ở dưới - cây"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - ở trên - cây",
+  "cây - ở - sông",
+  "sông - ở dưới - cây"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - ở trên - cây",
+  "cây - ở - sông",
+  "sông - ở dưới - cây",
+  "người2 (không rõ tuổi - không rõ giới tính, không mặc gì, đang đứng, không rõ cảm xúc) - ở - cây",
+  "đất - ở gần - sông"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - ở trên - cây",
+  "cây - ở - sông",
+  "sông - ở dưới - cây",
+  "người2 (không rõ tuổi - không rõ giới tính, mặc áo đỏ, đang trượt, không rõ cảm xúc) - ở - cây",
+  "đất - ở gần - sông",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt, sợ hãi) - ở trên - vỉa hè"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đánh golf, vui vẻ) - ở trên - đất",
+  "cây - ở - đất",
+  "đất - ở dưới - cây",
+  "người2 (không rõ tuổi - không rõ giới tính, mặc áo đỏ, đang trượt, không rõ cảm xúc) - ở - cây",
+  "đất - ở gần - sông",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đánh golf, vui vẻ) - ở trên - vỉa hè"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - đất",
+  "cây - ở - đất",
+  "đất - ở dưới - cây",
+  "người2 (không rõ tuổi - không rõ giới tính, mặc áo đỏ, đang trượt, không rõ cảm xúc) - ở - cây",
+  "đất - ở gần - cây",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - vỉa hè"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - cây",
+  "cây - ở - đất",
+  "đất - ở dưới - cây",
+  "người2 (không rõ tuổi - không rõ giới tính, mặc áo đỏ, đang trượt, không rõ cảm xúc) - ở - cây",
+  "đất - ở gần - cây",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - nước"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - cây",
+  "cây - ở - đất",
+  "đất - ở dưới - cây",
+  "người2 (không rõ tuổi - không rõ giới tính, mặc áo đỏ, đang trượt, không rõ cảm xúc) - ở - cây",
+  "đất - ở gần - cây",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - đất",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở dưới - ô (màu xanh dương)",
+  "ô (màu xanh dương) - ở trên - người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở gần - hàng rào",
+  "người2 (không rõ tuổi - không rõ giới tính, mặc áo đỏ, đang trượt, không rõ cảm xúc) - ở gần - đất"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - cây",
+  "cây - ở - đất",
+  "đất - ở dưới - cây",
+  "người2 (không rõ tuổi - không rõ giới tính, mặc áo đỏ, đang trượt, không rõ cảm xúc) - ở - cây",
+  "đất - ở gần - cây",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - đất",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở dưới - bông cải xanh (màu xanh dương)",
+  "bông cải xanh (màu xanh dương) - ở trên - người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở gần - cây",
+  "người2 (không rõ tuổi - không rõ giới tính, mặc áo đỏ, đang trượt, không rõ cảm xúc) - ở gần - đất"
+]
+```
+
+frame_15:
+```json
+[
+  "hàng rào/tường - gần - gậy bóng chày (màu trắng)",
+  "người2 (không rõ tuổi - không rõ giới tính, mặc áo đỏ, đang trượt, không rõ cảm xúc) - ở gần - cây",
+  "cây - ở - đất",
+  "đất - ở dưới - cây",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - cây",
+  "đất - ở gần - cây",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - đất",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở dưới - bông cải xanh (màu xanh dương)",
+  "bông cải xanh (màu xanh dương) - ở trên - người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở gần - cây",
+  "người2 (không rõ tuổi - không rõ giới tính, mặc áo đỏ, đang trượt, không rõ cảm xúc) - ở gần - đất",
+  "người2 (không rõ tuổi - không rõ giới tính, mặc áo đỏ, đang trượt, không rõ cảm xúc) - ở gần - người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ)"
+]
+```
+
+frame_16:
+```json
+[
+  "cây - ở - đất",
+  "đất - ở dưới - cây",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - cây",
+  "đất - ở gần - cây",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - đất",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở gần - cây"
+]
+```
+
+frame_17:
+```json
+[
+  "cây - ở - đất",
+  "đất - ở dưới - cây",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đạp xe, vui vẻ) - ở trên - cây",
+  "đất - ở gần - cây",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đạp xe, vui vẻ) - ở trên - đất",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đạp xe, vui vẻ) - ở gần - cây",
+  "xe đạp - ở gần - người1 (trẻ - nữ, mặc áo đỏ, đang đạp xe, vui vẻ)",
+  "hàng rào - ở gần - cây"
+]
+```
+
+frame_18:
+```json
+[
+  "hàng rào - ở gần - cây",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang leo trèo, vui vẻ) - ở trên - cây",
+  "đất - ở dưới - cây",
+  "cây - ở - đất",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang leo trèo, vui vẻ) - ở trên - hàng rào",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang leo trèo, vui vẻ) - ở trên - đất"
+]
+```
+
+frame_19:
+```json
+[
+  "hàng rào - ở gần - cây",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - cây",
+  "đất - ở dưới - cây",
+  "cây - ở - đất",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - hàng rào",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - đất",
+  "người2 (trẻ - nữ, mặc áo đen, đang giữ dây, vui vẻ) - giữ - cây"
+]
+```
+
+frame_20:
+```json
+[
+  "hàng rào - ở gần - cây",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - cây",
+  "đất - ở dưới - cây",
+  "cây - ở - đất",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - hàng rào",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - đất",
+  "người2 (trẻ - nữ, mặc áo đen, đang giữ dây, vui vẻ) - giữ - cây",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang trượt zipline, vui vẻ) - ở trên - cây"
+]
+```
+

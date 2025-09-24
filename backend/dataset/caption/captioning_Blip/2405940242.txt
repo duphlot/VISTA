@@ -1,0 +1,21 @@
+frame_0000.jpg: a man is aiming a bow in the woods
+frame_0001.jpg: a man is holding a bow while standing on a tree
+frame_0002.jpg: a man is holding a bow while he is aiming
+frame_0003.jpg: a man is aiming a bow in the woods
+frame_0004.jpg: a man is holding a rifle in the air
+frame_0005.jpg: a man is holding a bow while he is aiming
+frame_0006.jpg: a man is zipping through the trees
+frame_0007.jpg: a man is zipping through the trees
+frame_0008.jpg: a man is zipping through the jungle
+frame_0009.jpg: a man is swinging a golf club
+frame_0010.jpg: a man is swinging a golf club on a tree
+frame_0011.jpg: zipline zipline zipline zipline zipline zipline zipline zipline zipline zipline
+frame_0012.jpg: a man is zipping through the trees
+frame_0013.jpg: a man climbing on a rope in the jungle
+frame_0014.jpg: a woman climbing on a rope in the jungle
+frame_0015.jpg: a man climbing on a rope in the woods
+frame_0016.jpg: a woman in a helmet and harness is climbing on a tree
+frame_0017.jpg: a woman in a helmet and a helmet is climbing on a rope
+frame_0018.jpg: a woman climbing on a rope
+frame_0019.jpg: a woman in a helmet and a man in a red shirt are climbing on a tree
+frame_0020.jpg: a woman in a helmet and safety gear is climbing on a rope

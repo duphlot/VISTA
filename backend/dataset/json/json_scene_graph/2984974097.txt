@@ -1,0 +1,796 @@
+frame_0:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1 (màu xanh lam)",
+  "Xe đạp1 (màu xanh lam) - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 (màu xanh lam) - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1 (màu xanh lam)",
+  "Ô tô2 (màu xanh lam) - phía sau - Ô tô1 (màu xanh lam)",
+  "Xe máy1 - phía sau - Ô tô2 (màu xanh lam)",
+  "Ô tô3 - bên cạnh - Xe máy1"
+]
+```
+
+frame_1:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe máy1 - phía sau - Ô tô2",
+  "Ô tô3 - bên cạnh - Xe máy1"
+]
+```
+
+frame_2:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe máy1 - phía sau - Ô tô2",
+  "Ô tô3 - bên cạnh - Xe máy1"
+]
+```
+
+frame_3:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe máy1 - phía sau - Ô tô2",
+  "Ô tô3 - bên cạnh - Xe máy1"
+]
+```
+
+frame_4:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe máy1 - phía sau - Ô tô2",
+  "Ô tô3 - bên cạnh - Xe máy1"
+]
+```
+
+frame_5:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_6:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_7:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_8:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_9:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_10:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_11:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_12:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_13:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_14:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_15:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_16:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_17:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_18:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p) - tr\u00ean - Xe \u0111\u1ea1p1",
+  "Xe \u0111\u1ea1p1 - tr\u00ean - \u0110\u01b0\u1eddng1",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p) - \u1edf tr\u00ean - \u0110\u01b0\u1eddng1",
+  "\u00d4 t\u00f41 - ph\u00eda sau - Ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p)",
+  "T\u01b0\u1eddng1 - ph\u00eda sau - \u00d4 t\u00f41",
+  "\u00d4 t\u00f42 - ph\u00eda sau - \u00d4 t\u00f41",
+  "Xe t\u1ea3i1 (m\u00e0u xanh d\u01b0\u01a1ng) - b\u00ean c\u1ea1nh - \u00d4 t\u00f41",
+  "C\u00e2y1 - ph\u00eda sau - Xe t\u1ea3i1",
+  "\u0110\u1ed3ng h\u1ed3 \u0111o \u0111\u1ed7 xe1 - b\u00ean c\u1ea1nh - Xe t\u1ea3i1",
+  "\u00d4 t\u00f43 - ph\u00eda sau - \u00d4 t\u00f42",
+  "\u00d4 t\u00f44 - b\u00ean c\u1ea1nh - \u00d4 t\u00f43",
+  "\u00d4 t\u00f45 - b\u00ean c\u1ea1nh - \u00d4 t\u00f44",
+  "\u00d4 t\u00f46 - b\u00ean c\u1ea1nh - \u00d4 t\u00f45",
+  "Nh\u00e01 - ph\u00eda sau - \u00d4 t\u00f46"
+]
+```
+
+frame_19:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_20:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_21:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_22:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_23:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_24:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_25:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_26:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_27:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Nhà1 - phía sau - Ô tô6"
+]
+```
+
+frame_28:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang lái xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang lái xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5"
+]
+```
+
+frame_29:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Xe máy1 - phía trước - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)"
+]
+```
+
+frame_30:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô2 - phía sau - Ô tô1",
+  "Xe tải1 (màu xanh dương) - bên cạnh - Ô tô1",
+  "Cây1 - phía sau - Xe tải1",
+  "Đồng hồ đo đỗ xe1 - bên cạnh - Xe tải1",
+  "Ô tô3 - phía sau - Ô tô2",
+  "Ô tô4 - bên cạnh - Ô tô3",
+  "Ô tô5 - bên cạnh - Ô tô4",
+  "Ô tô6 - bên cạnh - Ô tô5",
+  "Xe máy1 - phía trước - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)"
+]
+```
+
+frame_31:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Xe đạp1 - phía trước - Ô tô1"
+]
+```
+
+frame_32:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Xe đạp1 - phía trước - Ô tô1",
+  "Vỉa hè1 - gần - Tường1"
+]
+```
+
+frame_33:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - ở trên - Đường1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Tường1 - phía sau - Ô tô1",
+  "Ô tô1 - phía sau - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Xe đạp1 - phía trước - Ô tô1",
+  "Vỉa hè1 - gần - Tường1"
+]
+```
+
+frame_34:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - ở trên - Đường1",
+  "Nhà1 - phía sau - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Cửa sổ1 - gần - Tường1",
+  "Vỉa hè1 - gần - Tường1"
+]
+```
+
+frame_35:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - ở trên - Đường1",
+  "Nhà1 - phía sau - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Cửa sổ1 - gần - Tường1",
+  "Vỉa hè1 - gần - Tường1",
+  "Ô tô1 (màu xanh đậm) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)"
+]
+```
+
+frame_36:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - ở trên - Đường1",
+  "Nhà1 - phía sau - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Cửa sổ1 - gần - Tường1",
+  "Vỉa hè1 - gần - Tường1",
+  "Ô tô1 (màu xanh đậm) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)"
+]
+```
+
+frame_37:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - ở trên - Đường1",
+  "Tường1 - phía sau - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Cửa sổ1 - gần - Tường1",
+  "Vỉa hè1 - gần - Tường1",
+  "Ô tô1 (màu xanh đậm) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Ô tô2 (màu xanh đậm) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)"
+]
+```
+
+frame_38:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i xe \u0111\u1ea1p) - tr\u00ean - Xe \u0111\u1ea1p1",
+  "Xe \u0111\u1ea1p1 - tr\u00ean - \u0110\u01b0\u1eddng1",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i xe \u0111\u1ea1p) - \u1edf tr\u00ean - \u0110\u01b0\u1eddng1",
+  "\u00d4 t\u00f41 (m\u00e0u xanh \u0111\u1eadm) - b\u00ean c\u1ea1nh - Ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i xe \u0111\u1ea1p)",
+  "\u00d4 t\u00f42 (m\u00e0u xanh \u0111\u1eadm) - b\u00ean c\u1ea1nh - Ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i xe \u0111\u1ea1p)"
+]
+```
+
+frame_39:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - ở trên - Đường1",
+  "Ô tô1 (màu xanh đậm) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Ô tô2 (màu xanh đậm) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Tường1 - gần - Ô tô1 (màu xanh đậm)"
+]
+```
+
+frame_40:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - ở trên - Đường1",
+  "Ô tô1 (màu xanh đậm) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Ô tô2 (màu xanh đậm) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Tường1 - gần - Ô tô1 (màu xanh đậm)",
+  "Ô tô3 (màu xanh da trời) - phía trước - Ô tô2 (màu xanh đậm)"
+]
+```
+
+frame_41:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - ở trên - Đường1",
+  "Ô tô1 (màu xanh đậm) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Ô tô2 (màu xanh đậm) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Tường1 - gần - Ô tô1 (màu xanh đậm)",
+  "Ô tô3 (màu xanh da trời) - phía trước - Ô tô2 (màu xanh đậm)",
+  "Ô tô4 (màu xanh dương) - trên - Đường1",
+  "Ô tô5 (màu xanh dương) - trên - Đường1",
+  "Ô tô6 (màu xanh dương) - trên - Đường1",
+  "Cây1 - gần - Ô tô5 (màu xanh dương)",
+  "Xe máy1 - phía sau - Ô tô5 (màu xanh dương)",
+  "Ô tô3 (màu xanh da trời) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)"
+]
+```
+
+frame_42:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i xe \u0111\u1ea1p) - tr\u00ean - Xe \u0111\u1ea1p1",
+  "Xe \u0111\u1ea1p1 - tr\u00ean - \u0110\u01b0\u1eddng1",
+  "Ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i xe \u0111\u1ea1p) - \u1edf tr\u00ean - \u0110\u01b0\u1eddng1",
+  "\u00d4 t\u00f41 (m\u00e0u xanh \u0111\u1eadm) - b\u00ean c\u1ea1nh - Ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i xe \u0111\u1ea1p)",
+  "\u00d4 t\u00f42 (m\u00e0u xanh \u0111\u1eadm) - b\u00ean c\u1ea1nh - Ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i xe \u0111\u1ea1p)",
+  "T\u01b0\u1eddng1 - g\u1ea7n - \u00d4 t\u00f41 (m\u00e0u xanh \u0111\u1eadm)",
+  "\u00d4 t\u00f43 (m\u00e0u xanh da tr\u1eddi) - ph\u00eda tr\u01b0\u1edbc - \u00d4 t\u00f42 (m\u00e0u xanh \u0111\u1eadm)",
+  "\u00d4 t\u00f44 (m\u00e0u xanh d\u01b0\u01a1ng) - tr\u00ean - \u0110\u01b0\u1eddng1",
+  "\u00d4 t\u00f45 (m\u00e0u xanh d\u01b0\u01a1ng) - tr\u00ean - \u0110\u01b0\u1eddng1",
+  "\u00d4 t\u00f46 (m\u00e0u xanh d\u01b0\u01a1ng) - tr\u00ean - \u0110\u01b0\u1eddng1",
+  "C\u00e2y1 - g\u1ea7n - \u00d4 t\u00f45 (m\u00e0u xanh d\u01b0\u01a1ng)",
+  "Xe m\u00e1y1 - ph\u00eda sau - \u00d4 t\u00f45 (m\u00e0u xanh d\u01b0\u01a1ng)",
+  "\u00d4 t\u00f43 (m\u00e0u xanh da tr\u1eddi) - b\u00ean c\u1ea1nh - Ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i xe \u0111\u1ea1p)"
+]
+```
+
+frame_43:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - ở trên - Đường1",
+  "Ô tô1 (màu xanh đậm) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Ô tô2 (màu xanh đậm) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Tường1 - gần - Ô tô1 (màu xanh đậm)",
+  "Ô tô3 (màu xanh da trời) - phía trước - Ô tô2 (màu xanh đậm)",
+  "Ô tô4 (màu xanh dương) - trên - Đường1",
+  "Ô tô5 (màu xanh dương) - trên - Đường1",
+  "Ô tô6 (màu xanh dương) - trên - Đường1",
+  "Cây1 - gần - Ô tô5 (màu xanh dương)",
+  "Xe máy1 - phía sau - Ô tô5 (màu xanh dương)",
+  "Ô tô3 (màu xanh da trời) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)"
+]
+```
+
+frame_44:
+```json
+[
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - trên - Xe đạp1",
+  "Xe đạp1 - trên - Đường1",
+  "Người1 (trẻ, mặc áo hồng, đang đi xe đạp) - ở trên - Đường1",
+  "Ô tô1 (màu xanh đậm) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Ô tô2 (màu xanh đậm) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Tường1 - gần - Ô tô1 (màu xanh đậm)",
+  "Ô tô3 (màu xanh da trời) - phía trước - Ô tô2 (màu xanh đậm)",
+  "Ô tô4 (màu xanh dương) - trên - Đường1",
+  "Ô tô5 (màu xanh dương) - trên - Đường1",
+  "Ô tô6 (màu xanh dương) - trên - Đường1",
+  "Cây1 - gần - Ô tô5 (màu xanh dương)",
+  "Xe máy1 - phía sau - Ô tô5 (màu xanh dương)",
+  "Ô tô3 (màu xanh da trời) - bên cạnh - Người1 (trẻ, mặc áo hồng, đang đi xe đạp)",
+  "Tòa nhà1 - gần - Đường1"
+]
+```
+

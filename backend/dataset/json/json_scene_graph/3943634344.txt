@@ -1,0 +1,726 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang nhìn) - cạnh - ván lướt sóng1 (màu vàng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang nhìn) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - ván lướt sóng1 (màu vàng)",
+  "tủ1 (màu nâu) - trên - thảm1 (màu tím)",
+  "ván lướt sóng1 (màu vàng) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang nhìn) - trên - thảm1 (màu tím)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - ván lướt sóng1 (màu vàng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - ván lướt sóng1 (màu vàng)",
+  "tủ1 (màu nâu) - trên - thảm1 (màu tím)",
+  "ván lướt sóng1 (màu vàng) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - thảm1 (màu tím)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - ván lướt sóng1 (màu vàng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - ván lướt sóng1 (màu vàng)",
+  "tủ1 (màu nâu) - trên - thảm1 (màu tím)",
+  "ván lướt sóng1 (màu vàng) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ngồi) - cạnh - ván lướt sóng1 (màu vàng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ngồi) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - ván lướt sóng1 (màu vàng)",
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "ván lướt sóng1 (màu vàng) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ngồi) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang ngồi)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang ngồi)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ngồi) - cạnh - giường1 (màu tím)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - ván lướt sóng1 (màu vàng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - ván lướt sóng1 (màu vàng)",
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "ván lướt sóng1 (màu vàng) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - giường1 (màu tím)"
+]
+```
+
+frame_5:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang chơi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "ván lướt sóng1 (màu vàng) - trên - giường1 (màu tím)"
+]
+```
+
+frame_6:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - giường2 (màu tím)"
+]
+```
+
+frame_7:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "bàn ăn1 (màu xanh lam) - dưới - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "bàn ăn1 (màu xanh lam) - dưới - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)"
+]
+```
+
+frame_8:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "bàn ăn1 (màu xanh lam) - dưới - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "bàn ăn1 (màu xanh lam) - dưới - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)"
+]
+```
+
+frame_9:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "bàn ăn1 (màu xanh lam) - dưới - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "bàn ăn1 (màu xanh lam) - dưới - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)"
+]
+```
+
+frame_10:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ăn) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "bàn ăn1 (màu xanh lam) - dưới - người1 (trẻ, mặc áo dài tay màu trắng, đang ăn)",
+  "bàn ăn1 (màu xanh lam) - dưới - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)"
+]
+```
+
+frame_11:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "bàn ăn1 (màu xanh lam) - dưới - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "bàn ăn1 (màu xanh lam) - dưới - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)"
+]
+```
+
+frame_12:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "bàn ăn1 (màu xanh lam) - dưới - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "bàn ăn1 (màu xanh lam) - dưới - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)"
+]
+```
+
+frame_13:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "ván trượt1 (màu xanh da trời) - dưới - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "ván trượt1 (màu xanh da trời) - dưới - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "ba lô1 (màu tím) - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)"
+]
+```
+
+frame_14:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "ván trượt1 (màu xanh da trời) - dưới - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "ván trượt1 (màu xanh da trời) - dưới - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "ba lô1 (màu tím) - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)"
+]
+```
+
+frame_15:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "ván trượt1 (màu xanh da trời) - dưới - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "ván trượt1 (màu xanh da trời) - dưới - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "ba lô1 (màu tím) - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cầm - ván trượt1 (màu xanh da trời)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cầm - ván trượt1 (màu xanh da trời)"
+]
+```
+
+frame_16:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang xem sách) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang xem sách)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang xem sách)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang xem sách)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang xem sách) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang xem sách) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang xem sách) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang xem sách)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "ván trượt1 (màu xanh da trời) - dưới - người1 (trẻ, mặc áo dài tay màu trắng, đang xem sách)",
+  "ván trượt1 (màu xanh da trời) - dưới - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "ba lô1 (màu tím) - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang xem sách) - cầm - ván trượt1 (màu xanh da trời)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cầm - ván trượt1 (màu xanh da trời)"
+]
+```
+
+frame_17:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "ván trượt1 (màu xanh da trời) - dưới - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "ván trượt1 (màu xanh da trời) - dưới - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "ba lô1 (màu tím) - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt) - cầm - ván trượt1 (màu xanh da trời)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cầm - ván trượt1 (màu xanh da trời)"
+]
+```
+
+frame_18:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "ván trượt1 (màu xanh da trời) - dưới - người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt)",
+  "ván trượt1 (màu xanh da trời) - dưới - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "ba lô1 (màu tím) - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang cầm ván trượt) - cầm - ván trượt1 (màu xanh da trời)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cầm - ván trượt1 (màu xanh da trời)"
+]
+```
+
+frame_19:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "ván trượt1 (màu xanh da trời) - dưới - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "ván trượt1 (màu xanh da trời) - dưới - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "ba lô1 (màu tím) - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cầm - ván trượt1 (màu xanh da trời)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cầm - ván trượt1 (màu xanh da trời)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - đang chơi - ván1 (màu trắng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - đang chơi - ván1 (màu trắng)"
+]
+```
+
+frame_20:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "ván trượt1 (màu xanh da trời) - dưới - người1 (trẻ, mặc áo dài tay màu trắng, đang chơi)",
+  "ván trượt1 (màu xanh da trời) - dưới - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "ba lô1 (màu tím) - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - cầm - ván trượt1 (màu xanh da trời)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cầm - ván trượt1 (màu xanh da trời)",
+  "người2 (trưởng thành, mặc áo phông xám, đang chơi) - đang chơi - ván1 (màu trắng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang chơi) - đang chơi - ván1 (màu trắng)"
+]
+```
+
+frame_21:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "chăn1 (màu xanh) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cầm - sách1 (màu trắng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cầm - sách1 (màu trắng)"
+]
+```
+
+frame_22:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "chăn1 (màu xanh) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cầm - sách1 (màu trắng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cầm - sách1 (màu trắng)"
+]
+```
+
+frame_23:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "chăn1 (màu xanh) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cầm - sách1 (màu trắng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cầm - sách1 (màu trắng)"
+]
+```
+
+frame_24:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "chăn1 (màu xanh) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cầm - sách1 (màu trắng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cầm - sách1 (màu trắng)"
+]
+```
+
+frame_25:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "chăn1 (màu xanh) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cầm - sách1 (màu trắng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cầm - sách1 (màu trắng)"
+]
+```
+
+frame_26:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "chăn1 (màu xanh) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cầm - sách1 (màu trắng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cầm - sách1 (màu trắng)"
+]
+```
+
+frame_27:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "chăn1 (màu xanh) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cầm - sách1 (màu trắng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cầm - sách1 (màu trắng)"
+]
+```
+
+frame_28:
+```json
+[
+  "tủ1 (màu xanh lá cây) - trên - thảm1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - thảm1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - thảm1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "thảm2 - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường1 (màu tím) - cạnh - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - giường1 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách)",
+  "thảm2 - bên cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "chăn1 (màu xanh) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang đọc sách)",
+  "người2 (trưởng thành, mặc áo phông xám, đang đọc sách) - cầm - sách1 (màu trắng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang đọc sách) - cầm - sách1 (màu trắng)"
+]
+```
+
+frame_29:
+```json
+[
+  "tủ1 (màu xanh lá cây) - ở trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang nằm) - trên - giường1 (màu tím)",
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang nằm)",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang nằm) - cạnh - giường1 (màu tím)",
+  "giường2 (màu tím) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - cạnh - giường2 (màu tím)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang nằm) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang nằm) - trên - giường1 (màu tím)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - giường2 (màu tím)",
+  "tường1 - phía sau - tường2",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang nằm) - gần - giường2 (màu tím)"
+]
+```
+
+frame_30:
+```json
+[
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu hồng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ngồi) - trên - thảm2",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "bánh1 (màu xanh da trời) - gần - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "bánh1 (màu xanh da trời) - gần - người1 (trẻ, mặc áo dài tay màu trắng, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ngồi) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)"
+]
+```
+
+frame_31:
+```json
+[
+  "tường1 - phía sau - người1 (trẻ, mặc áo dài tay màu trắng, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang ngồi) - trên - thảm1 (màu hồng)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ngồi) - trên - thảm2",
+  "tường1 - phía sau - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "bánh1 (màu xanh da trời) - gần - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "bánh1 (màu xanh da trời) - gần - người1 (trẻ, mặc áo dài tay màu trắng, đang ngồi)",
+  "người1 (trẻ, mặc áo dài tay màu trắng, đang ngồi) - cạnh - người2 (trưởng thành, mặc áo phông xám, đang ngồi)",
+  "người2 (trưởng thành, mặc áo phông xám, đang cầm đồ vật) - trên - giường1 (63%)",
+  "người1 (trưởng thành, mặc áo dài tay màu hồng, đang đứng) - trên - thảm1 (màu hồng)",
+  "người2 (trưởng thành, mặc áo phông xám, đang cầm đồ vật) - trên - thảm3",
+  "thảm3 - cạnh - giường1 (63%)"
+]
+```
+

@@ -1,0 +1,51 @@
+frame_0000.jpg: a woman is making a pot on a wheel
+frame_0001.jpg: a woman is making a pot on a wheel
+frame_0002.jpg: a woman is making a pot on a potter ' s wheel
+frame_0003.jpg: a woman is making a pot on a potter ' s wheel
+frame_0004.jpg: a woman is making a pot on a wheel
+frame_0005.jpg: a woman is making a pot on a potter ' s wheel
+frame_0006.jpg: a woman is making a pot on a wheel
+frame_0007.jpg: a woman is making a pot on a wheel
+frame_0008.jpg: a woman is making a pot on a wheel
+frame_0009.jpg: a woman is making a pot on a wheel
+frame_0010.jpg: a woman is making a pot on a wheel
+frame_0011.jpg: a woman is making a pot on a wheel
+frame_0012.jpg: a woman is making a pot on a potter ' s wheel
+frame_0013.jpg: a woman is making a pot on a wheel
+frame_0014.jpg: a woman is making a pot on a wheel
+frame_0015.jpg: a woman is making a pot on a potter ' s wheel
+frame_0016.jpg: a woman is making a pot on a potter ' s wheel
+frame_0017.jpg: a woman is making a pot on a potter ' s wheel
+frame_0018.jpg: two women working on pottery
+frame_0019.jpg: two women working on pottery
+frame_0020.jpg: a woman is making pottery pots on a table
+frame_0021.jpg: a woman is making a pot on a potter ' s wheel
+frame_0022.jpg: a woman is making a pot on a wheel
+frame_0023.jpg: a woman is making pottery on a wheel
+frame_0024.jpg: a woman is making a bowl with clay
+frame_0025.jpg: two women working on pottery
+frame_0026.jpg: two women working on pottery
+frame_0027.jpg: a woman is making a pot on a wheel
+frame_0028.jpg: a woman is making a pot on a wheel
+frame_0029.jpg: a woman is making a pot on a wheel
+frame_0030.jpg: two women are making pottery pots on a table
+frame_0031.jpg: two women are making pottery pots in a workshop
+frame_0032.jpg: a woman is making a pot on a potter ' s wheel
+frame_0033.jpg: a woman is making a pot on a potter ' s wheel
+frame_0034.jpg: two women are making pottery pots on a table
+frame_0035.jpg: two women are making pottery pots on a table
+frame_0036.jpg: two women are making pottery pots on a table
+frame_0037.jpg: a woman is making a pot on a potter ' s wheel
+frame_0038.jpg: a woman is making a pot on a potter ' s wheel
+frame_0039.jpg: a woman is making a pot on a wheel
+frame_0040.jpg: a woman is making a pot on a wheel
+frame_0041.jpg: two women are making pottery pots on a table
+frame_0042.jpg: a woman is making a pot on a wheel
+frame_0043.jpg: two women making pottery pots on a table
+frame_0044.jpg: a woman is making a pot on a wheel
+frame_0045.jpg: a woman is making a pot on a wheel
+frame_0046.jpg: a woman is making a pot on a wheel
+frame_0047.jpg: a woman is making a pot on a wheel
+frame_0048.jpg: a woman is making a pot on a potter ' s wheel
+frame_0049.jpg: a woman is making a pot on a wheel
+frame_0050.jpg: a woman is making a pot on a wheel

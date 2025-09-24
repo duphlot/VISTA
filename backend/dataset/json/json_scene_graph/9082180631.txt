@@ -1,0 +1,380 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc)",
+  "cỏ - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "cây - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "đường - ở dưới - bầu trời"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc)",
+  "cỏ - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "cây - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "đường - ở dưới - bầu trời"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc)",
+  "cỏ - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "cây - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "đường - ở dưới - bầu trời",
+  "ván trượt - ở gần - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc)",
+  "cỏ - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "cây - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "đường - ở dưới - bầu trời",
+  "ván trượt - ở gần - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "người4 (trẻ - không rõ, mặc áo đỏ, đang đứng, không rõ cảm xúc) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc)",
+  "cỏ - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "cây - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang trượt, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "đường - ở dưới - bầu trời",
+  "ván trượt - ở gần - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "người4 (trẻ - không rõ, mặc áo đỏ, đang đứng, không rõ cảm xúc) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "cỏ - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc)",
+  "cây - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc)",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "đường - ở dưới - bầu trời",
+  "ván trượt - ở gần - người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc)",
+  "người4 (trẻ - không rõ, mặc áo đỏ, đang đứng, không rõ cảm xúc) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - đường",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - tuyết",
+  "tuyết - ở gần - đường"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "cỏ - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc)",
+  "cây - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc)",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "đường - ở dưới - bầu trời",
+  "ván trượt - ở gần - người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc)",
+  "người4 (trẻ - không rõ, mặc áo đỏ, đang đứng, không rõ cảm xúc) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - đường",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - tuyết",
+  "tuyết - ở gần - đường"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "cỏ - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc)",
+  "cây - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc)",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "đường - ở dưới - bầu trời",
+  "ván trượt - ở gần - người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc)",
+  "người4 (trẻ - không rõ, mặc áo đỏ, đang đứng, không rõ cảm xúc) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - đường",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - tuyết",
+  "tuyết - ở gần - đường",
+  "người1 (trẻ - nữ, mặc áo khoác màu đỏ, đang đứng thẳng, bình thường) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang cúi, vui vẻ)",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở gần - người1 (trẻ - nữ, mặc áo khoác màu đỏ, đang đứng thẳng, bình thường)"
+]
+```
+
+frame_8:
+```json
+[
+  "cỏ - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc)",
+  "cây - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc)",
+  "đường - ở dưới - tuyết",
+  "tuyết - ở gần - đường",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở trên - tuyết",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - đường",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - tuyết",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở gần - người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc)"
+]
+```
+
+frame_9:
+```json
+[
+  "cỏ - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc)",
+  "cây - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, không rõ cảm xúc)",
+  "đường - ở dưới - tuyết",
+  "tuyết - ở gần - đường",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở trên - tuyết",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở trên - tuyết",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở gần - người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc)",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - đường",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - đường",
+  "người2 (trẻ - không rõ, mặc áo tối màu, đang trượt, không rõ cảm xúc) - ở trên - tuyết",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở gần - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)"
+]
+```
+
+frame_10:
+```json
+[
+  "cỏ - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "cây - ở phía sau - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "đường - ở dưới - tuyết",
+  "tuyết - ở gần - đường",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở trên - tuyết",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở trên - tuyết",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - xe máy1 (màu tím, không rõ)",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở gần - xe máy1 (màu tím, không rõ)",
+  "xe máy1 (màu tím, không rõ) - ở trên - đường",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - đường",
+  "xe máy1 (màu tím, không rõ) - ở trên - tuyết",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở gần - người1 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở gần - xe máy1 (màu tím, không rõ)"
+]
+```
+
+frame_11:
+```json
+[
+  "cỏ - ở phía sau - người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "cây - ở phía sau - người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "đường - ở dưới - tuyết",
+  "tuyết - ở gần - đường",
+  "người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở trên - tuyết",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở trên - tuyết",
+  "người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - đường",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở gần - người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "tuyết - ở trên - đường",
+  "người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích) - ở trên - tuyết",
+  "cỏ - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)",
+  "cây - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)"
+]
+```
+
+frame_12:
+```json
+[
+  "cỏ - ở phía sau - người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "cây - ở phía sau - người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "đường - ở dưới - tuyết",
+  "tuyết - ở gần - đường",
+  "người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở trên - tuyết",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở trên - tuyết",
+  "người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - đường",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở gần - người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "tuyết - ở trên - đường",
+  "người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích) - ở trên - tuyết",
+  "cỏ - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)",
+  "cây - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)"
+]
+```
+
+frame_13:
+```json
+[
+  "cỏ - ở phía sau - người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "cây - ở phía sau - người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "đường - ở dưới - tuyết",
+  "tuyết - ở gần - đường",
+  "người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở trên - tuyết",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở trên - tuyết",
+  "người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc) - ở gần - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)",
+  "người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc) - ở trên - đường",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở gần - người3 (trẻ - không rõ, mặc áo choàng hồng, đang đi bộ, không rõ cảm xúc)",
+  "người4 (trẻ - nam, mặc áo khoác màu đỏ, đang đứng, bình thường) - ở gần - người2 (trẻ - không rõ, mặc áo khoác cam, đang trượt, không rõ cảm xúc)",
+  "tuyết - ở trên - đường",
+  "người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích) - ở trên - tuyết",
+  "cỏ - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)",
+  "cây - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)"
+]
+```
+
+frame_14:
+```json
+[
+  "cỏ - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)",
+  "cây - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)",
+  "đường - ở dưới - tuyết",
+  "tuyết - ở gần - đường",
+  "người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích) - ở trên - tuyết",
+  "người2 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, buồn bã) - ở trên - tuyết",
+  "người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích) - ở gần - người2 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, buồn bã)",
+  "người2 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, buồn bã) - ở trên - đường",
+  "tuyết - ở trên - đường",
+  "cỏ - ở phía sau - người2 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, buồn bã)",
+  "cây - ở phía sau - người2 (trẻ - không rõ, mặc áo khoác cam, đang đi bộ, buồn bã)"
+]
+```
+
+frame_15:
+```json
+[
+  "cỏ - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang đi bộ, phấn khích)",
+  "cây - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang đi bộ, phấn khích)",
+  "đường - ở dưới - tuyết",
+  "tuyết - ở gần - đường",
+  "người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang đi bộ, phấn khích) - ở trên - tuyết"
+]
+```
+
+frame_16:
+```json
+[
+  "cỏ - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang đi bộ, phấn khích)",
+  "cây - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang đi bộ, phấn khích)",
+  "đường - ở dưới - tuyết",
+  "tuyết - ở gần - đường",
+  "người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang đi bộ, phấn khích) - ở trên - tuyết",
+  "người2 (trưởng thành - nữ, mặc áo khoác tím, đang đi bộ, bình tĩnh) - ở trên - tuyết"
+]
+```
+
+frame_17:
+```json
+[
+  "cỏ - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang đi bộ, phấn khích)",
+  "cây - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang đi bộ, phấn khích)",
+  "đường - ở dưới - tuyết",
+  "tuyết - ở gần - đường",
+  "người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang đi bộ, phấn khích) - ở trên - tuyết",
+  "người2 (trưởng thành - nữ, mặc áo khoác tím, đang đi bộ, bình tĩnh) - ở trên - tuyết",
+  "người3 (trưởng thành - không rõ, mặc áo khoác cam, đang đi bộ, vui vẻ) - ở trên - tuyết"
+]
+```
+
+frame_18:
+```json
+[
+  "cỏ - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)",
+  "cây - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)",
+  "đường - ở dưới - tuyết",
+  "tuyết - ở gần - đường",
+  "người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích) - ở trên - tuyết",
+  "người2 (trưởng thành - nữ, mặc áo khoác tím, đang đi bộ, bình tĩnh) - ở trên - tuyết",
+  "người3 (trưởng thành - không rõ, mặc áo khoác cam, đang đứng, vui vẻ) - ở trên - tuyết",
+  "ván trượt - ở dưới - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)"
+]
+```
+
+frame_19:
+```json
+[
+  "cỏ - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)",
+  "cây - ở phía sau - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)",
+  "đường - ở dưới - tuyết",
+  "tuyết - ở gần - đường",
+  "người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích) - ở trên - tuyết",
+  "người2 (trưởng thành - nữ, mặc áo khoác tím, đang ngồi trên ghế, thư giãn) - ở trên - tuyết",
+  "người3 (trưởng thành - không rõ, mặc áo khoác cam, đang đứng, vui vẻ) - ở trên - tuyết",
+  "ván trượt - ở dưới - người1 (trưởng thành - không rõ, mặc áo khoác đỏ, đang trượt tuyết, phấn khích)",
+  "ghế1 (màu vàng) - ở dưới - người2 (trưởng thành - nữ, mặc áo khoác tím, đang ngồi trên ghế, thư giãn)",
+  "tuyết - ở gần - ghế1 (màu vàng)",
+  "người2 (trưởng thành - nữ, mặc áo khoác tím, đang ngồi trên ghế, thư giãn) - ở gần - người4 (trưởng thành - nữ, mặc áo khoác tím, đang ngồi cạnh, thư giãn)",
+  "ghế1 (màu vàng) - ở gần - người4 (trưởng thành - nữ, mặc áo khoác tím, đang ngồi cạnh, thư giãn)",
+  "người4 (trưởng thành - nữ, mặc áo khoác tím, đang ngồi cạnh, thư giãn) - ở trên - tuyết"
+]
+```
+
+frame_20:
+```json
+[
+  "b\u00e2u (m\u00e0u xanh) - \u1edf tr\u00ean - tuy\u1ebft",
+  "tuy\u1ebft - \u1edf g\u1ea7n - b\u00e2u (m\u00e0u xanh)",
+  "c\u1ecf - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5, m\u1eb7c \u00e1o kho\u00e1c \u0111\u1ecf, \u0111ang \u0111i b\u1ed9, ph\u1ea5n kh\u00edch)",
+  "c\u00e2y - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5, m\u1eb7c \u00e1o kho\u00e1c \u0111\u1ecf, \u0111ang \u0111i b\u1ed9, ph\u1ea5n kh\u00edch)",
+  "\u0111\u01b0\u1eddng - \u1edf d\u01b0\u1edbi - tuy\u1ebft",
+  "tuy\u1ebft - \u1edf g\u1ea7n - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5, m\u1eb7c \u00e1o kho\u00e1c \u0111\u1ecf, \u0111ang \u0111i b\u1ed9, ph\u1ea5n kh\u00edch) - \u1edf tr\u00ean - tuy\u1ebft",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o kho\u00e1c t\u00edm, \u0111ang ng\u1ed3i tr\u00ean gh\u1ebf, th\u01b0 gi\u00e3n) - \u1edf tr\u00ean - tuy\u1ebft",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5, m\u1eb7c \u00e1o kho\u00e1c cam, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - \u1edf tr\u00ean - tuy\u1ebft",
+  "gh\u1ebf1 (m\u00e0u v\u00e0ng) - \u1edf d\u01b0\u1edbi - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o kho\u00e1c t\u00edm, \u0111ang ng\u1ed3i tr\u00ean gh\u1ebf, th\u01b0 gi\u00e3n)",
+  "tuy\u1ebft - \u1edf g\u1ea7n - gh\u1ebf1 (m\u00e0u v\u00e0ng)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o kho\u00e1c t\u00edm, \u0111ang ng\u1ed3i tr\u00ean gh\u1ebf, th\u01b0 gi\u00e3n) - \u1edf g\u1ea7n - ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o kho\u00e1c t\u00edm, \u0111ang ng\u1ed3i c\u1ea1nh, th\u01b0 gi\u00e3n)",
+  "gh\u1ebf1 (m\u00e0u v\u00e0ng) - \u1edf g\u1ea7n - ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o kho\u00e1c t\u00edm, \u0111ang ng\u1ed3i c\u1ea1nh, th\u01b0 gi\u00e3n)",
+  "ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o kho\u00e1c t\u00edm, \u0111ang ng\u1ed3i c\u1ea1nh, th\u01b0 gi\u00e3n) - \u1edf tr\u00ean - tuy\u1ebft"
+]
+```
+

@@ -1,0 +1,1054 @@
+frame_0:
+```json
+[
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ngồi trên - ghế1 (màu đen)",
+  "người2 (trẻ, mặc áo trắng, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "sàn nhà1 (nhiều màu) - bên dưới - người2 (trẻ, mặc áo trắng, đang đứng)",
+  "sàn nhà1 (nhiều màu) - bên dưới - ghế1 (màu đen)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ngồi cạnh - người2 (trẻ, mặc áo trắng, đang đứng)",
+  "người2 (trẻ, mặc áo trắng, đang đứng) - đứng trên - thảm1 (màu tím)",
+  "tường gạch1 - ở phía sau - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "rèm cửa1 - ở bên cạnh - cửa sổ1",
+  "người3 (trẻ sơ sinh, mặc áo trắng, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "người3 (trẻ sơ sinh, mặc áo trắng, đang đứng) - đứng trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ngồi trên - thảm1 (màu tím)",
+  "người4 (không rõ tuổi, không rõ quần áo, đang ngồi) - ngồi trên - thảm1 (màu tím)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trưởng thành, mặc áo đen, đang ôm) - ôm - người3 (trẻ sơ sinh, mặc áo trắng, đang đứng)",
+  "người3 (trẻ sơ sinh, mặc áo trắng, đang đứng) - đứng trên - thảm1 (màu tím)",
+  "tường gạch1 - ở phía sau - người1 (trưởng thành, mặc áo đen, đang ôm)",
+  "rèm cửa1 - ở bên cạnh - cửa sổ1",
+  "người2 (trẻ, mặc áo trắng, đang đứng) - đứng trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang ôm) - ngồi trên - thảm1 (màu tím)",
+  "người2 (trẻ, mặc áo trắng, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo đen, đang ôm)",
+  "người4 (không rõ tuổi, không rõ quần áo, đang ngồi) - ngồi trên - thảm1 (màu tím)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trưởng thành, mặc áo đen, đang ôm) - ôm - người2 (trẻ sơ sinh, mặc áo trắng, đang đứng)",
+  "người2 (trẻ sơ sinh, mặc áo trắng, đang đứng) - đứng trên - thảm1 (màu tím)",
+  "tường gạch1 - ở phía sau - người1 (trưởng thành, mặc áo đen, đang ôm)",
+  "rèm cửa1 - ở bên cạnh - cửa sổ1",
+  "người2 (trẻ sơ sinh, mặc áo trắng, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo đen, đang ôm)",
+  "người1 (trưởng thành, mặc áo đen, đang ôm) - ngồi trên - thảm1 (màu tím)",
+  "người4 (không rõ tuổi, không rõ quần áo, đang ngồi) - ngồi trên - thảm1 (màu tím)",
+  "bát1 (màu trắng) - ở trên - bàn1",
+  "người1 (trưởng thành, mặc áo đen, đang ôm) - ở trong - phòng khách1",
+  "người2 (trẻ sơ sinh, mặc áo trắng, đang đứng) - ở trong - phòng khách1"
+]
+```
+
+frame_4:
+```json
+[
+  "tường gạch1 - ở phía sau - người1 (trưởng thành, mặc áo đen, đang đứng)",
+  "người2 (trẻ sơ sinh, mặc áo trắng, đang đứng) - đứng trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang đứng) - ôm - người2 (trẻ sơ sinh, mặc áo trắng, đang đứng)",
+  "rèm cửa1 - ở bên cạnh - cửa sổ1",
+  "người2 (trẻ sơ sinh, mặc áo trắng, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo đen, đang đứng)",
+  "người4 (không rõ tuổi, không rõ quần áo, đang ngồi) - ngồi trên - thảm1 (màu tím)",
+  "cốc1 (màu xanh lá) - ở trên - thảm1 (màu tím)",
+  "túi xách1 (màu hồng) - ở trên - thảm1 (màu tím)",
+  "người4 (không rõ tuổi, không rõ quần áo, đang ngồi) - ngồi cạnh - người1 (trưởng thành, mặc áo đen, đang đứng)"
+]
+```
+
+frame_5:
+```json
+[
+  "tường gạch1 - ở phía sau - người1 (trưởng thành, mặc áo đen, đang đứng)",
+  "người2 (trẻ sơ sinh, mặc áo trắng, đang đứng) - đứng trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang đứng) - ôm - người2 (trẻ sơ sinh, mặc áo trắng, đang đứng)",
+  "rèm cửa1 - ở bên cạnh - cửa sổ1",
+  "người2 (trẻ sơ sinh, mặc áo trắng, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo đen, đang đứng)",
+  "người4 (không rõ tuổi, không rõ quần áo, đang ngồi) - ngồi trên - thảm1 (màu tím)",
+  "cốc1 (màu xanh lá) - ở trên - thảm1 (màu tím)",
+  "túi xách1 (màu hồng) - ở trên - thảm1 (màu tím)",
+  "người4 (không rõ tuổi, không rõ quần áo, đang ngồi) - ngồi cạnh - người1 (trưởng thành, mặc áo đen, đang đứng)",
+  "bát1 (màu vàng) - ở trên - tường gạch1"
+]
+```
+
+frame_6:
+```json
+[
+  "tường gạch1 - ở phía sau - người1 (trưởng thành, mặc áo đen, đang đứng)",
+  "người2 (trẻ sơ sinh, mặc áo trắng, đang đứng) - đứng trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang đứng) - ôm - người2 (trẻ sơ sinh, mặc áo trắng, đang đứng)",
+  "rèm cửa1 - ở bên cạnh - cửa sổ1",
+  "người2 (trẻ sơ sinh, mặc áo trắng, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo đen, đang đứng)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang ngồi) - ngồi trên - thảm1 (màu tím)",
+  "túi xách1 (màu hồng) - ở trên - thảm1 (màu tím)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang ngồi) - ngồi cạnh - người1 (trưởng thành, mặc áo đen, đang đứng)",
+  "bát1 (màu vàng) - ở trên - tường gạch1",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)",
+  "bàn ăn1 - ở trên - giường1 (màu tím)",
+  "người3 (không rõ tuổi, không rõ quần áo, đang ngồi) - ngồi trên - bàn ăn1"
+]
+```
+
+frame_7:
+```json
+[
+  "tường gạch1 - ở phía sau - người1 (trưởng thành, mặc áo đen, đang đứng)",
+  "người2 (trẻ sơ sinh, mặc áo trắng, đang đứng) - đứng trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang đứng) - ôm - người2 (trẻ sơ sinh, mặc áo trắng, đang đứng)",
+  "rèm cửa1 - ở bên cạnh - cửa sổ1",
+  "người2 (trẻ sơ sinh, mặc áo trắng, đang đứng) - đứng cạnh - người1 (trưởng thành, mặc áo đen, đang đứng)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang ngồi) - ngồi trên - thảm1 (màu tím)",
+  "túi xách1 (màu hồng) - ở trên - thảm1 (màu tím)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang ngồi) - ngồi cạnh - người1 (trưởng thành, mặc áo đen, đang đứng)",
+  "bát1 (màu vàng) - ở trên - tường gạch1",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)",
+  "bàn ăn1 - ở trên - giường1 (màu tím)",
+  "người3 (không rõ tuổi, không rõ quần áo, đang ngồi) - ngồi trên - bàn ăn1",
+  "người1 (trưởng thành, mặc áo đen, đang đứng) - đứng cạnh - người3 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang ngồi) - ngồi gần - giường1 (màu tím)",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)"
+]
+```
+
+frame_8:
+```json
+[
+  "tường gạch1 - ở phía sau - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang bò) - đứng trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ngồi trên - người4 (trẻ sơ sinh, mặc áo trắng, đang bò)",
+  "rèm cửa1 - ở bên cạnh - cửa sổ1",
+  "túi xách1 (màu hồng) - ở trên - thảm1 (màu tím)",
+  "bát1 (màu vàng) - ở trên - tường gạch1",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)",
+  "bàn ăn1 - ở trên - giường1 (màu tím)",
+  "người3 (không rõ tuổi, không rõ quần áo, đang ngồi) - ngồi trên - bàn ăn1",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - đứng cạnh - người3 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang bò) - ngồi gần - giường1 (màu tím)",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)",
+  "ba lô1 - ở trên - thảm1 (màu tím)",
+  "ghế1 (màu đỏ) - ở trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ở trên - ghế1 (màu đỏ)"
+]
+```
+
+frame_9:
+```json
+[
+  "tường gạch1 - ở phía sau - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang bò) - đứng trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ngồi trên - người4 (trẻ sơ sinh, mặc áo trắng, đang bò)",
+  "rèm cửa1 - ở bên cạnh - cửa sổ1",
+  "túi xách1 (màu hồng) - ở trên - thảm1 (màu tím)",
+  "bát1 (màu vàng) - ở trên - tường gạch1",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)",
+  "bàn ăn1 - ở trên - giường1 (màu tím)",
+  "người3 (không rõ tuổi, không rõ quần áo, đang ngồi) - ngồi trên - bàn ăn1",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - đứng cạnh - người3 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang bò) - ngồi gần - giường1 (màu tím)",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)",
+  "ba lô1 - ở trên - thảm1 (màu tím)",
+  "ghế1 (màu đỏ) - ở trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ở trên - ghế1 (màu đỏ)",
+  "bàn1 - ở bên cạnh - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "vali1 - ở bên cạnh - người1 (trưởng thành, mặc áo đen, đang ngồi)"
+]
+```
+
+frame_10:
+```json
+[
+  "tường gạch1 - ở phía sau - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang bò) - đứng trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ngồi trên - người4 (trẻ sơ sinh, mặc áo trắng, đang bò)",
+  "rèm cửa1 - ở bên cạnh - cửa sổ1",
+  "túi xách1 (màu hồng) - ở trên - thảm1 (màu tím)",
+  "bát1 (màu vàng) - ở trên - tường gạch1",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)",
+  "bàn ăn1 - ở trên - giường1 (màu tím)",
+  "người3 (không rõ tuổi, không rõ quần áo, đang ngồi) - ngồi trên - bàn ăn1",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - đứng cạnh - người3 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang bò) - ngồi gần - giường1 (màu tím)",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)",
+  "ba lô1 - ở trên - thảm1 (màu tím)",
+  "ghế1 (màu đỏ) - ở trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ở trên - ghế1 (màu đỏ)",
+  "bàn1 - ở bên cạnh - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "vali1 - ở bên cạnh - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "người2 (trưởng thành, mặc quần áo ngủ màu hồng, đang nằm) - ở trên - giường1 (màu tím)"
+]
+```
+
+frame_11:
+```json
+[
+  "tường gạch1 - ở phía sau - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang bò) - đứng trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ngồi trên - người4 (trẻ sơ sinh, mặc áo trắng, đang bò)",
+  "rèm cửa1 - ở bên cạnh - cửa sổ1",
+  "túi xách1 (màu hồng) - ở trên - thảm1 (màu tím)",
+  "bát1 (màu vàng) - ở trên - tường gạch1",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)",
+  "bàn ăn1 - ở trên - giường1 (màu tím)",
+  "người3 (kh\u00f4ng r\u00f5 tu\u1ed5i, kh\u00f4ng r\u00f5 qu\u1ea7n \u00e1o, \u0111ang ng\u1ed3i) - ngồi trên - bàn ăn1",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - đứng cạnh - người3 (kh\u00f4ng r\u00f5 tu\u1ed5i, kh\u00f4ng r\u00f5 qu\u1ea7n \u00e1o, \u0111ang ng\u1ed3i)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang bò) - ngồi gần - giường1 (màu tím)",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)",
+  "ba lô1 - ở trên - thảm1 (màu tím)",
+  "ghế1 (màu đỏ) - ở trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ở trên - ghế1 (màu đỏ)",
+  "bàn1 - ở bên cạnh - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "vali1 - ở bên cạnh - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "người2 (trưởng thành, mặc quần áo ngủ màu hồng, đang nằm) - ở trên - giường1 (màu tím)",
+  "người5 (trưởng thành, mặc quần áo ngủ màu hồng, đang ngồi) - ở trên - giường1 (màu tím)"
+]
+```
+
+frame_12:
+```json
+[
+  "tường gạch1 - ở phía sau - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang bò) - đứng trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ngồi trên - người4 (trẻ sơ sinh, mặc áo trắng, đang bò)",
+  "rèm cửa1 - ở bên cạnh - cửa sổ1",
+  "túi xách1 (màu hồng) - ở trên - thảm1 (màu tím)",
+  "bát1 (màu vàng) - ở trên - tường gạch1",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)",
+  "bàn ăn1 - ở trên - giường1 (màu tím)",
+  "người3 (không rõ tuổi, không rõ quần áo, đang ngồi) - ngồi trên - bàn ăn1",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - đứng cạnh - người3 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang bò) - ngồi gần - giường1 (màu tím)",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)",
+  "ba lô1 - ở trên - thảm1 (màu tím)",
+  "ghế1 (màu đỏ) - ở trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ở trên - ghế1 (màu đỏ)",
+  "bàn1 - ở bên cạnh - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "vali1 - ở bên cạnh - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "người2 (trưởng thành, mặc quần áo ngủ màu hồng, đang nằm) - ở trên - giường1 (màu tím)",
+  "người5 (trưởng thành, mặc quần áo ngủ màu hồng, đang ngồi) - ở trên - giường1 (màu tím)",
+  "người6 (trưởng thành, mặc quần áo ngủ màu hồng, đang đứng) - ở trên - sàn nhà1",
+  "giường1 (màu tím) - chứa - người7 (trưởng thành, mặc quần áo ngủ màu đỏ, đang ngồi)",
+  "người8 (trẻ sơ sinh, mặc quần áo ngủ màu hồng, đang đứng) - đứng trên - giường1 (màu tím)"
+]
+```
+
+frame_13:
+```json
+[
+  "tường gạch1 - ở phía sau - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang bò) - đứng trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ngồi trên - người4 (trẻ sơ sinh, mặc áo trắng, đang bò)",
+  "rèm cửa1 - ở bên cạnh - cửa sổ1",
+  "túi xách1 (màu hồng) - ở trên - thảm1 (màu tím)",
+  "bát1 (màu vàng) - ở trên - tường gạch1",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)",
+  "bàn ăn1 - ở trên - giường1 (màu tím)",
+  "người3 (không rõ tuổi, không rõ quần áo, đang ngồi) - ngồi trên - bàn ăn1",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - đứng cạnh - người3 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "người4 (trẻ sơ sinh, mặc áo trắng, đang bò) - ngồi gần - giường1 (màu tím)",
+  "thảm1 (màu tím) - ở trên - giường1 (màu tím)",
+  "ba lô1 - ở trên - thảm1 (màu tím)",
+  "ghế1 (màu đỏ) - ở trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc áo đen, đang ngồi) - ở trên - ghế1 (màu đỏ)",
+  "bàn1 - ở bên cạnh - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "vali1 - ở bên cạnh - người1 (trưởng thành, mặc áo đen, đang ngồi)",
+  "người2 (trưởng thành, mặc quần áo ngủ màu hồng, đang nằm) - ở trên - giường1 (màu tím)",
+  "người5 (trưởng thành, mặc quần áo ngủ màu hồng, đang ngồi) - ở trên - giường1 (màu tím)",
+  "người6 (trưởng thành, mặc quần áo ngủ màu hồng, đang đứng) - ở trên - sàn nhà1",
+  "giường1 (màu tím) - chứa - người7 (trưởng thành, mặc quần áo ngủ màu đỏ, đang ngồi)",
+  "người8 (trẻ sơ sinh, mặc quần áo ngủ màu hồng, đang đứng) - đứng trên - giường1 (màu tím)",
+  "tường-gỗ1 - ở trên - thảm1 (màu tím)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu hồng, đang nằm) - ở trên - thảm1 (màu tím)",
+  "thảm1 (màu tím) - ở trên - bàn ăn1",
+  "bàn ăn1 - ở trên - thảm1 (màu tím)",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1",
+  "cửa sổ1 - ở trên - bàn ăn1",
+  "ba lô1 - ở trên - thảm1 (màu tím)",
+  "bàn1 - ở trên - thảm1 (màu tím)",
+  "người7 (trưởng thành, mặc quần áo ngủ màu đỏ, đang ngồi) - ở trên - thảm1 (màu tím)",
+  "người6 (trưởng thành, mặc quần áo ngủ màu hồng, đang đứng) - đứng cạnh - người7 (trưởng thành, mặc quần áo ngủ màu đỏ, đang ngồi)",
+  "người10 (trưởng thành, mặc quần áo ngủ màu hồng, đang cầm đồ vật) - cầm - người7 (trưởng thành, mặc quần áo ngủ màu đỏ, đang ngồi)",
+  "người10 (trưởng thành, mặc quần áo ngủ màu hồng, đang cầm đồ vật) - đứng cạnh - ba lô1"
+]
+```
+
+frame_14:
+```json
+[
+  "c\u1eeda s\u1ed51 - \u1edf ph\u00eda sau - b\u00e0n \u0103n1",
+  "ti vi1 - \u1edf tr\u00ean - b\u00e0n \u0103n1",
+  "s\u00e1ch1 (m\u00e0u tr\u1eafng) - \u1edf tr\u00ean - b\u00e0n \u0103n1",
+  "ba l\u00f42 (m\u00e0u tr\u1eafng) - \u1edf tr\u00ean - b\u00e0n \u0103n1",
+  "t\u01b0\u1eddng1 - \u1edf ph\u00eda sau - b\u00e0n \u0103n1",
+  "b\u00e0n \u0103n1 - ch\u1ee9a - c\u1ed1c1 (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "ba l\u00f43 (m\u00e0u n\u00e2u) - \u1edf tr\u00ean - th\u1ea3m1 (m\u00e0u t\u00edm)",
+  "b\u1ed9 \u0111i\u1ec1u khi\u1ec3n1 - \u1edf g\u1ea7n - ng\u01b0\u1eddi10 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c qu\u1ea7n \u00e1o ng\u1ee7 m\u00e0u h\u1ed3ng, \u0111ang c\u1ea7m \u0111\u1ed3 v\u1eadt)",
+  "th\u1ea3m1 (m\u00e0u t\u00edm) - \u1edf d\u01b0\u1edbi - ng\u01b0\u1eddi4 (tr\u1ebb s\u01a1 sinh, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang b\u00f2)",
+  "ng\u01b0\u1eddi10 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c qu\u1ea7n \u00e1o ng\u1ee7 m\u00e0u h\u1ed3ng, \u0111ang c\u1ea7m \u0111\u1ed3 v\u1eadt) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi11 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c qu\u1ea7n \u00e1o ng\u1ee7 m\u00e0u h\u1ed3ng, \u0111ang \u0111\u1ee9ng)"
+]
+```
+
+frame_15:
+```json
+[
+  "thảm1 (màu tím) - ở dưới - người4 (trẻ sơ sinh, mặc áo trắng, đang bò)",
+  "ba lô3 (màu nâu) - ở trên - thảm1 (màu tím)",
+  "người10 (trưởng thành, mặc quần áo ngủ màu hồng, đang cầm đồ vật) - đứng cạnh - người11 (trưởng thành, mặc quần áo ngủ màu hồng, đang đứng)",
+  "người1 (trưởng thành, mặc áo dài tay màu hồng, đang đứng) - ở trên - thảm1 (màu tím)",
+  "người2 (trẻ sơ sinh, không mặc gì, đang nằm) - ở trên - thảm1 (màu tím)",
+  "ba lô1 (màu trắng) - ở trên - người3 (trưởng thành, mặc áo dài tay màu cam, đang bế)",
+  "người3 (trưởng thành, mặc áo dài tay màu cam, đang bế) - tương tác với - người10 (trưởng thành, mặc quần áo ngủ màu hồng, đang cầm đồ vật)"
+]
+```
+
+frame_16:
+```json
+[
+  "thảm1 (màu tím) - ở dưới - người4 (trẻ sơ sinh, mặc áo trắng, đang bò)",
+  "ba lô3 (màu nâu) - ở trên - thảm1 (màu tím)",
+  "người10 (trưởng thành, mặc quần áo ngủ màu hồng, đang cầm đồ vật) - đứng cạnh - người1 (trưởng thành, mặc áo dài tay màu hồng, đang đứng)",
+  "người1 (trưởng thành, mặc áo dài tay màu hồng, đang đứng) - ở trên - thảm1 (màu tím)",
+  "người2 (trẻ sơ sinh, không mặc gì, đang nằm) - ở trên - thảm1 (màu tím)",
+  "ba lô1 (màu trắng) - ở trên - người3 (trưởng thành, mặc áo dài tay màu cam, đang bế)",
+  "người3 (trưởng thành, mặc áo dài tay màu cam, đang bế) - tương tác với - người10 (trưởng thành, mặc quần áo ngủ màu hồng, đang cầm đồ vật)",
+  "người5 (trưởng thành, mặc quần áo ngủ màu hồng, đang đứng) - ở trên - thảm1 (màu tím)",
+  "người6 (trẻ sơ sinh, không mặc gì, đang nhìn) - ở trên - thảm1 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - thảm1 (màu tím)",
+  "người7 (trưởng thành, mặc áo dài tay màu hồng, đang đứng) - ở trên - thảm1 (màu tím)"
+]
+```
+
+frame_17:
+```json
+[
+  "tường1 (màu trắng) - ở trên - sàn nhà1 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường1 (màu trắng)",
+  "người1 (trưởng thành, mặc áo dài tay màu hồng, đang đứng) - ở trên - sàn nhà1 (màu tím)",
+  "sàn nhà1 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - sàn nhà1 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - sàn nhà1 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở trên - sàn nhà1 (màu tím)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang cúi người) - ở trên - sàn nhà1 (màu tím)",
+  "thảm2 (màu tím) - ở trên - sàn nhà1 (màu tím)"
+]
+```
+
+frame_18:
+```json
+[
+  "tường1 (màu trắng) - ở trên - sàn nhà1 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường1 (màu trắng)",
+  "người1 (trưởng thành, mặc áo dài tay màu hồng, đang đứng) - ở trên - sàn nhà1 (màu tím)",
+  "sàn nhà1 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - sàn nhà1 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - sàn nhà1 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở trên - sàn nhà1 (màu tím)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - sàn nhà1 (màu tím)",
+  "thảm2 (màu tím) - ở trên - sàn nhà1 (màu tím)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở phía sau - người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng)"
+]
+```
+
+frame_19:
+```json
+[
+  "tường1 (màu trắng) - ở trên - thảm2 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường1 (màu trắng)",
+  "người1 (trưởng thành, mặc áo dài tay màu hồng, đang đứng) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm2 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - thảm2 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở trên - thảm2 (màu tím)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm2 (màu tím)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở phía sau - người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở trên - thảm2 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - đứng cạnh - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "người10 (trưởng thành, mặc quần áo màu hồng, đang đứng) - ở trên - thảm2 (màu tím)"
+]
+```
+
+frame_20:
+```json
+[
+  "tường1 (màu trắng) - ở trên - thảm2 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường1 (màu trắng)",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang đứng) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm2 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - thảm2 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở trên - thảm2 (màu tím)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm2 (màu tím)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở phía sau - người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở trên - thảm2 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - đứng cạnh - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang đứng) - đứng cạnh - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "rèm cửa1 (màu vàng) - ở trên - tường1 (màu trắng)",
+  "tường gạch1 - ở trên - thảm2 (màu tím)",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1 (màu xanh)",
+  "ba lô1 (màu xám) - ở dưới - bàn ăn1 (màu xanh)",
+  "ghế1 (màu vàng) - ở trên - thảm2 (màu tím)"
+]
+```
+
+frame_21:
+```json
+[
+  "tường1 (màu trắng) - ở trên - thảm2 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường1 (màu trắng)",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang đứng) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm2 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - thảm2 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở trên - thảm2 (màu tím)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm2 (màu tím)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở phía sau - người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở trên - thảm2 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - đứng cạnh - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang đứng) - đứng cạnh - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "rèm cửa1 (màu vàng) - ở trên - tường1 (màu trắng)",
+  "tường gạch1 - ở trên - thảm2 (màu tím)",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1 (màu xanh)",
+  "ba lô1 (màu xám) - ở dưới - bàn ăn1 (màu xanh)",
+  "ghế1 (màu vàng) - ở trên - thảm2 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở phía sau - người10 (trưởng thành, mặc áo dài tay màu hồng, đang đứng)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang đứng) - đứng cạnh - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở phía trước - người4 (trẻ con, mặc quần áo màu hồng, đang ngồi)",
+  "thảm2 (màu tím) - ở phía dưới - người4 (trẻ con, mặc quần áo màu hồng, đang ngồi)"
+]
+```
+
+frame_22:
+```json
+[
+  "tường gạch1 - ở trên - thảm2 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường gạch1",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang ngồi) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm2 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - thảm2 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở trên - thảm2 (màu tím)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm2 (màu tím)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở phía sau - người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở trên - thảm2 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - đứng cạnh - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang ngồi) - đứng cạnh - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1 (màu xanh)",
+  "ba lô1 (màu xám) - ở dưới - bàn ăn1 (màu xanh)",
+  "ghế1 (màu vàng) - ở trên - thảm2 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở phía sau - người10 (trưởng thành, mặc áo dài tay màu hồng, đang ngồi)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang ngồi) - đứng cạnh - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở phía trước - người4 (trẻ con, mặc quần áo màu hồng, đang ngồi)",
+  "thảm2 (màu tím) - ở phía dưới - người4 (trẻ con, mặc quần áo màu hồng, đang ngồi)",
+  "người11 (trưởng thành, mặc áo màu hồng, đang ngồi) - ở trên - ghế1 (màu vàng)",
+  "chó1 (màu xanh) - ở trên - thảm1 (màu tím)"
+]
+```
+
+frame_23:
+```json
+[
+  "tường gạch1 - ở trên - thảm2 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường gạch1",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang ngồi) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm2 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - thảm2 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở trên - thảm2 (màu tím)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm2 (màu tím)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở phía sau - người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở trên - thảm2 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - đứng cạnh - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang ngồi) - đứng cạnh - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1 (màu xanh)",
+  "ba lô1 (màu xám) - ở dưới - bàn ăn1 (màu xanh)",
+  "ghế1 (màu vàng) - ở trên - thảm2 (màu tím)",
+  "người8 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở phía sau - người10 (trưởng thành, mặc áo dài tay màu hồng, đang ngồi)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang ngồi) - đứng cạnh - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "người9 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở phía trước - người4 (trẻ con, mặc quần áo màu hồng, đang ngồi)",
+  "thảm2 (màu tím) - ở phía dưới - người4 (trẻ con, mặc quần áo màu hồng, đang ngồi)",
+  "người11 (trưởng thành, mặc áo màu hồng, đang ngồi) - ở trên - ghế1 (màu vàng)",
+  "chó1 (màu xanh) - ở trên - thảm1 (màu tím)",
+  "người11 (trưởng thành, mặc áo màu hồng, đang ngồi) - dựa vào - người10 (trưởng thành, mặc áo dài tay màu hồng, đang ngồi)",
+  "ba lô2 (màu xám) - ở trên - bàn1 (màu xanh lá cây)",
+  "tivi1 (màu hồng) - ở trên - thảm2 (màu tím)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - ghế1 (màu vàng)"
+]
+```
+
+frame_24:
+```json
+[
+  "tường gạch1 - ở trên - thảm2 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường gạch1",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang ngồi) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm2 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - thảm2 (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1 (màu xanh)",
+  "ba lô1 (màu xám) - ở dưới - bàn ăn1 (màu xanh)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang ngồi) - ở trên - ghế1 (màu vàng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang ngồi) - ngồi trên - người3 (trưởng thành, mặc áo màu đỏ, đang ngồi)",
+  "người11 (trưởng thành, mặc áo màu hồng, đang ngồi) - ở trên - ghế1 (màu vàng)",
+  "chó1 (màu xanh) - ở trên - thảm1 (màu tím)",
+  "ba lô2 (màu xám) - ở trên - bàn1 (màu xanh lá cây)",
+  "tivi1 (màu hồng) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm2 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang ngồi) - bế - người2 (trẻ con, mặc quần áo màu tím, đang ngồi)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - người3 (trưởng thành, mặc áo màu đỏ, đang ngồi)"
+]
+```
+
+frame_25:
+```json
+[
+  "tường gạch1 - ở trên - thảm2 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường gạch1",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang ngồi) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm2 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - thảm2 (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1 (màu xanh)",
+  "ba lô1 (màu xám) - ở dưới - bàn ăn1 (màu xanh)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở trên - ghế1 (màu vàng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang ngồi) - ngồi trên - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "người11 (trưởng thành, mặc áo màu hồng, đang ngồi) - ở trên - ghế1 (màu vàng)",
+  "chó1 (màu xanh) - ở trên - thảm1 (màu tím)",
+  "ba lô2 (màu xám) - ở trên - bàn1 (màu xanh lá cây)",
+  "tivi1 (màu hồng) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm2 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang ngồi)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - người3 (trưởng thành, mặc áo màu đỏ, đang bế)"
+]
+```
+
+frame_26:
+```json
+[
+  "tường gạch1 - ở trên - thảm2 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường gạch1",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang ngồi) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm2 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - thảm2 (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1 (màu xanh)",
+  "ba lô1 (màu xám) - ở dưới - bàn ăn1 (màu xanh)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở trên - ghế1 (màu vàng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang ngồi) - ngồi trên - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "người11 (trưởng thành, mặc áo màu hồng, đang ngồi) - ở trên - ghế1 (màu vàng)",
+  "chó1 (màu xanh) - ở trên - thảm1 (màu tím)",
+  "ba lô2 (màu xám) - ở trên - bàn1 (màu xanh lá cây)",
+  "tivi1 (màu hồng) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm2 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang ngồi)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "ghế1 (màu vàng) - ở trên - thảm2 (màu tím)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang nghịch điện thoại) - ở trên - thảm2 (màu tím)"
+]
+```
+
+frame_27:
+```json
+[
+  "tường gạch1 - ở trên - thảm2 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường gạch1",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang ngồi) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm2 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - thảm2 (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1 (màu xanh)",
+  "ba lô1 (màu xám) - ở dưới - bàn ăn1 (màu xanh)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở trên - ghế1 (màu vàng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang ngồi) - ngồi trên - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "người11 (trưởng thành, mặc áo màu hồng, đang ngồi) - ở trên - ghế1 (màu vàng)",
+  "chó1 (màu xanh) - ở trên - thảm1 (màu tím)",
+  "ba lô2 (màu xám) - ở trên - bàn1 (màu xanh lá cây)",
+  "tivi1 (màu hồng) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm2 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang ngồi)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "ghế1 (màu vàng) - ở trên - thảm2 (màu tím)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang nhìn xuống đất) - ở trên - thảm2 (màu tím)",
+  "ghế2 (màu đỏ) - ở trên - thảm1 (màu tím)"
+]
+```
+
+frame_28:
+```json
+[
+  "tường gạch1 - ở trên - thảm2 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường gạch1",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang ngồi) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm2 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - thảm2 (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1 (màu xanh)",
+  "ba lô1 (màu xám) - ở dưới - bàn ăn1 (màu xanh)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở trên - ghế1 (màu vàng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang ngồi) - ngồi trên - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "người11 (trưởng thành, mặc áo màu hồng, đang ngồi) - ở trên - ghế1 (màu vàng)",
+  "chó1 (màu xanh) - ở trên - thảm1 (màu tím)",
+  "ba lô2 (màu xám) - ở trên - bàn1 (màu xanh lá cây)",
+  "tivi1 (màu hồng) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm2 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang ngồi)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "ghế1 (màu vàng) - ở trên - thảm2 (màu tím)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang nhin xuống đất) - ở trên - thảm2 (màu tím)",
+  "ghế2 (màu đỏ) - ở trên - thảm1 (màu tím)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở trên - ghế2 (màu đỏ)"
+]
+```
+
+frame_29:
+```json
+[
+  "tường gạch1 - ở trên - thảm2 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường gạch1",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang ngồi) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm2 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - thảm2 (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1 (màu xanh)",
+  "ba lô1 (màu xám) - ở dưới - bàn ăn1 (màu xanh)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở trên - ghế1 (màu vàng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang ngồi) - ngồi trên - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở trên - ghế1 (màu vàng)",
+  "chó1 (màu xanh) - ở trên - thảm1 (màu tím)",
+  "ba lô2 (màu xám) - ở trên - bàn1 (màu xanh lá cây)",
+  "tivi1 (màu hồng) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm2 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang ngồi)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "ghế1 (màu vàng) - ở trên - thảm2 (màu tím)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang nhìn xuống đất) - ở trên - thảm2 (màu tím)",
+  "ghế2 (màu đỏ) - ở trên - thảm1 (màu tím)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở trên - ghế2 (màu đỏ)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang nhìn) - ở gần - người1 (trưởng thành, mặc quần áo ngủ màu cam, đang nhìn xuống đất)"
+]
+```
+
+frame_30:
+```json
+[
+  "tường gạch1 - ở trên - thảm2 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường gạch1",
+  "người10 (trưởng thành, mặc áo dài tay màu hồng, đang ngồi) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm2 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - thảm2 (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1 (màu xanh)",
+  "ba lô1 (màu xám) - ở dưới - bàn ăn1 (màu xanh)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở trên - ghế1 (màu vàng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang ngồi) - ngồi trên - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở trên - ghế1 (màu vàng)",
+  "chó1 (màu xanh) - ở trên - thảm1 (màu tím)",
+  "ba lô2 (màu xám) - ở trên - bàn1 (màu xanh lá cây)",
+  "tivi1 (màu hồng) - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm2 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang ngồi)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "ghế1 (màu vàng) - ở trên - thảm2 (màu tím)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang nhìn xuống đất) - ở trên - thảm2 (màu tím)",
+  "ghế2 (màu đỏ) - ở trên - thảm1 (màu tím)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở trên - ghế2 (màu đỏ)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang nhìn) - ở gần - người1 (trưởng thành, mặc quần áo ngủ màu cam, đang nhìn xuống đất)",
+  "người12 (trẻ, mặc áo phông, đang ngồi xổm) - ở trên - thảm1 (màu tím)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở gần - người12 (trẻ, mặc áo phông, đang ngồi xổm)"
+]
+```
+
+frame_31:
+```json
+[
+  "tường gạch1 - ở trên - sàn nhà1 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường gạch1",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang nhìn xuống đất) - ở trên - sàn nhà1 (màu tím)",
+  "sàn nhà1 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - sàn nhà1 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - sàn nhà1 (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1 (màu xanh)",
+  "ba lô1 (màu xám) - ở dưới - bàn ăn1 (màu xanh)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở trên - ghế1 (màu vàng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang ngồi) - ngồi trên - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở trên - ghế1 (màu vàng)",
+  "chó1 (màu xanh) - ở trên - thảm1 (màu tím)",
+  "ba lô2 (màu xám) - ở trên - bàn1 (màu xanh lá cây)",
+  "tivi1 (màu hồng) - ở trên - sàn nhà1 (màu tím)",
+  "sàn nhà1 (màu tím) - ở trên - thảm2 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang ngồi)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang nhìn xuống đất) - ở trên - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "ghế1 (màu vàng) - ở trên - sàn nhà1 (màu tím)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang nhìn xuống đất) - ở trên - sàn nhà1 (màu tím)",
+  "ghế2 (màu đỏ) - ở trên - thảm1 (màu tím)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở trên - ghế2 (màu đỏ)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang nhìn) - ở gần - người1 (trưởng thành, mặc quần áo ngủ màu cam, đang nhìn xuống đất)",
+  "người12 (trẻ, mặc áo phông, đang ngồi xổm) - ở trên - thảm1 (màu tím)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở gần - người12 (trẻ, mặc áo phông, đang ngồi xổm)",
+  "điện thoại di động1 (màu tím) - ở trên - sàn nhà1 (màu tím)",
+  "tường1 - ở trên - sàn nhà1 (màu tím)",
+  "người13 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở trên - sàn nhà1 (màu tím)",
+  "người13 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở gần - người2 (trẻ con, mặc quần áo màu tím, đang nhìn)"
+]
+```
+
+frame_32:
+```json
+[
+  "tường gạch1 - ở trên - sàn nhà1 (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường gạch1",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở trên - sàn nhà1 (màu tím)",
+  "sàn nhà1 (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - sàn nhà1 (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - sàn nhà1 (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1 (màu xanh)",
+  "ba lô1 (màu xám) - ở dưới - bàn ăn1 (màu xanh)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở trên - ghế1 (màu vàng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở trên - ghế1 (màu vàng)",
+  "chó1 (màu xanh) - ở trên - thảm1 (màu tím)",
+  "ba lô2 (màu xám) - ở trên - bàn1 (màu xanh lá cây)",
+  "tivi1 (màu hồng) - ở trên - sàn nhà1 (màu tím)",
+  "sàn nhà1 (màu tím) - ở trên - thảm2 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở gần - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "ghế1 (màu vàng) - ở trên - sàn nhà1 (màu tím)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở trên - sàn nhà1 (màu tím)",
+  "ghế2 (màu đỏ) - ở trên - thảm1 (màu tím)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở trên - ghế2 (màu đỏ)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở gần - người1 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng)",
+  "người12 (trẻ, mặc áo phông, đang ngồi xổm) - ở trên - thảm1 (màu tím)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở gần - người12 (trẻ, mặc áo phông, đang ngồi xổm)",
+  "điện thoại di động1 (màu tím) - ở trên - sàn nhà1 (màu tím)",
+  "tường1 - ở trên - sàn nhà1 (màu tím)",
+  "tường gạch1 - ở trên - tường1",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - tường gạch1",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở gần - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "tường gỗ1 - ở trên - sàn nhà1 (màu tím)",
+  "vanli1 (màu xanh) - ở trên - sàn nhà1 (màu tím)",
+  "thảm1 (màu tím) - ở trên - sàn nhà1 (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gỗ1",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - tường gỗ1"
+]
+```
+
+frame_33:
+```json
+[
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở trên - sàn nhà (màu tím)",
+  "tường gạch1 - ở trên - sàn nhà (màu tím)",
+  "cửa sổ1 (màu hồng) - ở trên - tường gạch1",
+  "sàn nhà (màu tím) - ở dưới - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - sàn nhà (màu tím)",
+  "bàn1 (màu xanh lá cây) - ở trên - sàn nhà (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "túi xách1 (màu hồng) - ở trên - bàn ăn1 (màu xanh)",
+  "ba lô1 (màu xám) - ở dưới - bàn ăn1 (màu xanh)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở trên - ghế1 (màu vàng)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - đứng cạnh - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở trên - ghế1 (màu vàng)",
+  "chó1 (màu xanh) - ở trên - thảm1 (màu tím)",
+  "ba lô2 (màu xám) - ở trên - bàn1 (màu xanh lá cây)",
+  "tivi1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - ở trên - thảm2 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở gần - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "ghế1 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "ghế2 (màu đỏ) - ở trên - thảm1 (màu tím)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở trên - ghế2 (màu đỏ)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở gần - người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi)",
+  "người12 (trẻ, mặc áo phông, đang ngồi xổm) - ở trên - thảm1 (màu tím)",
+  "người11 (trưởng thành, mặc áo dài tay màu hồng, đang nhìn) - ở gần - người12 (trẻ, mặc áo phông, đang ngồi xổm)",
+  "điện thoại di động1 (màu tím) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "tường gạch1 - ở trên - tường1",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - tường gạch1",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở gần - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "tường gỗ - ở trên - sàn nhà (màu tím)",
+  "vanli1 (màu xanh) - ở trên - sàn nhà (màu tím)",
+  "thảm1 (màu tím) - ở trên - sàn nhà (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gỗ",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - tường gỗ",
+  "tường - ở trên - sàn nhà",
+  "bầu trời - ở trên - tường",
+  "sàn nhà - ở trên - sàn nhà (màu tím)",
+  "sàn gỗ - ở trên - sàn nhà (màu tím)",
+  "bụi bẩn - ở trên - sàn nhà (màu tím)",
+  "điện thoại di động1 (màu tím) - ở trên - sàn gỗ",
+  "điện thoại di động1 (màu tím) - ở trên - bụi bẩn",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở gần - tường",
+  "điện thoại di động1 (màu tím) - ở trên - sàn nhà",
+  "điều khiển từ xa1 (màu xanh da trời) - ở trên - sàn nhà",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - đang cầm - điều khiển từ xa1 (màu xanh da trời)"
+]
+```
+
+frame_34:
+```json
+[
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "tường gạch1 - ở trên - tường1",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở gần - tường1",
+  "tường gạch1 - ở trên - sàn nhà (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở gần - người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi)",
+  "thảm1 (màu tím) - ở trên - sàn nhà (màu tím)",
+  "mèo1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - sàn nhà (màu tím)",
+  "tường gỗ - ở trên - sàn nhà (màu tím)",
+  "sàn nhà - ở trên - sàn nhà (màu tím)",
+  "thảm2 (màu tím) - ở trên - sàn nhà (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gỗ",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - tường gỗ",
+  "thảm1 (màu tím) - ở trên - sàn nhà",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở gần - người3 (trưởng thành, mặc áo màu đỏ, đang bế)"
+]
+```
+
+frame_35:
+```json
+[
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "tường gạch1 - ở trên - tường1",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang chỉ) - ở gần - tường1",
+  "tường gạch1 - ở trên - sàn nhà (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở gần - người1 (trưởng thành, mặc quần áo ngủ màu cam, đang chỉ)",
+  "thảm1 (màu tím) - ở trên - sàn nhà (màu tím)",
+  "mèo1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - sàn nhà (màu tím)",
+  "tường gỗ - ở trên - sàn nhà (màu tím)",
+  "sàn nhà - ở trên - sàn nhà (màu tím)",
+  "thảm2 (màu tím) - ở trên - sàn nhà (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gỗ",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - tường gỗ",
+  "thảm1 (màu tím) - ở trên - sàn nhà",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang chỉ) - ở gần - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "ghế1 (màu cam) - ở trên - sàn nhà",
+  "người4 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ở trên - ghế1 (màu cam)"
+]
+```
+
+frame_36:
+```json
+[
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở gần - tường1",
+  "tường gạch1 - ở trên - tường1",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "tường gạch1 - ở trên - sàn nhà (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở gần - người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi)",
+  "thảm1 (màu tím) - ở trên - sàn nhà (màu tím)",
+  "mèo1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - sàn nhà (màu tím)",
+  "tường gỗ - ở trên - sàn nhà (màu tím)",
+  "sàn nhà - ở trên - sàn nhà (màu tím)",
+  "thảm2 (màu tím) - ở trên - sàn nhà (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gỗ",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - tường gỗ",
+  "thảm1 (màu tím) - ở trên - sàn nhà",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở gần - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "ghế1 (màu cam) - ở trên - sàn nhà",
+  "người4 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ở trên - ghế1 (màu cam)",
+  "người4 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ở trên - ghế2 (màu vàng)"
+]
+```
+
+frame_37:
+```json
+[
+  "rèm cửa1 (màu vàng) - ở trên - tường gạch1",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở gần - người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi)",
+  "thảm1 (màu tím) - ở trên - sàn nhà (màu tím)",
+  "mèo1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - sàn nhà (màu tím)",
+  "tường gỗ - ở trên - sàn nhà (màu tím)",
+  "sàn nhà - ở trên - sàn nhà (màu tím)",
+  "thảm2 (màu tím) - ở trên - sàn nhà (màu tím)",
+  "rèm cửa1 (màu vàng) - ở trên - tường gỗ",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - tường gỗ",
+  "thảm1 (màu tím) - ở trên - sàn nhà",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở gần - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "ghế1 (màu cam) - ở trên - sàn nhà",
+  "người4 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ở trên - ghế1 (màu cam)",
+  "người4 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ở trên - ghế2 (màu vàng)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - người2 (trẻ con, mặc quần áo màu tím, đang đứng)",
+  "tường gạch1 - ở trên - tường1",
+  "tường gạch1 - ở trên - sàn nhà (màu tím)",
+  "sàn nhà - ở trên - thảm2 (màu tím)",
+  "người5 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ngồi trên - ghế3 (màu xanh lá cây)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - mang - ba lô (màu hồng)"
+]
+```
+
+frame_38:
+```json
+[
+  "rèm cửa1 (màu vàng) - ở trên - tường gỗ",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở gần - người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi)",
+  "thảm1 (màu tím) - ở trên - sàn nhà",
+  "mèo1 (màu hồng) - ở trên - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm1 (màu tím)",
+  "tường gỗ - ở trên - sàn nhà",
+  "sàn nhà - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm1 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - tường gỗ",
+  "thảm1 (màu tím) - ở trên - sàn nhà",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang chơi)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở gần - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "ghế1 (màu cam) - ở trên - sàn nhà",
+  "người4 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ở trên - ghế1 (màu cam)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - người2 (trẻ con, mặc quần áo màu tím, đang chơi)",
+  "người5 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ngồi trên - ghế3 (màu xanh lá cây)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang chơi) - mang - ba lô (màu hồng)",
+  "người6 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ở gần - thảm1 (màu tím)"
+]
+```
+
+frame_39:
+```json
+[
+  "rèm cửa1 (màu vàng) - ở trên - tường gỗ",
+  "người2 (trẻ con, mặc quần áo màu tím, đang đứng) - ở gần - người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi)",
+  "thảm1 (màu tím) - ở trên - sàn nhà",
+  "mèo1 (màu hồng) - ở trên - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm1 (màu tím)",
+  "tường gỗ - ở trên - sàn nhà",
+  "sàn nhà - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm1 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - tường gỗ",
+  "thảm1 (màu tím) - ở trên - sàn nhà",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - bế - người2 (trẻ con, mặc quần áo màu tím, đang chơi)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang ngồi) - ở gần - người3 (trưởng thành, mặc áo màu đỏ, đang bế)",
+  "ghế1 (màu cam) - ở trên - sàn nhà",
+  "người4 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ở trên - ghế1 (màu cam)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang bế) - ở gần - người2 (trẻ con, mặc quần áo màu tím, đang chơi)",
+  "người5 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ngồi trên - ghế3 (màu xanh lá cây)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang chơi) - mang - ba lô (màu hồng)",
+  "người6 (trưởng thành, mặc quần áo màu cam, đang đứng) - ở gần - thảm1 (màu tím)",
+  "tường1 - ở trên - sàn nhà",
+  "sàn nhà - ở trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang nói chuyện) - ở gần - người6 (trưởng thành, mặc quần áo màu cam, đang đứng)",
+  "sách1 (màu trắng) - ở trên - bàn ăn1 (màu xanh)",
+  "ghế2 - ở trên - thảm2 (màu tím)"
+]
+```
+
+frame_40:
+```json
+[
+  "rèm cửa1 (màu vàng) - ở trên - tường gỗ",
+  "người2 (trẻ con, mặc quần áo màu tím, đang chơi) - ở gần - người1 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng)",
+  "thảm1 (màu tím) - ở trên - sàn nhà",
+  "mèo1 (màu hồng) - ở trên - thảm1 (màu tím)",
+  "bàn ăn1 (màu xanh) - ở trên - thảm1 (màu tím)",
+  "tường gỗ - ở trên - sàn nhà",
+  "sàn nhà - ở trên - thảm2 (màu tím)",
+  "thảm2 (màu tím) - ở trên - thảm1 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang đứng) - ở gần - tường gỗ",
+  "thảm1 (màu tím) - ở trên - sàn nhà",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang đứng) - bế - người2 (trẻ con, mặc quần áo màu tím, đang chơi)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở gần - người3 (trưởng thành, mặc áo màu đỏ, đang đứng)",
+  "ghế1 (màu cam) - ở trên - sàn nhà",
+  "người4 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ở trên - ghế1 (màu cam)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang đứng) - ở gần - người2 (trẻ con, mặc quần áo màu tím, đang chơi)",
+  "người5 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ngồi trên - ghế3 (màu xanh lá cây)",
+  "người2 (trẻ con, mặc quần áo màu tím, đang chơi) - mang - ba lô (màu hồng)",
+  "người6 (trưởng thành, mặc quần áo màu cam, đang đứng) - ở gần - thảm1 (màu tím)",
+  "tường1 - ở trên - sàn nhà",
+  "sàn nhà - ở trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở gần - người6 (trưởng thành, mặc quần áo màu cam, đang đứng)",
+  "sách1 (màu trắng) - ở trên - bàn ăn1 (màu xanh)",
+  "ghế2 - ở trên - thảm2 (màu tím)",
+  "tường1 - ở trên - sàn nhà",
+  "ghế2 (màu đỏ) - ở gần - người6 (trưởng thành, mặc quần áo màu cam, đang đứng)"
+]
+```
+
+frame_41:
+```json
+[
+  "bàn ăn1 (màu xanh) - ở trên - sàn nhà",
+  "mèo1 (màu hồng) - ở trên - sàn nhà",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở gần - thảm1 (màu tím)",
+  "thảm1 (màu tím) - ở trên - giường1",
+  "người2 (trẻ con, mặc quần áo màu tím, đang chơi) - ở gần - giường1",
+  "sàn nhà - ở trên - giường1",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang đứng) - ở trên - giường1",
+  "người4 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ở gần - người2 (trẻ con, mặc quần áo màu tím, đang chơi)",
+  "vali1 (màu xanh) - ở trên - giường1",
+  "sàn nhà - ở trên - thảm1 (màu tím)"
+]
+```
+
+frame_42:
+```json
+[
+  "bàn ăn1 (màu xanh) - ở trên - sàn nhà",
+  "người4 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ở trên - thảm1 (màu tím)",
+  "thảm1 (màu tím) - ở trên - sàn nhà",
+  "người2 (trẻ con, mặc quần áo màu tím, đang chơi) - ở trên - thảm1 (màu tím)",
+  "ghế1 (màu vàng) - ở trên - thảm1 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang đứng) - ngồi trên - ghế1 (màu vàng)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở trên - thảm1 (màu tím)",
+  "vali1 (màu xanh) - ở trên - sàn nhà",
+  "sàn nhà - ở trên - thảm1 (màu tím)",
+  "người5 (trưởng thành, mặc áo màu cam, đang đứng) - ở trên - thảm1 (màu tím)",
+  "người6 (trẻ con, mặc áo màu đỏ, đang ngồi) - ở trên - thảm1 (màu tím)",
+  "người7 (trẻ con, mặc quần áo màu đỏ, đang ngồi) - ở trên - thảm1 (màu tím)"
+]
+```
+
+frame_43:
+```json
+[
+  "bàn ăn1 (màu xanh) - ở trên - sàn nhà",
+  "người4 (trưởng thành, mặc quần áo màu cam, đang ngồi) - ở trên - thảm1 (màu tím)",
+  "thảm1 (màu tím) - ở trên - sàn nhà",
+  "người2 (trẻ con, mặc quần áo màu tím, đang chơi) - ở trên - thảm1 (màu tím)",
+  "ghế1 (màu vàng) - ở trên - thảm1 (màu tím)",
+  "người3 (trưởng thành, mặc áo màu đỏ, đang đứng) - ngồi trên - ghế1 (màu vàng)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở trên - thảm1 (màu tím)",
+  "vali1 (màu xanh) - ở trên - sàn nhà",
+  "sàn nhà - ở trên - thảm1 (màu tím)",
+  "người5 (trưởng thành, mặc áo màu cam, đang đứng) - ở trên - thảm1 (màu tím)",
+  "người6 (trẻ con, mặc áo màu đỏ, đang ngồi) - ở trên - thảm1 (màu tím)",
+  "người7 (trẻ con, mặc quần áo màu đỏ, đang ngồi) - ở trên - thảm1 (màu tím)",
+  "người8 (trẻ con, mặc quần áo màu đỏ, đang bò) - ở trên - thảm1 (màu tím)",
+  "người9 (trẻ con, mặc quần áo màu cam, đang ngồi) - ở trên - thảm1 (màu tím)",
+  "người1 (trưởng thành, mặc quần áo ngủ màu cam, đang đứng) - ở gần - người5 (trưởng thành, mặc áo màu cam, đang đứng)"
+]
+```
+

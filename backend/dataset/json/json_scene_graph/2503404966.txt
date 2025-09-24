@@ -1,0 +1,892 @@
+frame_0:
+```json
+[
+  "tường (màu xanh dương) - ở cạnh - gấu bông1 (màu đỏ)",
+  "tủ (màu xanh lá cây) - ở trên - tường gỗ (màu nâu)",
+  "gấu bông1 (trẻ - không xác định, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - xe tải (màu vàng)"
+]
+```
+
+frame_1:
+```json
+[
+  "rèm - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang chơi, vui vẻ)",
+  "sàn gỗ - ở trên - tường gỗ",
+  "gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang chơi, vui vẻ) - ở trên - xe tải (màu vàng)",
+  "ghế (màu cam) - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang chơi, vui vẻ)",
+  "tường - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang chơi, vui vẻ)"
+]
+```
+
+frame_2:
+```json
+[
+  "rèm - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang chơi, vui vẻ)",
+  "sàn gỗ - ở trên - tường gỗ",
+  "gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang chơi, vui vẻ) - ở trên - xe tải (màu vàng)",
+  "ghế (màu cam) - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang chơi, vui vẻ)",
+  "tường - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang chơi, vui vẻ)",
+  "gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ) - ở cạnh - xe tải (màu vàng)",
+  "gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ) - ở cạnh - sàn gỗ"
+]
+```
+
+frame_3:
+```json
+[
+  "rèm - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ)",
+  "sàn gỗ - ở trên - tường gỗ",
+  "gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ) - ở trên - xe tải (màu vàng)",
+  "ghế (màu cam) - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ)",
+  "tường - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ)",
+  "gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ) - ở cạnh - xe tải (màu vàng)",
+  "gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ) - ở cạnh - sàn gỗ"
+]
+```
+
+frame_4:
+```json
+[
+  "rèm - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ)",
+  "sàn gỗ - ở trên - tường gỗ",
+  "gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ) - ở trên - xe tải (màu vàng)",
+  "ghế (màu cam) - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ)",
+  "tường - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ)",
+  "gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ) - ở cạnh - xe tải (màu vàng)",
+  "gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ) - ở cạnh - sàn gỗ"
+]
+```
+
+frame_5:
+```json
+[
+  "rèm - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ)",
+  "sàn gỗ - ở trên - tường gỗ",
+  "gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ) - ở trên - xe tải (màu vàng)",
+  "ghế (màu cam) - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ)",
+  "tường - ở cạnh - gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ)",
+  "gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ) - ở cạnh - xe tải (màu vàng)",
+  "gấu bông1 (trẻ - chưa rõ giới tính, không mặc quần áo, đang đẩy, vui vẻ) - ở cạnh - sàn gỗ"
+]
+```
+
+frame_6:
+```json
+[
+  "tường - ở cạnh - chai (màu vàng)",
+  "chai (màu vàng) - ở trên - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ"
+]
+```
+
+frame_7:
+```json
+[
+  "tường - ở cạnh - chai (màu vàng)",
+  "chai (màu vàng) - ở trên - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "người1 (không rõ - không rõ giới tính, không rõ mặc gì, không rõ đang làm gì, không rõ cảm xúc) - ở trên - chai (màu vàng)",
+  "đồ-trong-cửa - ở cạnh - tường"
+]
+```
+
+frame_8:
+```json
+[
+  "tường - ở cạnh - chai (màu vàng)",
+  "chai (màu vàng) - ở trên - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "người1 (không rõ - không rõ giới tính, không rõ mặc gì, không rõ đang làm gì, không rõ cảm xúc) - ở trên - chai (màu vàng)",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (không rõ - không rõ giới tính, không rõ mặc gì, không rõ đang làm gì, không rõ cảm xúc) - ở gần - vali (màu vàng)",
+  "người1 (không rõ - không rõ giới tính, không rõ mặc gì, không rõ đang làm gì, không rõ cảm xúc) - ở gần - sàn gỗ",
+  "tường - ở cạnh - vali (màu vàng)",
+  "tường - ở cạnh - sàn gỗ"
+]
+```
+
+frame_9:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang cầm bánh rán, vui vẻ) - ở gần - bánh rán (màu trắng)",
+  "người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang cầm bánh rán, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang cầm bánh rán, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường"
+]
+```
+
+frame_10:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - TV (màu hồng)",
+  "người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "mèo (màu trắng) - ở trên - người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ)",
+  "sàn - ở gần - sàn gỗ"
+]
+```
+
+frame_11:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "bánh rán (màu trắng) - ở trên - người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - bánh rán (màu trắng)"
+]
+```
+
+frame_12:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (kh\u00f4ng r\u00f5 - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang ch\u01a1i, vui v\u1ebb) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (kh\u00f4ng r\u00f5 - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang ch\u01a1i, vui v\u1ebb) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "bánh rán (màu trắng) - ở trên - người1 (kh\u00f4ng r\u00f5 - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang ch\u01a1i, vui v\u1ebb)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - bánh rán (màu trắng)",
+  "tủ - ở gần - tường",
+  "gấu bông (màu cam) - ở trên - sàn gỗ",
+  "người1 (kh\u00f4ng r\u00f5 - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang ch\u01a1i, vui v\u1ebb) - ở gần - gấu bông (màu cam)"
+]
+```
+
+frame_13:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "bánh rán (màu trắng) - ở trên - người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - bánh rán (màu trắng)",
+  "tủ - ở gần - tường",
+  "gấu bông (màu cam) - ở trên - sàn gỗ",
+  "người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - gấu bông (màu cam)",
+  "thảm - ở trên - sàn gỗ",
+  "người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - thảm",
+  "cà vạt - ở trên - người1 (không rõ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)"
+]
+```
+
+frame_14:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "bánh rán (màu trắng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - bánh rán (màu trắng)",
+  "tủ - ở gần - tường",
+  "gấu bông (màu cam) - ở trên - sàn gỗ",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - gấu bông (màu cam)",
+  "thảm - ở trên - sàn gỗ",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - thảm",
+  "cà vạt - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - bánh rán (màu cam)"
+]
+```
+
+frame_15:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)"
+]
+```
+
+frame_16:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "kéo (màu tím) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)"
+]
+```
+
+frame_17:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ"
+]
+```
+
+frame_18:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ"
+]
+```
+
+frame_19:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "kéo (màu tím) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)"
+]
+```
+
+frame_20:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)"
+]
+```
+
+frame_21:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang nghịch điện thoại, vui vẻ) - đang ngồi trên - đồ chơi (màu vàng)"
+]
+```
+
+frame_22:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, buồn bã) - đang ngồi trên - đồ chơi (màu vàng)"
+]
+```
+
+frame_23:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, buồn bã) - đang ngồi trên - đồ chơi (màu vàng)",
+  "thảm - ở gần - đồ chơi (màu vàng)"
+]
+```
+
+frame_24:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, buồn bã) - đang ngồi trên - đồ chơi (màu vàng)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - thảm"
+]
+```
+
+frame_25:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang bò, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang bò, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang bò, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang bò, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang bò, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang bò, vui vẻ)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang bò, vui vẻ) - đang chơi - đồ chơi (màu vàng)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang bò, vui vẻ) - ở trên - thảm"
+]
+```
+
+frame_26:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - đang chơi - đồ chơi (màu vàng)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở trên - thảm"
+]
+```
+
+frame_27:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - đang chơi - đồ chơi (màu vàng)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - thảm"
+]
+```
+
+frame_28:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - đang chơi - đồ chơi (màu vàng)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi, vui vẻ) - ở gần - tường"
+]
+```
+
+frame_29:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - đang chơi - đồ chơi (màu vàng)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - tường",
+  "cửa sổ - ở gần - rèm cửa"
+]
+```
+
+frame_30:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - tường",
+  "cửa sổ - ở gần - rèm cửa",
+  "rèm cửa - ở gần - tường"
+]
+```
+
+frame_31:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - tường",
+  "cửa sổ - ở gần - rèm cửa",
+  "rèm cửa - ở gần - tường"
+]
+```
+
+frame_32:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang đứng, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ) - ở gần - tường",
+  "cửa sổ - ở gần - rèm cửa",
+  "rèm cửa - ở gần - tường"
+]
+```
+
+frame_33:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ) - ở gần - tường",
+  "cửa sổ - ở gần - rèm cửa",
+  "rèm cửa - ở gần - tường",
+  "gấu bông (màu đỏ) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang chơi - đồ chơi (màu vàng), vui vẻ)",
+  "gấu bông (màu đỏ) - ở trên - sàn gỗ"
+]
+```
+
+frame_34:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ) - ở gần - tường",
+  "cửa sổ - ở gần - rèm cửa",
+  "rèm cửa - ở gần - tường",
+  "gấu bông (màu đỏ) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ)",
+  "gấu bông (màu đỏ) - ở trên - sàn gỗ"
+]
+```
+
+frame_35:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ) - ở trên - đồ chơi (màu đen)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ) - ở gần - tường",
+  "cửa sổ - ở gần - rèm cửa",
+  "rèm cửa - ở gần - tường",
+  "gấu bông (màu đỏ) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi trên đồ chơi, vui vẻ)",
+  "gấu bông (màu đỏ) - ở trên - sàn gỗ",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ) - ở trên - sàn gỗ",
+  "đồ chơi (màu vàng) - ở gần - sàn gỗ",
+  "đồ chơi (màu vàng) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ)",
+  "tường - ở trên - đồ chơi (màu vàng)"
+]
+```
+
+frame_36:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ) - ở gần - tường",
+  "cửa sổ - ở gần - rèm cửa",
+  "rèm cửa - ở gần - tường",
+  "gấu bông (màu đỏ) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ)",
+  "gấu bông (màu đỏ) - ở trên - sàn gỗ",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ) - ở trên - sàn gỗ",
+  "đồ chơi (màu vàng) - ở gần - sàn gỗ",
+  "đồ chơi (màu vàng) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ)",
+  "tường - ở trên - đồ chơi (màu vàng)",
+  "thảm - ở gần - sàn gỗ"
+]
+```
+
+frame_37:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ) - ở gần - tường",
+  "cửa sổ - ở gần - rèm cửa",
+  "rèm cửa - ở gần - tường",
+  "gấu bông (màu đỏ) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ)",
+  "gấu bông (màu đỏ) - ở trên - sàn gỗ",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ) - ở trên - sàn gỗ",
+  "đồ chơi (màu vàng) - ở gần - sàn gỗ",
+  "đồ chơi (màu vàng) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang lái đồ chơi, vui vẻ)",
+  "tường - ở trên - đồ chơi (màu vàng)",
+  "thảm - ở gần - sàn gỗ"
+]
+```
+
+frame_38:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - tường",
+  "cửa sổ - ở gần - rèm cửa",
+  "rèm cửa - ở gần - tường",
+  "gấu bông (màu đỏ) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "gấu bông (màu đỏ) - ở trên - sàn gỗ",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - sàn gỗ",
+  "đồ chơi (màu vàng) - ở gần - sàn gỗ",
+  "đồ chơi (màu vàng) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "tường - ở trên - đồ chơi (màu vàng)",
+  "thảm - ở gần - sàn gỗ",
+  "gấu bông (màu cam) - ở trên - sàn gỗ"
+]
+```
+
+frame_39:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - tường",
+  "cửa sổ - ở gần - rèm cửa",
+  "rèm cửa - ở gần - tường",
+  "gấu bông (màu đỏ) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "gấu bông (màu đỏ) - ở trên - sàn gỗ",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - sàn gỗ",
+  "đồ chơi (màu vàng) - ở gần - sàn gỗ",
+  "đồ chơi (màu vàng) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "tường - ở trên - đồ chơi (màu vàng)",
+  "thảm - ở gần - sàn gỗ",
+  "gấu bông (màu cam) - ở trên - sàn gỗ",
+  "dao (màu cam) - ở gần - gấu bông (màu cam)",
+  "dao (màu cam) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)"
+]
+```
+
+frame_40:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - đồ chơi (màu vàng)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở gần - tường",
+  "cửa sổ - ở gần - rèm cửa",
+  "rèm cửa - ở gần - tường",
+  "gấu bông (màu đỏ) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "gấu bông (màu đỏ) - ở trên - sàn gỗ",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ) - ở trên - sàn gỗ",
+  "đồ chơi (màu vàng) - ở gần - sàn gỗ",
+  "đồ chơi (màu vàng) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang ngồi, vui vẻ)",
+  "tường - ở trên - đồ chơi (màu vàng)",
+  "thảm - ở gần - sàn gỗ",
+  "gấu bông (màu cam) - ở trên - sàn gỗ",
+  "dao1 (màu cam) - ở gần - gấu bông (màu cam)",
+  "dao1 (màu cam) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang cầm dao, sợ hãi)",
+  "tường - ở cạnh - dao1 (màu cam)",
+  "sàn gỗ - ở gần - dao1 (màu cam)"
+]
+```
+
+frame_41:
+```json
+[
+  "tường - ở cạnh - đồ-trong-cửa",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang cầm dao, sợ hãi) - ở gần - tường",
+  "đồ-trong-cửa - ở cạnh - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang cầm dao, sợ hãi) - ở gần - sàn gỗ",
+  "tường - ở cạnh - sàn gỗ",
+  "sàn gỗ - ở cạnh - tường",
+  "đồ chơi (màu vàng) - ở trên - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang cầm dao, sợ hãi)",
+  "sàn - ở gần - sàn gỗ",
+  "tường - ở gần - đồ chơi (màu vàng)",
+  "tủ - ở gần - tường",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang cầm dao, sợ hãi) - ở trên - đồ chơi (màu vàng)",
+  "đồ chơi (màu đen) - ở trên - sàn gỗ",
+  "va li (màu xanh lá cây) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang cầm dao, sợ hãi)",
+  "thảm - ở gần - đồ chơi (màu vàng)",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang cầm dao, sợ hãi) - ở trên - thảm",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang cầm dao, sợ hãi) - ở gần - tường",
+  "cửa sổ - ở gần - rèm cửa",
+  "rèm cửa - ở gần - tường",
+  "gấu bông (màu đỏ) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang cầm dao, sợ hãi)",
+  "gấu bông (màu đỏ) - ở trên - sàn gỗ",
+  "người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang cầm dao, sợ hãi) - ở trên - sàn gỗ",
+  "đồ chơi (màu vàng) - ở gần - sàn gỗ",
+  "đồ chơi (màu vàng) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang cầm dao, sợ hãi)",
+  "tường - ở trên - đồ chơi (màu vàng)",
+  "thảm - ở gần - sàn gỗ",
+  "gấu bông (màu cam) - ở trên - sàn gỗ",
+  "dao1 (màu cam) - ở gần - gấu bông (màu cam)",
+  "dao1 (màu cam) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang cầm dao, sợ hãi)",
+  "tường - ở cạnh - dao1 (màu cam)",
+  "sàn gỗ - ở gần - dao1 (màu cam)",
+  "táo (màu xanh) - ở gần - người1 (trẻ - không rõ giới tính, mặc áo đỏ, đang cầm dao, sợ hãi)"
+]
+```
+

@@ -1,0 +1,447 @@
+frame_0:
+```json
+[
+  "Bóng thể thao1 (đỏ) - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Bóng thể thao1 (đỏ)",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Sàn-gỗ1",
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Sàn nhà1 - ở trên - Sàn-gỗ1",
+  "Bóng thể thao1 (đỏ) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)"
+]
+```
+
+frame_1:
+```json
+[
+  "Bóng thể thao1 (đỏ) - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Bóng thể thao1 (đỏ)",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Sàn-gỗ1",
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Sàn nhà1 - ở trên - Sàn-gỗ1",
+  "Bóng thể thao1 (đỏ) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Ghế1 (68%)",
+  "Ghế1 (68%) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Tường1 - ở trên - Ghế1 (68%)",
+  "Đồ đạc cửa1 - ở trên - Ghế1 (68%)"
+]
+```
+
+frame_2:
+```json
+[
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Sàn nhà1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Ghế1 (92%)",
+  "Ghế1 (92%) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Ván trượt1 (60%) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Tường1 - ở trên - Ghế1 (92%)",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Ván trượt1 (60%)"
+]
+```
+
+frame_3:
+```json
+[
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Sàn nhà1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Ghế1 (99%)",
+  "Ghế1 (99%) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Ván trượt1 (59%) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Tường1 - ở trên - Ghế1 (99%)",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Ván trượt1 (59%)",
+  "Đồ vật ở cửa1 - ở trên - Tường1"
+]
+```
+
+frame_4:
+```json
+[
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Sàn nhà1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Ghế1 (97%)",
+  "Ghế1 (97%) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Ghế2 (63%) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Ván trượt1 (màu xanh dương) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Tường1 - ở trên - Ghế1 (97%)",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Ván trượt1 (màu xanh dương)",
+  "Đồ vật ở cửa1 - ở trên - Tường1",
+  "Ghế2 (63%) - ở trên - Sàn-gỗ1"
+]
+```
+
+frame_5:
+```json
+[
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Sàn nhà1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Ghế1 (98%)",
+  "Ghế1 (98%) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Ghế2 (63%) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Ván trượt1 (màu xanh dương) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Tường1 - ở trên - Ghế1 (98%)",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Ván trượt1 (màu xanh dương)",
+  "Đồ vật ở cửa1 - ở trên - Tường1",
+  "Ghế2 (63%) - ở trên - Sàn-gỗ1"
+]
+```
+
+frame_6:
+```json
+[
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Sàn nhà1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Ghế1 (56%)",
+  "Ghế1 (56%) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Ván trượt1 (màu xanh dương) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Tường1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Ván trượt1 (màu xanh dương)"
+]
+```
+
+frame_7:
+```json
+[
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Sàn nhà1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Ghế1 (56%)",
+  "Ghế1 (56%) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Ván trượt1 (màu xanh dương) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Tường1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Ván trượt1 (màu xanh dương)",
+  "Người2 (lớn - không rõ giới tính, đang đứng, vui vẻ) - cầm - Ván trượt1 (màu xanh dương)",
+  "Đồ-cánh-cửa1 - ở trên - Sàn-gỗ1"
+]
+```
+
+frame_8:
+```json
+[
+  "Ghế sofa1 (màu xanh dương) - ở trên - Sàn-gỗ1",
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Sàn nhà1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Ghế1 (95%)",
+  "Ghế1 (95%) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Ba lô1 (màu trắng) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Tường1 - ở trên - Sàn-gỗ1",
+  "Sàn-gỗ1 - ở dưới - Ba lô1 (màu trắng)"
+]
+```
+
+frame_9:
+```json
+[
+  "Giường1 (màu tím) - ở trên - Sàn-gỗ1",
+  "Ghế2 (màu vàng) - ở trên - Sàn-gỗ1",
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Ghế3 (99%) - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Xe máy1 (màu xanh lam)",
+  "Xe máy1 (màu xanh lam) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Tường1 - ở trên - Sàn-gỗ1",
+  "Sàn-gỗ1 - ở dưới - Xe máy1 (màu xanh lam)"
+]
+```
+
+frame_10:
+```json
+[
+  "Giường1 (màu tím) - ở trên - Sàn-gỗ1",
+  "Ghế2 (màu vàng) - ở trên - Sàn-gỗ1",
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Ghế3 (99%) - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung) - trên - Xe máy1 (màu xanh lam)",
+  "Xe máy1 (màu xanh lam) - một phần của - Người1 (trẻ - nam, mặc áo đen, đang lái xe đồ chơi, tập trung)",
+  "Tường1 - ở trên - Sàn-gỗ1",
+  "Sàn-gỗ1 - ở dưới - Xe máy1 (màu xanh lam)"
+]
+```
+
+frame_11:
+```json
+[
+  "Giường1 (màu tím) - ở trên - Sàn-gỗ1",
+  "Ghế2 (màu vàng) - ở trên - Sàn-gỗ1",
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Ghế3 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang đi, hào hứng) - trên - Sàn-gỗ1",
+  "Tường1 - ở trên - Sàn-gỗ1",
+  "Túi xách1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang đi, hào hứng) - cầm - Túi xách1",
+  "Ghế3 - ở trên - Sàn-gỗ1"
+]
+```
+
+frame_12:
+```json
+[
+  "Giường1 (màu tím) - ở trên - Sàn-gỗ1",
+  "Ghế2 (màu vàng) - ở trên - Sàn-gỗ1",
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Ghế3 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang đi xe đạp, vui vẻ) - trên - Sàn-gỗ1",
+  "Tường1 - ở trên - Sàn-gỗ1",
+  "Xe đạp1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang đi xe đạp, vui vẻ) - trên - Xe đạp1",
+  "Ghế3 - ở trên - Sàn-gỗ1"
+]
+```
+
+frame_13:
+```json
+[
+  "Giường1 (màu tím) - ở trên - Sàn-gỗ1",
+  "Ghế2 (màu vàng) - ở trên - Sàn-gỗ1",
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Ghế3 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang đi xe đạp, vui vẻ) - trên - Sàn-gỗ1",
+  "Tường1 - ở trên - Sàn-gỗ1",
+  "Xe đạp1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang đi xe đạp, vui vẻ) - trên - Xe đạp1",
+  "Ghế3 - ở trên - Sàn-gỗ1"
+]
+```
+
+frame_14:
+```json
+[
+  "Giường1 (màu tím) - ở trên - Sàn-gỗ1",
+  "Ghế2 (màu vàng) - ở trên - Sàn-gỗ1",
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Ghế3 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang đi xe đạp, vui vẻ) - trên - Sàn-gỗ1",
+  "Tường1 - ở trên - Sàn-gỗ1",
+  "Xe đạp1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang đi xe đạp, vui vẻ) - trên - Xe đạp1"
+]
+```
+
+frame_15:
+```json
+[
+  "Giường1 (màu tím) - ở trên - Sàn-gỗ1",
+  "Ghế2 (màu vàng) - ở trên - Sàn-gỗ1",
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Ghế3 (màu cam) - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang đi xe đạp, vui vẻ) - trên - Sàn-gỗ1",
+  "Tường1 - ở trên - Sàn-gỗ1",
+  "Xe đạp1 (màu xanh dương) - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang đi xe đạp, vui vẻ) - trên - Xe đạp1",
+  "Đồ đạc phòng1 - gần - Tường1"
+]
+```
+
+frame_16:
+```json
+[
+  "Giường1 (màu tím) - ở trên - Sàn-gỗ1",
+  "Ghế2 (màu vàng) - ở trên - Sàn-gỗ1",
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Ghế3 (màu cam) - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang đi xe đạp, vui vẻ) - trên - Sàn-gỗ1",
+  "Tường1 - ở trên - Sàn-gỗ1",
+  "Xe đạp1 (màu xanh dương) - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - nam, mặc áo đen, đang đi xe đạp, vui vẻ) - trên - Xe đạp1",
+  "Đồ đạc phòng1 - gần - Tường1"
+]
+```
+
+frame_17:
+```json
+[
+  "Giường1 (màu tím) - ở trên - Sàn-gỗ1",
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Tường1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - không xác định, mặc áo đen, đang cầm vali, không rõ cảm xúc) - trên - Sàn-gỗ1",
+  "Va li1 (màu xanh dương) - ở trên - Sàn-gỗ1"
+]
+```
+
+frame_18:
+```json
+[
+  "Ghế dài1 (màu tím) - ở trên - Sàn-gỗ1",
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Tường1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - không xác định, mặc áo đen, đang đi xe đạp đồ chơi, vui vẻ) - ở trên - Sàn-gỗ1",
+  "Va li1 (màu xanh dương) - ở trên - Sàn-gỗ1",
+  "Ghế2 - ở trên - Sàn-gỗ1",
+  "Sàn nhà1 - ở trên - Sàn-gỗ1"
+]
+```
+
+frame_19:
+```json
+[
+  "Ghế dài1 (màu tím) - ở trên - Sàn-gỗ1",
+  "Thảm1 - ở trên - Sàn-gỗ1",
+  "Tường1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - không xác định, mặc áo đen, đang đi xe đạp đồ chơi, vui vẻ) - ở trên - Sàn-gỗ1",
+  "Va li1 (màu xanh dương) - ở trên - Sàn-gỗ1",
+  "Ghế2 - ở trên - Sàn-gỗ1",
+  "Sàn nhà1 - ở trên - Sàn-gỗ1",
+  "Người1 (trẻ - không xác định, mặc áo đen, đang đi xe đạp đồ chơi, vui vẻ) - ở trên - sàn"
+]
+```
+
+frame_20:
+```json
+[
+  "Tường1 - ở trên - Ván lướt sóng1",
+  "Người1 (trẻ - không xác định, mặc áo đen, đang đứng, không xác định) - ở trên - Tường1",
+  "Ván lướt sóng1 (màu hồng) - ở trên - Tường1"
+]
+```
+
+frame_21:
+```json
+[
+  "Ghế1 - ở gần - Rèm cửa",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang đứng, không xác định) - ở trên - Tường1",
+  "Ghế1 - ở gần - Người1 (trẻ - không xác định, mặc áo hồng, đang đứng, không xác định)",
+  "Tường1 - ở trên - Rèm cửa"
+]
+```
+
+frame_22:
+```json
+[
+  "Tường - ở gần - Tường-gỗ",
+  "Tường - ở gần - Sàn nhà",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang đứng, không xác định) - ở gần - Tường",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang đứng, không xác định) - ở trên - Sàn nhà",
+  "Ghế1 - ở gần - Rèm cửa",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang đứng, không xác định) - ở trên - Tường1",
+  "Ghế1 - ở gần - Người1 (trẻ - không xác định, mặc áo hồng, đang đứng, không xác định)",
+  "Tường1 - ở trên - Rèm cửa"
+]
+```
+
+frame_23:
+```json
+[
+  "Tường - ở gần - Tường-gỗ",
+  "Tường - ở gần - Sàn nhà",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang cúi đầu, không xác định) - ở gần - Tường",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang cúi đầu, không xác định) - ở trên - Sàn nhà",
+  "Ghế1 - ở gần - Rèm cửa",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang cúi đầu, không xác định) - ở trên - Tường1",
+  "Ghế1 - ở gần - Người1 (trẻ - không xác định, mặc áo hồng, đang cúi đầu, không xác định)",
+  "Tường1 - ở trên - Rèm cửa"
+]
+```
+
+frame_24:
+```json
+[
+  "Tường - ở gần - Tường-gỗ",
+  "Tường - ở gần - Sàn nhà",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang cúi đầu, không xác định) - ở gần - Tường",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang cúi đầu, không xác định) - ở trên - Sàn nhà",
+  "Ghế1 - ở gần - Rèm cửa",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang cúi đầu, không xác định) - ở trên - Tường1",
+  "Ghế1 - ở gần - Người1 (trẻ - không xác định, mặc áo hồng, đang cúi đầu, không xác định)",
+  "Tường1 - ở trên - Rèm cửa",
+  "Chăn - ở gần - Người1 (trẻ - không xác định, mặc áo hồng, đang cúi đầu, không xác định)"
+]
+```
+
+frame_25:
+```json
+[
+  "Thảm - ở gần - Người2 (trẻ - không xác định, mặc áo phông, đang ngồi, không xác định)",
+  "Người2 (trẻ - không xác định, mặc áo phông, đang ngồi, không xác định) - ở trên - Sàn gỗ",
+  "Người2 (trẻ - không xác định, mặc áo phông, đang ngồi, không xác định) - ở trên - Ghế1",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang ngồi, không xác định) - ở gần - Thảm",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang ngồi, không xác định) - ở trên - Sàn gỗ"
+]
+```
+
+frame_26:
+```json
+[
+  "Thảm - ở gần - Người1 (trẻ - không xác định, mặc áo hồng, đang ngồi, không xác định)",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang ngồi, không xác định) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang ngồi, không xác định) - ở trên - Xe máy1 (màu xanh dương)",
+  "Ghế1 (bằng gỗ) - ở trên - Sàn gỗ"
+]
+```
+
+frame_27:
+```json
+[
+  "Thảm - ở gần - Người1 (trẻ - không xác định, mặc áo hồng, đang cưỡi xe, không xác định)",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang cưỡi xe, không xác định) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang cưỡi xe, không xác định) - ở trên - Xe máy1 (màu xanh dương)",
+  "Ghế1 (bằng gỗ) - ở trên - Sàn gỗ",
+  "Tường - ở phía sau - Ghế1 (bằng gỗ)"
+]
+```
+
+frame_28:
+```json
+[
+  "Thảm - ở gần - Người1 (trẻ - không xác định, mặc áo hồng, đang cầm túi, không xác định)",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang cầm túi, không xác định) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang cầm túi, không xác định) - đang giữ - Xe máy1 (màu xanh dương)",
+  "Ghế1 (bằng gỗ) - ở trên - Sàn gỗ",
+  "Tường - ở phía sau - Ghế1 (bằng gỗ)"
+]
+```
+
+frame_29:
+```json
+[
+  "Thảm - ở gần - Người1 (trẻ - không xác định, mặc áo hồng, đang nhặt túi, không xác định)",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang nhặt túi, không xác định) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang nhặt túi, không xác định) - đang giữ - Túi xách1 (màu tím)",
+  "Ghế1 (bằng gỗ) - ở trên - Sàn gỗ",
+  "Tường - ở phía sau - Ghế1 (bằng gỗ)"
+]
+```
+
+frame_30:
+```json
+[
+  "Ghế sofa - ở trên - Thảm",
+  "Thảm - ở gần - Người1 (trẻ - không xác định, mặc áo hồng, đang nhặt túi, không xác định)",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang nhặt túi, không xác định) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang nhặt túi, không xác định) - đang giữ - Túi xách1 (màu tím)",
+  "Ghế1 (bằng gỗ) - ở trên - Sàn gỗ",
+  "Tường - ở phía sau - Ghế1 (bằng gỗ)"
+]
+```
+
+frame_31:
+```json
+[
+  "Ghế sofa - ở trên - Thảm",
+  "Thảm - ở gần - Người1 (trẻ - không xác định, mặc áo hồng, đang ngồi, không xác định)",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang ngồi, không xác định) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang ngồi, không xác định) - đang giữ - Túi xách1 (màu tím)",
+  "Ghế1 (bằng gỗ) - ở trên - Sàn gỗ",
+  "Tường - ở phía sau - Ghế1 (bằng gỗ)"
+]
+```
+
+frame_32:
+```json
+[
+  "Ghế sofa - ở trên - Thảm",
+  "Thảm - ở gần - Người1 (trẻ - không xác định, mặc áo hồng, đang ngồi, không xác định)",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang ngồi, không xác định) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang ngồi, không xác định) - đang giữ - Túi xách1",
+  "Ghế1 (bằng gỗ) - ở trên - Sàn gỗ",
+  "Tường - ở phía sau - Ghế1 (bằng gỗ)",
+  "Người1 (trẻ - không xác định, mặc áo hồng, đang đứng, không xác định) - ở trên - Thảm",
+  "Túi xách1 - ở trên - Thảm"
+]
+```
+

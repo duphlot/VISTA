@@ -1,0 +1,38 @@
+frame_0000.jpg: a man is standing in the water near a waterfall
+frame_0001.jpg: a man is standing on a rock near a waterfall
+frame_0002.jpg: a waterfall in the middle of a river
+frame_0003.jpg: a waterfall in the middle of a river
+frame_0004.jpg: a waterfall in the middle of a river
+frame_0005.jpg: a group of people standing near a waterfall
+frame_0006.jpg: a group of people standing in the water
+frame_0007.jpg: a group of people standing in the water
+frame_0008.jpg: a group of people standing on the beach near a waterfall
+frame_0009.jpg: a woman in a bikini standing in the water
+frame_0010.jpg: a woman in a bikini is standing in the water
+frame_0011.jpg: a woman in a bikini is standing in the water
+frame_0012.jpg: a group of people standing in the water
+frame_0013.jpg: a group of people are playing in the water
+frame_0014.jpg: people are playing in the water at the beach
+frame_0015.jpg: people are swimming in the water near a waterfall
+frame_0016.jpg: people are playing in the water at the beach
+frame_0017.jpg: people are playing in the water near a waterfall
+frame_0018.jpg: people are wadi in the water near a waterfall
+frame_0019.jpg: people are wadi in the water near a waterfall
+frame_0020.jpg: a group of people are wadi in the water
+frame_0021.jpg: a group of people are wadi in the water
+frame_0022.jpg: people are walking through the water near a beach
+frame_0023.jpg: people are wadi in the water near a beach
+frame_0024.jpg: a group of people are standing in the water
+frame_0025.jpg: a group of people are walking in the water
+frame_0026.jpg: a group of people are standing in the water
+frame_0027.jpg: a group of people walking on the beach
+frame_0028.jpg: a boat is in the water near a beach
+frame_0029.jpg: a boat is in the water near a beach
+frame_0030.jpg: a man is standing in the water near a boat
+frame_0031.jpg: a boat is in the water near a beach
+frame_0032.jpg: a boat is in the water near a beach
+frame_0033.jpg: a boat is in the water near a beach
+frame_0034.jpg: a boat is in the water near a beach
+frame_0035.jpg: a boat is in the water near a beach
+frame_0036.jpg: a boat is in the water near a beach
+frame_0037.jpg: a person in a kayak pada

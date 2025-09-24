@@ -1,0 +1,2828 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trên - cỏ"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ngồi trên - ghế1 (màu cam)",
+  "ghế1 (màu cam) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - bìa cứng",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở gần - rùa (màu xám)",
+  "rùa (màu xám) - ở trên - cỏ",
+  "tường - ở trên - cỏ",
+  "giấy - ở trên - cỏ"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ngồi trên - ghế1 (màu cam)",
+  "ghế1 (màu cam) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - bệ cứng",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở gần - rùa (màu xám)",
+  "rùa (màu xám) - ở trên - cỏ",
+  "tường - ở trên - cỏ",
+  "giấy - ở trên - cỏ"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ngồi trên - ghế1 (màu cam)",
+  "ghế1 (màu cam) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - bể cứng",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - ở gần - rùa (màu xám)",
+  "rùa (màu xám) - ở trên - cỏ",
+  "tường - ở trên - cỏ",
+  "giấy - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi, vui vẻ) - đang cầm - đồ chơi1"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ngồi trên - ghế1 (màu cam)",
+  "ghế1 (màu cam) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - bể cứng",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở gần - rùa (màu xám)",
+  "rùa (màu xám) - ở trên - cỏ",
+  "tường - ở trên - cỏ",
+  "giấy - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - đang cầm - đồ chơi1"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ngồi trên - ghế1 (màu cam)",
+  "ghế1 (màu cam) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - bể cứng",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở gần - rùa (màu xám)",
+  "rùa (màu xám) - ở trên - cỏ",
+  "tường - ở trên - cỏ",
+  "giấy - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - đang cầm - đồ chơi1"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ngồi trên - ghế1 (màu cam)",
+  "ghế1 (màu cam) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - vỉa hè",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở gần - rùa (màu xám)",
+  "rùa (màu xám) - ở trên - cỏ",
+  "tường - ở trên - cỏ",
+  "hàng rào - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - đang cầm - đồ chơi1"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ngồi trên - ghế1 (màu cam)",
+  "ghế1 (màu cam) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - vỉa hè",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang nghịch đồ chơi, vui vẻ) - ở gần - rùa (màu xám)",
+  "rùa (màu xám) - ở trên - cỏ",
+  "tường - ở trên - cỏ",
+  "hàng rào - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - ghế1 (màu cam)",
+  "ghế1 (màu cam) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - vỉa hè",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - rùa (màu xám)",
+  "rùa (màu xám) - ở trên - cỏ",
+  "tường - ở trên - cỏ",
+  "hàng rào - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - bìa các tông",
+  "bìa các tông - ở trên - cỏ"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - ghế1 (màu cam)",
+  "ghế1 (màu cam) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - vỉa hè",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - rùa (màu xám)",
+  "rùa (màu xám) - ở trên - cỏ",
+  "tường - ở trên - cỏ",
+  "hàng rào - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - bể các tông",
+  "bể các tông - ở trên - cỏ"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - ghế1 (màu cam)",
+  "ghế1 (màu cam) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - vỉa hè",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - rùa (màu xám)",
+  "rùa (màu xám) - ở trên - cỏ",
+  "tường - ở trên - cỏ",
+  "hàng rào - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - bể các tông",
+  "bể các tông - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - bìa cứng",
+  "bìa cứng - ở trên - cỏ"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - ghế1 (màu cam)",
+  "ghế1 (màu cam) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - vỉa hè",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - rùa (màu xám)",
+  "rùa (màu xám) - ở trên - cỏ",
+  "tường - ở trên - cỏ",
+  "hàng rào - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - bể các tông",
+  "bể các tông - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - bìa cứng",
+  "bìa cứng - ở trên - cỏ"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - ghế1 (màu cam)",
+  "ghế1 (màu cam) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - vỉa hè",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - rùa (màu xám)",
+  "rùa (màu xám) - ở trên - cỏ",
+  "tường - ở trên - cỏ",
+  "hàng rào - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - bể các tông",
+  "bể các tông - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - bìa cứng",
+  "bìa cứng - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - bồn cầu (màu xanh ngọc)",
+  "bồn cầu (màu xanh ngọc) - ở trên - cát",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - bàn chải đánh răng (màu trắng)",
+  "bàn chải đánh răng (màu trắng) - ở gần - bồn cầu (màu xanh ngọc)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - ghế1 (màu cam)",
+  "ghế1 (màu cam) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - vỉa hè",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - rùa (màu xám)",
+  "rùa (màu xám) - ở trên - cỏ",
+  "tường - ở trên - cỏ",
+  "hàng rào - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - bể các tông",
+  "bể các tông - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - bìa cứng",
+  "bìa cứng - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - bồn cầu (màu xanh ngọc)",
+  "bồn cầu (màu xanh ngọc) - ở trên - cát",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - bàn chải đánh răng (màu trắng)",
+  "bàn chải đánh răng (màu trắng) - ở gần - bồn cầu (màu xanh ngọc)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - ghế1 (màu cam)",
+  "ghế1 (màu cam) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - vỉa hè",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - rùa (màu xám)",
+  "rùa (màu xám) - ở trên - cỏ",
+  "tường - ở trên - cỏ",
+  "hàng rào - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - bể các tông",
+  "bể các tông - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - bìa cứng",
+  "bìa cứng - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - bồn cầu (màu xanh ngọc)",
+  "bồn cầu (màu xanh ngọc) - ở trên - cát",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - bàn chải đánh răng (màu trắng)",
+  "bàn chải đánh răng (màu trắng) - ở gần - bồn cầu (màu xanh ngọc)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo sọc xanh, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - ghế1 (màu xám)",
+  "ghế1 (màu xám) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - vỉa hè",
+  "tường - ở trên - cỏ",
+  "hàng rào - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1 (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đồ chơi1 (màu vàng) - ở trên - cát"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường-gỗ",
+  "tường-gỗ - ở sau - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - ghế1 (màu xám)",
+  "ghế1 (màu xám) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - vỉa hè",
+  "tường - ở trên - cỏ",
+  "hàng rào - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1 (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đồ chơi1 (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đèn giao thông (màu vàng)"
+]
+```
+
+frame_17:
+```json
+[
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i \u0111\u00f9a v\u1edbi \u0111\u1ed3 ch\u01a1i, vui v\u1ebb) - \u1edf tr\u00ean - c\u1ecf",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i \u0111\u00f9a v\u1edbi \u0111\u1ed3 ch\u01a1i, vui v\u1ebb) - \u1edf tr\u01b0\u1edbc - t\u01b0\u1eddng",
+  "t\u01b0\u1eddng - \u1edf sau - c\u1ecf",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i \u0111\u00f9a v\u1edbi \u0111\u1ed3 ch\u01a1i, vui v\u1ebb) - \u1edf tr\u01b0\u1edbc - t\u01b0\u1eddng-g\u1ed7",
+  "t\u01b0\u1eddng-g\u1ed7 - \u1edf sau - c\u1ecf",
+  "ng\u1b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i \u0111\u00f9a v\u1edbi \u0111\u1ed3 ch\u01a1i, vui v\u1ebb) - ng\u1ed3i tr\u00ean - gh\u1ebf1 (m\u00e0u x\u00e1m)",
+  "gh\u1ebf1 (m\u00e0u x\u00e1m) - \u1edf tr\u00ean - c\u1ecf",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i \u0111\u00f9a v\u1edbi \u0111\u1ed3 ch\u01a1i, vui v\u1ebb) - \u1edf g\u1ea7n - \u0111\u1ed3 ch\u01a1i (m\u00e0u \u0111\u1ecf v\u00e0ng)",
+  "\u0111\u1ed3 ch\u01a1i (m\u00e0u \u0111\u1ecf v\u00e0ng) - \u1edf tr\u00ean - v\u1ec9a h\u00e8",
+  "t\u01b0\u1eddng - \u1edf tr\u00ean - c\u1ecf",
+  "h\u00e0ng r\u00e0o - \u1edf tr\u00ean - c\u1ecf",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i \u0111\u00f9a v\u1edbi \u0111\u1ed3 ch\u01a1i, vui v\u1ebb) - \u0111ang c\u1ea7m - \u0111\u1ed3 ch\u01a1i1 (m\u00e0u v\u00e0ng)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i \u0111\u00f9a v\u1edbi \u0111\u1ed3 ch\u01a1i, vui v\u1ebb) - \u1edf g\u1ea7n - \u00f4 (m\u00e0u xanh l\u00e1)",
+  "\u0111\u1ed3 ch\u01a1i1 (m\u00e0u v\u00e0ng) - \u1edf tr\u00ean - c\u00e1t",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i \u0111\u00f9a v\u1edbi \u0111\u1ed3 ch\u01a1i, vui v\u1ebb) - \u1edf g\u1ea7n - c\u00e1t",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i \u0111\u00f9a v\u1edbi \u0111\u1ed3 ch\u01a1i, vui v\u1ebb) - \u1edf g\u1ea7n - \u0111\u00e8n giao th\u00f4ng (m\u00e0u v\u00e0ng)",
+  "\u0111\u1ed3 ch\u01a1i1 (m\u00e0u v\u00e0ng) - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i \u0111\u00f9a v\u1edbi \u0111\u1ed3 ch\u01a1i, vui v\u1ebb)",
+  "c\u00e1t - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i \u0111\u00f9a v\u1edbi \u0111\u1ed3 ch\u01a1i, vui v\u1ebb)",
+  "\u0111\u00e8n giao th\u00f4ng (m\u00e0u v\u00e0ng) - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i \u0111\u00f9a v\u1edbi \u0111\u1ed3 ch\u01a1i, vui v\u1ebb)",
+    "c\u00e2y - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i \u0111\u00f9a v\u1edbi \u0111\u1ed3 ch\u01a1i, vui v\u1ebb)"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1 (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đồ chơi1 (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đồ chơi1 (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1 (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đồ chơi1 (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đồ chơi1 (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - hàng rào"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1 (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đồ chơi1 (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đồ chơi1 (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - bụi bẩn"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1 (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đồ chơi1 (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đồ chơi1 (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - frisbee (màu trắng)"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "tường - ở sau - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1 (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đồ chơi1 (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đồ chơi1 (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - frisbee (màu trắng)"
+]
+```
+
+frame_23:
+```json
+[
+  "cỏ - ở trên - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1 (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đồ chơi1 (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đồ chơi1 (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - frisbee (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "frisbee (màu trắng) - ở trên - cát"
+]
+```
+
+frame_24:
+```json
+[
+  "cỏ - ở trên - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1 (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đồ chơi1 (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đồ chơi1 (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - frisbee (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "frisbee (màu trắng) - ở trên - cát"
+]
+```
+
+frame_25:
+```json
+[
+  "cỏ - ở trên - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở trước - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - đang cầm - đồ chơi1 (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đồ chơi1 (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đồ chơi1 (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ) - ở gần - frisbee (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đùa với đồ chơi, vui vẻ)",
+  "frisbee (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - chơi cùng - bánh (màu trắng)"
+]
+```
+
+frame_26:
+```json
+[
+  "cỏ - ở trên - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở trước - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - đang cầm - đồ chơi1 (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đồ chơi1 (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đồ chơi1 (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở gần - frisbee (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ)",
+  "frisbee (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát"
+]
+```
+
+frame_27:
+```json
+[
+  "cỏ - ở trên - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở trước - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - đang cầm - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở gần - frisbee (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ)",
+  "frisbee (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát"
+]
+```
+
+frame_28:
+```json
+[
+  "cỏ - ở trên - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trước - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - đang cầm - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ)"
+]
+```
+
+frame_29:
+```json
+[
+  "cỏ - ở trên - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trước - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - đang cầm - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ)"
+]
+```
+
+frame_30:
+```json
+[
+  "cỏ - ở trên - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trước - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - đang cầm - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang nghịch cát, vui vẻ)"
+]
+```
+
+frame_31:
+```json
+[
+  "cỏ - ở trên - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trước - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - đang cầm - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bát (màu xanh)"
+]
+```
+
+frame_32:
+```json
+[
+  "cỏ - ở trên - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trước - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - đang cầm - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bát (màu xanh)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi - cát"
+]
+```
+
+frame_33:
+```json
+[
+  "cỏ - ở trên - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - ở trước - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - đang cầm - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - ở gần - bát (màu xanh)",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi chơi cát, vui vẻ) - chơi - cát"
+]
+```
+
+frame_34:
+```json
+[
+  "cỏ - ở trên - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - đang cầm - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - bát (màu xanh)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - chơi - cát",
+  "sàn nhà - ở trong - ô (màu xanh lá)"
+]
+```
+
+frame_35:
+```json
+[
+  "cỏ - ở trên - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - đang cầm - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - ở gần - bát (màu xanh)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi đồ chơi, vui vẻ) - chơi - cát",
+  "sàn nhà - ở trong - ô (màu xanh lá)"
+]
+```
+
+frame_36:
+```json
+[
+  "cỏ - ở trên - sàn nhà",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - đang cầm - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bát (màu xanh)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi - cát",
+  "sàn nhà - ở trong - ô (màu xanh lá)",
+  "bát (màu xanh) - chứa - cát"
+]
+```
+
+frame_37:
+```json
+[
+  "cỏ - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - đang cầm - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bát (màu xanh)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi - cát",
+  "sàn nhà - ở trong - ô (màu xanh lá)",
+  "bát (màu xanh) - chứa - cát"
+]
+```
+
+frame_38:
+```json
+[
+  "cỏ - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - đang cầm - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bát (màu xanh)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi - cát",
+  "sàn nhà - ở trong - ô (màu xanh lá)",
+  "bát (màu xanh) - chứa - cát",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - đang cầm - xe tải (màu vàng)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)"
+]
+```
+
+frame_39:
+```json
+[
+  "cỏ - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - đang cầm - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bát (màu xanh)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi - cát",
+  "sàn nhà - ở trong - ô (màu xanh lá)",
+  "bát (màu xanh) - chứa - cát",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - đang cầm - xe tải (màu vàng)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - thảm"
+]
+```
+
+frame_40:
+```json
+[
+  "cỏ - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - đang cầm - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bát (màu xanh)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi - cát",
+  "sàn nhà - ở trong - ô (màu xanh lá)",
+  "bát (màu xanh) - chứa - cát",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - đang cầm - xe tải (màu vàng)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - thảm"
+]
+```
+
+frame_41:
+```json
+[
+  "cỏ - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - đang chơi - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bát (màu xanh)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi - cát",
+  "sàn nhà - ở trong - ô (màu xanh lá)",
+  "bát (màu xanh) - chứa - cát",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - đang cầm - xe tải (màu vàng)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - thảm",
+  "xe tải1 (màu tím) - ở trên - bụi bẩn",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - xe tải1 (màu tím)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - đang cầm - xe tải1 (màu tím)",
+  "xe tải (màu vàng) - ở gần - xe tải1 (màu tím)"
+]
+```
+
+frame_42:
+```json
+[
+  "cỏ - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "đồ chơi (màu đỏ vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - đang chơi - đèn giao thông (màu vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - ô (màu xanh lá)",
+  "đèn giao thông (màu vàng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đèn giao thông (màu vàng)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "cát - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đèn giao thông (màu vàng) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cây (màu xanh lá)",
+  "hàng rào - ở gần - tường",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - hàng rào",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ngồi trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - đĩa bay (màu trắng)",
+  "xe tải (màu xanh dương) - ở trên - cát",
+  "xe tải (màu xanh dương) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "đĩa bay (màu trắng) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi cùng - bánh (màu trắng)",
+  "xe hơi (màu xanh dương) - ở trên - cỏ",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở trong - cát",
+  "cỏ - ở gần - cát",
+  "quả bóng (màu xanh) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bát (màu xanh)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - chơi - cát",
+  "sàn nhà - ở trong - ô (màu xanh lá)",
+  "bát (màu xanh) - chứa - cát",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - đang cầm - xe tải (màu vàng)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - đồ chơi (màu đỏ vàng)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - thảm",
+  "xe tải1 (màu tím) - ở trên - bụi bẩn",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - xe tải1 (màu tím)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - đang chơi - xe tải1 (màu tím)",
+  "xe tải (màu vàng) - ở gần - xe tải1 (màu tím)",
+  "cát - ở gần - bụi bẩn",
+  "bụi bẩn - ở trên - thảm",
+  "xe tải (màu vàng) - ở trên - cát"
+]
+```
+
+frame_43:
+```json
+[
+  "tường - ở gần - cát",
+  "cát - ở gần - tường",
+  "cát - ở gần - bụi bẩn",
+  "bụi bẩn - ở gần - cát",
+  "xe tải (màu vàng) - ở trên - bụi bẩn",
+  "xe máy (màu tím) - ở trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - xe máy (màu tím)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bụi bẩn",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - xe tải (màu vàng)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - bụi bẩn"
+]
+```
+
+frame_44:
+```json
+[
+  "tường - ở gần - cát",
+  "cát - ở gần - tường",
+  "cát - ở gần - bụi bẩn",
+  "bụi bẩn - ở gần - cát",
+  "xe tải (màu vàng) - ở trên - bụi bẩn",
+  "xe máy (màu tím) - ở trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - xe máy (màu tím)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bụi bẩn",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - xe tải (màu vàng)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - bụi bẩn",
+  "nước - ở gần - cát",
+  "xe tải1 (màu xanh) - ở trên - cát"
+]
+```
+
+frame_45:
+```json
+[
+  "tường - ở gần - cát",
+  "cát - ở gần - tường",
+  "cát - ở gần - bụi bẩn",
+  "bụi bẩn - ở gần - cát",
+  "xe tải (màu vàng) - ở trên - bụi bẩn",
+  "xe máy (màu tím) - ở trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - xe máy (màu tím)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bụi bẩn",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - xe tải (màu vàng)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - bụi bẩn",
+  "nước - ở gần - cát",
+  "xe tải1 (màu xanh) - ở trên - cát",
+  "nước - ở gần - bụi bẩn",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - xe tải1 (màu xanh)",
+  "xe tải (màu đỏ) - ở trên - cát"
+]
+```
+
+frame_46:
+```json
+[
+  "tường - ở gần - cát",
+  "cát - ở gần - tường",
+  "cát - ở gần - bụi bẩn",
+  "bụi bẩn - ở gần - cát",
+  "xe tải (màu vàng) - ở trên - bụi bẩn",
+  "xe máy (màu tím) - ở trên - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - xe máy (màu tím)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bụi bẩn",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - xe tải (màu vàng)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - bụi bẩn",
+  "nước - ở gần - cát",
+  "xe tải1 (màu xanh) - ở trên - cát",
+  "nước - ở gần - bụi bẩn",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - xe tải1 (màu xanh)",
+  "xe tải (màu đỏ) - ở trên - cát",
+  "cát - ở gần - xe tải (màu tím)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - cát"
+]
+```
+
+frame_47:
+```json
+[
+  "c\u1ea9u (xanh l\u00e1 c\u00e2y) - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb)",
+  "c\u1ea9u (xanh l\u00e1 c\u00e2y) - \u1edf tr\u00ean - b\u1ee5i b\u1ea9n",
+  "b\u00f3ng th\u1ec3 thao - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb)",
+  "c\u00e2y - \u1edf g\u1ea7n - \u0111\u1ea5t",
+  "c\u1ea9u (xanh l\u00e1 c\u00e2y) - \u1edf g\u1ea7n - xe t\u1ea3i (m\u00e0u t\u00edm)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb) - \u1edf g\u1ea7n - \u0111\u1ea5t",
+  "\u0111\u1ea5t - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb)",
+  "b\u00e1nh (m\u00e0u tr\u1eafng) - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb)",
+  "c\u1ea9u (xanh l\u00e1 c\u00e2y) - \u1edf g\u1ea7n - b\u00f3ng th\u1ec3 thao",
+  "c\u1ea9u (xanh l\u00e1 c\u00e2y) - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb)",
+  "c\u1eafng (xanh l\u00e1 c\u00e2y) - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb)"
+]
+```
+
+frame_48:
+```json
+[
+  "cần cẩu (xanh lá cây) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ)",
+  "cần cẩu (xanh lá cây) - ở trên - bụi bẩn",
+  "bóng thể thao - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ)",
+  "cây - ở gần - đất",
+  "cần cẩu (xanh lá cây) - ở gần - xe tải (màu tím)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - đất",
+  "đất - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ)",
+  "bánh (màu trắng) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ)",
+  "cần cẩu (xanh lá cây) - ở gần - bóng thể thao",
+  "cần cẩu (xanh lá cây) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)",
+  "cảng (xanh lá cây) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi, vui vẻ) - ở trên - đất",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi, vui vẻ) - ở gần - xe tải (màu tím)",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi, vui vẻ) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở trên - sàn",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang chơi cát, vui vẻ) - ở gần - xe tải (màu tím)"
+]
+```
+
+frame_49:
+```json
+[
+  "c\u1ea7n c\u1ea9u (xanh l\u00e1 c\u00e2y) - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb)",
+  "c\u1ea7n c\u1ea9u (xanh l\u00e1 c\u00e2y) - \u1edf tr\u00ean - b\u1ee5i b\u1ea9n",
+  "b\u00f3ng th\u1ec3 thao - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb)",
+  "c\u00e2y - \u1edf g\u1ea7n - \u0111\u1ea5t",
+  "c\u1ea7n c\u1ea9u (xanh l\u00e1 c\u00e2y) - \u1edf g\u1ea7n - xe t\u1ea3i (m\u00e0u t\u00edm)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb) - \u1edf g\u1ea7n - \u0111\u1ea5t",
+  "\u0111\u1ea5t - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb)",
+  "b\u00e1nh (m\u00e0u tr\u1eafng) - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb)",
+  "c\u1ea7n c\u1ea9u (xanh l\u00e1 c\u00e2y) - \u1edf g\u1ea7n - b\u00f3ng th\u1ec3 thao",
+  "c\u1ea7n c\u1ea9u (xanh l\u00e1 c\u00e2y) - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ng\u1ed3i, vui v\u1ebb)",
+  "c\u1ea3ng (xanh l\u00e1 c\u00e2y) - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ng\u1ed3i, vui v\u1ebb) - \u1edf tr\u00ean - \u0111\u1ea5t",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ng\u1ed3i, vui v\u1ebb) - \u1edf g\u1ea7n - xe t\u1ea3i (m\u00e0u t\u00edm)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ng\u1ed3i, vui v\u1ebb) - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb) - \u1edf tr\u00ean - s\u00e0n",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb) - \u1edf g\u1ea7n - xe t\u1ea3i (m\u00e0u t\u00edm)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb) - \u1edf g\u1ea7n - v\u00e1n tr\u01b0\u1ee3t (xanh da tr\u1eddi)",
+  "c\u1ea3ng (xanh l\u00e1 c\u00e2y) - ch\u1ee9a - c\u00e1t",
+  "c\u00e1t - \u1edf g\u1ea7n - v\u00e1n tr\u01b0\u1ee3t (xanh da tr\u1eddi)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb) - \u1edf g\u1ea7n - c\u00e1t",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u1ecdc, \u0111ang ch\u01a1i c\u00e1t, vui v\u1ebb) - \u1edf g\u1ea7n - \u0111\u01b0\u1eddng tr\u01b0\u1ee3n (h\u1ed3ng)"
+]
+```
+
+frame_50:
+```json
+[
+  "dù (xanh lá cây) - ở gần - cỏ",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang ngồi, vui vẻ)",
+  "cây - ở gần - đất",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi, vui vẻ) - ở trên - đất",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cần cẩu (xanh lá cây)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - xe tải (màu tím)",
+  "đất - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)"
+]
+```
+
+frame_51:
+```json
+[
+  "dù (xanh lá cây) - ở gần - cỏ",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang ngồi, vui vẻ)",
+  "cây - ở gần - đất",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi, vui vẻ) - ở trên - đất",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cần cẩu (xanh lá cây)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - xe tải (màu tím)",
+  "đất - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)"
+]
+```
+
+frame_52:
+```json
+[
+  "dù (xanh lá cây) - ở gần - cỏ",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang ngồi, vui vẻ)",
+  "cây - ở gần - đất",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi, vui vẻ) - ở trên - đất",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - cần cẩu (xanh lá cây)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ) - ở gần - xe tải (màu tím)",
+  "đất - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi cát, vui vẻ)"
+]
+```
+
+frame_53:
+```json
+[
+  "tường (gỗ) - ở gần - cỏ",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "cây - ở gần - đất",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (xanh lá cây)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (màu tím)",
+  "đất - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "tường - ở gần - nước",
+  "nước - ở gần - vỉa hè",
+  "vỉa hè - ở gần - cỏ"
+]
+```
+
+frame_54:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ) - ở trên - sàn",
+  "sàn - ở gần - đèn giao thông (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ) - ở gần - đèn giao thông (vàng)",
+  "đèn giao thông (vàng) - ở trong - đất",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ) - ở gần - cần cẩu (xanh lá cây)",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ) - ở gần - đĩa bay",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ) - ở gần - xe tải (màu tím)",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ)",
+  "tường (gỗ) - ở gần - cỏ",
+  "cây - ở gần - đất",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ) - ở trên - đất",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ) - ở gần - bụi bẩn",
+  "đất - ở gần - người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ)",
+  "tường - ở gần - nước",
+  "nước - ở gần - vỉa hè",
+  "vỉa hè - ở gần - cỏ"
+]
+```
+
+frame_55:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ) - ở gần - đĩa bay",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang ngồi xổm, vui vẻ) - ở trên - đất"
+]
+```
+
+frame_56:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ"
+]
+```
+
+frame_57:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang bò, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang bò, vui vẻ) - ở gần - đĩa bay"
+]
+```
+
+frame_58:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ) - ở gần - đĩa bay"
+]
+```
+
+frame_59:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "chuối (đỏ) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi, vui vẻ)"
+]
+```
+
+frame_60:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "chuối (đỏ) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi, vui vẻ) - đang với - chuối (đỏ)"
+]
+```
+
+frame_61:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "chuối (đỏ) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi, vui vẻ) - đang với - chuối (đỏ)"
+]
+```
+
+frame_62:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ) - ở gần - đĩa bay",
+  "chuối (đỏ) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ) - đang với - chuối (đỏ)",
+  "xe tải (tím) - ở trên - cát"
+]
+```
+
+frame_63:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ) - ở gần - đĩa bay",
+  "chuối (đỏ) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang nghịch cát, vui vẻ) - đang với - chuối (đỏ)",
+  "xe tải (tím) - ở trên - cát"
+]
+```
+
+frame_64:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ) - ở gần - đĩa bay",
+  "chuối (đỏ) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang nghịch cát, vui vẻ) - đang với - chuối (đỏ)",
+  "xe tải (tím) - ở trên - cát"
+]
+```
+
+frame_65:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang nghịch cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang nghịch cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang nghịch cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát"
+]
+```
+
+frame_66:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "xe tải1 (xanh lá cây) - ở trên - cát"
+]
+```
+
+frame_67:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang ngồi, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "xe tải1 (xanh lá cây) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang đứng, vui vẻ) - ở trên - cát"
+]
+```
+
+frame_68:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "xe tải1 (xanh lá cây) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang đứng, vui vẻ) - ở trên - cát",
+  "xe tải1 (xanh da trời) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang đứng, vui vẻ) - ở gần - cát"
+]
+```
+
+frame_69:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "xe tải1 (xanh lá cây) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở trên - cát",
+  "xe tải1 (xanh da trời) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - cát"
+]
+```
+
+frame_70:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "xe tải1 (xanh lá cây) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở trên - cát",
+  "xe tải1 (xanh da trời) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - cát"
+]
+```
+
+frame_71:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "xe tải1 (xanh lá cây) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở trên - cát",
+  "xe tải1 (xanh da trời) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - xe tải1 (xanh da trời)"
+]
+```
+
+frame_72:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "xe tải1 (xanh lá cây) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở trên - cát",
+  "xe tải1 (xanh da trời) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - xe tải1 (xanh da trời)",
+  "xe tải1 (xanh da trời) - ở gần - cát"
+]
+```
+
+frame_73:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "xe tải1 (xanh lá cây) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở trên - cát",
+  "xe tải1 (xanh da trời) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - xe tải1 (xanh da trời)",
+  "xe tải1 (xanh da trời) - ở gần - cát"
+]
+```
+
+frame_74:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "xe tải1 (xanh lá cây) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở trên - cát",
+  "xe tải1 (xanh da trời) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - xe tải1 (xanh da trời)",
+  "xe tải1 (xanh da trời) - ở gần - cát",
+  "bát (xanh lá cây) - chứa - cát"
+]
+```
+
+frame_75:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "xe tải1 (xanh lá cây) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở trên - cát",
+  "xe tải1 (xanh da trời) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - xe tải1 (xanh da trời)",
+  "xe tải1 (xanh da trời) - ở gần - cát",
+  "bát (xanh lá cây) - chứa - cát",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "xe tải2 (xanh da trời) - ở trên - cát"
+]
+```
+
+frame_76:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "xe tải1 (xanh lá cây) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở trên - cát",
+  "xe tải1 (xanh da trời) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - xe tải1 (xanh da trời)",
+  "xe tải1 (xanh da trời) - ở gần - cát",
+  "bát (xanh lá cây) - chứa - cát",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "xe tải2 (xanh da trời) - ở trên - cát",
+  "xe tải2 (tím) - ở trên - cát"
+]
+```
+
+frame_77:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "xe tải1 (xanh lá cây) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở trên - cát",
+  "xe tải1 (xanh da trời) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - xe tải1 (xanh da trời)",
+  "xe tải1 (xanh da trời) - ở gần - cát",
+  "bát (xanh lá cây) - chứa - cát",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "xe tải2 (xanh da trời) - ở trên - cát",
+  "xe tải2 (tím) - ở trên - cát",
+  "cỏ - ở gần - cát"
+]
+```
+
+frame_78:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "xe tải1 (xanh lá cây) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở trên - cát",
+  "xe tải1 (xanh da trời) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - xe tải1 (xanh da trời)",
+  "xe tải1 (xanh da trời) - ở gần - cát",
+  "bát (xanh lá cây) - chứa - cát",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "xe tải2 (xanh da trời) - ở trên - cát",
+  "xe tải2 (tím) - ở trên - cát",
+  "cỏ - ở gần - cát"
+]
+```
+
+frame_79:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "bóng thể thao (xanh da trời) - ở gần - người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (vàng)",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - đĩa bay",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - bụi bẩn",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở trên - đất",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - ở gần - đĩa bay",
+  "chuối (xanh lá cây) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ) - đang với - chuối (xanh lá cây)",
+  "xe tải (xanh da trời) - ở trên - cát",
+  "người1 (trẻ - nam, mặc áo sọc, đang chơi, vui vẻ) - ở gần - xe tải (xanh da trời)",
+  "bụi bẩn - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "xe tải1 (xanh lá cây) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở trên - cát",
+  "xe tải1 (xanh da trời) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - xe tải1 (xanh da trời)",
+  "xe tải1 (xanh da trời) - ở gần - cát",
+  "bát (xanh lá cây) - chứa - cát",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "xe tải2 (xanh da trời) - ở trên - cát",
+  "xe tải2 (tím) - ở trên - cát",
+  "cỏ - ở gần - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - người2 (trẻ - không xác định giới tính, mặc tã, đang chơi cát, vui vẻ)"
+]
+```
+
+frame_80:
+```json
+[
+  "cỏ - ở gần - người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ)",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người3 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "xe tải1 (xanh da trời) - ở trên - cát",
+  "xe tải2 (tím) - ở trên - cát",
+  "cỏ - ở gần - cát",
+  "xe tải (xanh da trời) - ở trên - cát"
+]
+```
+
+frame_81:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "xe tải1 (xanh da trời) - ở trên - cát",
+  "cỏ - ở gần - cát",
+  "xe tải (xanh da trời) - ở trên - cát"
+]
+```
+
+frame_82:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "cỏ - ở gần - cát",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi cát, vui vẻ) - ngồi trên - bô (xanh da trời)"
+]
+```
+
+frame_83:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ) - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "cỏ - ở gần - cát",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ) - ngồi trên - bô (xanh da trời)",
+  "giấy - ở trên - cỏ",
+  "bô (xanh da trời) - ở gần - cỏ"
+]
+```
+
+frame_84:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ) - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "cỏ - ở gần - cát",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ) - ngồi trên - bát (xanh lá cây)",
+  "giấy - ở trên - cỏ",
+  "bát (xanh lá cây) - ở gần - cỏ"
+]
+```
+
+frame_85:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ) - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "cỏ - ở gần - cát",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi, vui vẻ) - ngồi trên - bát (xanh lá cây)",
+  "giấy - ở trên - cỏ",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "tường - ở gần - cỏ"
+]
+```
+
+frame_86:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ) - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang ngồi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "cỏ - ở gần - cát",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi, vui vẻ) - ngồi trên - bát (xanh lá cây)",
+  "giấy - ở trên - cỏ",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "tường - ở gần - cỏ",
+  "người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái) - ở gần - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng, đang chơi, vui vẻ) - ở gần - người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái)"
+]
+```
+
+frame_87:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng sọc, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng sọc, đang ngồi, vui vẻ) - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng sọc, đang ngồi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "cỏ - ở gần - cát",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng sọc, đang chơi, vui vẻ) - ngồi trên - bát (xanh lá cây)",
+  "giấy - ở trên - cỏ",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "tường - ở gần - cỏ",
+  "người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái) - ở gần - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng sọc, đang chơi, vui vẻ) - ở gần - người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái)"
+]
+```
+
+frame_88:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "cỏ - ở gần - cát",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ hồng sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng sọc, đang chơi, vui vẻ) - ngồi trên - bát (xanh lá cây)",
+  "giấy - ở trên - cỏ",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "tường - ở gần - cỏ",
+  "người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái) - ở gần - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ hồng sọc, đang chơi, vui vẻ) - ở gần - người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái)"
+]
+```
+
+frame_89:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "cỏ - ở gần - cát",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ngồi trên - bát (xanh lá cây)",
+  "giấy - ở trên - cỏ",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "tường - ở gần - cỏ",
+  "người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái) - ở gần - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái)"
+]
+```
+
+frame_90:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "cỏ - ở gần - cát",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ngồi trên - bát (xanh lá cây)",
+  "giấy - ở trên - cỏ",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "tường - ở gần - cỏ",
+  "người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái) - ở gần - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái)",
+  "tường - ở trên - cỏ",
+  "chó (xanh) - ở trên - cỏ",
+  "cỏ - ở gần - chó (xanh)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - chó (xanh)",
+  "cỏ - ở gần - chim (cam)",
+  "chim (cam) - ở trên - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - chim (cam)"
+]
+```
+
+frame_91:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "cỏ - ở gần - cát",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ngồi trên - bát (xanh lá cây)",
+  "giấy - ở trên - cỏ",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "tường - ở gần - cỏ",
+  "người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái) - ở gần - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái)",
+  "tường - ở trên - cỏ",
+  "chó (xanh) - ở trên - cỏ",
+  "cỏ - ở gần - chó (xanh)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - chó (xanh)",
+  "cỏ - ở gần - chim (hồng)",
+  "chim (hồng) - ở trên - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - chim (hồng)"
+]
+```
+
+frame_92:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "cỏ - ở gần - cát",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ngồi trên - bát (xanh lá cây)",
+  "giấy - ở trên - cỏ",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "tường - ở gần - cỏ",
+  "người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái) - ở gần - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái)",
+  "tường - ở trên - cỏ",
+  "chó (xanh) - ở trên - cỏ",
+  "cỏ - ở gần - chó (xanh)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - chó (xanh)",
+  "cỏ - ở gần - đồ chơi (vàng)",
+  "đồ chơi (vàng) - ở trên - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - đồ chơi (vàng)"
+]
+```
+
+frame_93:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "cỏ - ở gần - cát",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ngồi trên - bát (xanh lá cây)",
+  "giấy - ở trên - cỏ",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "tường - ở gần - cỏ",
+  "người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái) - ở gần - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái)",
+  "tường - ở trên - cỏ",
+  "chó1 - ở trên - cỏ",
+  "cỏ - ở gần - chó1",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - chó1",
+  "cỏ - ở gần - đồ chơi (vàng)",
+  "đồ chơi (vàng) - ở trên - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi, vui vẻ) - ở gần - đồ chơi (vàng)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - chó1"
+]
+```
+
+frame_94:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ngồi trên - bát (xanh lá cây)",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "cỏ - ở gần - cát",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ)",
+  "giấy - ở trên - cỏ",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "tường - ở gần - cỏ",
+  "người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái) - ở gần - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái)",
+  "tường - ở trên - cỏ",
+  "chó1 - ở trên - cỏ",
+  "cỏ - ở gần - chó1",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - chó1",
+  "cỏ - ở gần - đồ chơi (vàng)",
+  "đồ chơi (vàng) - ở trên - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - đồ chơi (vàng)",
+  "chuối (tím) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - chạm vào - chó1",
+  "đĩa bay - ở gần - chó1"
+]
+```
+
+frame_95:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ngồi trên - bát (xanh lá cây)",
+  "cần cẩu (vàng) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "ô (xanh da trời) - ở trên - cỏ",
+  "cỏ - ở gần - cát",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ)",
+  "giấy - ở trên - cỏ",
+  "bát (xanh lá cây) - ở gần - cỏ",
+  "tường - ở gần - cỏ",
+  "người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái) - ở gần - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - người2 (lớn - không xác định giới tính, mặc đồ hồng, đang nằm, thoải mái)",
+  "tường - ở trên - cỏ",
+  "chó1 - ở trên - cỏ",
+  "cỏ - ở gần - chó1",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - chó1",
+  "cỏ - ở gần - đồ chơi (vàng)",
+  "đồ chơi (vàng) - ở trên - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - đồ chơi (vàng)",
+  "chuối (tím) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - chạm vào - chó1",
+  "đĩa bay - ở gần - chó1"
+]
+```
+
+frame_96:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ngồi trên - chó1 (xanh ngọc)",
+  "cần cẩu (vàng) - ở trên - vỉa hè",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - vỉa hè",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ)",
+  "tường - ở gần - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "chó1 (xanh ngọc) - ở trên - cỏ",
+  "cỏ - ở gần - chó1 (xanh ngọc)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - chó1 (xanh ngọc)",
+  "cỏ - ở gần - đồ chơi (đỏ)",
+  "đồ chơi (đỏ) - ở trên - vỉa hè",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - chạm vào - chó1 (xanh ngọc)"
+]
+```
+
+frame_97:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ngồi trên - ngựa1 (xám trắng)",
+  "cần cẩu (vàng) - ở trên - vỉa hè",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - vỉa hè",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ)",
+  "tường - ở gần - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "ngựa1 (xám trắng) - ở trên - cỏ",
+  "cỏ - ở gần - ngựa1 (xám trắng)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - ngựa1 (xám trắng)",
+  "cỏ - ở gần - đồ chơi (đỏ)",
+  "đồ chơi (đỏ) - ở trên - vỉa hè",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - người2 (không xác định tuổi - không xác định giới tính, mặc áo cam, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_98:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ngồi trên - ngựa (xám trắng)",
+  "cần cẩu (vàng) - ở trên - vỉa hè",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - cần cẩu (vàng)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - vỉa hè",
+  "xe tải (đỏ) - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ)",
+  "tường - ở gần - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "ngựa (xám trắng) - ở trên - cỏ",
+  "cỏ - ở gần - ngựa (xám trắng)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - ngựa (xám trắng)",
+  "cỏ - ở gần - đồ chơi (đỏ)",
+  "đồ chơi (đỏ) - ở trên - vỉa hè",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - người2 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang đứng, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang đứng, vui vẻ) - ở gần - chó (xanh lam)"
+]
+```
+
+frame_99:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - chó (xanh lam)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "người1 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - người2 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang đứng, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang đứng, vui vẻ) - ở gần - chó (xanh lam)"
+]
+```
+
+frame_100:
+```json
+[
+  "cỏ - ở gần - người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - chó (xanh lam)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - ngựa (xanh lam)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chơi đùa cùng chú chó, vui vẻ) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang đứng, vui vẻ)"
+]
+```
+
+frame_101:
+```json
+[
+  "cỏ - ở gần - người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang vuốt ve chú chó, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang vuốt ve chú chó, vui vẻ) - ở gần - chó (đen)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang vuốt ve chú chó, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang vuốt ve chú chó, vui vẻ) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "mặt đường - ở gần - đồ chơi (đỏ)"
+]
+```
+
+frame_102:
+```json
+[
+  "cỏ - ở gần - người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang vuốt ve chú chó, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang vuốt ve chú chó, vui vẻ) - ở gần - chó (đen)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang vuốt ve chú chó, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang vuốt ve chú chó, vui vẻ) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "mặt đường - ở gần - đồ chơi (đỏ)"
+]
+```
+
+frame_103:
+```json
+[
+  "cỏ - ở gần - người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang vuốt ve chú chó, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang vuốt ve chú chó, vui vẻ) - ở gần - chó (đen)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang vuốt ve chú chó, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang vuốt ve chú chó, vui vẻ) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chạm vào chó, vui vẻ)",
+  "mặt đường - ở gần - đồ chơi (đỏ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chạm vào chó, vui vẻ) - chạm vào - chó (đen)"
+]
+```
+
+frame_104:
+```json
+[
+  "cỏ - ở gần - người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chạm vào chó, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chạm vào chó, vui vẻ) - ở gần - chó (đen)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chạm vào chó, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chạm vào chó, vui vẻ) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chạm vào chó, vui vẻ)",
+  "mặt đường - ở gần - đồ chơi (đỏ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chạm vào chó, vui vẻ) - chạm vào - chó (đen)"
+]
+```
+
+frame_105:
+```json
+[
+  "cỏ - ở gần - người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chạm vào chó, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chạm vào chó, vui vẻ) - ở gần - chó (đen)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chạm vào chó, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chạm vào chó, vui vẻ) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chạm vào chó, vui vẻ)",
+  "mặt đường - ở gần - đồ chơi (đỏ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chạm vào chó, vui vẻ) - chạm vào - chó (đen)"
+]
+```
+
+frame_106:
+```json
+[
+  "cỏ - ở gần - người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chạm vào chó, vui vẻ)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chạm vào chó, vui vẻ) - ở gần - chó (đen)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chạm vào chó, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "người2 (trẻ - không xác định giới tính, mặc đồ kẻ sọc, đang chạm vào chó, vui vẻ) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chạm vào chó, vui vẻ)",
+  "mặt đường - ở gần - đồ chơi (đỏ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chạm vào chó, vui vẻ) - chạm vào - chó (đen)"
+]
+```
+
+frame_107:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang vuốt ve chó, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang vuốt ve chó, vui vẻ) - ở gần - chó (đen)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang vuốt ve chó, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "mặt đường - ở gần - đồ chơi (đỏ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang vuốt ve chó, vui vẻ) - chạm vào - chó (đen)"
+]
+```
+
+frame_108:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở gần - chó (đen)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "mặt đường - ở gần - đồ chơi (đỏ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - chạm vào - chó (đen)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở trên - mặt đường",
+  "đồ chơi (đỏ) - ở trên - mặt đường"
+]
+```
+
+frame_109:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở gần - người2 (trẻ - không xác định giới tính, , đang ngồi, vui vẻ)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "mặt đường - ở gần - đồ chơi (đỏ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - chạm vào - người2 (trẻ - không xác định giới tính, , đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở trên - mặt đường",
+  "đồ chơi (đỏ) - ở trên - mặt đường",
+  "cát - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "chuối (vàng) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "bụi bẩn - ở gần - người2 (trẻ - không xác định giới tính, , đang ngồi, vui vẻ)"
+]
+```
+
+frame_110:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở gần - người2 (trẻ - không xác định giới tính, mặc áo cam, đang ngồi, vui vẻ)",
+  "tường gỗ - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "tường - ở trên - cỏ",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở gần - đồ chơi (đỏ)",
+  "mặt đường - ở gần - đồ chơi (đỏ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - chạm vào - người2 (trẻ - không xác định giới tính, mặc áo cam, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở trên - mặt đường",
+  "đồ chơi (đỏ) - ở trên - mặt đường",
+  "cát - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "chuối (vàng) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "bụi bẩn - ở gần - người2 (trẻ - không xác định giới tính, mặc áo cam, đang ngồi, vui vẻ)"
+]
+```
+
+frame_111:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - cầm - chuối (vàng)",
+  "tường - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở trên - mặt đường",
+  "cát - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "chuối (vàng) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "chó (xanh lam) - ở trên - cỏ",
+  "chó (xanh lam) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)"
+]
+```
+
+frame_112:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ) - cầm - chuối (vàng)",
+  "tường - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ) - ở trên - mặt đường",
+  "cát - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)",
+  "chuối (vàng) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)",
+  "chó (đen) - ở trên - cỏ",
+  "chó (đen) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)"
+]
+```
+
+frame_113:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ) - cầm - chuối (vàng)",
+  "tường - ở trên - cỏ",
+  "cỏ - ở gần - tường",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ) - ở trên - mặt đường",
+  "cát - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)",
+  "chuối (vàng) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)",
+  "cỏ - ở gần - xe tải (xanh lá cây)",
+  "xe tải (xanh lá cây) - ở trên - cát",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "đất - ở gần - xe tải (xanh lá cây)"
+]
+```
+
+frame_114:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "cát - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)",
+  "xe tải (xanh dương) - ở trên - cát",
+  "cát - ở gần - xe tải (xanh dương)",
+  "cỏ - ở gần - xe tải (xanh dương)",
+  "bồn cầu (xanh lá cây) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ) - ở gần - bồn cầu (xanh lá cây)",
+  "cát - ở gần - bồn cầu (xanh lá cây)"
+]
+```
+
+frame_115:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "cát - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)",
+  "xe tải (xanh dương) - ở trên - cát",
+  "cát - ở gần - xe tải (xanh dương)",
+  "cỏ - ở gần - xe tải (xanh dương)",
+  "bồn cầu (xanh lá cây) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ) - ở gần - bồn cầu (xanh lá cây)",
+  "cát - ở gần - bồn cầu (xanh lá cây)",
+  "người2 (lớn tuổi - không xác định giới tính, mặc áo cam, đang đứng, bình thường) - ở trên - cỏ",
+  "cỏ - ở gần - người2 (lớn tuổi - không xác định giới tính, mặc áo cam, đang đứng, bình thường)",
+  "chim (nâu) - ở trên - cỏ",
+  "cỏ - ở gần - chim (nâu)",
+  "bò (trắng) - ở trên - cỏ",
+  "cỏ - ở gần - bò (trắng)",
+  "chó (xanh dương) - ở gần - bò (trắng)"
+]
+```
+
+frame_116:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ) - ở trên - cát",
+  "cát - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)",
+  "xe tải (xanh dương) - ở trên - cát",
+  "cát - ở gần - xe tải (xanh dương)",
+  "cỏ - ở gần - xe tải (xanh dương)",
+  "bồn cầu (xanh lá cây) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang chơi, vui vẻ) - ở gần - bồn cầu (xanh lá cây)",
+  "cát - ở gần - bồn cầu (xanh lá cây)",
+  "người2 (lớn tuổi - không xác định giới tính, mặc áo cam, đang đứng, bình thường) - ở trên - cỏ",
+  "cỏ - ở gần - người2 (lớn tuổi - không xác định giới tính, mặc áo cam, đang đứng, bình thường)",
+  "chim (nâu) - ở trên - cỏ",
+  "cỏ - ở gần - chim (nâu)",
+  "bò (trắng) - ở trên - cỏ",
+  "cỏ - ở gần - bò (trắng)",
+  "chó (xanh dương) - ở gần - bò (trắng)",
+  "chó (xanh dương) - ở trên - cỏ",
+  "cỏ - ở gần - chó (xanh dương)",
+  "bồn cầu (xanh lá cây) - ở gần - chó (xanh dương)"
+]
+```
+
+frame_117:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở trên - đất",
+  "đất - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "xe tải (xanh dương) - ở trên - đất",
+  "đất - ở gần - xe tải (xanh dương)",
+  "cỏ - ở gần - xe tải (xanh dương)",
+  "bồn cầu (xanh lá cây) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở gần - bồn cầu (xanh lá cây)",
+  "đất - ở gần - bồn cầu (xanh lá cây)",
+  "người2 (lớn tuổi - không xác định giới tính, mặc áo cam, đang đứng, bình thường) - ở trên - cỏ",
+  "cỏ - ở gần - người2 (lớn tuổi - không xác định giới tính, mặc áo cam, đang đứng, bình thường)",
+  "chim (nâu) - ở trên - cỏ",
+  "cỏ - ở gần - chim (nâu)",
+  "bò (trắng) - ở trên - cỏ",
+  "cỏ - ở gần - bò (trắng)",
+  "chó (xanh dương) - ở gần - bò (trắng)",
+  "chó (xanh dương) - ở trên - cỏ",
+  "cỏ - ở gần - chó (xanh dương)",
+  "bồn cầu (xanh lá cây) - ở gần - chó (xanh dương)",
+  "ván lướt sóng (xanh) - ở gần - chó (xanh dương)",
+  "chó (xanh dương) - ở gần - ván lướt sóng (xanh)"
+]
+```
+
+frame_118:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở trên - đất",
+  "đất - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "xe tải (xanh dương) - ở trên - đất",
+  "đất - ở gần - xe tải (xanh dương)",
+  "cỏ - ở gần - xe tải (xanh dương)",
+  "bồn cầu (xanh lá cây) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở gần - bồn cầu (xanh lá cây)",
+  "đất - ở gần - bồn cầu (xanh lá cây)",
+  "người2 (lớn tuổi - không xác định giới tính, mặc áo cam, đang đứng, bình thường) - ở trên - cỏ",
+  "cỏ - ở gần - người2 (lớn tuổi - không xác định giới tính, mặc áo cam, đang đứng, bình thường)",
+  "chim (nâu) - ở trên - cỏ",
+  "cỏ - ở gần - chim (nâu)",
+  "bò (trắng) - ở trên - cỏ",
+  "cỏ - ở gần - bò (trắng)",
+  "chó (xanh dương) - ở gần - bò (trắng)",
+  "chó (xanh dương) - ở trên - cỏ",
+  "cỏ - ở gần - chó (xanh dương)",
+  "bồn cầu (xanh lá cây) - ở gần - chó (xanh dương)",
+  "ván lướt sóng (xanh) - ở gần - chó (xanh dương)",
+  "chó (xanh dương) - ở gần - ván lướt sóng (xanh)",
+  "tường - ở gần - cỏ",
+  "cỏ - ở gần - tường",
+  "lối đi - ở trên - cỏ",
+  "cỏ - ở gần - lối đi"
+]
+```
+
+frame_119:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở trên - đất",
+  "đất - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "xe tải (xanh dương) - ở trên - đất",
+  "đất - ở gần - xe tải (xanh dương)",
+  "cỏ - ở gần - xe tải (xanh dương)",
+  "bồn cầu (xanh lá cây) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ) - ở gần - bồn cầu (xanh lá cây)",
+  "đất - ở gần - bồn cầu (xanh lá cây)",
+  "người2 (lớn tuổi - không xác định giới tính, mặc áo cam, đang đứng, bình thường) - ở trên - cỏ",
+  "cỏ - ở gần - người2 (lớn tuổi - không xác định giới tính, mặc áo cam, đang đứng, bình thường)",
+  "chim (nâu) - ở trên - cỏ",
+  "cỏ - ở gần - chim (nâu)",
+  "bò (trắng) - ở trên - cỏ",
+  "cỏ - ở gần - bò (trắng)",
+  "chó (xanh dương) - ở gần - bò (trắng)",
+  "chó (xanh dương) - ở trên - cỏ",
+  "cỏ - ở gần - chó (xanh dương)",
+  "bồn cầu (xanh lá cây) - ở gần - chó (xanh dương)",
+  "ván lướt sóng (xanh) - ở gần - chó (xanh dương)",
+  "chó (xanh dương) - ở gần - ván lướt sóng (xanh)",
+  "tường - ở gần - cỏ",
+  "cỏ - ở gần - tường",
+  "lối đi - ở trên - cỏ",
+  "cỏ - ở gần - lối đi",
+  "chuối (vàng) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)",
+  "ghế (nâu) - ở gần - người1 (trẻ - không xác định giới tính, mặc áo kẻ sọc, đang ngồi, vui vẻ)"
+]
+```
+

@@ -1,0 +1,418 @@
+frame_0:
+```json
+[
+  "tủ1 (màu trắng) - ở trên - tường-gỗ1",
+  "ly1 (trong suốt) - ở trên - tủ1 (màu trắng)",
+  "tường-gỗ1 - ở sau - ghế2 (màu cam)",
+  "ghế2 (màu cam) - ở trên - sàn-gỗ1",
+  "vali1 (màu xanh lam) - ở trên - sàn-gỗ1",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang đứng sau, không xác định) - ở sau - vali1 (màu xanh lam)",
+  "ghế1 (màu nâu) - ở bên cạnh - vali1 (màu xanh lam)",
+  "vali1 (màu xanh lam) - ở trước - tường1",
+  "vật dụng cửa1 - ở trên - tường1"
+]
+```
+
+frame_1:
+```json
+[
+  "tủ1 (màu trắng) - ở trên - tường-gỗ1",
+  "ly1 (trong suốt) - ở trên - tủ1 (màu trắng)",
+  "tường-gỗ1 - ở sau - ghế2 (màu cam)",
+  "ghế2 (màu cam) - ở trên - sàn-gỗ1",
+  "vali1 (màu xanh lam) - ở trên - sàn-gỗ1",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang đứng sau, không xác định) - ở sau - vali1 (màu xanh lam)",
+  "ghế1 (màu nâu) - ở bên cạnh - vali1 (màu xanh lam)",
+  "vali1 (màu xanh lam) - ở trước - tường1",
+  "vật dụng cửa1 - ở trên - tường1",
+  "ghế1 (màu nâu) - ở bên cạnh - tường-gỗ1"
+]
+```
+
+frame_2:
+```json
+[
+  "tủ1 (màu trắng) - ở trên - tường-gỗ",
+  "ly1 (trong suốt) - ở trên - tủ1 (màu trắng)",
+  "tường-gỗ - ở sau - ghế2 (màu cam)",
+  "ghế2 (màu cam) - ở trên - sàn-gỗ",
+  "vali1 (màu xanh lam) - ở trên - sàn-gỗ",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang đứng sau, không xác định) - ở sau - vali1 (màu xanh lam)",
+  "ghế1 (màu nâu) - ở bên cạnh - vali1 (màu xanh lam)",
+  "vali1 (màu xanh lam) - ở trước - tường1",
+  "vật dụng cửa1 - ở trên - tường1",
+  "ghế1 (màu nâu) - ở bên cạnh - tường-gỗ",
+  "sàn-gỗ - ở trên - thảm1",
+  "vali1 (màu xanh lam) - ở trên - sàn-gỗ"
+]
+```
+
+frame_3:
+```json
+[
+  "tủ1 (màu trắng) - ở trên - tường-gỗ",
+  "ly1 (trong suốt) - ở trên - tủ1 (màu trắng)",
+  "tường-gỗ - ở sau - ghế2 (màu cam)",
+  "ghế2 (màu cam) - ở trên - sàn-gỗ",
+  "vali1 (màu hồng) - ở trên - sàn-gỗ",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang đứng sau, không xác định) - ở sau - vali1 (màu hồng)",
+  "ghế1 (màu nâu) - ở bên cạnh - vali1 (màu hồng)",
+  "vali1 (màu hồng) - ở trước - tường1",
+  "vật dụng cửa1 - ở trên - tường1",
+  "ghế1 (màu nâu) - ở bên cạnh - tường-gỗ",
+  "sàn-gỗ - ở trên - thảm1",
+  "vali1 (màu hồng) - ở trên - sàn-gỗ",
+  "vali1 (màu hồng) - ở trước - ghế1 (màu nâu)"
+]
+```
+
+frame_4:
+```json
+[
+  "tủ1 (màu trắng) - ở trên - tường-gỗ",
+  "ly1 (trong suốt) - ở trên - tủ1 (màu trắng)",
+  "tường-gỗ - ở sau - ghế2 (màu cam)",
+  "ghế2 (màu cam) - ở trên - sàn-gỗ",
+  "vali1 (màu hồng) - ở trên - sàn-gỗ",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định) - ở sau - vali1 (màu hồng)",
+  "ghế1 (màu nâu) - ở bên cạnh - vali1 (màu hồng)",
+  "vali1 (màu hồng) - ở trước - tường1",
+  "vật dụng cửa1 - ở trên - tường1",
+  "ghế1 (màu nâu) - ở bên cạnh - tường-gỗ",
+  "sàn-gỗ - ở trên - thảm1",
+  "vali1 (màu hồng) - ở trên - sàn-gỗ",
+  "vali1 (màu hồng) - ở trước - ghế1 (màu nâu)",
+  "ghế1 (màu nâu) - ở sau - người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định)"
+]
+```
+
+frame_5:
+```json
+[
+  "tủ1 (màu trắng) - ở trên - tường-gỗ",
+  "ly1 (trong suốt) - ở trên - tủ1 (màu trắng)",
+  "tường-gỗ - ở sau - ghế2 (màu cam)",
+  "ghế2 (màu cam) - ở trên - sàn-gỗ",
+  "vali1 (màu hồng) - ở trên - sàn-gỗ",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định) - ở sau - vali1 (màu hồng)",
+  "ghế1 (màu nâu) - ở bên cạnh - vali1 (màu hồng)",
+  "vali1 (màu hồng) - ở trước - tường1",
+  "vật dụng cửa1 - ở trên - tường1",
+  "ghế1 (màu nâu) - ở bên cạnh - tường-gỗ",
+  "sàn-gỗ - ở trên - thảm1",
+  "vali1 (màu hồng) - ở trên - sàn-gỗ",
+  "vali1 (màu hồng) - ở trước - ghế1 (màu nâu)",
+  "ghế1 (màu nâu) - ở sau - người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định)"
+]
+```
+
+frame_6:
+```json
+[
+  "tủ1 (màu trắng) - ở trên - tường-gỗ",
+  "ly1 (trong suốt) - ở trên - tủ1 (màu trắng)",
+  "tường-gỗ - ở sau - ghế2 (màu cam)",
+  "ghế2 (màu cam) - ở trên - sàn-gỗ",
+  "vali1 (màu hồng) - ở trên - sàn-gỗ",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định) - ở sau - vali1 (màu hồng)",
+  "ghế1 (màu nâu) - ở bên cạnh - vali1 (màu hồng)",
+  "vali1 (màu hồng) - ở trước - tường1",
+  "vật dụng cửa1 - ở trên - tường1",
+  "ghế1 (màu nâu) - ở bên cạnh - tường-gỗ",
+  "sàn-gỗ - ở trên - thảm1",
+  "vali1 (màu hồng) - ở trên - sàn-gỗ",
+  "vali1 (màu hồng) - ở trước - ghế1 (màu nâu)",
+  "ghế1 (màu nâu) - ở sau - người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định) - ở trước - vali1 (màu hồng)"
+]
+```
+
+frame_7:
+```json
+[
+  "tủ1 (màu trắng) - ở trên - tường-gỗ",
+  "ly1 (trong suốt) - ở trên - tủ1 (màu trắng)",
+  "tường-gỗ - ở sau - ghế2 (màu cam)",
+  "ghế2 (màu cam) - ở trên - sàn-gỗ",
+  "túi xách1 (màu hồng) - ở trên - sàn-gỗ",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định) - ở sau - túi xách1 (màu hồng)",
+  "ghế1 (màu nâu) - ở bên cạnh - túi xách1 (màu hồng)",
+  "túi xách1 (màu hồng) - ở trước - tường1",
+  "vật dụng cửa1 - ở trên - tường1",
+  "ghế1 (màu nâu) - ở bên cạnh - tường-gỗ",
+  "sàn-gỗ - ở trên - thảm1",
+  "túi xách1 (màu hồng) - ở trên - sàn-gỗ",
+  "túi xách1 (màu hồng) - ở trước - ghế1 (màu nâu)",
+  "ghế1 (màu nâu) - ở sau - người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định) - ở trước - túi xách1 (màu hồng)",
+  "vali2 (màu xanh da trời) - ở bên cạnh - người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định)",
+  "vali2 (màu xanh da trời) - ở trước - ghế3 (màu vàng)",
+  "vật dụng cửa1 - ở sau - vali2 (màu xanh da trời)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định) - đang tương tác - vali2 (màu xanh da trời)"
+]
+```
+
+frame_8:
+```json
+[
+  "bát1 (màu trắng) - trên - bàn",
+  "người2 (trẻ - không xác định, mặc quần áo tối màu, đang đứng, không xác định) - trên - bàn",
+  "ghế3 (màu vàng) - trên - sàn-gỗ",
+  "vali2 (màu xanh da trời) - bên cạnh - ghế3 (màu vàng)",
+  "vali2 (màu xanh da trời) - ở bên cạnh - người2 (trẻ - không xác định, mặc quần áo tối màu, đang đứng, không xác định)",
+  "sàn-gỗ - ở dưới - vali2 (màu xanh da trời)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định) - ở bên cạnh - tủ1 (màu xanh lá cây)",
+  "tủ1 (màu xanh lá cây) - ở trên - tủ (màu xanh lá cây)",
+  "sách1 (màu nâu) - ở trên - tủ (màu xanh lá cây)",
+  "tủ1 (màu xanh lá cây) - ở bên cạnh - kệ",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định) - ở phía trước - tủ1 (màu xanh lá cây)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định) - ở phía trước - người2 (trẻ - không xác định, mặc quần áo tối màu, đang đứng, không xác định)"
+]
+```
+
+frame_9:
+```json
+[
+  "tường - ở sau - tủ (màu xanh lá cây)",
+  "tủ (màu xanh lá cây) - ở trên - tường",
+  "sàn-gỗ - ở dưới - người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định)",
+  "tường-gỗ - ở trên - ghế4 (màu nâu)",
+  "ghế4 (màu nâu) - ở bên cạnh - người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang cầm máy hút bụi, không xác định) - ở trước - bìa các tông"
+]
+```
+
+frame_10:
+```json
+[
+  "tường - ở sau - tủ (màu xanh lá cây)",
+  "tủ (màu xanh lá cây) - ở trên - tường",
+  "sàn-gỗ - ở dưới - người1 (trẻ - không xác định, mặc quần áo tối màu, đang cắm máy hút bụi, không xác định)",
+  "tường-gỗ - ở trên - ghế4 (màu nâu)",
+  "ghế4 (màu nâu) - ở bên cạnh - người1 (trẻ - không xác định, mặc quần áo tối màu, đang cắm máy hút bụi, không xác định)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, không xác định) - ở trước - cốc",
+  "ghế2 - ở phía sau - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, không xác định)",
+  "người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, không xác định) - ở gần - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, không xác định)",
+  "sàn-gỗ - ở dưới - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, không xác định)"
+]
+```
+
+frame_11:
+```json
+[
+  "tường - ở sau - tủ (màu xanh lá cây)",
+  "tủ (màu xanh lá cây) - ở trên - tường",
+  "sàn-gỗ - ở dưới - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, không xác định)",
+  "tường-gỗ - ở trên - ghế4 (màu nâu)",
+  "ghế4 (màu nâu) - ở bên cạnh - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, không xác định)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - ở trước - cốc",
+  "ghế2 - ở phía sau - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "sàn-gỗ - ở dưới - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "kệ - ở trên - biểu ngữ",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "ghế4 (màu nâu) - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)"
+]
+```
+
+frame_12:
+```json
+[
+  "tường - ở sau - tủ (màu xanh lá cây)",
+  "tủ (màu xanh lá cây) - ở trên - tường",
+  "sàn-gỗ - ở dưới - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "tường-gỗ - ở trên - ghế4 (màu nâu)",
+  "ghế4 (màu nâu) - ở bên cạnh - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - ở trước - cốc",
+  "ghế2 - ở phía sau - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "sàn-gỗ - ở dưới - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "kệ - ở trên - biểu ngữ",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "ghế4 (màu nâu) - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "tường - ở sau - máy hút bụi",
+  "máy hút bụi - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "ghế5 - ở trên - sàn-gỗ",
+  "tường-gỗ - ở trên - ghế5",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - đang cầm - máy hút bụi"
+]
+```
+
+frame_13:
+```json
+[
+  "tường - ở sau - tủ (màu xanh lá cây)",
+  "tủ (màu xanh lá cây) - ở trên - tường",
+  "sàn-gỗ - ở dưới - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "tường-gỗ - ở trên - ghế4 (màu nâu)",
+  "ghế4 (màu nâu) - ở bên cạnh - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - ở trước - cốc",
+  "ghế2 - ở phía sau - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "sàn-gỗ - ở dưới - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "kệ - ở trên - biểu ngữ",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "ghế4 (màu nâu) - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "tường - ở sau - máy hút bụi",
+  "máy hút bụi - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "ghế5 (màu vàng) - ở trên - sàn-gỗ",
+  "tường-gỗ - ở trên - ghế5 (màu vàng)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - đang cầm - máy hút bụi"
+]
+```
+
+frame_14:
+```json
+[
+  "tường - ở sau - tủ (màu xanh lá cây)",
+  "tủ (màu xanh lá cây) - ở trên - tường",
+  "sàn-gỗ - ở dưới - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "tường-gỗ - ở trên - ghế4 (màu nâu)",
+  "ghế4 (màu nâu) - ở bên cạnh - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - ở trước - cốc",
+  "ghế2 - ở phía sau - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "sàn-gỗ - ở dưới - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "kệ - ở trên - biểu ngữ",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "ghế4 (màu nâu) - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "tường - ở sau - máy hút bụi",
+  "máy hút bụi - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "ghế5 (màu vàng) - ở trên - sàn-gỗ",
+  "tường-gỗ - ở trên - ghế5 (màu vàng)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - đang cầm - máy hút bụi",
+  "người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò) - ở gần - bàn chải đánh răng (màu trắng)",
+  "bàn chải đánh răng (màu trắng) - ở gần - người4 (trẻ - không xác định, mặc áo hồng, đang đứng, tò mò)",
+  "người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò) - ở gần - người4 (trẻ - không xác định, mặc áo hồng, đang đứng, tò mò)",
+  "sàn-gỗ - ở dưới - người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò)",
+  "sàn-gỗ - ở dưới - người4 (trẻ - không xác định, mặc áo hồng, đang đứng, tò mò)",
+  "ghế5 (màu vàng) - ở trên - sàn-gỗ",
+  "tường-gỗ - ở trên - ghế5 (màu vàng)"
+]
+```
+
+frame_15:
+```json
+[
+  "rèm - ở sau - cốc",
+  "ghế2 - ở phía sau - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "sàn-gỗ - ở dưới - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "ghế4 (màu nâu) - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "tường - ở sau - máy hút bụi",
+  "máy hút bụi - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - đang cầm - máy hút bụi",
+  "người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò) - ở gần - máy hút bụi",
+  "máy hút bụi - ở gần - người4 (trẻ - không xác định, mặc áo hồng, đang đứng, tò mò)",
+  "người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò) - ở gần - người4 (trẻ - không xác định, mặc áo hồng, đang đứng, tò mò)",
+  "sàn-gỗ - ở dưới - người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò)",
+  "sàn-gỗ - ở dưới - người4 (trẻ - không xác định, mặc áo hồng, đang đứng, tò mò)",
+  "tường - ở sau - tủ (màu xanh lá cây)",
+  "tủ (màu xanh lá cây) - ở trên - tường",
+  "sàn-gỗ - ở dưới - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "tường-gỗ - ở trên - ghế4 (màu nâu)",
+  "ghế4 (màu nâu) - ở bên cạnh - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - ở trước - cốc",
+  "kệ - ở trên - biểu ngữ",
+  "ghế5 (màu vàng) - ở trên - sàn-gỗ",
+  "tường-gỗ - ở trên - ghế5 (màu vàng)"
+]
+```
+
+frame_16:
+```json
+[
+  "cốc - ở sau - rèm",
+  "ghế2 - ở phía sau - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "sàn-gỗ - ở dưới - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "ghế4 (màu nâu) - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "tường - ở sau - máy hút bụi",
+  "máy hút bụi - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - đang cầm - máy hút bụi",
+  "người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò) - ở gần - máy hút bụi",
+  "máy hút bụi - ở gần - người3 (trẻ - nam, mặc áo hồng, đang đứng, tò mò)",
+  "người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò) - ở gần - người3 (trẻ - nam, mặc áo hồng, đang đứng, tò mò)",
+  "sàn-gỗ - ở dưới - người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò)",
+  "tường - ở sau - tủ (màu xanh lá cây)",
+  "tủ (màu xanh lá cây) - ở trên - tường",
+  "sàn-gỗ - ở dưới - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "tường-gỗ - ở trên - ghế4 (màu nâu)",
+  "ghế4 (màu nâu) - ở bên cạnh - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - ở trước - cốc",
+  "kệ - ở trên - biểu ngữ",
+  "ghế5 (màu vàng) - ở trên - sàn-gỗ",
+  "tường-gỗ - ở trên - ghế5 (màu vàng)",
+  "ghế1 (màu cam) - ở gần - người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò)",
+  "giấy - ở gần - máy hút bụi",
+  "tường-gỗ - ở phía sau - máy hút bụi",
+  "cốc1 - ở trên - máy hút bụi",
+  "cốc2 - ở trên - máy hút bụi",
+  "cốc3 - ở trên - máy hút bụi",
+  "sàn-gỗ - ở dưới - máy hút bụi"
+]
+```
+
+frame_17:
+```json
+[
+  "cốc - ở sau - rèm",
+  "ghế2 - ở phía sau - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "sàn-gỗ - ở dưới - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "ghế4 (màu nâu) - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "tường - ở sau - máy hút bụi",
+  "máy hút bụi - ở gần - người2 (trẻ - không xác định, mặc quần áo sáng màu, đang nhìn, ngạc nhiên)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - đang cầm - máy hút bụi",
+  "người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò) - ở gần - máy hút bụi",
+  "máy hút bụi - ở gần - người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò)",
+  "người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò) - ở gần - người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò)",
+  "sàn-gỗ - ở dưới - người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò)",
+  "tường - ở sau - tủ (màu xanh lá cây)",
+  "tủ (màu xanh lá cây) - ở trên - tường",
+  "sàn-gỗ - ở dưới - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "tường-gỗ - ở trên - ghế4 (màu nâu)",
+  "ghế4 (màu nâu) - ở bên cạnh - người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên)",
+  "người1 (trẻ - không xác định, mặc quần áo tối màu, đang hút bụi, ngạc nhiên) - ở trước - cốc",
+  "kệ - ở trên - biểu ngữ",
+  "ghế5 (màu vàng) - ở trên - sàn-gỗ",
+  "tường-gỗ - ở trên - ghế5 (màu vàng)",
+  "ghế1 (màu cam) - ở gần - người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò)",
+  "giấy - ở gần - máy hút bụi",
+  "tường-gỗ - ở phía sau - máy hút bụi",
+  "cốc1 - ở trên - máy hút bụi",
+  "cốc2 - ở trên - máy hút bụi",
+  "cốc3 - ở trên - máy hút bụi",
+  "sàn-gỗ - ở dưới - máy hút bụi",
+  "bàn ăn - ở trên - ghế1 (màu cam)",
+  "sàn-gỗ - ở dưới - người3 (trẻ - nam, mặc áo hồng, đang ngồi, tò mò)"
+]
+```
+
+frame_18:
+```json
+[
+  "tường - ở sau - người3 (trẻ - nam, mặc áo hồng, đang nhìn, tò mò)",
+  "ghế5 (màu vàng) - ở gần - người3 (trẻ - nam, mặc áo hồng, đang nhìn, tò mò)",
+  "sàn-gỗ - ở dưới - người3 (trẻ - nam, mặc áo hồng, đang nhìn, tò mò)"
+]
+```
+
+frame_19:
+```json
+[
+  "trời - ở sau - người3 (trẻ - nam, mặc áo hồng, đang nhìn, tò mò)",
+  "sàn-gỗ - ở dưới - người3 (trẻ - nam, mặc áo hồng, đang nhìn, tò mò)"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, không mặc gì, đang nhìn, nghiêm túc) - ở cạnh - tường"
+]
+```
+

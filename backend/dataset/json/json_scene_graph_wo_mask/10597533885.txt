@@ -1,0 +1,989 @@
+frame_0:
+```json
+[
+  "kệ - bên cạnh - trẻ (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "rèm cửa - phía sau - trẻ (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc) - chơi với - đồ chơi"
+]
+```
+
+frame_1:
+```json
+[
+  "kệ - bên cạnh - trẻ (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "rèm cửa - phía sau - trẻ (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc) - chơi với - đồ chơi"
+]
+```
+
+frame_2:
+```json
+[
+  "kệ - bên cạnh - trẻ (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "rèm cửa - phía sau - trẻ (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc) - chơi với - đồ chơi"
+]
+```
+
+frame_3:
+```json
+[
+  "kệ - bên cạnh - trẻ (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "rèm cửa - phía sau - trẻ (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc) - chơi với - đồ chơi",
+  "ghế (bằng gỗ) - bên cạnh - trẻ (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_4:
+```json
+[
+  "kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc) - chơi với - đồ chơi",
+  "ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_5:
+```json
+[
+  "kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc) - chơi với - đồ chơi",
+  "ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_6:
+```json
+[
+  "kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc) - chơi với - đồ chơi",
+  "ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_7:
+```json
+[
+  "kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc) - chơi với - đồ chơi",
+  "ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_8:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_9:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_10:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_11:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_12:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_13:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_14:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_15:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_16:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_17:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_18:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_19:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_20:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_21:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_22:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_23:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_24:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, không rõ cảm xúc)"
+]
+```
+
+frame_25:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_26:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_27:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_28:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_29:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_30:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_31:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_32:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_33:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_34:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_35:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_36:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_37:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_38:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_39:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)"
+]
+```
+
+frame_40:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Thùng - bên trong - thú nhồi bông"
+]
+```
+
+frame_41:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - thùng"
+]
+```
+
+frame_42:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, đang chơi) - chơi với - thùng"
+]
+```
+
+frame_43:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_44:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_45:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_46:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_47:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_48:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_49:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_50:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_51:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_52:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_53:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_54:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_55:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_56:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_57:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_58:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng"
+]
+```
+
+frame_59:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - không rõ giới tính, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_60:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_61:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_62:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_63:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_64:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_65:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_66:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_67:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_68:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_69:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_70:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_71:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_72:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_73:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_74:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_75:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_76:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_77:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_78:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_79:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nam, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_80:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_81:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_82:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_83:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_84:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_85:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)"
+]
+```
+
+frame_86:
+```json
+[
+  "Kệ - bên cạnh - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Rèm cửa - phía sau - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - đồ chơi",
+  "Ghế (bằng gỗ) - bên cạnh - trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ)",
+  "Thùng - bên trong - thú nhồi bông",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chơi với - Thùng",
+  "trẻ1 (trẻ - nữ, mặc áo trắng, đang chơi đồ chơi, vui vẻ) - chạm vào - đồ chơi1 (nhiều màu)",
+  "Kệ - chứa - thú nhồi bông"
+]
+```
+

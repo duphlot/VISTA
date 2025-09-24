@@ -1,0 +1,54 @@
+frame_0000.jpg: a woman and two children petting a horse
+frame_0001.jpg: a group of people petting a horse
+frame_0002.jpg: a woman is petting a small horse
+frame_0003.jpg: a woman is petting a small dog
+frame_0004.jpg: a woman is petting a small dog
+frame_0005.jpg: a woman is petting a small horse
+frame_0006.jpg: a man is petting a small horse
+frame_0007.jpg: a man is petting a small horse
+frame_0008.jpg: a man is petting a horse in a field
+frame_0009.jpg: a woman petting a horse
+frame_0010.jpg: a group of people petting a small horse
+frame_0011.jpg: a man is petting a small horse
+frame_0012.jpg: a group of people petting a horse
+frame_0013.jpg: a group of people petting a horse
+frame_0014.jpg: a group of people petting a horse
+frame_0015.jpg: a group of people petting a horse
+frame_0016.jpg: a group of people petting a small horse
+frame_0017.jpg: a woman is petting a small horse
+frame_0018.jpg: a man is petting a small horse
+frame_0019.jpg: a woman is petting a small horse
+frame_0020.jpg: a woman and two children petting a horse
+frame_0021.jpg: a woman is petting a small horse
+frame_0022.jpg: a woman is petting a small horse
+frame_0023.jpg: a woman is petting a small horse
+frame_0024.jpg: a man is petting a small horse
+frame_0025.jpg: a woman is petting a small horse
+frame_0026.jpg: a woman is petting a small horse
+frame_0027.jpg: a woman is petting a small horse
+frame_0028.jpg: a woman is petting a small pony
+frame_0029.jpg: a man is petting a small horse
+frame_0030.jpg: a woman holding a baby horse
+frame_0031.jpg: a woman is petting a small horse
+frame_0032.jpg: a woman is petting a small horse
+frame_0033.jpg: a woman is petting a horse in a field
+frame_0034.jpg: a woman is petting a small pony
+frame_0035.jpg: a woman is petting a small pony
+frame_0036.jpg: a man is petting a small pony
+frame_0037.jpg: a man is petting a small horse
+frame_0038.jpg: a woman is petting a small horse
+frame_0039.jpg: a woman petting a small horse in a field
+frame_0040.jpg: a woman is petting a small pony
+frame_0041.jpg: a woman is petting a small horse
+frame_0042.jpg: a woman is petting a small horse
+frame_0043.jpg: a woman is petting a small horse
+frame_0044.jpg: a woman is petting a small horse
+frame_0045.jpg: a woman is petting a small horse
+frame_0046.jpg: a woman is petting a small horse
+frame_0047.jpg: a woman is petting a small horse
+frame_0048.jpg: a woman is petting a horse in a field
+frame_0049.jpg: a woman is petting a small horse
+frame_0050.jpg: a woman is petting a small horse
+frame_0051.jpg: a woman is petting a small horse
+frame_0052.jpg: a woman is petting a small horse
+frame_0053.jpg: a woman is petting a small horse

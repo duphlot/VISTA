@@ -1,0 +1,1032 @@
+frame_0:
+```json
+[
+  "Cỏ - ở dưới - Cây",
+  "Voi 76% - gần - Cây",
+  "Cây - bao phủ - Cỏ"
+]
+```
+
+frame_1:
+```json
+[
+  "Cỏ - ở dưới - Cây",
+  "Voi 93% - gần - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - dựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Cỏ"
+]
+```
+
+frame_2:
+```json
+[
+  "Cỏ - ở dưới - Cây",
+  "Voi 68% - gần - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - dựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 55%"
+]
+```
+
+frame_3:
+```json
+[
+  "Cỏ - ở dưới - Cây",
+  "Voi 53% - gần - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - dựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 65%",
+  "Cây - che phủ - Bầu trời"
+]
+```
+
+frame_4:
+```json
+[
+  "Cỏ - ở dưới - Cây",
+  "Voi 53% - gần - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - dựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 68%",
+  "Cây - che phủ - Bầu trời",
+  "Chim 85% - ở trên - Cỏ",
+  "Ghế sofa 68% - ở trên - Cỏ"
+]
+```
+
+frame_5:
+```json
+[
+  "Cỏ - ở dưới - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - dựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 80%",
+  "Cây - che phủ - Bầu trời",
+  "Ghế sofa 80% - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Chim 63% - ở trên - Cỏ"
+]
+```
+
+frame_6:
+```json
+[
+  "Cỏ - ở dưới - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - dựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 92%",
+  "Cây - che phủ - Bầu trời",
+  "Ghế sofa 92% - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Chim 79% - ở trên - Cỏ"
+]
+```
+
+frame_7:
+```json
+[
+  "Cỏ - ở dưới - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - dựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 88%",
+  "Cây - che phủ - Bầu trời",
+  "Ghế sofa 88% - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Voi 78% - ở trên - Cỏ"
+]
+```
+
+frame_8:
+```json
+[
+  "Cỏ - ở dưới - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - tựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 95%",
+  "Cây - che phủ - Bầu trời",
+  "Ghế sofa 95% - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Voi 74% - ở trên - Cỏ"
+]
+```
+
+frame_9:
+```json
+[
+  "Cỏ - ở dưới - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - tựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 93%",
+  "Cây - che phủ - Bầu trời",
+  "Ghế sofa 93% - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Voi 74% - ở trên - Cỏ"
+]
+```
+
+frame_10:
+```json
+[
+  "Cỏ - ở dưới - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - tựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 94%",
+  "Cây - che phủ - Bầu trời",
+  "Ghế sofa 94% - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Voi 77% - ở trên - Cỏ"
+]
+```
+
+frame_11:
+```json
+[
+  "Cỏ - ở dưới - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - tựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 94%",
+  "Cây - che phủ - Bầu trời",
+  "Ghế sofa 94% - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Voi 95% - ở trên - Cỏ"
+]
+```
+
+frame_12:
+```json
+[
+  "Cỏ - ở dưới - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - tựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 93%",
+  "Cây - che phủ - Bầu trời",
+  "Ghế sofa 93% - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Ngựa 59% - ở trên - Cỏ",
+  "Hàng rào - ở trên - Cỏ",
+  "Ghế sofa 93% - ở trên - Cỏ"
+]
+```
+
+frame_13:
+```json
+[
+  "Bầu trời - ở trên - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - tựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 98%",
+  "Cây - che phủ - Bầu trời",
+  "Ghế sofa 98% - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Chim 65% - ở trên - Cỏ",
+  "Ghế sofa 98% - ở trên - Cỏ"
+]
+```
+
+frame_14:
+```json
+[
+  "B\u1ea7u tr\u1eddi - \u1edf tr\u00ean - C\u00e2y",
+  "C\u00e2y - bao ph\u1ee7 - C\u1ecf",
+  "Ng\u01b0\u1eddi1 (trung ni\u00ean - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c qu\u1ea7n \u00e1o m\u00e0u n\u00e2u nh\u1ea1t, \u0111ang n\u1eb1m, th\u01b0 gi\u00e3n) - t\u1ef1a v\u00e0o - C\u00e2y",
+  "Ng\u01b0\u1eddi1 (trung ni\u00ean - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c qu\u1ea7n \u00e1o m\u00e0u n\u00e2u nh\u1ea1t, \u0111ang n\u1eb1m, th\u01b0 gi\u00e3n) - n\u1eb1m tr\u00ean - Gh\u1ebf sofa 98%",
+  "C\u00e2y - che ph\u1ee7 - B\u1ea7u tr\u1eddi",
+  "Gh\u1ebf sofa 98% - \u1edf tr\u00ean - C\u1ecf",
+  "\u0110\u1ea5t - \u1edf tr\u00ean - C\u1ecf",
+  "Gh\u1ebf sofa 98% - \u1edf tr\u00ean - C\u1ecf"
+]
+```
+
+frame_15:
+```json
+[
+  "Bầu trời - ở trên - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - tựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 97%",
+  "Cây - che phủ - Bầu trời",
+  "Ghế sofa 97% - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Ghế sofa 97% - ở trên - Cỏ",
+  "Voi 79% - ở trên - Cỏ"
+]
+```
+
+frame_16:
+```json
+[
+  "Bầu trời - ở trên - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - tựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 94%",
+  "Cây - che phủ - Bầu trời",
+  "Ghế sofa 94% - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Ghế sofa 94% - ở trên - Cỏ",
+  "Voi 71% - ở trên - Cỏ",
+  "Tường - ở trên - Cỏ",
+  "Ghế 65% (màu vàng) - ở trên - Cỏ",
+  "Ghế 65% (màu vàng) - cạnh - Ghế sofa 94%"
+]
+```
+
+frame_17:
+```json
+[
+  "Bầu trời - ở trên - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - tựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa 81%",
+  "Cây - che phủ - Bầu trời",
+  "Ghế sofa 81% - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Ghế sofa 81% - ở trên - Cỏ",
+  "Voi 73% - ở trên - Cỏ",
+  "Tường - ở trên - Cỏ",
+  "Ghế 64% (màu vàng) - ở trên - Cỏ",
+  "Ghế 64% (màu vàng) - cạnh - Ghế sofa 81%",
+  "Ghế 67% (màu đỏ) - ở trên - Cỏ",
+  "Ghế 67% (màu đỏ) - cạnh - Ghế sofa 81%"
+]
+```
+
+frame_18:
+```json
+[
+  "Bầu trời - ở trên - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - tựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa (màu xanh lam)",
+  "Cây - che phủ - Bầu trời",
+  "Ghế sofa (màu xanh lam) - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Ghế sofa (màu xanh lam) - ở trên - Cỏ",
+  "Ghế (màu cam) - ở trên - Cỏ",
+  "Ghế (màu cam) - cạnh - Ghế sofa (màu xanh lam)",
+  "Chim (màu đỏ) - ở trên - Cây",
+  "Ván trượt (màu vàng) - ở trên - Cây",
+  "Ghế (màu hồng) - ở trên - Cỏ",
+  "Ghế (màu hồng) - cạnh - Ghế sofa (màu xanh lam)"
+]
+```
+
+frame_19:
+```json
+[
+  "Bầu trời - ở trên - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - tựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Ghế sofa (màu xanh lam)",
+  "Cây - che phủ - Bầu trời",
+  "Ghế sofa (màu xanh lam) - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Ghế sofa (màu xanh lam) - ở trên - Cỏ",
+  "Ghế (màu cam) - ở trên - Cỏ",
+  "Ghế (màu cam) - cạnh - Ghế sofa (màu xanh lam)",
+  "Cây - có - Chim (màu đen)",
+  "Ghế (màu cam) - ở gần - Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn)"
+]
+```
+
+frame_20:
+```json
+[
+  "Bầu trời - ở trên - Cây",
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - tựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn) - nằm trên - Giường (màu tím)",
+  "Cây - che phủ - Bầu trời",
+  "Giường (màu tím) - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Giường (màu tím) - ở trên - Cỏ",
+  "Bàn ăn (màu xanh ngọc) - ở trên - Cỏ",
+  "Bàn ăn (màu xanh ngọc) - cạnh - Giường (màu tím)",
+  "Cây - có - Chim (màu đen)",
+  "Bàn ăn (màu xanh ngọc) - ở gần - Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang nằm, thư giãn)"
+]
+```
+
+frame_21:
+```json
+[
+  "Cây - bao phủ - Cỏ",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang kéo ga giường, có vẻ mệt mỏi) - tựa vào - Cây",
+  "Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang kéo ga giường, có vẻ mệt mỏi) - tương tác với - Giường (màu tím)",
+  "Cây - che phủ - Bầu trời",
+  "Giường (màu tím) - ở trên - Cỏ",
+  "Đất - ở trên - Cỏ",
+  "Giường (màu tím) - ở trên - Cỏ",
+  "Bàn ăn (màu xanh ngọc) - ở trên - Cỏ",
+  "Bàn ăn (màu xanh ngọc) - cạnh - Giường (màu tím)",
+  "Cây - có - Chim (màu đen)",
+  "Bàn ăn (màu xanh ngọc) - ở gần - Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang kéo ga giường, có vẻ mệt mỏi)",
+  "Tường - ở gần - Người1 (trung niên - không rõ giới tính, mặc quần áo màu nâu nhạt, đang kéo ga giường, có vẻ mệt mỏi)",
+  "Túi xách (màu hồng) - ở trên - Bàn ăn (màu xanh ngọc)",
+  "Ghế - ở sau - Bàn ăn (màu xanh ngọc)"
+]
+```
+
+frame_22:
+```json
+[
+  "Tường - ở gần - Cây",
+  "Cây - ở sau - Bàn (màu nâu)",
+  "Bàn (màu nâu) - ở trên - Đồ ăn",
+  "Bánh (59%) - ở trên - Bàn (màu nâu)",
+  "Bàn (màu nâu) - ở cạnh - Ghế",
+  "Tường - ở gần - Bánh (59%)",
+  "Ghế - ở gần - Bàn (màu nâu)"
+]
+```
+
+frame_23:
+```json
+[
+  "Cây - ở sau - Bình hoa (màu tím)",
+  "Bình hoa (màu tím) - ở trên - Bàn (màu nâu)",
+  "Đất - ở cạnh - Bàn (màu nâu)",
+  "Bàn (màu nâu) - ở cạnh - Ghế (màu cam)",
+  "Cây - ở gần - Ghế (màu cam)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Ghế (màu cam)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở phía trước - Cây"
+]
+```
+
+frame_24:
+```json
+[
+  "Cây - ở sau - Bình hoa (màu tím)",
+  "Bình hoa (màu tím) - ở trên - Bàn (màu nâu)",
+  "Đất - ở cạnh - Bàn (màu nâu)",
+  "Bàn (màu nâu) - ở cạnh - Ghế (màu cam)",
+  "Cây - ở gần - Ghế (màu cam)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang di chuyển, bình thường) - ở gần - Ghế (màu cam)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang di chuyển, bình thường) - ở phía trước - Cây",
+  "Cây - ở phía sau - Mèo (màu hồng)",
+  "Mèo (màu hồng) - ở trên - Sàn nhà",
+  "Cây - ở gần - Va li (màu xanh ngọc)",
+  "Va li (màu xanh ngọc) - ở trên - Đất"
+]
+```
+
+frame_25:
+```json
+[
+  "Cây - ở sau - Tường",
+  "Tường - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Đất - ở cạnh - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở trên - Vỉa hè",
+  "Sàn nhà - ở trên - Vỉa hè"
+]
+```
+
+frame_26:
+```json
+[
+  "Cây - ở sau - Tường",
+  "Tường - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Đất - ở cạnh - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở trên - Vỉa hè"
+]
+```
+
+frame_27:
+```json
+[
+  "Cây - ở sau - Tường",
+  "Tường - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Đất - ở cạnh - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở trên - Vỉa hè",
+  "Cây - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)"
+]
+```
+
+frame_28:
+```json
+[
+  "Cây - ở sau - Tường",
+  "Tường - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Đất - ở cạnh - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở trên - Vỉa hè",
+  "Cây - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Đồng hồ - ở gần - Cây",
+  "Bầu trời - ở xa - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)"
+]
+```
+
+frame_29:
+```json
+[
+  "Cây - ở sau - Tường",
+  "Tường - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang nhìn, bình thường)",
+  "Đất - ở cạnh - Người1 (trưởng thành - không xác định, mặc quần dài, đang nhìn, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang nhìn, bình thường) - ở trên - Vỉa hè",
+  "Cây - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang nhìn, bình thường)",
+  "Đồng hồ - ở gần - Cây",
+  "Bầu trời - ở xa - Người1 (trưởng thành - không xác định, mặc quần dài, đang nhìn, bình thường)"
+]
+```
+
+frame_30:
+```json
+[
+  "Biển - ở trên - Người1 (trưởng thành - không xác định, mặc quần dài, đang ngồi, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang ngồi, bình thường) - ở trên - Ghế (màu vàng)",
+  "Cát - ở gần - Ghế (màu vàng)",
+  "Sàn gỗ - ở dưới - Ghế (màu vàng)",
+  "Nhà - ở gần - Biển",
+  "Bầu trời - ở xa - Người1 (trưởng thành - không xác định, mặc quần dài, đang ngồi, bình thường)"
+]
+```
+
+frame_31:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u1edf g\u1ea7n - Ng\u1ef1a",
+  "Nh\u00e0 - \u1edf tr\u00ean - \u0110\u1ea5t",
+  "C\u00e2y - \u1edf tr\u00ean - C\u1ecf",
+  "B\u1ea7u tr\u1eddi - \u1edf tr\u00ean - Nh\u00e0",
+  "\u0110\u1ea5t - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)",
+  "C\u1ecf - \u1edf g\u1ea7n - \u0110\u1ea5t"
+]
+```
+
+frame_32:
+```json
+[
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Đất",
+  "Nhà - ở trên - Đất",
+  "Cây - ở trên - Cỏ",
+  "Bầu trời - ở trên - Nhà",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Cỏ - ở gần - Đất"
+]
+```
+
+frame_33:
+```json
+[
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Đất",
+  "Nhà - ở trên - Đất",
+  "Cây - ở trên - Cỏ",
+  "Bầu trời - ở trên - Nhà",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Cỏ - ở gần - Đất",
+  "Cát - ở dưới - Đất",
+  "Nước - ở trên - Cát"
+]
+```
+
+frame_34:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u1edf g\u1ea7n - T\u01b0\u1eddng",
+  "T\u00f2a nh\u00e0 - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)",
+  "C\u00e2y - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)",
+  "T\u01b0\u1eddng - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)"
+]
+```
+
+frame_35:
+```json
+[
+  "Cây - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Tường - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Tường",
+  "Gương - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)"
+]
+```
+
+frame_36:
+```json
+[
+  "Cây - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Tường - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang nhìn, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang nhìn, bình thường) - ở gần - Tường",
+  "Gương - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang nhìn, bình thường)",
+  "Cây - ở gần - Cỏ"
+]
+```
+
+frame_37:
+```json
+[
+  "Cây - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Cây"
+]
+```
+
+frame_38:
+```json
+[
+  "Cây - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Cây",
+  "Bầu trời - ở trên - Cây"
+]
+```
+
+frame_39:
+```json
+[
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Cây",
+  "Cây - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Đường",
+  "Bầu trời - ở trên - Cây"
+]
+```
+
+frame_40:
+```json
+[
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Đất",
+  "Núi - ở gần - Bầu trời",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Bầu trời - ở trên - Cây",
+  "Cây - ở trên - Bầu trời",
+  "Cỏ - ở gần - Núi"
+]
+```
+
+frame_41:
+```json
+[
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Cát",
+  "Núi - ở gần - Bầu trời",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Bầu trời - ở trên - Cây",
+  "Cây - ở trên - Bầu trời",
+  "Cỏ - ở gần - Cát",
+  "Bầu trời - ở trên - Núi"
+]
+```
+
+frame_42:
+```json
+[
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Cát",
+  "Núi - ở gần - Bầu trời",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Bầu trời - ở trên - Cây",
+  "Cây - ở trên - Bầu trời",
+  "Cỏ - ở gần - Cát",
+  "Bầu trời - ở trên - Núi",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Núi",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Bầu trời",
+  "Cát - ở gần - Bầu trời"
+]
+```
+
+frame_43:
+```json
+[
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Cát",
+  "Núi - ở gần - Bầu trời",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Bầu trời - ở trên - Cây",
+  "Cây - ở trên - Bầu trời",
+  "Cỏ - ở gần - Cát",
+  "Bầu trời - ở trên - Núi",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Núi",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Bầu trời",
+  "Cát - ở gần - Bầu trời"
+]
+```
+
+frame_44:
+```json
+[
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Cát",
+  "Núi - ở gần - Bầu trời",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Bầu trời - ở trên - Cây",
+  "Cây - ở trên - Bầu trời",
+  "Cỏ - ở gần - Cát",
+  "Bầu trời - ở trên - Núi",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Núi",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Bầu trời",
+  "Cát - ở gần - Bầu trời"
+]
+```
+
+frame_45:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u1edf g\u1ea7n - C\u00e1t",
+  "N\u00fai - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "\u0110\u1ea5t - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)",
+  "B\u1ea7u tr\u1eddi - \u1edf tr\u00ean - C\u00e2y",
+  "C\u00e2y - \u1edf tr\u00ean - B\u1ea7u tr\u1eddi",
+  "C\u1ecf - \u1edf g\u1ea7n - C\u00e1t",
+  "B\u1ea7u tr\u1eddi - \u1edf tr\u00ean - N\u00fai",
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u1edf g\u1ea7n - N\u00fai",
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "C\u00e1t - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "C\u00e2y - \u1edf g\u1ea7n - Nh\u00e0",
+  "C\u00e1t - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)",
+  "Nh\u00e0 - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "Nh\u00e0 - \u1edf g\u1ea7n - C\u1ecf"
+]
+```
+
+frame_46:
+```json
+[
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Cát",
+  "Núi - ở gần - Bầu trời",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Bầu trời - ở trên - Cây",
+  "Cây - ở trên - Bầu trời",
+  "Cỏ - ở gần - Cát",
+  "Bầu trời - ở trên - Núi",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Núi",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở gần - Bầu trời",
+  "Cát - ở gần - Bầu trời",
+  "Cây - ở gần - Nhà",
+  "Cát - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Nhà - ở gần - Bầu trời",
+  "Nhà - ở gần - Cỏ"
+]
+```
+
+frame_47:
+```json
+[
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u1edf g\u1ea7n - C\u00e1t",
+  "N\u00fai - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "\u0110\u1ea5t - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)",
+  "B\u1ea7u tr\u1eddi - \u1edf tr\u00ean - C\u00e2y",
+  "C\u00e2y - \u1edf tr\u00ean - B\u1ea7u tr\u1eddi",
+  "C\u1ecf - \u1edf g\u1ea7n - C\u00e1t",
+  "B\u1ea7u tr\u1eddi - \u1edf tr\u00ean - N\u00fai",
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u1edf g\u1ea7n - N\u00fai",
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "C\u00e1t - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "C\u00e2y - \u1edf g\u1ea7n - Nh\u00e0",
+  "C\u00e1t - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)",
+  "Nh\u00e0 - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "Nh\u00e0 - \u1edf g\u1ea7n - C\u1ecf"
+]
+```
+
+frame_48:
+```json
+[
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang ngồi xổm, bình thường) - ở gần - Đất",
+  "Núi - ở gần - Bầu trời",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang ngồi xổm, bình thường)",
+  "Bầu trời - ở trên - Cây",
+  "Cây - ở trên - Bầu trời",
+  "Cỏ - ở gần - Đất",
+  "Bầu trời - ở trên - Núi",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang ngồi xổm, bình thường) - ở gần - Núi",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang ngồi xổm, bình thường) - ở gần - Bầu trời",
+  "Đất - ở gần - Bầu trời",
+  "Cây - ở gần - Nhà",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang ngồi xổm, bình thường)",
+  "Nhà - ở gần - Bầu trời",
+  "Nhà - ở gần - Cỏ"
+]
+```
+
+frame_49:
+```json
+[
+  "Cát - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang chạy, bình thường)",
+  "Núi - ở gần - Bầu trời",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang chạy, bình thường) - ở gần - Núi",
+  "Bầu trời - ở trên - Núi",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang chạy, bình thường) - ở gần - Bầu trời",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang chạy, bình thường) - ở gần - Cát"
+]
+```
+
+frame_50:
+```json
+[
+  "Cát - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang chạy, bình thường)",
+  "Núi - ở gần - Bầu trời",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang chạy, bình thường) - ở gần - Núi",
+  "Bầu trời - ở trên - Núi",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang chạy, bình thường) - ở gần - Bầu trời",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang chạy, bình thường) - ở gần - Cát",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang chạy, bình thường) - cầm - Va li (màu xanh ngọc)"
+]
+```
+
+frame_51:
+```json
+[
+  "Cát - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang trượt ván, bình thường)",
+  "Núi - ở gần - Bầu trời",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang trượt ván, bình thường) - ở gần - Núi",
+  "Bầu trời - ở trên - Núi",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang trượt ván, bình thường) - ở gần - Bầu trời",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang trượt ván, bình thường) - ở gần - Cát",
+  "Cây - ở gần - Bầu trời",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang trượt ván, bình thường)",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang trượt ván, bình thường)"
+]
+```
+
+frame_52:
+```json
+[
+  "B\u1ea7u tr\u1eddi - \u1edf tr\u00ean - N\u00fai",
+  "C\u00e2y - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "N\u00fai - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "C\u1ecf - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang ng\u1ed3i, b\u00ecnh th\u01b0\u1eddng)",
+  "\u0110\u1ea5t - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang ng\u1ed3i, b\u00ecnh th\u01b0\u1eddng)",
+  "C\u00e1t - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang ng\u1ed3i, b\u00ecnh th\u01b0\u1eddng)",
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang ng\u1ed3i, b\u00ecnh th\u01b0\u1eddng) - \u1edf g\u1ea7n - Ch\u00f31 (xanh d\u01b0\u01a1ng)",
+  "Ch\u00f31 (xanh d\u01b0\u01a1ng) - \u1edf g\u1ea7n - \u0110\u1ea5t"
+]
+```
+
+frame_53:
+```json
+[
+  "Diều (màu xanh lá cây) - ở trên - Bầu trời",
+  "Bầu trời - ở trên - Núi",
+  "Cây - ở gần - Bầu trời",
+  "Núi - ở gần - Bầu trời",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở trên - Đất"
+]
+```
+
+frame_54:
+```json
+[
+  "Diều (màu xanh lá cây) - ở trên - Bầu trời",
+  "Bầu trời - ở trên - Núi",
+  "Cây - ở gần - Bầu trời",
+  "Núi - ở gần - Bầu trời",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở trên - Đất",
+  "Người2 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường) - ở trên - Cỏ"
+]
+```
+
+frame_55:
+```json
+[
+  "B\u1ea7u tr\u1eddi - \u1edf tr\u00ean - N\u00fai",
+  "C\u00e2y - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "N\u00fai - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "C\u1ecf - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)",
+  "\u0110\u1ea5t - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)",
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u1edf tr\u00ean - \u0110\u1ea5t",
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u1edf tr\u00ean - C\u1ecf",
+  "B\u00f3ng th\u1ec3 thao (m\u00e0u xanh) - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)"
+]
+```
+
+frame_56:
+```json
+[
+  "Bầu trời - ở trên - Núi",
+  "Cây - ở gần - Bầu trời",
+  "Núi - ở gần - Bầu trời",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bình thường) - ở trên - Đất",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bình thường) - ở trên - Cỏ",
+  "Bóng thể thao (màu xanh) - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bình thường)"
+]
+```
+
+frame_57:
+```json
+[
+  "Bầu trời - ở trên - Núi",
+  "Cây - ở gần - Bầu trời",
+  "Núi - ở gần - Bầu trời",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bình thường)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bình thường) - ở trên - Đất",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bình thường) - ở trên - Cỏ",
+  "Bóng thể thao (màu xanh) - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bình thường)"
+]
+```
+
+frame_58:
+```json
+[
+  "Bầu trời - ở trên - Núi",
+  "Cây - ở gần - Bầu trời",
+  "Núi - ở gần - Bầu trời",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bình thường)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bình thường)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bình thường) - ở trên - Đất",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bình thường) - ở trên - Cỏ",
+  "Ván lướt sóng (màu trắng) - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bình thường)",
+  "Bóng thể thao (màu xanh) - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bình thường)"
+]
+```
+
+frame_59:
+```json
+[
+  "Bầu trời - ở trên - Núi",
+  "Cây - ở gần - Bầu trời",
+  "Núi - ở gần - Bầu trời",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bối rối)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bối rối)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bối rối) - ở trên - Đất",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bối rối) - ở trên - Cỏ",
+  "Ván lướt sóng (màu trắng) - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bối rối)",
+  "Va li (màu xanh lam) - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bối rối)"
+]
+```
+
+frame_60:
+```json
+[
+  "B\u1ea7u tr\u1eddi - \u1edf tr\u00ean - N\u00fai",
+  "C\u00e2y - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "N\u00fai - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "C\u1ecf - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i)",
+  "\u0110\u1ea5t - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i)",
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i) - \u1edf tr\u00ean - \u0110\u1ea5t",
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i) - \u1edf tr\u00ean - C\u1ecf",
+  "V\u00e1n l\u01b0\u1edbt s\u00f3ng (m\u00e0u tr\u1eafng) - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i)",
+  "Va li (m\u00e0u xanh lam) - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111i b\u1ed9, b\u1ed1i r\u1ed1i)"
+]
+```
+
+frame_61:
+```json
+[
+  "Bầu trời - ở trên - Núi",
+  "Cây - ở gần - Bầu trời",
+  "Núi - ở gần - Bầu trời",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bối rối)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bối rối)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bối rối) - ở trên - Đất",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bối rối) - ở trên - Cỏ",
+  "Đất - ở gần - Cỏ",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, bối rối) - ở gần - Va li (màu đen)"
+]
+```
+
+frame_62:
+```json
+[
+  "Bầu trời - ở trên - Núi",
+  "Cây - ở gần - Bầu trời",
+  "Núi - ở gần - Bầu trời",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang cưỡi ngựa, bối rối)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang cưỡi ngựa, bối rối)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang cưỡi ngựa, bối rối) - ở trên - Đất",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang cưỡi ngựa, bối rối) - ở trên - Cỏ",
+  "Đất - ở gần - Cỏ",
+  "Ngựa - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang cưỡi ngựa, bối rối)"
+]
+```
+
+frame_63:
+```json
+[
+  "Bầu trời - ở trên - Núi",
+  "Cây - ở gần - Bầu trời",
+  "Núi - ở gần - Bầu trời",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang cưỡi ngựa, bối rối)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang cưỡi ngựa, bối rối)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang cưỡi ngựa, bối rối) - ở trên - Đất",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang cưỡi ngựa, bối rối) - ở trên - Cỏ",
+  "Đất - ở gần - Cỏ",
+  "Ngựa - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang cưỡi ngựa, bối rối)"
+]
+```
+
+frame_64:
+```json
+[
+  "Bầu trời - ở trên - Núi",
+  "Cây - ở gần - Bầu trời",
+  "Núi - ở gần - Bầu trời",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, lo lắng)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, lo lắng)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, lo lắng) - ở trên - Đất",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, lo lắng) - ở trên - Cỏ",
+  "Đất - ở gần - Cỏ"
+]
+```
+
+frame_65:
+```json
+[
+  "Bầu trời - ở trên - Núi",
+  "Cây - ở gần - Bầu trời",
+  "Núi - ở gần - Bầu trời",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, lo lắng)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, lo lắng)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, lo lắng) - ở trên - Đất",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, lo lắng) - ở trên - Cỏ",
+  "Đất - ở gần - Cỏ"
+]
+```
+
+frame_66:
+```json
+[
+  "B\u1ea7u tr\u1eddi - \u1edf tr\u00ean - N\u00fai",
+  "C\u00e2y - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "N\u00fai - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "C\u1ecf - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111i b\u1ed9, lo l\u1eafng)",
+  "\u0110\u1ea5t - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111i b\u1ed9, lo l\u1eafng)",
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111i b\u1ed9, lo l\u1eafng) - \u1edf tr\u00ean - \u0110\u1ea5t",
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang \u0111i b\u1ed9, lo l\u1eafng) - \u1edf tr\u00ean - C\u1ecf",
+  "\u0110\u1ea5t - \u1edf g\u1ea7n - C\u1ecf"
+]
+```
+
+frame_67:
+```json
+[
+  "Bầu trời - ở trên - Núi",
+  "Cây - ở gần - Bầu trời",
+  "Núi - ở gần - Bầu trời",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, lo lắng)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, lo lắng)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, lo lắng) - ở trên - Đất",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đi bộ, lo lắng) - ở trên - Cỏ",
+  "Đất - ở gần - Cỏ"
+]
+```
+
+frame_68:
+```json
+[
+  "Bầu trời - ở trên - Núi",
+  "Cây - ở gần - Bầu trời",
+  "Núi - ở gần - Bầu trời",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, lo lắng)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, lo lắng)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, lo lắng) - ở trên - Đất",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang đứng, lo lắng) - ở trên - Cỏ",
+  "Đất - ở gần - Cỏ"
+]
+```
+
+frame_69:
+```json
+[
+  "B\u1ea7u tr\u1eddi - \u1edf tr\u00ean - N\u00fai",
+  "N\u00fai - \u1edf g\u1ea7n - B\u1ea7u tr\u1eddi",
+  "C\u1ecf - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang ng\u1ed3i, bu\u1ed3n b\u00e3)",
+  "\u0110\u1ea5t - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang ng\u1ed3i, bu\u1ed3n b\u00e3)",
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang ng\u1ed3i, bu\u1ed3n b\u00e3) - \u1edf tr\u00ean - \u0110\u1ea5t",
+  "Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang ng\u1ed3i, bu\u1ed3n b\u00e3) - \u1edf tr\u00ean - C\u1ecf",
+  "\u0110\u1ea5t - \u1edf g\u1ea7n - C\u1ecf",
+  "C\u00e1t - \u1edf g\u1ea7n - Ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c qu\u1ea7n d\u00e0i, \u0111ang ng\u1ed3i, bu\u1ed3n b\u00e3)"
+]
+```
+
+frame_70:
+```json
+[
+  "Bầu trời - ở trên - Núi",
+  "Núi - ở gần - Bầu trời",
+  "Cỏ - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang ngồi, buồn bã)",
+  "Đất - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang ngồi, buồn bã)",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang ngồi, buồn bã) - ở trên - Đất",
+  "Người1 (trưởng thành - không xác định, mặc quần dài, đang ngồi, buồn bã) - ở trên - Cỏ",
+  "Đất - ở gần - Cỏ",
+  "Cát - ở gần - Người1 (trưởng thành - không xác định, mặc quần dài, đang ngồi, buồn bã)"
+]
+```
+
+frame_71:
+```json
+["Bầu trời - ở gần - Đường kẻ1", "Bầu trời - ở gần - Đường kẻ2"]
+```
+
+frame_72:
+```json
+[
+  "Bầu trời - ở gần - Đường kẻ1",
+  "Bầu trời - ở gần - Đường kẻ2"
+]
+```
+
+frame_73:
+```json
+[
+  "Bầu trời - ở gần - Đường kẻ1",
+  "Bầu trời - ở gần - Đường kẻ2"
+]
+```
+
+frame_74:
+```json
+[
+  "Bầu trời - ở gần - Đường kẻ1",
+  "Bầu trời - ở gần - Đường kẻ2"
+]
+```
+

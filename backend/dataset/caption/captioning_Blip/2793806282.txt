@@ -1,0 +1,97 @@
+frame_0000.jpg: a woman in a pool with a dog
+frame_0001.jpg: a woman in a pool with a dog
+frame_0002.jpg: a man in a pool with a dog
+frame_0003.jpg: a woman in a pool
+frame_0004.jpg: a woman in a pool with a dog
+frame_0005.jpg: a woman in a pool with a dog
+frame_0006.jpg: a woman in a pool with a dog
+frame_0007.jpg: a woman in a pool with a dog
+frame_0008.jpg: a woman in a pool with a dog
+frame_0009.jpg: a woman in a pool with a dog
+frame_0010.jpg: a woman in a pool with a dog
+frame_0011.jpg: a woman in a pool with a dog
+frame_0012.jpg: a woman sitting in a pool with a dog
+frame_0013.jpg: a woman in a pool with a dog
+frame_0014.jpg: a woman in a pool with a dog
+frame_0015.jpg: a woman in a pool with a dog
+frame_0016.jpg: a woman in a pool with a dog
+frame_0017.jpg: a woman in a pool with a dog
+frame_0018.jpg: a woman in a pool with a dog
+frame_0019.jpg: a woman in a pool with a dog
+frame_0020.jpg: a woman in a pool with a dog
+frame_0021.jpg: a woman in a pool
+frame_0022.jpg: a woman in a pool with a camera
+frame_0023.jpg: a woman in a pool taking a photo of herself
+frame_0024.jpg: a woman taking a picture of a man in a pool
+frame_0025.jpg: a woman taking a picture of a sea turtle
+frame_0026.jpg: a woman in a pool with a dog
+frame_0027.jpg: a woman in a pool with a dog
+frame_0028.jpg: a woman in a pool with a dog
+frame_0029.jpg: a woman in a pool with a dog
+frame_0030.jpg: a woman taking a picture of a man in a pool
+frame_0031.jpg: a woman taking a picture of a dolphin
+frame_0032.jpg: a woman in a pool with a camera
+frame_0033.jpg: a woman in a white dress is holding a dog
+frame_0034.jpg: a woman in a pool with a dog
+frame_0035.jpg: a woman in a swimming suit is holding a camera
+frame_0036.jpg: a woman in a white tank top and a dog in a blue tank top
+frame_0037.jpg: a woman in a white shirt is swimming with a dog
+frame_0038.jpg: a woman in a pool with a camera
+frame_0039.jpg: a man swimming in a pool with a dog
+frame_0040.jpg: a group of people swimming in a pool
+frame_0041.jpg: a man and woman swimming in a pool
+frame_0042.jpg: a man in a swimming suit is in the water
+frame_0043.jpg: a man in a swimming suit is swimming in a pool
+frame_0044.jpg: a woman in a swimming suit is in the water
+frame_0045.jpg: a woman swimming in a pool with a man in the background
+frame_0046.jpg: a woman swimming in a pool with a dog
+frame_0047.jpg: a woman swimming in a pool with a dog
+frame_0048.jpg: a woman in a swimming suit is in the water
+frame_0049.jpg: a woman swimming in a pool with a man in the background
+frame_0050.jpg: a woman in a swimming suit is floating in the water
+frame_0051.jpg: a man in a swimming suit is in the water
+frame_0052.jpg: a woman in a pool with a dog
+frame_0053.jpg: a man in a swimming suit is holding a dog
+frame_0054.jpg: a man in a pool with a dog
+frame_0055.jpg: a woman in a swimming suit is floating in the water
+frame_0056.jpg: a woman in a bikini is holding a fish
+frame_0057.jpg: a man in a wet suit swimming in a pool
+frame_0058.jpg: a dog swimming in a pool with a ball
+frame_0059.jpg: a dog swimming in a pool with a person
+frame_0060.jpg: a man in a swimming suit is in the water
+frame_0061.jpg: a man in a swimming suit is diving with a dog
+frame_0062.jpg: a woman in a blue shirt is swimming with a dog
+frame_0063.jpg: a woman in a pool with a dog
+frame_0064.jpg: a woman in the water with a camera
+frame_0065.jpg: a woman in a swimming suit is in the water
+frame_0066.jpg: a woman in a pool with a camera
+frame_0067.jpg: a man in a pool with a camera
+frame_0068.jpg: a man in a swimming suit is in the water
+frame_0069.jpg: a man in a swimming suit
+frame_0070.jpg: a man in a swimming suit is in the water
+frame_0071.jpg: a man in a wet suit and snoring in a pool
+frame_0072.jpg: a man in a swimming suit and snoring
+frame_0073.jpg: a man and his dog in a pool
+frame_0074.jpg: a man in a swimming suit and snoring
+frame_0075.jpg: a man in a pool with a dog
+frame_0076.jpg: a man in a swimming suit and snoring in a pool
+frame_0077.jpg: a man in a swimming suit is standing in the water
+frame_0078.jpg: a man in a wet suit is swimming in a pool
+frame_0079.jpg: a group of people in a pool with a man in the water
+frame_0080.jpg: a woman in a swimming suit is in the water
+frame_0081.jpg: a woman in a pool with a dog
+frame_0082.jpg: a woman in a swimming suit is holding a dog
+frame_0083.jpg: a man in a swimming suit is in the water
+frame_0084.jpg: a man in a swimming pool with a camera
+frame_0085.jpg: a man in a swimming pool with a camera
+frame_0086.jpg: a man in a swimming suit is holding a camera
+frame_0087.jpg: a man in a pool with a camera
+frame_0088.jpg: a man in a pool with a dog
+frame_0089.jpg: a man in a pool with a dog
+frame_0090.jpg: a man in a pool with a camera
+frame_0091.jpg: a woman in a pool with a dog
+frame_0092.jpg: a man in a swimming suit is holding a dog
+frame_0093.jpg: a man riding a surfboard in a pool
+frame_0094.jpg: a man in a pool with a dog
+frame_0095.jpg: a woman in a pool with a dog
+frame_0096.jpg: a dog is playing in the pool with a ball

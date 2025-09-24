@@ -1,0 +1,101 @@
+frame_0000.jpg: a man pushing a cart
+frame_0001.jpg: a man is riding a bike down the street
+frame_0002.jpg: a man riding a bike down a street
+frame_0003.jpg: a man riding a bike down a street
+frame_0004.jpg: a man riding a bike down a street
+frame_0005.jpg: a man is walking down the street with a yellow vest
+frame_0006.jpg: a man is pushing a red box on the street
+frame_0007.jpg: a man is loading a red box on the back of a truck
+frame_0008.jpg: a man is getting off a bus
+frame_0009.jpg: a man riding a bike down a street
+frame_0010.jpg: a man walking down a street with a red umbrella
+frame_0011.jpg: a man in a red shirt and black pants
+frame_0012.jpg: a person holding a red umbrella in front of a brick wall
+frame_0013.jpg: a man in a red shirt is standing in front of a stone wall
+frame_0014.jpg: a man holding an umbrella in front of a brick wall
+frame_0015.jpg: a man in a green shirt is standing near a wall
+frame_0016.jpg: a man in an orange shirt is sitting on a chair
+frame_0017.jpg: a man in a yellow shirt is looking at the camera
+frame_0018.jpg: a man in a yellow shirt is talking to someone
+frame_0019.jpg: a man in a yellow shirt is talking to someone
+frame_0020.jpg: a man in a suit and tie is standing in front of a building
+frame_0021.jpg: a man in a red shirt is holding a gun
+frame_0022.jpg: a man is holding a knife in front of a group of people
+frame_0023.jpg: a man is standing in front of a large container
+frame_0024.jpg: a man riding a bike down a street
+frame_0025.jpg: a man riding a bike down a street
+frame_0026.jpg: a man in a yellow vest is walking down the street
+frame_0027.jpg: a man walking down the street with a red umbrella
+frame_0028.jpg: a man is standing next to a horse
+frame_0029.jpg: a man is standing next to a red truck
+frame_0030.jpg: a man is standing next to a red truck
+frame_0031.jpg: a man is standing next to a red truck
+frame_0032.jpg: a man is standing next to a red cart
+frame_0033.jpg: a man is pushing a cart with a red cover
+frame_0034.jpg: a man pushing a red shirt on a cart
+frame_0035.jpg: a man is pushing a cart down the street
+frame_0036.jpg: a man riding a bike down a street
+frame_0037.jpg: a man is pushing a cart with a man on it
+frame_0038.jpg: a man is pushing a cart with a child on it
+frame_0039.jpg: a man in a yellow vest is walking down the street
+frame_0040.jpg: a man riding a bike down a street
+frame_0041.jpg: a man is standing on a bicycle in the street
+frame_0042.jpg: a man is getting his bike loaded with a bag
+frame_0043.jpg: a man is standing next to a red cart
+frame_0044.jpg: a man is pushing a red cart down the street
+frame_0045.jpg: a man is pushing a red cart down the street
+frame_0046.jpg: a man is walking down the street with a red umbrella
+frame_0047.jpg: a man in a yellow shirt is walking down the street
+frame_0048.jpg: a man in a yellow vest is walking down the street
+frame_0049.jpg: a group of people walking down a street
+frame_0050.jpg: a man pushing a bicycle down a street
+frame_0051.jpg: a man walking down the street with a yellow car
+frame_0052.jpg: a man is walking down the street with a bicycle
+frame_0053.jpg: a man riding a bike down a street
+frame_0054.jpg: a man is walking down the street with a backpack
+frame_0055.jpg: a man is walking down the street with a bag
+frame_0056.jpg: a man is walking down the street with a yellow car
+frame_0057.jpg: a man is riding a bike down the street
+frame_0058.jpg: a man is standing on a bicycle in the street
+frame_0059.jpg: a man riding a bike down a street
+frame_0060.jpg: a man in a yellow vest is walking down the street
+frame_0061.jpg: a man in a yellow vest is walking down the street
+frame_0062.jpg: a man riding a bike down a street
+frame_0063.jpg: a man riding a bike down the street
+frame_0064.jpg: a man riding a bike down a street
+frame_0065.jpg: a man is riding a bike down the street
+frame_0066.jpg: a man playing guitar in the street
+frame_0067.jpg: a man is walking down the street with an umbrella
+frame_0068.jpg: a man is being carried by a man in a wheelchair
+frame_0069.jpg: a man is pushing a cart with a red umbrella
+frame_0070.jpg: a man pushing a cart with a red umbrella
+frame_0071.jpg: a man pushing a cart with a red umbrella
+frame_0072.jpg: a man pushing a bike with a red bag on it
+frame_0073.jpg: a man riding a bike down a street
+frame_0074.jpg: a man is walking down the street with a red bag
+frame_0075.jpg: a man is standing next to a red cart
+frame_0076.jpg: a man pushing a cart down a street
+frame_0077.jpg: a man is pushing a cart down the street
+frame_0078.jpg: a man riding a bike down a street
+frame_0079.jpg: a man riding a bike down a street
+frame_0080.jpg: a man riding a bike down a street
+frame_0081.jpg: a man riding a bike down a street
+frame_0082.jpg: a man riding a bike down a street
+frame_0083.jpg: a man riding a bike down a street
+frame_0084.jpg: a man riding a bike down a street
+frame_0085.jpg: a man riding a bike down a street
+frame_0086.jpg: a man riding a bike down a street
+frame_0087.jpg: a man riding a bike down a street
+frame_0088.jpg: a man riding a bike down a street
+frame_0089.jpg: a man riding a bike down a street
+frame_0090.jpg: a man riding a bike down a street
+frame_0091.jpg: a man is pushing a red car down the street
+frame_0092.jpg: a man walking down a street with an umbrella
+frame_0093.jpg: a man is walking down the street with an umbrella
+frame_0094.jpg: a man pushing a red cart down a street
+frame_0095.jpg: a man pushing a red car down the street
+frame_0096.jpg: a man is handing a red jacket to another man
+frame_0097.jpg: a man pushing a red car down the street
+frame_0098.jpg: a man pushing a red cart down a street
+frame_0099.jpg: a man is pushing a red cart down the street
+frame_0100.jpg: a man is putting a red flag on a truck

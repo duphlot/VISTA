@@ -1,0 +1,439 @@
+frame_0:
+```json
+[
+  "mèo1 (màu hồng) - bên cạnh - chó1 (màu xanh nhạt)",
+  "chó1 (màu xanh nhạt) - gần - đất",
+  "chó1 (màu xanh nhạt) - gần - chó2 (màu xanh nhạt)",
+  "chó2 (màu xanh nhạt) - gần - chó3 (màu xanh nhạt)"
+]
+```
+
+frame_1:
+```json
+[
+  "mèo1 (màu hồng) - bên cạnh - chó1 (màu xanh nhạt)",
+  "chó1 (màu xanh nhạt) - gần - đất",
+  "chó1 (màu xanh nhạt) - gần - chó2 (màu xanh nhạt)",
+  "chó2 (màu xanh nhạt) - gần - chó3 (màu xanh nhạt)",
+  "cỏ - gần - vỉa hè",
+  "chó3 (màu xanh nhạt) - gần - chó4 (màu xanh nhạt)"
+]
+```
+
+frame_2:
+```json
+[
+  "mèo1 (màu hồng) - bên cạnh - chó1 (màu xanh nhạt)",
+  "chó1 (màu xanh nhạt) - gần - đất",
+  "chó1 (màu xanh nhạt) - gần - chó2 (màu xanh nhạt)",
+  "chó2 (màu xanh nhạt) - gần - chó3 (màu xanh nhạt)",
+  "cỏ - gần - vỉa hè",
+  "chó3 (màu xanh nhạt) - gần - chó4 (màu xanh nhạt)",
+  "cây - gần - vỉa hè",
+  "đường - gần - cây"
+]
+```
+
+frame_3:
+```json
+[
+  "mèo1 (màu hồng) - gần - đường",
+  "mèo1 (màu hồng) - gần - gấu bông",
+  "mèo1 (màu hồng) - gần - cây",
+  "cây - gần - đường",
+  "xe hơi - trên - đường",
+  "cừu - gần - cây",
+  "chó1 (màu xanh nhạt) - trên - đường"
+]
+```
+
+frame_4:
+```json
+[
+  "mèo1 (màu hồng) - gần - đường",
+  "mèo1 (màu hồng) - gần - cây",
+  "cây - gần - đường",
+  "xe hơi - trên - đường",
+  "chó1 (màu xanh nhạt) - trên - đường",
+  "chó2 - trên - đường",
+  "chó3 - trên - đường",
+  "chó4 - gần - cây"
+]
+```
+
+frame_5:
+```json
+[
+  "cây - gần - đường",
+  "xe hơi - trên - đường",
+  "chó1 (màu xanh nhạt) - trên - đường",
+  "chó2 - trên - đường",
+  "chó3 - trên - đường",
+  "chó4 - gần - cây",
+  "cừu - trên - đường",
+  "chim - trên - đường"
+]
+```
+
+frame_6:
+```json
+[
+  "cây - gần - đường",
+  "xe hơi - trên - đường",
+  "chó1 (màu xanh nhạt) - trên - đường",
+  "chó2 - trên - đường",
+  "chó3 - trên - đường",
+  "chó4 - gần - cây",
+  "cừu - trên - đường",
+  "chim - trên - đường"
+]
+```
+
+frame_7:
+```json
+[
+  "cây - gần - đường",
+  "xe hơi - trên - đường",
+  "chó1 - trên - đường",
+  "chó2 - trên - đường",
+  "chó3 - trên - đường",
+  "chó4 - gần - cây"
+]
+```
+
+frame_8:
+```json
+[
+  "cây - gần - đường",
+  "xe hơi1 (màu tím) - trên - đường",
+  "xe hơi2 (màu xanh) - trên - đường",
+  "chó1 - trên - đường",
+  "chó2 - trên - đường",
+  "chó3 - trên - đường",
+  "chó4 - gần - cây"
+]
+```
+
+frame_9:
+```json
+[
+  "cây - gần - đường",
+  "xe hơi1 (màu tím) - trên - đường",
+  "xe hơi2 (màu xanh) - trên - đường",
+  "chó1 - trên - đường",
+  "chó2 - trên - đường",
+  "chó3 - trên - đường",
+  "chó4 - gần - cây",
+  "ngựa - trên - đường"
+]
+```
+
+frame_10:
+```json
+[
+  "cây - gần - đường",
+  "xe hơi1 (màu tím) - trên - đường",
+  "xe hơi2 (màu xanh) - trên - đường",
+  "chó1 - trên - đường",
+  "chó2 - trên - đường",
+  "chó3 - trên - đường",
+  "chó4 - gần - cây",
+  "ngựa - trên - đường",
+  "gấu bông (màu hồng) - trên - đường"
+]
+```
+
+frame_11:
+```json
+[
+  "cây - gần - đường",
+  "xe hơi1 (màu tím) - trên - đường",
+  "chó1 - trên - đường",
+  "chó2 - trên - đường",
+  "đường - gần - chó3",
+  "chó4 - gần - cây",
+  "mèo (màu trắng) - trên - đường",
+  "chim (màu đỏ) - trên - đường"
+]
+```
+
+frame_12:
+```json
+[
+  "cây - gần - đường",
+  "xe hơi1 (màu tím) - trên - đường",
+  "chó1 - trên - đường",
+  "chó2 - trên - đường",
+  "đường - gần - chó3",
+  "chó4 - gần - cây",
+  "mèo (màu trắng) - trên - đường",
+  "chim (màu đỏ) - trên - đường"
+]
+```
+
+frame_13:
+```json
+[
+  "cây - gần - đường",
+  "xe hơi1 (màu tím) - trên - đường",
+  "chó1 - trên - đường",
+  "chó2 - trên - đường",
+  "đường - gần - chó3",
+  "chó4 - gần - cây",
+  "mèo (màu trắng) - trên - đường",
+  "chó3 - trên - đường",
+  "chó4 - trên - đường"
+]
+```
+
+frame_14:
+```json
+[
+  "cây - gần - đường",
+  "xe hơi1 (màu tím) - trên - đường",
+  "chó1 - trên - đường",
+  "chó2 - trên - đường",
+  "đường - gần - chó3",
+  "chó4 - gần - cây",
+  "mèo (màu trắng) - trên - đường",
+  "chó3 - trên - đường",
+  "chó4 - trên - đường"
+]
+```
+
+frame_15:
+```json
+[
+  "cây - gần - đường",
+  "xe hơi1 (màu tím) - trên - đường",
+  "chó1 - trên - đường",
+  "chó2 - trên - đường",
+  "đường - gần - người1",
+  "chó4 - gần - cây",
+  "chó3 - trên - đường",
+  "chó4 - trên - đường",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - trên - đường"
+]
+```
+
+frame_16:
+```json
+[
+  "cây - gần - đường",
+  "xe hơi1 (màu tím) - trên - đường",
+  "chó1 - trên - đường",
+  "chó2 - trên - đường",
+  "đường - gần - người1",
+  "chó4 - gần - cây",
+  "chó3 - trên - đường",
+  "chó4 - trên - đường",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - trên - đường",
+  "mèo1 (màu hồng) - trên - đường",
+  "chó1 - gần - người1",
+  "chó2 - gần - chó3",
+  "cỏ - gần - cây"
+]
+```
+
+frame_17:
+```json
+[
+  "cỏ - gần - cây",
+  "đường - gần - người1",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - trên - đường",
+  "mèo1 (màu hồng) - trên - đường",
+  "cây - gần - đường"
+]
+```
+
+frame_18:
+```json
+[
+  "cỏ - gần - cây",
+  "đường - gần - chó1",
+  "chó1 (màu xanh) - trên - đường",
+  "cây - gần - đường",
+  "đất - gần - đường"
+]
+```
+
+frame_19:
+```json
+[
+  "cỏ - gần - cây",
+  "sàn - gần - đường",
+  "chó1 (màu hồng) - trên - sàn",
+  "cây - gần - sàn",
+  "đất - gần - đường",
+  "chó2 (màu hồng) - trên - sàn"
+]
+```
+
+frame_20:
+```json
+[
+  "cỏ - gần - cây",
+  "sàn - gần - đường",
+  "mèo1 (màu hồng) - trên - sàn",
+  "cây - gần - sàn",
+  "đất - gần - đường",
+  "chó1 (màu xanh dương) - trên - sàn"
+]
+```
+
+frame_21:
+```json
+[
+  "cỏ - gần - cây",
+  "sàn - gần - đường",
+  "mèo1 (màu hồng) - trên - sàn",
+  "cây - gần - sàn",
+  "đất - gần - đường",
+  "chó1 (màu xanh dương) - trên - sàn"
+]
+```
+
+frame_22:
+```json
+[
+  "cỏ - gần - cây",
+  "chó1 (màu xanh dương) - gần - cây",
+  "chó2 (màu xanh dương) - trên - đường",
+  "chó2 (màu xanh dương) - gần - chó1 (màu xanh dương)",
+  "cây - gần - đường"
+]
+```
+
+frame_23:
+```json
+[
+  "cỏ - gần - cây",
+  "chó1 (màu xanh dương) - gần - cây",
+  "chó2 (màu xanh dương) - trên - đường",
+  "chó2 (màu xanh dương) - gần - chó1 (màu xanh dương)",
+  "cây - gần - đường",
+  "chó3 (màu xanh dương) - trên - đường",
+  "chó3 (màu xanh dương) - gần - cỏ"
+]
+```
+
+frame_24:
+```json
+[
+  "cỏ - gần - cây",
+  "chó1 (màu xanh dương) - gần - cây",
+  "chó2 (màu xanh dương) - trên - đường",
+  "chó2 (màu xanh dương) - gần - chó1 (màu xanh dương)",
+  "cây - gần - đường",
+  "chó3 (màu xanh dương) - trên - đường",
+  "chó3 (màu xanh dương) - gần - cỏ",
+  "đường - gần - chó4 (màu xanh dương)",
+  "chó4 (màu xanh dương) - trên - đường",
+  "chó1 (màu xanh dương) - gần - chó5 (màu xanh dương)",
+  "chó5 (màu xanh dương) - trên - đường"
+]
+```
+
+frame_25:
+```json
+[
+  "cỏ - gần - cây",
+  "chó1 (màu xanh dương) - gần - cây",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - gần - chó2 (màu xanh dương)",
+  "chó2 (màu xanh dương) - trên - đường",
+  "chó2 (màu xanh dương) - gần - chó1 (màu xanh dương)",
+  "cây - gần - đường",
+  "chó3 (màu xanh dương) - trên - đường",
+  "chó3 (màu xanh dương) - gần - cỏ",
+  "đường - gần - chó4 (màu xanh dương)",
+  "chó4 (màu xanh dương) - trên - đường",
+  "chó1 (màu xanh dương) - gần - chó5 (màu xanh dương)",
+  "chó5 (màu xanh dương) - trên - đường",
+  "đường - gần - bụi bẩn"
+]
+```
+
+frame_26:
+```json
+[
+  "cỏ - gần - cây",
+  "chó1 (màu xanh dương) - gần - cây",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - gần - chó2 (màu xanh dương)",
+  "chó2 (màu xanh dương) - trên - đường",
+  "chó2 (màu xanh dương) - gần - chó1 (màu xanh dương)",
+  "cây - gần - đường",
+  "chó3 (màu xanh dương) - trên - đường",
+  "chó3 (màu xanh dương) - gần - cỏ",
+  "đường - gần - chó4 (màu xanh dương)",
+  "chó4 (màu xanh dương) - trên - đường",
+  "chó1 (màu xanh dương) - gần - chó5 (màu xanh dương)",
+  "chó5 (màu xanh dương) - trên - đường",
+  "đường - gần - bụi bẩn",
+  "táo (vàng) - gần - cây"
+]
+```
+
+frame_27:
+```json
+[
+  "cây - gần - chó1 (màu xanh dương)",
+  "chó1 (màu xanh dương) - trên - đường",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - gần - chó2 (màu xanh dương)",
+  "chó2 (màu xanh dương) - trên - đường",
+  "chó2 (màu xanh dương) - gần - chó1 (màu xanh dương)",
+  "cây - gần - đường",
+  "chó3 (màu xanh dương) - trên - đường",
+  "chó3 (màu xanh dương) - gần - cỏ",
+  "đường - gần - chó4 (màu xanh dương)",
+  "chó4 (màu xanh dương) - trên - đường",
+  "chó1 (màu xanh dương) - gần - chó5 (màu xanh dương)",
+  "chó5 (màu xanh dương) - trên - đường",
+  "đường - gần - bụi bẩn",
+  "đường - gần - vỉa hè",
+  "chó5 (màu xanh dương) - gần - bụi bẩn"
+]
+```
+
+frame_28:
+```json
+[
+  "cây - gần - chó1 (màu xanh dương)",
+  "chó1 (màu xanh dương) - trên - đường",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - gần - chó2 (màu xanh dương)",
+  "chó2 (màu xanh dương) - trên - đường",
+  "chó2 (màu xanh dương) - gần - chó1 (màu xanh dương)",
+  "cây - gần - đường",
+  "chó3 (màu xanh dương) - trên - đường",
+  "chó3 (màu xanh dương) - gần - cỏ",
+  "đường - gần - chó4 (màu xanh dương)",
+  "chó4 (màu xanh dương) - trên - đường",
+  "chó1 (màu xanh dương) - gần - chó5 (màu xanh dương)",
+  "chó5 (màu xanh dương) - trên - đường",
+  "đường - gần - bụi bẩn",
+  "đường - gần - vỉa hè",
+  "chó5 (màu xanh dương) - gần - bụi bẩn"
+]
+```
+
+frame_29:
+```json
+[
+  "cây - gần - chó1 (màu xanh dương)",
+  "chó1 (màu xanh dương) - trên - đường",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - gần - chó2 (màu xanh dương)",
+  "chó2 (màu xanh dương) - trên - đường",
+  "chó2 (màu xanh dương) - gần - chó1 (màu xanh dương)",
+  "cây - gần - đường",
+  "chó3 (màu xanh dương) - trên - đường",
+  "chó3 (màu xanh dương) - gần - cỏ",
+  "đường - gần - chó4 (màu xanh dương)",
+  "chó4 (màu xanh dương) - trên - đường",
+  "chó1 (màu xanh dương) - gần - chó5 (màu xanh dương)",
+  "chó5 (màu xanh dương) - trên - đường",
+  "đường - gần - bụi bẩn",
+  "đường - gần - vỉa hè",
+  "chó5 (màu xanh dương) - gần - bụi bẩn",
+  "táo - trong - cây"
+]
+```
+

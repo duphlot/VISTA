@@ -1,0 +1,694 @@
+frame_0:
+```json
+[
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - người2",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang ngồi, bình tĩnh) - ngồi trên - ghế",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang ngồi, bình tĩnh) - nhìn - người1",
+  "tường - ở phía sau - tivi",
+  "tivi - trên - bàn",
+  "chai1 - ở trên - bàn",
+  "chai2 - ở trên - bàn"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - người2",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - bế - người1",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - nhìn - người1",
+  "tường - ở phía sau - tivi",
+  "tivi - trên - bàn",
+  "chai1 - ở trên - bàn",
+  "chai2 - ở trên - bàn"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - người2",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - bế - người1",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - nhìn - người1",
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai1 (màu trắng) - ở trên - bàn",
+  "xe máy1 - ở phía sau - người2",
+  "bàn - ở trên - tường"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - bế - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - nhìn - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai1 (màu trắng) - ở trên - bàn",
+  "xe máy1 - ở phía sau - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - bế - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - nhìn - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai1 (màu trắng) - ở trên - bàn",
+  "xe máy1 - ở phía sau - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - bế - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - nhìn - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai1 (màu trắng) - ở trên - bàn",
+  "xe máy1 - ở phía sau - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - ở gần - bánh donut (màu hồng)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - bế - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - nhìn - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai1 (màu trắng) - ở trên - bàn",
+  "xe máy1 - ở phía sau - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - ở gần - bánh donut (màu hồng)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - bế - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - nhìn - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai1 (màu trắng) - ở trên - bàn",
+  "xe máy1 - ở phía sau - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - ở gần - bánh donut (màu hồng)",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - bế - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - nhìn - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai1 (màu trắng) - ở trên - bàn",
+  "xe máy1 - ở phía sau - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - ở gần - bánh donut (màu hồng)",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - bế - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - nhìn - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai1 (màu trắng) - ở trên - bàn",
+  "xe máy1 - ở phía sau - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - ở gần - bánh donut (màu hồng)",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn"
+]
+```
+
+frame_10:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai1 (màu trắng) - ở trên - bàn",
+  "xe máy1 - ở phía sau - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - ở gần - bánh donut (màu hồng)",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - bế - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - nhìn - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "laptop (màu vàng) - ở trên - giường",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - bát (màu xanh lá cây)",
+  "bát (màu xanh lá cây) - ở gần - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - cầm - bát (màu xanh lá cây)"
+]
+```
+
+frame_11:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai1 (màu trắng) - ở trên - bàn",
+  "xe máy1 - ở phía sau - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - ở gần - bánh donut (màu hồng)",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - bế - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - nhìn - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "laptop (màu vàng) - ở trên - giường",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - bát (màu xanh lá cây)",
+  "bát (màu xanh lá cây) - ở gần - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - cầm - bát (màu xanh lá cây)",
+  "bàn ăn - ở gần - bàn",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang cầm bát, bình tĩnh) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang cầm bát, bình tĩnh) - cầm - bát (màu đỏ)",
+  "người3 (trưởng thành - nam, mặc áo hồng, đang cầm bát, bình tĩnh) - ở gần - người2 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)"
+]
+```
+
+frame_12:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai1 (màu trắng) - ở trên - bàn",
+  "xe máy1 - ở phía sau - người3 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "người3 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - ở gần - bát (màu xanh lá cây)",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - người3 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "người3 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - bế - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người3 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - nhìn - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - bát (màu xanh lá cây)",
+  "bát (màu xanh lá cây) - ở gần - người3 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)",
+  "người3 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh) - cầm - bát (màu xanh lá cây)",
+  "bàn ăn - ở gần - bàn",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh) - cầm - bát (màu đỏ)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh) - ở gần - người3 (trưởng thành - nữ, mặc áo vàng, đang bế em bé, bình tĩnh)"
+]
+```
+
+frame_13:
+```json
+[
+  "t\u01b0\u1eddng - \u1edf ph\u00eda sau - b\u00e0n \u0103n",
+  "b\u00e0n \u0103n - \u1edf g\u1ea7n - t\u01b0\u1eddng",
+  "chai1 (m\u00e0u tr\u1eafng) - \u1edf tr\u00ean - b\u00e0n",
+  "xe m\u00e1y1 - \u1edf ph\u00eda sau - ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o v\u00e0ng, \u0111ang cho em b\u00e9 \u0103n, b\u00ecnh t\u0129nh)",
+  "b\u00e0n - \u1edf tr\u00ean - t\u01b0\u1eddng",
+  "tivi (m\u00e0u v\u00e0ng) - \u1edf tr\u00ean - b\u00e0n \u0103n",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o v\u00e0ng, \u0111ang cho em b\u00e9 \u0103n, b\u00ecnh t\u0129nh) - \u1edf g\u1ea7n - b\u00e1t (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "t\u01b0\u1eddng - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng m\u1eb7c qu\u1ea7n \u00e1o, \u0111ang n\u1eb1m ng\u1eeda, vui v\u1ebb)",
+  "b\u00e0n - \u1edf tr\u00ean - b\u00e0n \u0103n",
+  "ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng m\u1eb7c qu\u1ea7n \u00e1o, \u0111ang n\u1eb1m ng\u1eeda, vui v\u1ebb) - n\u1eb1m tr\u00ean - gi\u01b0\u1eddng (m\u00e0u t\u00edm)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng m\u1eb7c qu\u1ea7n \u00e1o, \u0111ang n\u1eb1m ng\u1eeda, vui v\u1ebb) - n\u1eb1m g\u1ea7n - ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o v\u00e0ng, \u0111ang cho em b\u00e9 \u0103n, b\u00ecnh t\u0129nh)",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o v\u00e0ng, \u0111ang cho em b\u00e9 \u0103n, b\u00ecnh t\u0129nh) - b\u1ebf - ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng m\u1eb7c qu\u1ea7n \u00e1o, \u0111ang n\u1eb1m ng\u1eeda, vui v\u1ebb)",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o v\u00e0ng, \u0111ang cho em b\u00e9 \u0103n, b\u00ecnh t\u0129nh) - nh\u00ecn - ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng m\u1eb7c qu\u1ea7n \u00e1o, \u0111ang n\u1eb1m ng\u1eeda, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng m\u1eb7c qu\u1ea7n \u00e1o, \u0111ang n\u1eb1m ng\u1eeda, vui v\u1ebb) - n\u1eb1m g\u1ea7n - b\u00e1t (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "b\u00e1t (m\u00e0u xanh l\u00e1 c\u00e2y) - \u1edf g\u1ea7n - ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o v\u00e0ng, \u0111ang cho em b\u00e9 \u0103n, b\u00ecnh t\u0129nh)",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o v\u00e0ng, \u0111ang cho em b\u00e9 \u0103n, b\u00ecnh t\u0129nh) - c\u1ea7m - b\u00e1t (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "b\u00e0n \u0103n - \u1edf g\u1ea7n - b\u00e0n",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, \u0111eo k\u00ednh, m\u1eb7c \u00e1o cam, \u0111ang cho con \u0103n, b\u00ecnh t\u0129nh) - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng m\u1eb7c qu\u1ea7n \u00e1o, \u0111ang n\u1eb1m ng\u1eeda, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, \u0111eo k\u00ednh, m\u1eb7c \u00e1o cam, \u0111ang cho con \u0103n, b\u00ecnh t\u0129nh) - c\u1ea7m - b\u00e1t (m\u00e0u \u0111\u1ecf)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, \u0111eo k\u00ednh, m\u1eb7c \u00e1o cam, \u0111ang cho con \u0103n, b\u00ecnh t\u0129nh) - \u1edf g\u1ea7n - ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o v\u00e0ng, \u0111ang cho em b\u00e9 \u0103n, b\u00ecnh t\u0129nh)"
+]
+```
+
+frame_14:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai1 (màu trắng) - ở trên - bàn",
+  "xe máy1 - ở phía sau - người3 (trưởng thành - nữ, mặc áo vàng, đang cho em bé ăn, bình tĩnh)",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "người3 (trưởng thành - nữ, mặc áo vàng, đang cho em bé ăn, bình tĩnh) - ở gần - bát (màu xanh lá cây)",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - người3 (trưởng thành - nữ, mặc áo vàng, đang cho em bé ăn, bình tĩnh)",
+  "người3 (trưởng thành - nữ, mặc áo vàng, đang cho em bé ăn, bình tĩnh) - bế - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người3 (trưởng thành - nữ, mặc áo vàng, đang cho em bé ăn, bình tĩnh) - nhìn - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm gần - bát (màu xanh lá cây)",
+  "bát (màu xanh lá cây) - ở gần - người3 (trưởng thành - nữ, mặc áo vàng, đang cho em bé ăn, bình tĩnh)",
+  "người3 (trưởng thành - nữ, mặc áo vàng, đang cho em bé ăn, bình tĩnh) - cầm - bát (màu xanh lá cây)",
+  "bàn ăn - ở gần - bàn",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh) - cầm - bát (màu đỏ)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh) - ở gần - người3 (trưởng thành - nữ, mặc áo vàng, đang cho em bé ăn, bình tĩnh)",
+  "chai2 (màu trắng) - ở trên - bàn ăn",
+  "sách1 (màu nâu) - ở trên - chai2 (màu trắng)",
+  "sách2 (màu trắng) - ở trên - chai2 (màu trắng)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh) - bế - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bát (màu đỏ) - ở gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh)"
+]
+```
+
+frame_15:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh)"
+]
+```
+
+frame_16:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh)"
+]
+```
+
+frame_17:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh)",
+  "tường - ở phía sau - laptop (màu be)",
+  "laptop (màu be) - ở trên - giường (màu tím)",
+  "bàn - ở trên - ghế (màu nâu)",
+  "điện thoại di động - ở trên - bàn ăn",
+  "chai2 (màu trắng) - ở trên - bàn ăn"
+]
+```
+
+frame_18:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh)",
+  "tường - ở phía sau - laptop (màu be)",
+  "laptop (màu be) - ở trên - giường (màu tím)",
+  "bàn - ở trên - ghế (màu nâu)",
+  "điện thoại di động - ở trên - bàn ăn",
+  "chai2 (màu trắng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh) - ngồi trên - bàn ăn"
+]
+```
+
+frame_19:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh)",
+  "tường - ở phía sau - laptop (màu be)",
+  "laptop (màu be) - ở trên - giường (màu tím)",
+  "bàn - ở trên - ghế (màu nâu)",
+  "điện thoại di động - ở trên - bàn ăn",
+  "chai2 (màu trắng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cho con ăn, bình tĩnh) - ngồi trên - bàn ăn",
+  "giường (màu tím) - ở dưới - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)"
+]
+```
+
+frame_20:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang ăn chuối, bình tĩnh) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang ăn chuối, bình tĩnh)",
+  "tường - ở phía sau - laptop (màu be)",
+  "laptop (màu be) - ở trên - giường (màu tím)",
+  "bàn - ở trên - ghế (màu nâu)",
+  "điện thoại di động - ở trên - bàn ăn",
+  "chai2 (màu trắng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang ăn chuối, bình tĩnh) - ngồi trên - bàn ăn",
+  "giường (màu tím) - ở dưới - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "chuối (màu vàng) - trong tay - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang ăn chuối, bình tĩnh)"
+]
+```
+
+frame_21:
+```json
+[
+  "t\u01b0\u1eddng - \u1edf ph\u00eda sau - b\u00e0n \u0103n",
+  "b\u00e0n \u0103n - \u1edf g\u1ea7n - t\u01b0\u1eddng",
+  "chai2 (m\u00e0u tr\u1eafng) - \u1edf tr\u00ean - b\u00e0n",
+  "b\u00e0n - \u1edf tr\u00ean - t\u01b0\u1eddng",
+  "tivi (m\u00e0u v\u00e0ng) - \u1edf tr\u00ean - b\u00e0n \u0103n",
+  "t\u01b0\u1eddng - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng m\u1eb7c qu\u1ea7n \u00e1o, \u0111ang n\u1eb1m ng\u1eeda, vui v\u1ebb)",
+  "b\u00e0n - \u1edf tr\u00ean - b\u00e0n \u0103n",
+  "ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng m\u1eb7c qu\u1ea7n \u00e1o, \u0111ang n\u1eb1m ng\u1eeda, vui v\u1ebb) - n\u1eb1m tr\u00ean - gi\u01b0\u1eddng (m\u00e0u t\u00edm)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, \u0111eo k\u00ednh, m\u1eb7c \u00e1o cam, \u0111ang c\u1ea7m b\u00e1t, vui v\u1ebb) - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng m\u1eb7c qu\u1ea7n \u00e1o, \u0111ang n\u1eb1m ng\u1eeda, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng m\u1eb7c qu\u1ea7n \u00e1o, \u0111ang n\u1eb1m ng\u1eeda, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, \u0111eo k\u00ednh, m\u1eb7c \u00e1o cam, \u0111ang c\u1ea7m b\u00e1t, vui v\u1ebb)",
+  "t\u01b0\u1eddng - \u1edf ph\u00eda sau - laptop (m\u00e0u be)",
+  "laptop (m\u00e0u be) - \u1edf tr\u00ean - gi\u01b0\u1eddng (m\u00e0u t\u00edm)",
+  "b\u00e0n - \u1edf tr\u00ean - gh\u1ebf (m\u00e0u n\u00e2u)",
+  "\u0111i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng - \u1edf tr\u00ean - b\u00e0n \u0103n",
+  "chai2 (m\u00e0u tr\u1eafng) - \u1edf tr\u00ean - b\u00e0n \u0103n",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, \u0111eo k\u00ednh, m\u1eb7c \u00e1o cam, \u0111ang c\u1ea7m b\u00e1t, vui v\u1ebb) - ng\u1ed3i tr\u00ean - b\u00e0n \u0103n",
+  "gi\u01b0\u1eddng (m\u00e0u t\u00edm) - \u1edf d\u01b0\u1edbi - ng\u01b0\u1eddi1 (tr\u1ebb s\u01a1 sinh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, kh\u00f4ng m\u1eb7c qu\u1ea7n \u00e1o, \u0111ang n\u1eb1m ng\u1eeda, vui v\u1ebb)",
+  "b\u00e1t (m\u00e0u v\u00e0ng) - trong tay - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, \u0111eo k\u00ednh, m\u1eb7c \u00e1o cam, \u0111ang c\u1ea7m b\u00e1t, vui v\u1ebb)",
+  "t\u1ee7 l\u1ea1nh (m\u00e0u x\u00e1m) - \u1edf tr\u00ean - b\u00e0n \u0103n",
+  "chai1 (m\u00e0u tr\u1eafng) - \u1edf tr\u00ean - b\u00e0n \u0103n"
+]
+```
+
+frame_22:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ)",
+  "tường - ở phía sau - laptop (màu be)",
+  "laptop (màu be) - ở trên - giường (màu tím)",
+  "bàn - ở trên - ghế (màu nâu)",
+  "điện thoại di động - ở trên - bàn ăn",
+  "chai2 (màu trắng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ) - ngồi trên - bàn ăn",
+  "giường (màu tím) - ở dưới - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bát (màu vàng) - trong tay - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ)",
+  "tủ lạnh (màu xám) - ở trên - bàn ăn",
+  "chai1 (màu trắng) - ở trên - bàn ăn"
+]
+```
+
+frame_23:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cẩm bát, vui vẻ) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cẩm bát, vui vẻ)",
+  "tường - ở phía sau - laptop (màu be)",
+  "laptop (màu be) - ở trên - giường (màu tím)",
+  "bàn - ở trên - ghế (màu nâu)",
+  "điện thoại di động - ở trên - bàn ăn",
+  "chai2 (màu trắng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cẩm bát, vui vẻ) - ngồi trên - bàn ăn",
+  "giường (màu tím) - ở dưới - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bát (màu vàng) - trong tay - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cẩm bát, vui vẻ)",
+  "tủ lạnh (màu xám) - ở trên - bàn ăn",
+  "chai1 (màu trắng) - ở trên - bàn ăn",
+  "bàn ăn - ở trên - bàn"
+]
+```
+
+frame_24:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cẩm bát, vui vẻ) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cẩm bát, vui vẻ)",
+  "tường - ở phía sau - laptop (màu be)",
+  "laptop (màu be) - ở trên - giường (màu tím)",
+  "bàn - ở trên - ghế (màu nâu)",
+  "điện thoại di động - ở trên - bàn ăn",
+  "chai2 (màu trắng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cẩm bát, vui vẻ) - ngồi trên - bàn ăn",
+  "giường (màu tím) - ở dưới - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bát (màu vàng) - trong tay - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cẩm bát, vui vẻ)",
+  "tủ lạnh (màu xám) - ở trên - bàn ăn",
+  "chai1 (màu trắng) - ở trên - bàn ăn",
+  "bàn ăn - ở trên - bàn"
+]
+```
+
+frame_25:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ)",
+  "tường - ở phía sau - laptop (màu be)",
+  "laptop (màu be) - ở trên - giường (màu tím)",
+  "bàn - ở trên - ghế (màu nâu)",
+  "điện thoại di động - ở trên - bàn ăn",
+  "chai2 (màu trắng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ) - ngồi trên - bàn ăn",
+  "giường (màu tím) - ở dưới - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bát (màu vàng) - trong tay - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ)",
+  "tủ lạnh (màu xám) - ở trên - bàn ăn",
+  "chai1 (màu trắng) - ở trên - bàn ăn",
+  "bàn ăn - ở trên - bàn"
+]
+```
+
+frame_26:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ)",
+  "tường - ở phía sau - laptop (màu be)",
+  "laptop (màu be) - ở trên - giường (màu tím)",
+  "bàn - ở trên - ghế (màu nâu)",
+  "điện thoại di động - ở trên - bàn ăn",
+  "chai2 (màu trắng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ) - ngồi trên - bàn ăn",
+  "giường (màu tím) - ở dưới - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bát (màu vàng) - trong tay - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ)",
+  "tủ lạnh (màu xám) - ở trên - bàn ăn",
+  "chai1 (màu trắng) - ở trên - bàn ăn",
+  "bàn ăn - ở trên - bàn",
+  "sách - ở trên - bàn ăn"
+]
+```
+
+frame_27:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ)",
+  "tường - ở phía sau - laptop (màu be)",
+  "laptop (màu be) - ở trên - giường (màu tím)",
+  "bàn - ở trên - ghế (màu nâu)",
+  "điện thoại di động - ở trên - bàn ăn",
+  "chai2 (màu trắng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ) - ngồi trên - bàn ăn",
+  "giường (màu tím) - ở dưới - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bát (màu vàng) - trong tay - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ)",
+  "tủ lạnh (màu xám) - ở trên - bàn ăn",
+  "chai1 (màu trắng) - ở trên - bàn ăn",
+  "bàn ăn - ở trên - bàn",
+  "sách - ở trên - bàn ăn"
+]
+```
+
+frame_28:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ)",
+  "tường - ở phía sau - laptop (màu be)",
+  "laptop (màu be) - ở trên - giường (màu tím)",
+  "bàn - ở trên - ghế (màu nâu)",
+  "điện thoại di động - ở trên - bàn ăn",
+  "chai2 (màu trắng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ) - ngồi trên - bàn ăn",
+  "giường (màu tím) - ở dưới - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bát (màu vàng) - trong tay - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ)",
+  "tủ lạnh (màu xám) - ở trên - bàn ăn",
+  "chai1 (màu trắng) - ở trên - bàn ăn",
+  "bàn ăn - ở trên - bàn",
+  "sách - ở trên - bàn ăn"
+]
+```
+
+frame_29:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ)",
+  "tường - ở phía sau - laptop (màu be)",
+  "laptop (màu be) - ở trên - giường (màu tím)",
+  "bàn - ở trên - ghế (màu nâu)",
+  "điện thoại di động - ở trên - bàn ăn",
+  "chai2 (màu trắng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ) - ngồi trên - ghế1 (màu nâu)",
+  "giường (màu tím) - ở dưới - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bát (màu vàng) - trong tay - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ)",
+  "tủ lạnh (màu xám) - ở trên - bàn ăn",
+  "chai1 (màu trắng) - ở trên - bàn ăn",
+  "bàn ăn - ở trên - bàn",
+  "sách - ở trên - bàn ăn"
+]
+```
+
+frame_30:
+```json
+[
+  "tường - ở phía sau - bàn ăn",
+  "bàn ăn - ở gần - tường",
+  "chai2 (màu trắng) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "tivi (màu vàng) - ở trên - bàn ăn",
+  "tường - ở phía sau - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bàn - ở trên - bàn ăn",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - nằm trên - giường (màu tím)",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ) - ở gần - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ) - gần - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ)",
+  "tường - ở phía sau - laptop (màu be)",
+  "laptop (màu be) - ở trên - giường (màu tím)",
+  "bàn - ở trên - ghế (màu nâu)",
+  "điện thoại di động - ở trên - bàn ăn",
+  "chai2 (màu trắng) - ở trên - bàn ăn",
+  "người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang cầm bát, vui vẻ) - ngồi trên - ghế1 (màu nâu)",
+  "giường (màu tím) - ở dưới - người1 (trẻ sơ sinh - không rõ giới tính, không mặc quần áo, đang nằm ngửa, vui vẻ)",
+  "bát (màu vàng) - trong tay - người2 (trưởng thành - nam, đeo kính, mặc áo cam, đang nhìn người1, vui vẻ)",
+  "tủ lạnh (màu xám) - ở trên - bàn ăn",
+  "chai1 (màu trắng) - ở trên - bàn ăn",
+  "bàn ăn - ở trên - bàn",
+  "sách - ở trên - bàn ăn"
+]
+```
+

@@ -1,0 +1,451 @@
+frame_0:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_30:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_31:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_32:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_33:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_34:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_35:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_36:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_37:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, tập trung) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_38:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, phấn khích) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, phấn khích) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_39:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, phấn khích) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, phấn khích) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_40:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, phấn khích) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, phấn khích) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_41:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, phấn khích) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, phấn khích) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_42:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, phấn khích) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, phấn khích) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_43:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, phấn khích) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, phấn khích) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền"
+]
+```
+
+frame_44:
+```json
+[
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, phấn khích) - đang trượt trên - ván trượt (màu đỏ)",
+  "người1 (trung niên - nam, mặc áo phao vàng, đang trượt nước, phấn khích) - kéo bởi - dây thừng (màu đỏ)",
+  "ván trượt (màu đỏ) - ở trên - nước",
+  "dây thừng (màu đỏ) - kết nối với - thuyền",
+  "nước - ở dưới - bờ (màu nâu sẫm)"
+]
+```
+

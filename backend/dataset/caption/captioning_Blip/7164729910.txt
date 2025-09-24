@@ -1,0 +1,33 @@
+frame_0000.jpg: a small child riding a small blue toy
+frame_0001.jpg: a small child riding on a toy car
+frame_0002.jpg: a little boy riding a toy car in a room
+frame_0003.jpg: a young boy is sitting on a toy car
+frame_0004.jpg: a little boy is playing with a toy
+frame_0005.jpg: a small child is playing with a toy
+frame_0006.jpg: a small child sitting on a blue toy car
+frame_0007.jpg: a small child is playing with a toy
+frame_0008.jpg: a little boy sitting on the floor in a living room
+frame_0009.jpg: a little boy sitting on the floor in front of a couch
+frame_0010.jpg: a young boy sitting on the floor in front of a couch
+frame_0011.jpg: a small child sitting on the floor in a living room
+frame_0012.jpg: a little boy sitting on the floor playing with a toy
+frame_0013.jpg: a young boy sitting on a chair in a living room
+frame_0014.jpg: a young boy sitting on the floor in front of a couch
+frame_0015.jpg: a little boy sitting on the floor playing guitar
+frame_0016.jpg: a young boy sitting on the floor in a living room
+frame_0017.jpg: a young boy sitting on the floor in front of a couch
+frame_0018.jpg: a little boy sitting on a chair in a living room
+frame_0019.jpg: a young boy riding a scooter on a sc scooter
+frame_0020.jpg: a young boy is playing with a toy
+frame_0021.jpg: a little boy sitting on a chair with a remote
+frame_0022.jpg: a young boy is sitting on the floor
+frame_0023.jpg: a young boy sitting on the floor playing with a toy
+frame_0024.jpg: a little girl is playing with a toy
+frame_0025.jpg: a young boy riding a skateboard on a wooden floor
+frame_0026.jpg: a little boy sitting on a blue pot
+frame_0027.jpg: a young boy sitting on a blue chair
+frame_0028.jpg: a young boy sitting on the floor playing with a toy
+frame_0029.jpg: a small child sitting on a couch in a living room
+frame_0030.jpg: a small child sitting on the floor playing with a guitar
+frame_0031.jpg: a small child sitting on the floor in a living room
+frame_0032.jpg: a small child sitting on a couch in a living room

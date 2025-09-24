@@ -1,0 +1,3625 @@
+frame_0:
+```json
+[
+  "Cỏ - xung quanh - Động vật (màu nâu)",
+  "Đất - xung quanh - Động vật (màu nâu)"
+]
+```
+
+frame_1:
+```json
+[
+  "Cỏ - xung quanh - Động vật (màu nâu)",
+  "Đất - xung quanh - Động vật (màu nâu)",
+  "Cỏ - ở trước - Cây",
+  "Cỏ - ở trước - Tường"
+]
+```
+
+frame_2:
+```json
+[
+  "Cỏ - xung quanh - Động vật (màu nâu)",
+  "Đất - xung quanh - Động vật (màu nâu)",
+  "Cỏ - ở trước - Tường"
+]
+```
+
+frame_3:
+```json
+[
+  "Cỏ - xung quanh - Động vật (màu nâu)",
+  "Đất - xung quanh - Động vật (màu nâu)",
+  "Cỏ - ở trước - Tường"
+]
+```
+
+frame_4:
+```json
+[
+  "Cỏ - xung quanh - Động vật (màu nâu)",
+  "Đất - xung quanh - Động vật (màu nâu)",
+  "Cỏ - ở trước - Tường"
+]
+```
+
+frame_5:
+```json
+[
+  "Cỏ - xung quanh - Động vật (màu nâu)",
+  "Đất - xung quanh - Động vật (màu nâu)",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch"
+]
+```
+
+frame_6:
+```json
+[
+  "Cỏ - xung quanh - Động vật (màu nâu)",
+  "Đất - xung quanh - Động vật (màu nâu)",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Sàn - ở trên - Cỏ"
+]
+```
+
+frame_7:
+```json
+[
+  "Cỏ - xung quanh - Đá (màu nâu)",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Sàn - ở trên - Cỏ",
+  "Đá - xung quanh - Cỏ"
+]
+```
+
+frame_8:
+```json
+[
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ"
+]
+```
+
+frame_9:
+```json
+[
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà"
+]
+```
+
+frame_10:
+```json
+[
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Đá",
+  "Đá - trên - Cỏ",
+  "Đá - gần - Tường-gạch",
+  "Đá - một phần của - Đá",
+  "Đá - một phần của - Cỏ",
+  "Cây - gần - Tường"
+]
+```
+
+frame_11:
+```json
+[
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Đá",
+  "Đá - trên - Cỏ",
+  "Đá - gần - Tường-gạch",
+  "Đá - một phần của - Đá",
+  "Đá - một phần của - Cỏ",
+  "Cây - gần - Tường",
+  "Tường-gạch - ở gần - Bụi bẩn",
+  "Bụi bẩn - trên - Cỏ"
+]
+```
+
+frame_12:
+```json
+[
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Đá",
+  "Đá - trên - Cỏ",
+  "Đá - gần - Tường-gạch",
+  "Đá - một phần của - Đá",
+  "Đá - một phần của - Cỏ",
+  "Cây - gần - Tường",
+  "Tường-gạch - ở gần - Bụi bẩn",
+  "Bụi bẩn - trên - Cỏ"
+]
+```
+
+frame_13:
+```json
+[
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Đá",
+  "Đá - trên - Cỏ",
+  "Đá - gần - Tường-gạch",
+  "Đá - một phần của - Đá",
+  "Đá - một phần của - Cỏ",
+  "Cây - gần - Tường",
+  "Tường-gạch - ở gần - Bụi bẩn",
+  "Bụi bẩn - trên - Cỏ"
+]
+```
+
+frame_14:
+```json
+[
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Đá",
+  "Đá - trên - Cỏ",
+  "Đá - gần - Tường-gạch",
+  "Đá - một phần của - Đá",
+  "Đá - một phần của - Cỏ",
+  "Cây - gần - Tường",
+  "Tường-gạch - ở gần - Bụi bẩn",
+  "Bụi bẩn - trên - Cỏ"
+]
+```
+
+frame_15:
+```json
+[
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Đá",
+  "Đá - trên - Cỏ",
+  "Đá - gần - Tường-gạch",
+  "Đá - một phần của - Đá",
+  "Đá - một phần của - Cỏ",
+  "Cây - gần - Tường",
+  "Tường-gạch - ở gần - Bụi bẩn",
+  "Bụi bẩn - trên - Cỏ"
+]
+```
+
+frame_16:
+```json
+[
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Đá1",
+  "Đá1 - trên - Cỏ",
+  "Đá1 - gần - Tường-gạch",
+  "Đá1 - một phần của - Đá1",
+  "Đá1 - một phần của - Cỏ",
+  "Cây - gần - Tường",
+  "Tường-gạch - ở gần - Bụi bẩn",
+  "Bụi bẩn - trên - Cỏ",
+  "Đá2 - trên - Cỏ"
+]
+```
+
+frame_17:
+```json
+[
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Đá1",
+  "Đá1 - trên - Cỏ",
+  "Đá1 - gần - Tường-gạch",
+  "Đá1 - một phần của - Đá1",
+  "Đá1 - một phần của - Cỏ",
+  "Cây - gần - Tường",
+  "Tường-gạch - ở gần - Bụi bẩn",
+  "Bụi bẩn - trên - Cỏ",
+  "Đá2 - trên - Cỏ"
+]
+```
+
+frame_18:
+```json
+[
+  "Thảm - trên - Sàn nhà",
+  "Tường - gần - Thảm",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Đá1",
+  "Đá1 - trên - Cỏ",
+  "Đá1 - gần - Tường-gạch",
+  "Đá1 - một phần của - Đá1",
+  "Đá1 - một phần của - Cỏ",
+  "Cây - gần - Tường",
+  "Tường-gạch - ở gần - Bụi bẩn",
+  "Bụi bẩn - trên - Cỏ",
+  "Đá2 - trên - Cỏ",
+  "Chó - trên - Thảm"
+]
+```
+
+frame_19:
+```json
+[
+  "Đá1 - trên - Cỏ",
+  "Tường - gần - Cỏ",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Đá1",
+  "Đá1 - trên - Cỏ",
+  "Đá1 - gần - Tường-gạch",
+  "Đá1 - một phần của - Đá1",
+  "Đá1 - một phần của - Cỏ",
+  "Cây - gần - Tường",
+  "Tường-gạch - ở gần - Bụi bẩn",
+  "Bụi bẩn - trên - Cỏ",
+  "Đá2 - trên - Cỏ",
+  "Chó - trên - Thảm"
+]
+```
+
+frame_20:
+```json
+[
+  "Đá1 - trên - Cỏ",
+  "Tường - gần - Cỏ",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Đá1",
+  "Đá1 - trên - Cỏ",
+  "Đá1 - gần - Tường-gạch",
+  "Đá1 - một phần của - Đá1",
+  "Đá1 - một phần của - Cỏ",
+  "Cây - gần - Tường",
+  "Tường-gạch - ở gần - Bụi bẩn",
+  "Bụi bẩn - trên - Cỏ",
+  "Đá2 - trên - Cỏ",
+  "Chó - trên - Cỏ"
+]
+```
+
+frame_21:
+```json
+[
+  "Đá1 - trên - Cỏ",
+  "Tường - gần - Cỏ",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Đá1",
+  "Đá1 - trên - Cỏ",
+  "Đá1 - gần - Tường-gạch",
+  "Đá1 - một phần của - Đá1",
+  "Đá1 - một phần của - Cỏ",
+  "Cây - gần - Tường",
+  "Tường-gạch - ở gần - Bụi bẩn",
+  "Bụi bẩn - trên - Cỏ",
+  "Đá2 - trên - Cỏ",
+  "Chó - trên - Cỏ"
+]
+```
+
+frame_22:
+```json
+[
+  "Đá1 - trên - Cỏ",
+  "Tường - gần - Cỏ",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Đá1",
+  "Đá1 - trên - Cỏ",
+  "Đá1 - gần - Tường-gạch",
+  "Đá1 - một phần của - Đá1",
+  "Đá1 - một phần của - Cỏ",
+  "Cây - gần - Tường",
+  "Tường-gạch - ở gần - Bụi bẩn",
+  "Bụi bẩn - trên - Cỏ",
+  "Đá2 - trên - Cỏ",
+  "Chó - trên - Cỏ",
+  "Đá1 - trên - Cỏ"
+]
+```
+
+frame_23:
+```json
+[
+  "Đá1 - trên - Cỏ",
+  "Tường - gần - Cỏ",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Chó",
+  "Cỏ - ở trước - Tường",
+  "Tường - một phần của - Tường-gạch",
+  "Chó - xung quanh - Cỏ",
+  "Tường-gạch - xung quanh - Chó",
+  "Tường-gạch - gần - Cỏ",
+  "Sàn nhà - ở gần - Chó",
+  "Cỏ - xung quanh - Sàn nhà",
+  "Cỏ - xung quanh - Đá1",
+  "Đá1 - trên - Cỏ",
+  "Đá1 - gần - Tường-gạch",
+  "Đá1 - một phần của - Đá1",
+  "Đá1 - một phần của - Cỏ",
+  "Cây - gần - Tường",
+  "Tường-gạch - ở gần - Bụi bẩn",
+  "Bụi bẩn - trên - Cỏ",
+  "Đá2 - trên - Cỏ",
+  "Chó - trên - Cỏ",
+  "Đá1 - trên - Cỏ",
+  "Cỏ - xung quanh - Chó"
+]
+```
+
+frame_24:
+```json
+[
+  "Tường - gần - Tường",
+  "Người1 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, không cảm xúc) - gần - Giường (màu tím)",
+  "Giường (màu tím) - trên - Sàn nhà",
+  "Giường (màu tím) - trên - Thảm"
+]
+```
+
+frame_25:
+```json
+[
+  "Ghế sofa (57%) - trên - cỏ",
+  "Cây - gần - đá",
+  "Cây - gần - Ghế sofa (57%)",
+  "Đá - trên - cỏ"
+]
+```
+
+frame_26:
+```json
+[
+  "Ghế sofa (57%) - trên - cỏ",
+  "Cây - gần - đá",
+  "Cây - gần - Ghế sofa (57%)",
+  "Đá - trên - cỏ"
+]
+```
+
+frame_27:
+```json
+[
+  "Ghế sofa (57%) - trên - cỏ",
+  "Cây - gần - đá",
+  "Cây - gần - Ghế sofa (57%)",
+  "Đá - trên - cỏ",
+  "Đất - gần - ghế sofa (57%)",
+  "Vỉa hè - gần - ghế sofa (57%)"
+]
+```
+
+frame_28:
+```json
+[
+  "Ghế sofa (57%) - trên - cỏ",
+  "Cây - gần - đá",
+  "Cây - gần - Ghế sofa (57%)",
+  "Đá - trên - cỏ",
+  "Đất - gần - ghế sofa (57%)",
+  "Vỉa hè - gần - ghế sofa (57%)"
+]
+```
+
+frame_29:
+```json
+[
+  "Ghế sofa (57%) - trên - cỏ",
+  "Cây - gần - đá",
+  "Cây - gần - Ghế sofa (57%)",
+  "Đá - trên - cỏ",
+  "Đất - gần - ghế sofa (57%)",
+  "Vỉa hè - gần - ghế sofa (57%)",
+  "Tường - trên - cỏ",
+  "Ốc sên - trên - cỏ"
+]
+```
+
+frame_30:
+```json
+[
+  "Bò (78%) - trên - cỏ",
+  "Đất - gần - bò (78%)",
+  "Cỏ - gần - bò (78%)"
+]
+```
+
+frame_31:
+```json
+[
+  "Bò - trên - cỏ",
+  "Đất - gần - bò",
+  "Cỏ - gần - bò",
+  "Tường-gỗ - ở - tường",
+  "Tường - ở - cỏ"
+]
+```
+
+frame_32:
+```json
+[
+  "Bò - trên - cỏ",
+  "Đất - gần - bò",
+  "Cỏ - gần - bò",
+  "Tường-gỗ - ở - tường",
+  "Tường - ở - cỏ"
+]
+```
+
+frame_33:
+```json
+[
+  "Tường-đá - ở - tường",
+  "Tường - ở - cỏ",
+  "Cỏ - gần - thảm",
+  "Thảm - gần - sàn",
+  "Sàn - trên - cỏ",
+  "Bóng thể thao - ở - tường",
+  "Bò - trên - cỏ"
+]
+```
+
+frame_34:
+```json
+["Cỏ - xung quanh - bẩn"]
+```
+
+frame_35:
+```json
+["Chim - trên - Cỏ"]
+```
+
+frame_36:
+```json
+[
+  "Sàn - là - Cỏ",
+  "Sàn - là - Bẩn",
+  "Sàn - là - Bóng thể thao",
+  "Sàn - là - Chim"
+]
+```
+
+frame_37:
+```json
+[
+  "Mèo - ở trên - Cỏ",
+  "Tường - ở trên - Cỏ"
+]
+```
+
+frame_38:
+```json
+[
+  "Mèo - ở trên - Cỏ",
+  "Tường - ở trên - Cỏ",
+  "Bóng thể thao - ở trên - Cỏ"
+]
+```
+
+frame_39:
+```json
+[
+  "Mèo - ở trên - Thảm",
+  "Tường - ở trên - Cỏ",
+  "Bóng thể thao - ở trên - Cỏ",
+  "Sàn nhà - ở trên - Cỏ",
+  "Thảm - ở trên - Sàn nhà"
+]
+```
+
+frame_40:
+```json
+[
+  "Mèo - ở trên - Cỏ",
+  "Bóng thể thao - ở trên - Cỏ"
+]
+```
+
+frame_41:
+```json
+[
+  "Mèo - ở trên - Cỏ",
+  "Ốc sên - ở trên - Cỏ"
+]
+```
+
+frame_42:
+```json
+[
+  "C\u1ecf - \u1edf tr\u00ean - S\u00e0n nh\u00e0",
+  "S\u00e0n nh\u00e0 - \u1edf tr\u00ean - V\u1ec9a h\u00e8",
+  "V\u1ec9a h\u00e8 - \u1edf tr\u00ean - C\u1ecf",
+  "B\u00f3ng th\u1ec3 thao (m\u00e0u xanh da tr\u1eddi) - \u1edf tr\u00ean - S\u00e0n nh\u00e0"
+]
+```
+
+frame_43:
+```json
+[
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Bóng thể thao (màu xanh da trời) - ở trên - Sàn nhà"
+]
+```
+
+frame_44:
+```json
+[
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Bóng thể thao (màu cam) - ở trên - Tường",
+  "Bóng thể thao (màu cam) - ở trên - Vỉa hè"
+]
+```
+
+frame_45:
+```json
+[
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Bóng thể thao (màu xanh da trời) - ở trên - Tường",
+  "Bóng thể thao (màu xanh da trời) - ở trên - Vỉa hè",
+  "Thảm - ở trên - Cỏ"
+]
+```
+
+frame_46:
+```json
+[
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Tường - ở trên - Vỉa hè",
+  "Chim (màu đỏ) - ở trên - Vỉa hè",
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè"
+]
+```
+
+frame_47:
+```json
+[
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Tường - ở trên - Vỉa hè",
+  "Chim (màu đỏ) - ở trên - Vỉa hè",
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè"
+]
+```
+
+frame_48:
+```json
+[
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Tường - ở trên - Vỉa hè",
+  "Chim (màu đỏ) - ở trên - Vỉa hè",
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Gấu (màu tím) - ở trên - Vỉa hè",
+  "Thảm - ở trên - Vỉa hè"
+]
+```
+
+frame_49:
+```json
+[
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Tường - ở trên - Vỉa hè",
+  "Chim (màu đỏ) - ở trên - Vỉa hè",
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Gấu (màu tím) - ở trên - Vỉa hè",
+  "Thảm - ở trên - Vỉa hè",
+  "Bò - ở trên - Cỏ",
+  "Chim (màu đỏ) - ở trên - Cỏ",
+  "Tường - ở trên - Tường đá"
+]
+```
+
+frame_50:
+```json
+[
+  "Tường - ở trên - Tường đá",
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Tường - ở trên - Vỉa hè",
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Chim1 (màu đỏ) - ở trên - Vỉa hè",
+  "Chim1 (màu đỏ) - ở trên - Cỏ",
+  "Gấu1 (màu tím) - ở trên - Vỉa hè",
+  "Thảm1 - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Cỏ",
+  "Đá - ở trên - Cỏ",
+  "Đá - ở trên - Vỉa hè",
+  "Đá - gần - Tường đá"
+]
+```
+
+frame_51:
+```json
+[
+  "Tường - ở trên - Tường đá",
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Tường - ở trên - Vỉa hè",
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Chim1 (màu đỏ) - ở trên - Vỉa hè",
+  "Chim1 (màu đỏ) - ở trên - Cỏ",
+  "Gấu1 (màu tím) - ở trên - Vỉa hè",
+  "Thảm1 - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Cỏ",
+  "Đá - ở trên - Cỏ",
+  "Đá - ở trên - Vỉa hè",
+  "Đá - gần - Tường đá",
+  "Ô tô1 (màu xanh dương) - ở trên - Vỉa hè",
+  "Bóng thể thao1 (trắng) - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Vỉa hè"
+]
+```
+
+frame_52:
+```json
+[
+  "Tường - ở trên - Tường đá",
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Tường - ở trên - Vỉa hè",
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Chim1 (màu đỏ) - ở trên - Vỉa hè",
+  "Chim1 (màu đỏ) - ở trên - Cỏ",
+  "Gấu1 (màu tím) - ở trên - Vỉa hè",
+  "Thảm1 - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Cỏ",
+  "Đá - ở trên - Cỏ",
+  "Đá - ở trên - Vỉa hè",
+  "Đá - gần - Tường đá",
+  "Ô tô1 (màu xanh dương) - ở trên - Vỉa hè",
+  "Bóng thể thao1 (trắng) - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Vỉa hè"
+]
+```
+
+frame_53:
+```json
+[
+  "Cây - ở trên - Tường đá",
+  "Cây - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Tường - ở trên - Vỉa hè",
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Gấu1 (màu tím) - ở trên - Cỏ",
+  "Gấu1 (màu tím) - ở trên - Vỉa hè",
+  "Đá - ở trên - Cỏ",
+  "Đá - ở trên - Vỉa hè",
+  "Đá - gần - Tường đá",
+  "Bóng thể thao1 (trắng) - ở trên - Cỏ",
+  "Bóng thể thao1 (trắng) - ở trên - Vỉa hè",
+  "Tường đá - ở trên - Đá",
+  "Tường đá - ở trên - Cỏ",
+  "Tường - ở trên - Đá"
+]
+```
+
+frame_54:
+```json
+[
+  "Cây - ở trên - Tường đá",
+  "Cây - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Tường - ở trên - Vỉa hè",
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Gấu1 (màu tím) - ở trên - Cỏ",
+  "Gấu1 (màu tím) - ở trên - Vỉa hè",
+  "Đá - ở trên - Cỏ",
+  "Đá - ở trên - Vỉa hè",
+  "Đá - gần - Tường đá",
+  "Bóng thể thao1 (trắng) - ở trên - Cỏ",
+  "Bóng thể thao1 (trắng) - ở trên - Vỉa hè",
+  "Tường đá - ở trên - Đá",
+  "Tường đá - ở trên - Cỏ",
+  "Tường - ở trên - Đá"
+]
+```
+
+frame_55:
+```json
+[
+  "Cây - ở trên - Tường đá",
+  "Cây - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Tường - ở trên - Vỉa hè",
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Gấu1 (màu tím) - ở trên - Cỏ",
+  "Gấu1 (màu tím) - ở trên - Vỉa hè",
+  "Đá - ở trên - Cỏ",
+  "Đá - ở trên - Vỉa hè",
+  "Đá - gần - Tường đá",
+  "Bóng thể thao1 (trắng) - ở trên - Cỏ",
+  "Bóng thể thao1 (trắng) - ở trên - Vỉa hè",
+  "Tường đá - ở trên - Đá",
+  "Tường đá - ở trên - Cỏ",
+  "Tường - ở trên - Đá",
+  "Heo rừng1 - ở trên - Cỏ",
+  "Đá - gần - Bóng thể thao1 (trắng)"
+]
+```
+
+frame_56:
+```json
+[
+  "Cây - ở trên - Tường đá",
+  "Cây - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Tường - ở trên - Vỉa hè",
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Gấu1 (màu tím) - ở trên - Cỏ",
+  "Gấu1 (màu tím) - ở trên - Vỉa hè",
+  "Đá - ở trên - Cỏ",
+  "Đá - ở trên - Vỉa hè",
+  "Đá - gần - Tường đá",
+  "Bóng thể thao1 (trắng) - ở trên - Cỏ",
+  "Bóng thể thao1 (trắng) - ở trên - Vỉa hè",
+  "Tường đá - ở trên - Đá",
+  "Tường đá - ở trên - Cỏ",
+  "Tường - ở trên - Đá",
+  "Heo rừng1 - ở trên - Cỏ",
+  "Đá - gần - Bóng thể thao1 (trắng)",
+  "Heo rừng1 - ở trên - Cỏ"
+]
+```
+
+frame_57:
+```json
+[
+  "Cây - ở trên - Tường đá",
+  "Cây - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Tường - ở trên - Vỉa hè",
+  "Cỏ - ở trên - Sàn nhà",
+  "Sàn nhà - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Cỏ",
+  "Gấu1 (màu tím) - ở trên - Cỏ",
+  "Gấu1 (màu tím) - ở trên - Vỉa hè",
+  "Đất - ở trên - Cỏ",
+  "Đất - ở trên - Vỉa hè",
+  "Đất - gần - Tường đá",
+  "Bóng thể thao1 (trắng) - ở trên - Cỏ",
+  "Bóng thể thao1 (trắng) - ở trên - Vỉa hè",
+  "Tường đá - ở trên - Đất",
+  "Tường đá - ở trên - Cỏ",
+  "Tường - ở trên - Đất",
+  "Heo rừng1 - ở trên - Cỏ",
+  "Đất - gần - Bóng thể thao1 (trắng)",
+  "Heo rừng1 - ở trên - Cỏ",
+  "Bò1 - ở trên - Cỏ",
+  "Bò1 - ở trên - Vỉa hè"
+]
+```
+
+frame_58:
+```json
+[
+  "Đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Đá",
+  "Cừu1 - ở trên - Cỏ",
+  "Cừu1 - ở trên - Đá",
+  "Bóng thể thao1 (trắng) - ở trên - Cỏ"
+]
+```
+
+frame_59:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Cừu1",
+  "Cừu1 - ở trên - Tường",
+  "Cừu1 - ở trên - Cỏ",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá"
+]
+```
+
+frame_60:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1"
+]
+```
+
+frame_61:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1"
+]
+```
+
+frame_62:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1"
+]
+```
+
+frame_63:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)"
+]
+```
+
+frame_64:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè"
+]
+```
+
+frame_65:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Ngựa1 (màu trắng) - ở trên - Cỏ"
+]
+```
+
+frame_66:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1"
+]
+```
+
+frame_67:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Cừu - ở trên - Cỏ"
+]
+```
+
+frame_68:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1"
+]
+```
+
+frame_69:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm"
+]
+```
+
+frame_70:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm"
+]
+```
+
+frame_71:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm"
+]
+```
+
+frame_72:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Giường - ở trên - Bò1",
+  "Bò1 - ở trên - Giường"
+]
+```
+
+frame_73:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1"
+]
+```
+
+frame_74:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đá",
+  "Đá - ở gần - Vỉa hè"
+]
+```
+
+frame_75:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đá",
+  "Đá - ở gần - Vỉa hè"
+]
+```
+
+frame_76:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đá",
+  "Đá - ở gần - Vỉa hè",
+  "Chó1 (màu nâu) - ở trên - Cỏ"
+]
+```
+
+frame_77:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đá",
+  "Đá - ở gần - Vỉa hè",
+  "Chó1 (màu nâu) - ở trên - Cỏ",
+  "Tường đá - ở trên - Tường"
+]
+```
+
+frame_78:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đá",
+  "Đá - ở gần - Vỉa hè",
+  "Chó1 (màu xanh) - ở trên - Thảm",
+  "Tường đá - ở trên - Tường",
+  "Chó1 (màu xanh) - ở trên - Sàn",
+  "Thảm - ở trên - Chó1 (màu xanh)"
+]
+```
+
+frame_79:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đá",
+  "Đá - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)"
+]
+```
+
+frame_80:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đá",
+  "Đá - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)"
+]
+```
+
+frame_81:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đá",
+  "Đá - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ"
+]
+```
+
+frame_82:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đá",
+  "Đá - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)"
+]
+```
+
+frame_83:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đá",
+  "Đá - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)"
+]
+```
+
+frame_84:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đá",
+  "Đá - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)"
+]
+```
+
+frame_85:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đá",
+  "Đá - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)"
+]
+```
+
+frame_86:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đá",
+  "Đá - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)"
+]
+```
+
+frame_87:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)"
+]
+```
+
+frame_88:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)"
+]
+```
+
+frame_89:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)"
+]
+```
+
+frame_90:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)"
+]
+```
+
+frame_91:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)"
+]
+```
+
+frame_92:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)"
+]
+```
+
+frame_93:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm"
+]
+```
+
+frame_94:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm"
+]
+```
+
+frame_95:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm"
+]
+```
+
+frame_96:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)"
+]
+```
+
+frame_97:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá"
+]
+```
+
+frame_98:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá"
+]
+```
+
+frame_99:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá"
+]
+```
+
+frame_100:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá"
+]
+```
+
+frame_101:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá"
+]
+```
+
+frame_102:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá"
+]
+```
+
+frame_103:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá"
+]
+```
+
+frame_104:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá"
+]
+```
+
+frame_105:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Bò1 - đang ăn - Cỏ"
+]
+```
+
+frame_106:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Bò1 - đang ăn - Cỏ",
+  "Tường - ở trên - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - ở trên - Tường",
+  "Cừu1 (màu xám) - ở trên - Cỏ",
+  "Cỏ - ở trên - Cừu1 (màu xám)"
+]
+```
+
+frame_107:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Bò1 - đang ăn - Cỏ",
+  "Tường - ở trên - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - ở trên - Tường",
+  "Cừu1 (màu xám) - ở trên - Cỏ",
+  "Cỏ - ở trên - Cừu1 (màu xám)",
+  "Đá - ở gần - Cừu1 (màu xám)"
+]
+```
+
+frame_108:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Bò1 - đang ăn - Cỏ",
+  "Tường - ở trên - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - ở trên - Tường",
+  "Cừu1 (màu xám) - ở trên - Cỏ",
+  "Cỏ - ở trên - Cừu1 (màu xám)",
+  "Đá - ở gần - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - đứng - Sàn"
+]
+```
+
+frame_109:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Bò1 - đang ăn - Cỏ",
+  "Tường - ở trên - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - ở trên - Tường",
+  "Cừu1 (màu xám) - ở trên - Cỏ",
+  "Cỏ - ở trên - Cừu1 (màu xám)",
+  "Đá - ở gần - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - đứng - Sàn"
+]
+```
+
+frame_110:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Bò1 - đang ăn - Cỏ",
+  "Tường - ở trên - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - ở trên - Tường",
+  "Cừu1 (màu xám) - ở trên - Cỏ",
+  "Cỏ - ở trên - Cừu1 (màu xám)",
+  "Đá - ở gần - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - đứng - Sàn"
+]
+```
+
+frame_111:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Bò1 - đang ăn - Cỏ",
+  "Tường - ở trên - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - ở trên - Tường",
+  "Cừu1 (màu xám) - ở trên - Cỏ",
+  "Cỏ - ở trên - Cừu1 (màu xám)",
+  "Đá - ở gần - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - đứng - Sàn"
+]
+```
+
+frame_112:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Bò1 - đang ăn - Cỏ",
+  "Tường - ở trên - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - ở trên - Tường",
+  "Cừu1 (màu xám) - ở trên - Cỏ",
+  "Cỏ - ở trên - Cừu1 (màu xám)",
+  "Đá - ở gần - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - đứng - Sàn"
+]
+```
+
+frame_113:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Bò1 - đang ăn - Cỏ",
+  "Tường - ở trên - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - ở trên - Tường",
+  "Cừu1 (màu xám) - ở trên - Cỏ",
+  "Cỏ - ở trên - Cừu1 (màu xám)",
+  "Đá - ở gần - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - đứng - Sàn",
+  "Đá - ở gần - Cỏ",
+  "Cỏ - ở gần - Đá"
+]
+```
+
+frame_114:
+```json
+[
+  "Tường - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường",
+  "Tường - ở trên - Bò1",
+  "Bò1 - ở trên - Tường",
+  "Bò1 - ở trên - Cỏ",
+  "Tường - ở trên - Sàn",
+  "Sàn - ở trên - Tường",
+  "Sàn - ở trên - Cỏ",
+  "Cỏ - ở trên - Sàn",
+  "Tường - ở trên - Thảm",
+  "Thảm - ở trên - Tường",
+  "Thảm - ở trên - Cỏ",
+  "Cỏ - ở trên - Thảm",
+  "Bò1 - ở trên - Thảm",
+  "Thảm - ở trên - Bò1",
+  "Cây - ở trên - Tường",
+  "Tường - ở trên - Cây",
+  "Cỏ - ở phía trước - Bò1",
+  "Tường đá - ở trên - Cỏ",
+  "Cỏ - ở trên - Tường đá",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Tường - ở trên - Vỉa hè",
+  "Vỉa hè - ở trên - Tường",
+  "Vỉa hè - ở trên - Cỏ",
+  "Cỏ - ở trên - Vỉa hè",
+  "Bò1 - ở trên - Tường đá",
+  "Tường đá - ở trên - Bò1",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Tường đá - ở trên - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Bò1 - ở gần - Vỉa hè",
+  "Vỉa hè - ở gần - Bò1",
+  "Vỉa hè - ở gần - Đất",
+  "Đất - ở gần - Vỉa hè",
+  "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở gần - Người2 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người3 (trẻ - không rõ giới tính, mặc áo hồng, đi bộ, vui vẻ)",
+  "Bò1 - ở trên - Cỏ",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Tường",
+  "Tường - ở trên - Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ)",
+  "Người5 (trẻ - không rõ giới tính, mặc áo đỏ, đứng, vui vẻ) - ở trên - Thảm",
+  "Đất - ở dưới - Bò1",
+  "Đá - ở gần - Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ)",
+  "Người4 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường đá",
+  "Bò1 - đang ăn - Cỏ",
+  "Tường - ở trên - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - ở trên - Tường",
+  "Cừu1 (màu xám) - ở trên - Cỏ",
+  "Cỏ - ở trên - Cừu1 (màu xám)",
+  "Đá - ở gần - Cừu1 (màu xám)",
+  "Cừu1 (màu xám) - đứng - Sàn",
+  "Đá - ở gần - Cỏ",
+  "Cỏ - ở gần - Đá"
+]
+```
+

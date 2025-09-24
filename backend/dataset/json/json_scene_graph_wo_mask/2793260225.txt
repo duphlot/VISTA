@@ -1,0 +1,296 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang cưỡi, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái) - được cưỡi bởi - người3 (trẻ - nữ, mặc bikini, đang cưỡi, thoải mái)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang cười, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái) - được cưỡi bởi - người3 (trẻ - nữ, mặc bikini, đang cười, thoải mái)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang cười, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người3 (trẻ - nữ, mặc bikini, đang cười, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái) - được cưỡi bởi - người3 (trẻ - nữ, mặc bikini, đang cười, thoải mái)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái) - được cưỡi bởi - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái) - được cưỡi bởi - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái) - được cưỡi bởi - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái) - được cưỡi bởi - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang cưỡi lên, thoải mái) - cưỡi lên - người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang cưỡi lên, thoải mái) - cưỡi lên - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái) - được cưỡi bởi - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang cưỡi lên, thoải mái) - cưỡi lên - người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang cưỡi lên, thoải mái) - cưỡi lên - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái) - được cưỡi bởi - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái) - được cưỡi bởi - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái) - được cưỡi bởi - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái) - được cưỡi bởi - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - cưỡi lên - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái) - được cưỡi bởi - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang cưỡi lên, thoải mái) - cưỡi lên - người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang cưỡi lên, thoải mái) - cưỡi lên - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cưỡi bởi, thoải mái) - được cưỡi bởi - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang cười lên, thoải mái) - cười lên - người2 (trẻ - nam, đội mũ, đang được cười bởi, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang cười lên, thoải mái) - cười lên - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cười bởi, thoải mái) - được cười bởi - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cười bởi, thoải mái) - được cười bởi - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang ôm, thoải mái) - ôm - người2 (trẻ - nam, đội mũ, đang được ôm, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang được cười bởi, thoải mái) - được cười bởi - người3 (trẻ - nữ, mặc bikini, đang đỡ, thoải mái)"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang đỡ, thoải mái) - đỡ - người2 (trẻ - nam, đội mũ, đang lộn nhào, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang đỡ, thoải mái) - đỡ - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang lộn nhào, thoải mái) - ở gần - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người2 (trẻ - nam, đội mũ, đang lộn nhào, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang lộn nhào, thoải mái) - ở gần - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người2 (trẻ - nam, đội mũ, đang lộn nhào, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang lộn nhào, thoải mái) - ở gần - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người2 (trẻ - nam, đội mũ, đang lộn nhào, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang lộn nhào, thoải mái) - ở gần - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang lộn nhào, thoải mái) - ở gần - người4 (trẻ - nam, không mặc áo, đang lặn, ngạc nhiên)"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người2 (trẻ - nam, đội mũ, đang lộn nhào, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang lộn nhào, thoải mái) - ở gần - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang lộn nhào, thoải mái) - ở gần - người4 (trẻ - nam, không mặc áo, đang bơi, ngạc nhiên)"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người2 (trẻ - nam, đội mũ, đang sờ mặt, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang sờ mặt, thoải mái) - ở gần - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang sờ mặt, thoải mái) - ở gần - người4 (trẻ - nam, không mặc áo, đang bơi, ngạc nhiên)"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người2 (trẻ - nam, đội mũ, đang chỉ tay, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang chỉ tay, thoải mái) - ở gần - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang chỉ tay, thoải mái) - ở gần - người4 (trẻ - nam, không mặc áo, đang bơi, ngạc nhiên)"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người2 (trẻ - nam, đội mũ, đang chỉ tay, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang chỉ tay, thoải mái) - ở gần - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - đứng sau - người4 (trẻ - nam, không mặc áo, đang bơi, ngạc nhiên)"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người2 (trẻ - nam, đội mũ, đang chỉ tay, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang chỉ tay, thoải mái) - ở gần - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - đứng sau - người4 (trẻ - nam, không mặc áo, đang bơi, ngạc nhiên)"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người2 (trẻ - nam, đội mũ, đang chỉ tay, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang chỉ tay, thoải mái) - ở gần - người3 (trẻ - nữ, mặc bikini, đang nhìn, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - đứng sau - người4 (trẻ - nam, không mặc áo, đang bơi, ngạc nhiên)"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người2 (trẻ - nam, đội mũ, đang bơi, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người3 (trẻ - nữ, mặc bikini, đang nói chuyện, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang bơi, thoải mái) - ở gần - người3 (trẻ - nữ, mặc bikini, đang nói chuyện, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - đứng sau - người4 (trẻ - nam, không mặc áo, đang bơi, ngạc nhiên)"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người2 (trẻ - nam, đội mũ, đang bơi, thoải mái)",
+  "người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái) - bơi cạnh - người3 (trẻ - nữ, mặc bikini, đang nói chuyện, thoải mái)",
+  "người2 (trẻ - nam, đội mũ, đang bơi, thoải mái) - ở gần - người3 (trẻ - nữ, mặc bikini, đang nói chuyện, thoải mái)",
+  "người4 (trẻ - nam, không mặc áo, đang vẫy tay, vui vẻ) - đứng trước - người1 (trẻ - nam, không mặc áo, đang bơi, thoải mái)"
+]
+```
+

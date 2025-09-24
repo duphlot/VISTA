@@ -1,0 +1,835 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - người2 (trẻ, mặc áo vàng, đang đứng)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - người2 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - che - người2 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ, mặc áo phông đen, đang cầm) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang cầm) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang cầm) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang cầm) - phía trước - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang cầm) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang cầm) - che - người2 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang cầm) - phía trước - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang cầm) - cầm - chai (trong suốt)",
+  "người2 (trẻ, mặc áo vàng, đang đứng) - cầm - chai (trong suốt)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - người2 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "người2 (trẻ, mặc áo vàng, đang đứng) - cầm - chai (trong suốt)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - người2 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - người2 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - người2 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói)"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - người2 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bìa cứng"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - người2 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bìa cứng"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - người2 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bìa cứng",
+  "trần nhà - phía trên - cây trồng trong chậu (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - người3 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - người2 (trẻ, mặc áo vàng, đang đứng)"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - người2 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bìa cứng",
+  "trần nhà - phía trên - cây trồng trong chậu (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - người3 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - người2 (trẻ, mặc áo vàng, đang đứng)"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - người2 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bìa cứng",
+  "trần nhà - phía trên - cây trồng trong chậu (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - người3 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - người2 (trẻ, mặc áo vàng, đang đứng)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - người2 (trẻ, mặc áo vàng, đang đứng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nhìn)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - bìa cứng",
+  "trần nhà - phía trên - cây trồng trong chậu (màu vàng)"
+]
+```
+
+frame_14:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói chuyện)",
+  "người1 (trẻ, mặc áo phông đen, đang nói chuyện) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói chuyện) - phía trước - bìa cứng",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói chuyện) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói chuyện) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói chuyện) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói chuyện) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói chuyện) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói chuyện) - che - cây trồng trong chậu2 (màu vàng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói chuyện)",
+  "tủ - bên cạnh - bìa cứng"
+]
+```
+
+frame_15:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang ngồi)",
+  "người1 (trẻ, mặc áo phông đen, đang ngồi) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang ngồi) - phía trước - bìa cứng",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang ngồi) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang ngồi) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang ngồi) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang ngồi) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang ngồi) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang ngồi) - che - cây trồng trong chậu2 (màu vàng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang ngồi)",
+  "tủ - bên cạnh - bìa cứng"
+]
+```
+
+frame_16:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang ngồi)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - bìa cứng",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - cây trồng trong chậu2 (màu vàng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang ngồi)",
+  "tủ - bên cạnh - bìa cứng",
+  "thảm (màu tím) - gần - bìa cứng"
+]
+```
+
+frame_17:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nhìn)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - bìa cứng",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - cây trồng trong chậu2 (màu vàng)",
+  "tủ - bên cạnh - bìa cứng",
+  "thảm (màu tím) - gần - bìa cứng",
+  "người2 (không rõ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nhìn)"
+]
+```
+
+frame_18:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nhìn)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - bìa cứng",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - cây trồng trong chậu2 (màu vàng)",
+  "tủ - bên cạnh - bìa cứng",
+  "thảm (màu tím) - gần - bìa cứng",
+  "người2 (không rõ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nhìn)"
+]
+```
+
+frame_19:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nhìn)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - bìa cứng",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - cây trồng trong chậu2 (màu vàng)",
+  "tủ - bên cạnh - bìa cứng",
+  "thảm (màu tím) - gần - bìa cứng",
+  "người2 (không rõ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nhìn)"
+]
+```
+
+frame_20:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nhìn)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - bệ cứng",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nhìn) - che - cây trồng trong chậu2 (màu vàng)",
+  "tủ - bên cạnh - bệ cứng",
+  "thảm (màu tím) - gần - bệ cứng",
+  "người2 (không rõ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nhìn)"
+]
+```
+
+frame_21:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nhìn)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bể cứng",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "tủ - bên cạnh - bể cứng",
+  "thảm (màu tím) - gần - bể cứng",
+  "người2 (không rõ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)"
+]
+```
+
+frame_22:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nhìn)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bìa các tông",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "tủ - bên cạnh - bìa các tông",
+  "thảm (màu tím) - gần - bìa các tông",
+  "người2 (không rõ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)"
+]
+```
+
+frame_23:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bìa các tông",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "tủ - bên cạnh - bìa các tông",
+  "thảm (màu tím) - gần - bìa các tông",
+  "người2 (khuôn mặt không rõ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)"
+]
+```
+
+frame_24:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bìa các tông",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "tủ - bên cạnh - bìa các tông",
+  "thảm (màu tím) - gần - bìa các tông",
+  "người2 (khuôn mặt không rõ, mặc áo hồng, đang đứng) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)"
+]
+```
+
+frame_25:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bìa các tông",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "tủ - bên cạnh - bìa các tông",
+  "thảm (màu tím) - gần - bìa các tông",
+  "người2 (trung niên, mặc áo hường, đang ngồi) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)"
+]
+```
+
+frame_26:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bìa các tông",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "tủ - bên cạnh - bìa các tông",
+  "thảm (màu tím) - gần - bìa các tông",
+  "người2 (trung niên, mặc áo phông đen, đang ngồi) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)"
+]
+```
+
+frame_27:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bìa các tông",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "tủ - bên cạnh - bìa các tông",
+  "thảm (màu tím) - gần - bìa các tông",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)"
+]
+```
+
+frame_28:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bìa các tông",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "tủ - bên cạnh - bìa các tông",
+  "thảm (màu tím) - gần - bìa các tông",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "tường (màu vàng) - phía sau - người2 (trung niên, mặc áo phông đen, đang nói)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - sàn nhà"
+]
+```
+
+frame_29:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bìa các tông",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "tủ - bên cạnh - bìa các tông",
+  "thảm (màu tím) - gần - bìa các tông",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "tường (màu vàng) - phía sau - người2 (trung niên, mặc áo phông đen, đang nói)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - sàn nhà"
+]
+```
+
+frame_30:
+```json
+[
+  "tường (màu vàng) - bên cạnh - cây trồng trong chậu1 (màu vàng)",
+  "tường (màu vàng) - phía trên - ti vi (màu hồng)",
+  "kệ (màu cam) - bên cạnh - ti vi (màu hồng)",
+  "trần nhà - phía trên - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bệ các tông",
+  "trần nhà - phía trên - cây trồng trong chậu1 (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "tủ - bên cạnh - bệ các tông",
+  "thảm (màu tím) - gần - bệ các tông",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "tường (màu vàng) - phía sau - người2 (trung niên, mặc áo phông đen, đang nói)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - sàn nhà"
+]
+```
+
+frame_31:
+```json
+[
+  "cây trồng trong chậu1 (màu vàng) - ở trên - tường (màu vàng)",
+  "ti vi (màu hồng) - ở trên - tường (màu vàng)",
+  "ti vi (màu hồng) - bên cạnh - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - ở trên - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bể các tông",
+  "cây trồng trong chậu2 (màu vàng) - ở trên - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "bể các tông - bên cạnh - tủ",
+  "bể các tông - gần - thảm (màu tím)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía sau - tường (màu vàng)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "chai1 (trong suốt) - bên cạnh - tủ"
+]
+```
+
+frame_32:
+```json
+[
+  "cây trồng trong chậu1 (màu vàng) - ở trên - tường (màu vàng)",
+  "ti vi (màu hồng) - ở trên - tường (màu vàng)",
+  "ti vi (màu hồng) - bên cạnh - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - ở trên - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bể các tông",
+  "cây trồng trong chậu2 (màu vàng) - ở trên - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "bể các tông - bên cạnh - tủ",
+  "bể các tông - gần - thảm (màu tím)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía sau - tường (màu vàng)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "chai1 (trong suốt) - bên cạnh - tủ",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - che - người3 (lớn tuổi, không mặc áo, đang nhìn)"
+]
+```
+
+frame_33:
+```json
+[
+  "cây trồng trong chậu1 (màu vàng) - ở trên - tường (màu vàng)",
+  "ti vi (màu hồng) - ở trên - tường (màu vàng)",
+  "ti vi (màu hồng) - bên cạnh - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - ở trên - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bể các tông",
+  "cây trồng trong chậu2 (màu vàng) - ở trên - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "bể các tông - bên cạnh - tủ",
+  "bể các tông - gần - thảm (màu tím)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía sau - tường (màu vàng)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía trước - ti vi (màu hồng)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía trước - kệ (màu cam)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía trước - sàn nhà",
+  "chai1 (trong suốt) - bên cạnh - tủ",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - che - người3 (lớn tuổi, không mặc áo, đang nhìn)"
+]
+```
+
+frame_34:
+```json
+[
+  "cây trồng trong chậu1 (màu vàng) - ở trên - tường (màu vàng)",
+  "ti vi (màu hồng) - ở trên - tường (màu vàng)",
+  "ti vi (màu hồng) - bên cạnh - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - ở trên - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bể các tông",
+  "cây trồng trong chậu2 (màu vàng) - ở trên - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "bể các tông - bên cạnh - tủ",
+  "bể các tông - gần - thảm (màu tím)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía sau - tường (màu vàng)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía trước - ti vi (màu hồng)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía trước - kệ (màu cam)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía trước - sàn nhà",
+  "chai1 (trong suốt) - bên cạnh - tủ",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - che - người3 (lớn tuổi, không mặc áo, đang nhìn)",
+  "sàn nhà - ở dưới - kệ (màu cam)"
+]
+```
+
+frame_35:
+```json
+[
+  "cây trồng trong chậu1 (màu vàng) - ở trên - tường (màu vàng)",
+  "ti vi (màu hồng) - ở trên - tường (màu vàng)",
+  "ti vi (màu hồng) - bên cạnh - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - ở trên - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bể cá tông",
+  "cây trồng trong chậu2 (màu vàng) - ở trên - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "bể cá tông - bên cạnh - tủ",
+  "bể cá tông - gần - thảm (màu tím)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía sau - tường (màu vàng)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía trước - ti vi (màu hồng)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía trước - kệ (màu cam)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía trước - sàn nhà",
+  "chai1 (trong suốt) - bên cạnh - tủ",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - che - người3 (lớn tuổi, không mặc áo, đang nhìn)",
+  "sàn nhà - ở dưới - kệ (màu cam)"
+]
+```
+
+frame_36:
+```json
+[
+  "cây trồng trong chậu1 (màu vàng) - ở trên - tường (màu vàng)",
+  "ti vi (màu hồng) - ở trên - tường (màu vàng)",
+  "ti vi (màu hồng) - bên cạnh - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - ở trên - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bể cá tông",
+  "cây trồng trong chậu2 (màu vàng) - ở trên - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "bể cá tông - bên cạnh - tủ",
+  "bể cá tông - gần - thảm (màu tím)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía sau - tường (màu vàng)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía trước - ti vi (màu hồng)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía trước - kệ (màu cam)",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - phía trước - sàn nhà",
+  "chai1 (trong suốt) - bên cạnh - tủ",
+  "người2 (trung niên, mặc áo phông đen, đang nhìn) - che - người3 (lớn tuổi, không mặc áo, đang nhìn)",
+  "sàn nhà - ở dưới - kệ (màu cam)"
+]
+```
+
+frame_37:
+```json
+[
+  "cây trồng trong chậu1 (màu vàng) - ở trên - tường (màu vàng)",
+  "ti vi (màu hồng) - ở trên - tường (màu vàng)",
+  "ti vi (màu hồng) - bên cạnh - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - ở trên - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bàn (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - bể cá tông",
+  "cây trồng trong chậu2 (màu vàng) - ở trên - trần nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - tường (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - đồng hồ (màu vàng)",
+  "người1 (trẻ, mặc áo phông đen, đang nói) - che - cây trồng trong chậu2 (màu vàng)",
+  "bể cá tông - bên cạnh - tủ",
+  "bể cá tông - gần - thảm (màu tím)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - bên cạnh - người1 (trẻ, mặc áo phông đen, đang nói)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía sau - tường (màu vàng)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - ti vi (màu hồng)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - kệ (màu cam)",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - phía trước - sàn nhà",
+  "chai1 (trong suốt) - bên cạnh - tủ",
+  "người2 (trung niên, mặc áo phông đen, đang nói) - che - người3 (lớn tuổi, không mặc áo, đang nhìn)",
+  "sàn nhà - ở dưới - kệ (màu cam)"
+]
+```
+

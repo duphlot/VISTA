@@ -1,0 +1,1160 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang bơi cùng - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)",
+  "người2 (trẻ - chưa xác định, không mặc gì, đang bơi, vui vẻ) - đang bơi trong - bể bơi"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ) - đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ)",
+  "người2 (trẻ - chưa xác định, không mặc gì, đang bơi, vui vẻ) - đang bơi trong - bể bơi"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ) - đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ)",
+  "người2 (trẻ - chưa xác định, không mặc gì, đang bơi, vui vẻ) - đang bơi trong - bể bơi"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ) - đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ)",
+  "người2 (trẻ - chưa xác định, không mặc gì, đang bơi, vui vẻ) - đang bơi trong - bể bơi"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ) - đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ)",
+  "người2 (trẻ - chưa xác định, không mặc gì, đang bơi, vui vẻ) - đang bơi trong - bể bơi"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ) - đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ)",
+  "người2 (trẻ - chưa xác định, không mặc gì, đang bơi, vui vẻ) - đang bơi trong - bể bơi"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ) - đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang giữ chó, vui vẻ)",
+  "người2 (trẻ - chưa xác định, không mặc gì, đang bơi, vui vẻ) - đang bơi trong - bể bơi"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)",
+  "chó2 (màu vàng nhạt) - đang bơi trong - bể bơi"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)",
+  "chó2 (màu vàng nhạt) - đang bơi trong - bể bơi"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)",
+  "chó2 (màu vàng nhạt) - đang ở trên bờ - bể bơi"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)",
+  "chó2 (màu vàng nhạt) - đang ở trên bờ - bể bơi"
+]
+```
+
+frame_30:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo đen, đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo đen, đang bơi cùng chó, vui vẻ)",
+  "chó2 (màu vàng nhạt) - đang ở trên bờ - bể bơi"
+]
+```
+
+frame_31:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giữ - chó1",
+  "bể bơi - chứa - chó1",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_32:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 (màu đen) - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp - chó1 (màu đen)",
+  "bể bơi - chứa - chó1 (màu đen)",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_33:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 (màu đen) - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp - chó1 (màu đen)",
+  "bể bơi - chứa - chó1 (màu đen)",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_34:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 (màu đen) - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang giúp - chó1 (màu đen)",
+  "bể bơi - chứa - chó1 (màu đen)",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ)",
+  "người2 (không rõ tuổi - không rõ giới tính, không rõ quần áo, đang bơi, không rõ cảm xúc) - đang bơi trong - bể bơi"
+]
+```
+
+frame_35:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 (màu đen) - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang giúp - chó1 (màu đen)",
+  "bể bơi - chứa - chó1 (màu đen)",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ)",
+  "người2 (không rõ tuổi - không rõ giới tính, không rõ quần áo, đang bơi, không rõ cảm xúc) - đang bơi trong - bể bơi"
+]
+```
+
+frame_36:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 (màu đen) - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang giúp - chó1 (màu đen)",
+  "bể bơi - chứa - chó1 (màu đen)",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ)",
+  "người2 (không rõ tuổi - không rõ giới tính, không rõ quần áo, đang bơi, không rõ cảm xúc) - đang bơi trong - bể bơi"
+]
+```
+
+frame_37:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 (màu đen) - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang giúp - chó1 (màu đen)",
+  "bể bơi - chứa - chó1 (màu đen)",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ)",
+  "người2 (không rõ tuổi - không rõ giới tính, không rõ quần áo, đang bơi, không rõ cảm xúc) - đang bơi trong - bể bơi"
+]
+```
+
+frame_38:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 (màu đen) - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang giúp - chó1 (màu đen)",
+  "bể bơi - chứa - chó1 (màu đen)",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ)"
+]
+```
+
+frame_39:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 (màu đen) - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang giúp - chó1 (màu đen)",
+  "bể bơi - chứa - chó1 (màu đen)",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ)"
+]
+```
+
+frame_40:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 (màu đen) - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang giúp - chó1 (màu đen)",
+  "bể bơi - chứa - chó1 (màu đen)",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ)"
+]
+```
+
+frame_41:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 (màu đen) - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang giúp - chó1 (màu đen)",
+  "bể bơi - chứa - chó1 (màu đen)",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ)"
+]
+```
+
+frame_42:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 (màu đen) - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ) - đang giúp - chó1 (màu đen)",
+  "bể bơi - chứa - chó1 (màu đen)",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp chó bơi, vui vẻ)"
+]
+```
+
+frame_43:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi cùng chó, vui vẻ) - đang ở trong - bể bơi",
+  "chó1 (màu đen) - đang bơi trong - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi cùng chó, vui vẻ) - đang giúp - chó1 (màu đen)",
+  "bể bơi - chứa - chó1 (màu đen)",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi cùng chó, vui vẻ)"
+]
+```
+
+frame_44:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_45:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu vàng) - ở trên - bể bơi",
+  "phao1 (màu xanh) - ở trên - bể bơi"
+]
+```
+
+frame_46:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen) - đang bơi - bể bơi",
+  "phao1 (màu xanh) - đang ở trên - chó1 (màu đen)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen)"
+]
+```
+
+frame_47:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen) - đang bơi - bể bơi",
+  "phao1 (màu xanh) - đang ở trên - chó1 (màu đen)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen)"
+]
+```
+
+frame_48:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen) - đang bơi - bể bơi",
+  "phao1 (màu xanh) - đang ở trên - chó1 (màu đen)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen)"
+]
+```
+
+frame_49:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen) - đang bơi - bể bơi",
+  "phao1 (màu xanh) - đang ở trên - chó1 (màu đen)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen)"
+]
+```
+
+frame_50:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "phao1 (màu xanh) - đang ở trên - chó1 (màu đen, mặc áo phao màu xám)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)"
+]
+```
+
+frame_51:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_52:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_53:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_54:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_55:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_56:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_57:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_58:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_59:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_60:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_61:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_62:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_63:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_64:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_65:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_66:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_67:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_68:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_69:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_70:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)"
+]
+```
+
+frame_71:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đuổi theo - đồ chơi1 (màu xanh)"
+]
+```
+
+frame_72:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đuổi theo - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)"
+]
+```
+
+frame_73:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đuổi theo - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)"
+]
+```
+
+frame_74:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đuổi theo - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)"
+]
+```
+
+frame_75:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đuổi theo - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)"
+]
+```
+
+frame_76:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đuổi theo - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)"
+]
+```
+
+frame_77:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đuổi theo - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_78:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - đang ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đuổi theo - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang giúp đỡ, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_79:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đuổi theo - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_80:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đuổi theo - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_81:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đuổi theo - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_82:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đuổi theo - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_83:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_84:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_85:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_86:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_87:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_88:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_89:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_90:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_91:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_92:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_93:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_94:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_95:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+
+frame_96:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - ở trong - bể bơi",
+  "bể bơi - chứa - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - đang bơi - bể bơi",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - hướng về - chó1 (màu đen, mặc áo phao màu xám)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ)",
+  "chó1 (màu đen, mặc áo phao màu xám) - ngậm - đồ chơi1 (màu xanh)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang bơi, vui vẻ) - chạm vào - chó1 (màu đen, mặc áo phao màu xám)",
+  "bể bơi - ở cạnh - thành bể (màu trắng)"
+]
+```
+

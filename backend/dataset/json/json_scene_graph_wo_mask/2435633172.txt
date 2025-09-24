@@ -1,0 +1,791 @@
+frame_0:
+```json
+[
+  "vật thể - trong - đất"
+]
+```
+
+frame_1:
+```json
+[
+  "chồn - trong - đất"
+]
+```
+
+frame_2:
+```json
+[
+  "chồn - trong - đất"
+]
+```
+
+frame_3:
+```json
+["chồn - trong - đất"]
+```
+
+frame_4:
+```json
+["chồn - trong - đất"]
+```
+
+frame_5:
+```json
+["chồn - trong - đất"]
+```
+
+frame_6:
+```json
+["chồn - trong - đất"]
+```
+
+frame_7:
+```json
+["chồn - trong - đất"]
+```
+
+frame_8:
+```json
+["chồn - trong - đất"]
+```
+
+frame_9:
+```json
+["chồn - trong - đất"]
+```
+
+frame_10:
+```json
+["chồn - trong - đất"]
+```
+
+frame_11:
+```json
+["chồn - trong - đất"]
+```
+
+frame_12:
+```json
+["chồn - trong - đất"]
+```
+
+frame_13:
+```json
+["chồn - trong - đất"]
+```
+
+frame_14:
+```json
+["chồn - trong - đất"]
+```
+
+frame_15:
+```json
+["chồn - trong - đất"]
+```
+
+frame_16:
+```json
+["chồn - trong - đất"]
+```
+
+frame_17:
+```json
+["chồn - trong - đất"]
+```
+
+frame_18:
+```json
+["chồn - trong - đất"]
+```
+
+frame_19:
+```json
+["chồn - trong - đất"]
+```
+
+frame_20:
+```json
+["chồn - trong - đất"]
+```
+
+frame_21:
+```json
+["chồn - trong - đất"]
+```
+
+frame_22:
+```json
+["chồn - trong - đất", "thân cây - ở trên - đất"]
+```
+
+frame_23:
+```json
+["chồn - trong - đất", "thân cây - ở trên - đất"]
+```
+
+frame_24:
+```json
+["chồn - trong - đất", "thân cây - ở trên - đất"]
+```
+
+frame_25:
+```json
+["chồn - trong - đất", "thân cây - ở trên - đất"]
+```
+
+frame_26:
+```json
+["chồn - trong - đất", "thân cây - ở trên - đất"]
+```
+
+frame_27:
+```json
+["chồn - trong - đất", "thân cây - ở trên - đất"]
+```
+
+frame_28:
+```json
+["chồn - trong - đất", "thân cây - ở trên - đất"]
+```
+
+frame_29:
+```json
+["chồn - ở trên - đất", "thân cây - ở trên - đất"]
+```
+
+frame_30:
+```json
+["chồn - ở trên - đất", "thân cây - ở trên - đất"]
+```
+
+frame_31:
+```json
+["chồn - ở trên - đất", "thân cây - ở trên - đất"]
+```
+
+frame_32:
+```json
+["chồn - ở trên - đất", "thân cây - ở trên - đất"]
+```
+
+frame_33:
+```json
+["chồn - ở trên - đất", "thân cây - ở trên - đất"]
+```
+
+frame_34:
+```json
+["chồn - ở trên - đất"]
+```
+
+frame_35:
+```json
+["chồn - ở trên - đất"]
+```
+
+frame_36:
+```json
+["chồn - ở trên - đất"]
+```
+
+frame_37:
+```json
+["chồn - ở trên - đất"]
+```
+
+frame_38:
+```json
+["chồn - ở trên - đất"]
+```
+
+frame_39:
+```json
+["chồn - ở trên - đất"]
+```
+
+frame_40:
+```json
+["chồn - ở trên - đất"]
+```
+
+frame_41:
+```json
+["chồn - ở trên - đất"]
+```
+
+frame_42:
+```json
+["chồn - ở trên - đất"]
+```
+
+frame_43:
+```json
+["chồn - ở trên - đất"]
+```
+
+frame_44:
+```json
+["lợn lòi - nằm trên - đất"]
+```
+
+frame_45:
+```json
+["lợn lòi - nằm trên - đất"]
+```
+
+frame_46:
+```json
+["lợn lòi - nằm trên - đất"]
+```
+
+frame_47:
+```json
+["lợn lòi - nằm trên - đất"]
+```
+
+frame_48:
+```json
+["lợn lòi - nằm trên - đất"]
+```
+
+frame_49:
+```json
+["lợn lòi - nằm trên - đất"]
+```
+
+frame_50:
+```json
+["lợn lòi - nằm trên - đất"]
+```
+
+frame_51:
+```json
+["lợn lòi - nằm trên - đất"]
+```
+
+frame_52:
+```json
+["lợn lòi - nằm trên - đất"]
+```
+
+frame_53:
+```json
+["lợn lòi - nằm trên - đất"]
+```
+
+frame_54:
+```json
+["lợn lòi - nằm trên - đất"]
+```
+
+frame_55:
+```json
+["lợn lòi - nằm trên - đất"]
+```
+
+frame_56:
+```json
+["lợn lòi - nằm trên - đất"]
+```
+
+frame_57:
+```json
+["lợn lòi - ở trong - bùn"]
+```
+
+frame_58:
+```json
+["lợn lòi - ở trong - bùn"]
+```
+
+frame_59:
+```json
+["lợn lòi - ở trên - đất"]
+```
+
+frame_60:
+```json
+["lợn lòi - ở trên - đất"]
+```
+
+frame_61:
+```json
+["lợn lòi - đi trên - đất"]
+```
+
+frame_62:
+```json
+["lợn lòi - đi trên - đất"]
+```
+
+frame_63:
+```json
+[
+  "lợn lòi - đi trên - đất"
+]
+```
+
+frame_64:
+```json
+[
+  "lợn lòi - đi đến - tường"
+]
+```
+
+frame_65:
+```json
+[
+  "l\u1ee3n l\u00f2i - \u0111i \u0111\u1ebfn - t\u01b0\u1eddng"
+]
+```
+
+frame_66:
+```json
+[
+  "lợn lòi - đi đến - tường"
+]
+```
+
+frame_67:
+```json
+[
+  "lợn lòi - đi đến - tường"
+]
+```
+
+frame_68:
+```json
+["lợn lòi - ở cạnh - tường"]
+```
+
+frame_69:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_70:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_71:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_72:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_73:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_74:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_75:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_76:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_77:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_78:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_79:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_80:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_81:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_82:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_83:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_84:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_85:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_86:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_87:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_88:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_89:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_90:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_91:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_92:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_93:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_94:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_95:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_96:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_97:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_98:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_99:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_100:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_101:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_102:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_103:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá",
+  "người1 (trẻ - không rõ giới tính, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người2 (trẻ - nữ, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường",
+  "người3 (trung niên - nam, không rõ đang mặc gì, đang xem, không rõ cảm xúc) - ở trên - tường"
+]
+```
+
+frame_104:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_105:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_106:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_107:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_108:
+```json
+[
+  "lợn lòi - ở cạnh - tường",
+  "lợn lòi - ở cạnh - tảng đá"
+]
+```
+
+frame_109:
+```json
+[
+  "l\u1ee3n l\u00f2i - \u1edf g\u1ea7n - t\u01b0\u1eddng",
+  "l\u1ee3n l\u00f2i - \u1edf g\u1ea7n - t\u1ea3ng \u0111\u00e1"
+]
+```
+
+frame_110:
+```json
+[
+  "lợn lòi - ở gần - tường",
+  "lợn lòi - ở gần - tảng đá"
+]
+```
+
+frame_111:
+```json
+[
+  "lợn lòi - ở gần - tường",
+  "lợn lòi - ở gần - tảng đá",
+  "lợn lòi - ở gần - quả bóng"
+]
+```
+
+frame_112:
+```json
+[
+  "l\u1ee3n l\u00f2i - \u1edf g\u1ea7n - t\u1ea3ng \u0111\u00e1",
+  "l\u1ee3n l\u00f2i - \u1edf g\u1ea7n - qu\u1ea3 b\u00f3ng",
+  "l\u1ee3n l\u00f2i - \u1edf g\u1ea7n - t\u01b0\u1eddng"
+]
+```
+
+frame_113:
+```json
+[
+  "lớn lòi - ở gần - tảng đá",
+  "lớn lòi - ở gần - quả bóng",
+  "lớn lòi - ở gần - tường"
+]
+```
+
+frame_114:
+```json
+[
+  "lợn lòi - ở gần - tảng đá",
+  "lợn lòi - ở gần - tường",
+  "người1 (trẻ - nữ, mặc áo hồng, đang quan sát, tò mò) - ở gần - tường"
+]
+```
+

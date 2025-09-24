@@ -1,0 +1,41 @@
+frame_0000.jpg: two dogs are standing on a sidewalk with chains around them
+frame_0001.jpg: two dogs are standing on a leash
+frame_0002.jpg: two dogs are standing on a sidewalk with their leashs
+frame_0003.jpg: two dogs are standing on a tiled floor
+frame_0004.jpg: two dogs are walking on a leash
+frame_0005.jpg: two dogs are chained to chains on the sidewalk
+frame_0006.jpg: two dogs are walking on a leash
+frame_0007.jpg: two dogs are standing on a sidewalk with chains
+frame_0008.jpg: two dogs are standing on the sidewalk near a pole
+frame_0009.jpg: two dogs are playing with a toy on the sidewalk
+frame_0010.jpg: a dog is walking on a leash
+frame_0011.jpg: a dog is walking on a leash
+frame_0012.jpg: two dogs are walking down the sidewalk with their leashs
+frame_0013.jpg: two dogs are walking on a leash
+frame_0014.jpg: two dogs are standing on a leash
+frame_0015.jpg: two dogs are standing on a sidewalk with chains
+frame_0016.jpg: two dogs are standing on a leash
+frame_0017.jpg: two dogs are standing on a leash
+frame_0018.jpg: two dogs are chained together on a chain
+frame_0019.jpg: two dogs are standing on a leash
+frame_0020.jpg: two dogs are chained together on a leash
+frame_0021.jpg: two dogs are chained to a chain
+frame_0022.jpg: two dogs are standing on a sidewalk with chains
+frame_0023.jpg: two dogs are standing on a sidewalk with their leashs
+frame_0024.jpg: two dogs are walking on a leash
+frame_0025.jpg: a dog is chained to a chain on a sidewalk
+frame_0026.jpg: two dogs are standing on a sidewalk and one is looking at the other dog
+frame_0027.jpg: two dogs are walking around a dog leash
+frame_0028.jpg: a dog is standing on the sidewalk eating something
+frame_0029.jpg: a dog walking on a tiled floor
+frame_0030.jpg: a dog is walking on a leash
+frame_0031.jpg: a dog is walking on a leash
+frame_0032.jpg: a dog is walking on a leash
+frame_0033.jpg: two dogs are playing with each other dogs
+frame_0034.jpg: two dogs are playing with each other dogs
+frame_0035.jpg: two dogs are playing with each other dogs
+frame_0036.jpg: two dogs are walking on a leash
+frame_0037.jpg: two dogs are walking on a leash
+frame_0038.jpg: two dogs are walking on a leash
+frame_0039.jpg: two dogs are walking on a leash
+frame_0040.jpg: two dogs are standing on a sidewalk with their leashs

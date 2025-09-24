@@ -1,0 +1,19 @@
+frame_0000.jpg: a small child playing with a toy truck
+frame_0001.jpg: a backyard with a toy truck and a toy truck
+frame_0002.jpg: a small child playing with a toy truck
+frame_0003.jpg: a small child playing with a toy truck
+frame_0004.jpg: a small backyard with a small backyard with a small backyard
+frame_0005.jpg: a small child playing with a toy truck
+frame_0006.jpg: a small child playing with a toy truck
+frame_0007.jpg: a small backyard with a small pool and a small truck
+frame_0008.jpg: a small backyard with a pool and a toy truck
+frame_0009.jpg: a small child playing with a toy truck
+frame_0010.jpg: a small child playing with a toy truck
+frame_0011.jpg: a small backyard with a pool and a toy truck
+frame_0012.jpg: a small child playing with a toy truck
+frame_0013.jpg: a backyard with a small pool and a toy truck
+frame_0014.jpg: a backyard with a small pool and a toy truck
+frame_0015.jpg: a small child playing with a toy truck
+frame_0016.jpg: a small backyard with a pool and a toy truck
+frame_0017.jpg: a backyard with a small pool and a truck
+frame_0018.jpg: a small toy truck is parked in the yard

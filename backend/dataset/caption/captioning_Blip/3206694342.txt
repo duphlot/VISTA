@@ -1,0 +1,99 @@
+frame_0000.jpg: a group of people are playing a game of shuffles
+frame_0001.jpg: a group of people are dancing in a room
+frame_0002.jpg: a group of people are playing a game
+frame_0003.jpg: a group of people are dancing on a stage
+frame_0004.jpg: a group of people standing on a stage
+frame_0005.jpg: a group of people are standing on a stage
+frame_0006.jpg: a group of people are standing on a stage
+frame_0007.jpg: a group of people are dancing on stage
+frame_0008.jpg: a group of people standing on a stage
+frame_0009.jpg: a group of people are dancing on stage
+frame_0010.jpg: a group of people are performing on stage
+frame_0011.jpg: a group of people standing on a stage
+frame_0012.jpg: a group of people are performing on stage
+frame_0013.jpg: a group of people are performing on stage
+frame_0014.jpg: a group of people are performing on stage
+frame_0015.jpg: a group of people are performing on stage
+frame_0016.jpg: a group of people are performing on stage
+frame_0017.jpg: a group of people are performing on stage
+frame_0018.jpg: a group of people are performing on stage
+frame_0019.jpg: a group of people are performing on stage
+frame_0020.jpg: a group of people are standing on a stage
+frame_0021.jpg: a group of people standing on a stage
+frame_0022.jpg: a group of people on stage with a man in red shirt
+frame_0023.jpg: a group of people standing on a stage
+frame_0024.jpg: a group of people on stage with one person holding a microphone
+frame_0025.jpg: a group of people are performing on stage
+frame_0026.jpg: a group of people are performing on stage
+frame_0027.jpg: a group of people are performing on stage
+frame_0028.jpg: a group of people are performing on stage
+frame_0029.jpg: a group of people are performing on stage
+frame_0030.jpg: a group of people standing on a stage
+frame_0031.jpg: a group of people are performing on stage
+frame_0032.jpg: a group of people are dancing on stage
+frame_0033.jpg: a group of people are performing on stage
+frame_0034.jpg: a group of people are performing on stage
+frame_0035.jpg: a group of people on stage with one person in red shirt
+frame_0036.jpg: a group of people on stage
+frame_0037.jpg: a group of people are performing on stage
+frame_0038.jpg: a group of people are dancing on stage
+frame_0039.jpg: a group of people standing on a stage
+frame_0040.jpg: a group of people standing on a stage
+frame_0041.jpg: a group of people standing on a stage
+frame_0042.jpg: a group of people are performing on stage
+frame_0043.jpg: a group of people on stage with one person in red shirt
+frame_0044.jpg: a group of people are performing on stage
+frame_0045.jpg: a group of people on stage with one person standing on the stage
+frame_0046.jpg: a group of people on stage with one person standing on the stage
+frame_0047.jpg: a group of people on stage with a man in red shirt
+frame_0048.jpg: a group of people are performing on stage
+frame_0049.jpg: a group of people standing on a stage
+frame_0050.jpg: a group of people on stage with a man in red shirt
+frame_0051.jpg: a group of people standing on a stage
+frame_0052.jpg: a group of people playing a game on a stage
+frame_0053.jpg: a group of people are performing on stage
+frame_0054.jpg: a group of people standing on a stage
+frame_0055.jpg: a group of people standing on a stage
+frame_0056.jpg: a group of people are performing on stage
+frame_0057.jpg: a group of people are performing on stage
+frame_0058.jpg: a group of people are performing on stage
+frame_0059.jpg: a group of people are performing on stage
+frame_0060.jpg: a group of people standing on a stage
+frame_0061.jpg: a group of people are performing on stage
+frame_0062.jpg: a group of people are performing on stage
+frame_0063.jpg: a group of people standing on a stage
+frame_0064.jpg: a group of people standing on a stage
+frame_0065.jpg: a group of people are performing on stage
+frame_0066.jpg: a group of people are performing on stage
+frame_0067.jpg: a group of people are performing on stage
+frame_0068.jpg: a group of people are performing on stage
+frame_0069.jpg: a group of people standing on a stage
+frame_0070.jpg: a group of people are performing on stage
+frame_0071.jpg: a group of people standing on a stage
+frame_0072.jpg: a group of people standing on a stage
+frame_0073.jpg: a group of people standing on a stage
+frame_0074.jpg: a group of people on stage with one person standing on the stage
+frame_0075.jpg: a group of children are performing on stage
+frame_0076.jpg: a group of children are performing on stage
+frame_0077.jpg: a group of children are performing on stage
+frame_0078.jpg: a group of people are dancing on a stage
+frame_0079.jpg: a group of young people are dancing on a stage
+frame_0080.jpg: a group of people standing on a stage
+frame_0081.jpg: a group of people are dancing on a stage
+frame_0082.jpg: a group of children are performing on stage
+frame_0083.jpg: a group of young people are performing on stage
+frame_0084.jpg: a group of people are performing on stage
+frame_0085.jpg: a group of young people are performing on stage
+frame_0086.jpg: a group of children are performing on stage
+frame_0087.jpg: a group of young people are performing a dance
+frame_0088.jpg: a group of young people are performing on stage
+frame_0089.jpg: a group of people are dancing on a stage
+frame_0090.jpg: a group of people on stage with one person dancing
+frame_0091.jpg: a group of young people are performing on stage
+frame_0092.jpg: a group of people on stage with one person in red shirt
+frame_0093.jpg: a group of people on stage with one person in the middle
+frame_0094.jpg: a group of people on stage with one person holding a microphone
+frame_0095.jpg: a group of people on stage with a sign
+frame_0096.jpg: a group of people on stage
+frame_0097.jpg: a group of people on stage with one person dancing
+frame_0098.jpg: a group of people are performing on stage

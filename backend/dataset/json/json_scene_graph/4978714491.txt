@@ -1,0 +1,1899 @@
+frame_0:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "xe hơi1 (màu xanh dương) - ở trên - đường",
+  "tòa nhà - ở trên - xe hơi1 (màu xanh dương)"
+]
+```
+
+frame_1:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đồng hồ - ở trên - tòa nhà"
+]
+```
+
+frame_2:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đứng)"
+]
+```
+
+frame_3:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đứng)",
+  "xe buýt2 - ở trên - đường",
+  "đường - bao quanh - xe buýt2",
+  "xe hơi - ở trên - đường",
+  "đường - bao quanh - xe hơi",
+  "ghế - ở trên - đường"
+]
+```
+
+frame_4:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đứng)",
+  "xe buýt2 - ở trên - đường",
+  "đường - bao quanh - xe buýt2",
+  "xe hơi - ở trên - đường",
+  "đường - bao quanh - xe hơi",
+  "ghế - ở trên - đường"
+]
+```
+
+frame_5:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "đường - bao quanh - xe buýt2",
+  "ghế - ở trên - đường"
+]
+```
+
+frame_6:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "đường - bao quanh - xe buýt2",
+  "ghế - ở trên - đường",
+  "hàng rào - ở trên - đường"
+]
+```
+
+frame_7:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đứng)",
+  "đường - bao quanh - xe buýt2",
+  "ghế - ở trên - đường",
+  "hàng rào - ở trên - đường"
+]
+```
+
+frame_8:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đứng)",
+  "đường - bao quanh - xe buýt2",
+  "ghế - ở trên - đường",
+  "hàng rào - ở trên - đường"
+]
+```
+
+frame_9:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đứng)",
+  "đường - bao quanh - xe buýt2",
+  "ghế - ở trên - đường",
+  "hàng rào - ở trên - đường"
+]
+```
+
+frame_10:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đứng)",
+  "ghế - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà"
+]
+```
+
+frame_11:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đứng)",
+  "ghế - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây"
+]
+```
+
+frame_12:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đứng)",
+  "ghế - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây"
+]
+```
+
+frame_13:
+```json
+[
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt1 (m\u00e0u xanh)",
+  "xe bu\u00fdt1 (m\u00e0u xanh) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "t\u00f2a nh\u00e0 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "tr\u1eddi - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - \u1edf d\u01b0\u1edbi - t\u00f2a nh\u00e0",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9)",
+  "\u0111\u1ed3ng h\u1ed3 - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "c\u00e2y - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - bao quanh - c\u00e2y",
+  "ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng)",
+  "gh\u1ebf - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "h\u00e0ng r\u00e0o - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi4 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u00e1nh s\u00e1ng - \u1edf tr\u00ean - c\u00e2y"
+]
+```
+
+frame_14:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đứng)",
+  "ghế - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây"
+]
+```
+
+frame_15:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế - ở trong - tòa nhà"
+]
+```
+
+frame_16:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế - ở trong - tòa nhà"
+]
+```
+
+frame_17:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà"
+]
+```
+
+frame_18:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)"
+]
+```
+
+frame_19:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)"
+]
+```
+
+frame_20:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)"
+]
+```
+
+frame_21:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)"
+]
+```
+
+frame_22:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà"
+]
+```
+
+frame_23:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà"
+]
+```
+
+frame_24:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà"
+]
+```
+
+frame_25:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_26:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu tím) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu tím)",
+  "xe buýt3 (màu tím) - đứng cạnh - xe buýt2 (màu xanh)"
+]
+```
+
+frame_27:
+```json
+[
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt1 (m\u00e0u xanh)",
+  "xe bu\u00fdt1 (m\u00e0u xanh) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "t\u00f2a nh\u00e0 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "tr\u1eddi - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - \u1edf d\u01b0\u1edbi - t\u00f2a nh\u00e0",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9)",
+  "\u0111\u1ed3ng h\u1ed3 - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "c\u00e2y - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - bao quanh - c\u00e2y",
+  "ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i)",
+  "gh\u1ebf1 (m\u00e0u cam) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "h\u00e0ng r\u00e0o - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi4 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u00e1nh s\u00e1ng - \u1edf tr\u00ean - c\u00e2y",
+  "gh\u1ebf2 (m\u00e0u t\u00edm) - \u1edf trong - t\u00f2a nh\u00e0",
+  "gh\u1ebf3 (m\u00e0u v\u00e0ng) - \u1edf trong - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - bao quanh - gh\u1ebf1 (m\u00e0u cam)",
+  "xe bu\u00fdt2 (m\u00e0u xanh) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt2 (m\u00e0u xanh)",
+  "xe bu\u00fdt2 (m\u00e0u xanh) - \u0111\u1ee9ng c\u1ea1nh - t\u00f2a nh\u00e0",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng)",
+  "xe bu\u00fdt3 (m\u00e0u t\u00edm) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt3 (m\u00e0u t\u00edm)",
+  "xe bu\u00fdt3 (m\u00e0u t\u00edm) - \u0111\u1ee9ng c\u1ea1nh - xe bu\u00fdt2 (m\u00e0u xanh)"
+]
+```
+
+frame_28:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu tím) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu tím)",
+  "xe buýt3 (màu tím) - đứng cạnh - xe buýt2 (màu xanh)"
+]
+```
+
+frame_29:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu tím) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu tím)",
+  "xe buýt3 (màu tím) - đứng cạnh - xe buýt2 (màu xanh)"
+]
+```
+
+frame_30:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu tím) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu tím)",
+  "xe buýt3 (màu tím) - đứng cạnh - xe buýt2 (màu xanh)"
+]
+```
+
+frame_31:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu tím) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu tím)",
+  "xe buýt3 (màu tím) - đứng cạnh - xe buýt2 (màu xanh)"
+]
+```
+
+frame_32:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh)",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu tím) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu tím)",
+  "xe buýt3 (màu tím) - đứng cạnh - xe buýt2 (màu xanh)"
+]
+```
+
+frame_33:
+```json
+[
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt1 (m\u00e0u xanh))",
+  "xe bu\u00fdt1 (m\u00e0u xanh) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "t\u00f2a nh\u00e0 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "tr\u1eddi - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - \u1edf d\u01b0\u1edbi - t\u00f2a nh\u00e0",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9)",
+  "\u0111\u1ed3ng h\u1ed3 - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "c\u00e2y - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - bao quanh - c\u00e2y",
+  "ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i)",
+  "gh\u1ebf1 (m\u00e0u cam) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "h\u00e0ng r\u00e0o - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi4 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u00e1nh s\u00e1ng - \u1edf tr\u00ean - c\u00e2y",
+  "gh\u1ebf2 (m\u00e0u t\u00edm) - \u1edf trong - t\u00f2a nh\u00e0",
+  "gh\u1ebf3 (m\u00e0u v\u00e0ng) - \u1edf trong - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - bao quanh - gh\u1ebf1 (m\u00e0u cam)",
+  "xe bu\u00fdt2 (m\u00e0u xanh) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt2 (m\u00e0u xanh)",
+  "xe bu\u00fdt2 (m\u00e0u xanh) - \u0111\u1ee9ng c\u1ea1nh - t\u00f2a nh\u00e0",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng)",
+  "xe bu\u00fdt3 (m\u00e0u t\u00edm) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt3 (m\u00e0u t\u00edm)",
+  "xe bu\u00fdt3 (m\u00e0u t\u00edm) - \u0111\u1ee9ng c\u1ea1nh - xe bu\u00fdt2 (m\u00e0u xanh)"
+]
+```
+
+frame_34:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu tím) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu tím)",
+  "xe buýt3 (màu tím) - đứng cạnh - xe buýt2 (màu xanh)"
+]
+```
+
+frame_35:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu tím) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu tím)",
+  "xe buýt3 (màu tím) - đứng cạnh - xe buýt2 (màu xanh)"
+]
+```
+
+frame_36:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)"
+]
+```
+
+frame_37:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)"
+]
+```
+
+frame_38:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)"
+]
+```
+
+frame_39:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)"
+]
+```
+
+frame_40:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)"
+]
+```
+
+frame_41:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)"
+]
+```
+
+frame_42:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)"
+]
+```
+
+frame_43:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)",
+  "xe - ở trên - đường"
+]
+```
+
+frame_44:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)",
+  "xe - ở trên - đường"
+]
+```
+
+frame_45:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)",
+  "xe - ở trên - đường"
+]
+```
+
+frame_46:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)",
+  "xe - ở trên - đường"
+]
+```
+
+frame_47:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)",
+  "xe - ở trên - đường"
+]
+```
+
+frame_48:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)",
+  "xe - ở trên - đường"
+]
+```
+
+frame_49:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)",
+  "xe - ở trên - đường"
+]
+```
+
+frame_50:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)",
+  "xe - ở trên - đường"
+]
+```
+
+frame_51:
+```json
+[
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt1 (m\u00e0u xanh))",
+  "xe bu\u00fdt1 (m\u00e0u xanh) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "t\u00f2a nh\u00e0 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "tr\u1eddi - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - \u1edf d\u01b0\u1edbi - t\u00f2a nh\u00e0",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9)",
+  "\u0111\u1ed3ng h\u1ed3 - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "c\u00e2y - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - bao quanh - c\u00e2y",
+  "ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i)",
+  "gh\u1ebf1 (m\u00e0u cam) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "h\u00e0ng r\u00e0o - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi4 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u00e1nh s\u00e1ng - \u1edf tr\u00ean - c\u00e2y",
+  "gh\u1ebf2 (m\u00e0u t\u00edm) - \u1edf trong - t\u00f2a nh\u00e0",
+  "gh\u1ebf3 (m\u00e0u v\u00e0ng) - \u1edf trong - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - bao quanh - gh\u1ebf1 (m\u00e0u cam)",
+  "xe bu\u00fdt2 (m\u00e0u xanh) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt2 (m\u00e0u xanh)",
+  "xe bu\u00fdt2 (m\u00e0u xanh) - \u0111\u1ee9ng c\u1ea1nh - t\u00f2a nh\u00e0",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng)",
+  "xe bu\u00fdt3 (m\u00e0u xanh l\u00e1 c\u00e2y) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt3 (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "xe bu\u00fdt3 (m\u00e0u xanh l\u00e1 c\u00e2y) - \u0111\u1ee9ng c\u1ea1nh - xe bu\u00fdt2 (m\u00e0u xanh)",
+  "xe bu\u00fdt1 (m\u00e0u xanh) - \u0111\u1ee9ng c\u1ea1nh - xe bu\u00fdt3 (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "xe - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "c\u00e2y c\u1ea3nh (m\u00e0u v\u00e0ng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi6 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi6 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng)",
+  "\u0111\u00e8n giao th\u00f4ng - \u1edf tr\u00ean - t\u00f2a nh\u00e0"
+]
+```
+
+frame_52:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)",
+  "xe - ở trên - đường",
+  "cây cảnh (màu vàng) - ở trên - đường",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "đèn giao thông - ở trên - tòa nhà"
+]
+```
+
+frame_53:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)",
+  "xe - ở trên - đường",
+  "cây cảnh (màu vàng) - ở trên - đường",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "đèn giao thông - ở trên - tòa nhà",
+  "đường - ở dưới - xe buýt1 (màu xanh))"
+]
+```
+
+frame_54:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)",
+  "xe - ở trên - đường",
+  "cây cảnh (màu vàng) - ở trên - đường",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "đèn giao thông - ở trên - tòa nhà",
+  "đường - ở dưới - xe buýt1 (màu xanh))"
+]
+```
+
+frame_55:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)",
+  "xe - ở trên - đường",
+  "cây cảnh (màu vàng) - ở trên - đường",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "đèn giao thông - ở trên - tòa nhà",
+  "đường - ở dưới - xe buýt1 (màu xanh))",
+  "xe1 - ở trên - đường",
+  "xe2 - ở trên - đường"
+]
+```
+
+frame_56:
+```json
+[
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt1 (m\u00e0u xanh))",
+  "xe bu\u00fdt1 (m\u00e0u xanh) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "t\u00f2a nh\u00e0 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "tr\u1eddi - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - \u1edf d\u01b0\u1edbi - t\u00f2a nh\u00e0",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9)",
+  "\u0111\u1ed3ng h\u1ed3 - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "c\u00e2y - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - bao quanh - c\u00e2y",
+  "ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i)",
+  "gh\u1ebf1 (m\u00e0u cam) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "h\u00e0ng r\u00e0o - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi4 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u00e1nh s\u00e1ng - \u1edf tr\u00ean - c\u00e2y",
+  "gh\u1ebf2 (m\u00e0u t\u00edm) - \u1edf trong - t\u00f2a nh\u00e0",
+  "gh\u1ebf3 (m\u00e0u v\u00e0ng) - \u1edf trong - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - bao quanh - gh\u1ebf1 (m\u00e0u cam)",
+  "xe bu\u00fdt2 (m\u00e0u xanh) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt2 (m\u00e0u xanh)",
+  "xe bu\u00fdt2 (m\u00e0u xanh) - \u0111\u1ee9ng c\u1ea1nh - t\u00f2a nh\u00e0",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng)",
+  "xe bu\u00fdt3 (m\u00e0u xanh l\u00e1 c\u00e2y) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt3 (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "xe bu\u00fdt3 (m\u00e0u xanh l\u00e1 c\u00e2y) - \u0111\u1ee9ng c\u1ea1nh - xe bu\u00fdt2 (m\u00e0u xanh)",
+  "xe bu\u00fdt1 (m\u00e0u xanh) - \u0111\u1ee9ng c\u1ea1nh - xe bu\u00fdt3 (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "xe - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "c\u00e2y c\u1ea3nh (m\u00e0u v\u00e0ng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi6 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi6 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng)",
+  "\u0111\u00e8n giao th\u00f4ng - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - \u1edf d\u01b0\u1edbi - xe bu\u00fdt1 (m\u00e0u xanh))",
+  "xe1 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "xe2 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng"
+]
+```
+
+frame_57:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)",
+  "xe - ở trên - đường",
+  "cây cảnh (màu vàng) - ở trên - đường",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "đèn giao thông - ở trên - tòa nhà",
+  "đường - ở dưới - xe buýt1 (màu xanh))",
+  "xe1 - ở trên - đường",
+  "xe2 - ở trên - đường"
+]
+```
+
+frame_58:
+```json
+[
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt1 (m\u00e0u xanh))",
+  "xe bu\u00fdt1 (m\u00e0u xanh) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "t\u00f2a nh\u00e0 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "tr\u1eddi - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - \u1edf d\u01b0\u1edbi - t\u00f2a nh\u00e0",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i b\u1ed9)",
+  "\u0111\u1ed3ng h\u1ed3 - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "c\u00e2y - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - bao quanh - c\u00e2y",
+  "ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111i)",
+  "gh\u1ebf1 (m\u00e0u cam) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "h\u00e0ng r\u00e0o - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi4 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u00e1nh s\u00e1ng - \u1edf tr\u00ean - c\u00e2y",
+  "gh\u1ebf2 (m\u00e0u t\u00edm) - \u1edf trong - t\u00f2a nh\u00e0",
+  "gh\u1ebf3 (m\u00e0u v\u00e0ng) - \u1edf trong - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - bao quanh - gh\u1ebf1 (m\u00e0u cam)",
+  "xe bu\u00fdt2 (m\u00e0u xanh) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt2 (m\u00e0u xanh)",
+  "xe bu\u00fdt2 (m\u00e0u xanh) - \u0111\u1ee9ng c\u1ea1nh - t\u00f2a nh\u00e0",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng)",
+  "xe bu\u00fdt3 (m\u00e0u xanh l\u00e1 c\u00e2y) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - xe bu\u00fdt3 (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "xe bu\u00fdt3 (m\u00e0u xanh l\u00e1 c\u00e2y) - \u0111\u1ee9ng c\u1ea1nh - xe bu\u00fdt2 (m\u00e0u xanh)",
+  "xe bu\u00fdt1 (m\u00e0u xanh) - \u0111\u1ee9ng c\u1ea1nh - xe bu\u00fdt3 (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "xe - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "c\u00e2y c\u1ea3nh (m\u00e0u v\u00e0ng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi6 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "\u0111\u01b0\u1eddng - bao quanh - ng\u01b0\u1eddi6 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng)",
+  "\u0111\u00e8n giao th\u00f4ng - \u1edf tr\u00ean - t\u00f2a nh\u00e0",
+  "\u0111\u01b0\u1eddng - \u1edf d\u01b0\u1edbi - xe bu\u00fdt1 (m\u00e0u xanh))",
+  "xe1 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "xe2 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng"
+]
+```
+
+frame_59:
+```json
+[
+  "đường - bao quanh - xe buýt1 (màu xanh))",
+  "xe buýt1 (màu xanh) - ở trên - đường",
+  "tòa nhà - ở trên - đường",
+  "trời - ở trên - tòa nhà",
+  "đường - ở dưới - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người1 (trẻ, mặc áo hồng, đang đi bộ)",
+  "đồng hồ - ở trên - tòa nhà",
+  "cây - ở trên - tòa nhà",
+  "đường - bao quanh - cây",
+  "người2 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "đường - bao quanh - người2 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người3 (trẻ, mặc áo hồng, đang đi) - ở trên - đường",
+  "đường - bao quanh - người3 (trẻ, mặc áo hồng, đang đi)",
+  "ghế1 (màu cam) - ở trên - đường",
+  "hàng rào - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đứng) - ở trên - tòa nhà",
+  "ánh sáng - ở trên - cây",
+  "ghế2 (màu tím) - ở trong - tòa nhà",
+  "ghế3 (màu vàng) - ở trong - tòa nhà",
+  "đường - bao quanh - ghế1 (màu cam)",
+  "xe buýt2 (màu xanh) - ở trên - đường",
+  "đường - bao quanh - xe buýt2 (màu xanh)",
+  "xe buýt2 (màu xanh) - đứng cạnh - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "xe buýt3 (màu xanh lá cây) - ở trên - đường",
+  "đường - bao quanh - xe buýt3 (màu xanh lá cây)",
+  "xe buýt3 (màu xanh lá cây) - đứng cạnh - xe buýt2 (màu xanh)",
+  "xe buýt1 (màu xanh) - đứng cạnh - xe buýt3 (màu xanh lá cây)",
+  "xe - ở trên - đường",
+  "cây cảnh (màu vàng) - ở trên - đường",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "đường - bao quanh - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "đèn giao thông - ở trên - tòa nhà",
+  "đường - ở dưới - xe buýt1 (màu xanh))",
+  "xe1 - ở trên - đường",
+  "xe2 - ở trên - đường"
+]
+```
+

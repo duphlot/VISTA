@@ -1,0 +1,255 @@
+frame_0:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác đen, đang trượt tuyết, bình tĩnh) - bên cạnh - người2 (trẻ - chưa rõ giới tính, mặc áo khoác đen, đang trượt tuyết, phấn khích)",
+  "cây - ở - tuyết",
+  "người1 (trưởng thành - nam, mặc áo khoác đen, đang trượt tuyết, bình tĩnh) - trên - ván trượt1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác đen, đang trượt tuyết, phấn khích) - trên - ván trượt2",
+  "bầu trời - trên - cây",
+  "ván trượt1 - trên - tuyết",
+  "ván trượt2 - trên - tuyết"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác đen, đang trượt tuyết, bình tĩnh) - bên cạnh - người2 (trẻ - chưa rõ giới tính, mặc áo khoác đen, đang trượt tuyết, phấn khích)",
+  "cây - ở - tuyết",
+  "người1 (trưởng thành - nam, mặc áo khoác đen, đang trượt tuyết, bình tĩnh) - trên - ván trượt1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác đen, đang trượt tuyết, phấn khích) - trên - ván trượt2",
+  "bầu trời - trên - cây",
+  "ván trượt1 - trên - tuyết",
+  "ván trượt2 - trên - tuyết"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác đen, đang trượt tuyết, bình tĩnh) - bên cạnh - người2 (trẻ - chưa rõ giới tính, mặc áo khoác đen, đang trượt tuyết, phấn khích)",
+  "cây - ở - tuyết",
+  "người1 (trưởng thành - nam, mặc áo khoác đen, đang trượt tuyết, bình tĩnh) - trên - ván trượt1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác đen, đang trượt tuyết, phấn khích) - trên - ván trượt2",
+  "bầu trời - trên - cây",
+  "ván trượt1 - trên - tuyết",
+  "ván trượt2 - trên - tuyết"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác đen, đang trượt tuyết, bình tĩnh) - bên cạnh - người2 (trẻ - chưa rõ giới tính, mặc áo khoác đen, đang trượt tuyết, phấn khích)",
+  "cây - ở - tuyết",
+  "người1 (trưởng thành - nam, mặc áo khoác đen, đang trượt tuyết, bình tĩnh) - trên - ván trượt1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác đen, đang trượt tuyết, phấn khích) - trên - ván trượt2",
+  "bầu trời - trên - cây",
+  "ván trượt1 - trên - tuyết",
+  "ván trượt2 - trên - tuyết",
+  "tuyết - ở - cây"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác đen, đang trượt tuyết, bình tĩnh) - bên cạnh - người2 (trẻ - chưa rõ giới tính, mặc áo khoác đen, đang trượt tuyết, phấn khích)",
+  "cây - ở - tuyết",
+  "người1 (trưởng thành - nam, mặc áo khoác đen, đang trượt tuyết, bình tĩnh) - trên - ván trượt1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác đen, đang trượt tuyết, phấn khích) - trên - ván trượt2",
+  "bầu trời - trên - cây",
+  "ván trượt1 - trên - tuyết",
+  "ván trượt2 - trên - tuyết",
+  "tuyết - ở - cây"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác cam, đang trượt tuyết, bình tĩnh) - bên cạnh - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích)",
+  "cây - ở - tuyết",
+  "người1 (trưởng thành - nam, mặc áo khoác cam, đang trượt tuyết, bình tĩnh) - trên - ván trượt1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích) - trên - ván trượt2",
+  "bầu trời - trên - cây",
+  "ván trượt1 - trên - tuyết",
+  "ván trượt2 - trên - tuyết",
+  "tuyết - ở - cây"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác cam, đang trượt tuyết, bình tĩnh) - bên cạnh - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích)",
+  "cây - ở - tuyết",
+  "người1 (trưởng thành - nam, mặc áo khoác cam, đang trượt tuyết, bình tĩnh) - trên - ván trượt1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích) - trên - ván trượt2",
+  "ván trượt1 - trên - tuyết",
+  "ván trượt2 - trên - tuyết",
+  "tuyết - ở - cây"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác cam, đang trượt tuyết, bình tĩnh) - bên cạnh - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích)",
+  "cây - ở - tuyết",
+  "người1 (trưởng thành - nam, mặc áo khoác cam, đang trượt tuyết, bình tĩnh) - trên - ván trượt1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích) - trên - ván trượt2",
+  "ván trượt1 - trên - tuyết",
+  "ván trượt2 - trên - tuyết",
+  "tuyết - ở - cây"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác cam, đang trượt tuyết, bình tĩnh) - bên cạnh - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích)",
+  "cây - ở - tuyết",
+  "người1 (trưởng thành - nam, mặc áo khoác cam, đang trượt tuyết, bình tĩnh) - trên - ván trượt1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích) - trên - ván trượt2",
+  "ván trượt1 - trên - tuyết",
+  "ván trượt2 - trên - tuyết",
+  "tuyết - ở - cây"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác cam, đang trượt tuyết, bình tĩnh) - bên cạnh - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích)",
+  "cây - ở - tuyết",
+  "người1 (trưởng thành - nam, mặc áo khoác cam, đang trượt tuyết, bình tĩnh) - trên - ván trượt1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích) - trên - ván trượt2",
+  "ván trượt1 - trên - tuyết",
+  "ván trượt2 - trên - tuyết",
+  "tuyết - ở - cây"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác cam, đang trượt tuyết, bình tĩnh) - bên cạnh - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích)",
+  "người1 (trưởng thành - nam, mặc áo khoác cam, đang trượt tuyết, bình tĩnh) - trên - ván trượt1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích) - trên - ván trượt2",
+  "ván trượt1 - trên - tuyết",
+  "ván trượt2 - trên - tuyết"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác cam, đang trượt tuyết, bình tĩnh) - bên cạnh - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích)",
+  "người1 (trưởng thành - nam, mặc áo khoác cam, đang trượt tuyết, bình tĩnh) - trên - ván trượt1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích) - trên - ván trượt2",
+  "ván trượt1 - trên - tuyết",
+  "ván trượt2 - trên - tuyết",
+  "ván trượt tuyết - gần - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt tuyết, phấn khích)"
+]
+```
+
+frame_12:
+```json
+[
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngã, hoảng hốt) - trên - ván trượt2",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngã, hoảng hốt) - trên - tuyết",
+  "ván trượt2 - trên - tuyết",
+  "tuyết - gần - cây (xanh lá cây)",
+  "ván trượt tuyết - gần - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngã, hoảng hốt)"
+]
+```
+
+frame_13:
+```json
+[
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngã, hoảng hốt) - trên - ván trượt2",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngã, hoảng hốt) - trên - tuyết",
+  "ván trượt2 - trên - tuyết",
+  "tuyết - gần - cây (xanh lá cây)",
+  "ván trượt (tím) - gần - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngã, hoảng hốt)"
+]
+```
+
+frame_14:
+```json
+[
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt ván, hoảng hốt) - trên - ván trượt2",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt ván, hoảng hốt) - trên - tuyết",
+  "ván trượt2 - trên - tuyết",
+  "tuyết - gần - cây (xanh lá cây)",
+  "ván trượt (tím) - gần - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang trượt ván, hoảng hốt)"
+]
+```
+
+frame_15:
+```json
+[
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt) - trên - ván trượt2 (tím)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt) - trên - tuyết",
+  "ván trượt2 (tím) - trên - tuyết",
+  "tuyết - gần - cây (xanh lá cây)",
+  "ván trượt (tím) - gần - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt)"
+]
+```
+
+frame_16:
+```json
+[
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt) - trên - ván trượt2 (tím)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt) - trên - tuyết",
+  "ván trượt2 (tím) - trên - tuyết",
+  "tuyết - gần - cây (xanh lá cây)",
+  "ván trượt (tím) - gần - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt)"
+]
+```
+
+frame_17:
+```json
+[
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt) - trên - ván trượt2 (tím)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt) - trên - tuyết",
+  "ván trượt2 (tím) - trên - tuyết",
+  "tuyết - gần - cây (xanh lá cây)",
+  "ván trượt (tím) - gần - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt)"
+]
+```
+
+frame_18:
+```json
+[
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt) - trên - ván trượt2 (tím)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt) - trên - tuyết",
+  "ván trượt2 (tím) - trên - tuyết",
+  "tuyết - gần - cây (xanh lá cây)",
+  "ván trượt (tím) - gần - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt)"
+]
+```
+
+frame_19:
+```json
+[
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt) - trên - ván trượt2 (tím)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt) - trên - tuyết",
+  "ván trượt2 (tím) - trên - tuyết",
+  "tuyết - gần - cây (xanh lá cây)",
+  "ván trượt2 (tím) - gần - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt)"
+]
+```
+
+frame_20:
+```json
+[
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt) - trên - ván trượt2 (tím)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt) - trên - tuyết",
+  "ván trượt2 (tím) - trên - tuyết",
+  "tuyết - gần - cây (xanh lá cây)",
+  "ván trượt2 (tím) - gần - người2 (trẻ - chưa rõ giới tính, mặc áo khoác hồng, đang ngồi trên ván, hoảng hốt)"
+]
+```
+

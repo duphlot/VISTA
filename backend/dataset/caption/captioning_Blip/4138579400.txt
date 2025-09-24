@@ -1,0 +1,31 @@
+frame_0000.jpg: a young boy sitting at a table with a toy
+frame_0001.jpg: a young boy sitting at a table with a model of a house
+frame_0002.jpg: a boy sitting at a table with a toy
+frame_0003.jpg: a boy sitting at a table with a cell phone
+frame_0004.jpg: a young boy sitting at a table with a toy
+frame_0005.jpg: a boy sitting at a table with a toy
+frame_0006.jpg: a young boy sitting at a table with a toy
+frame_0007.jpg: a young boy playing with a wooden structure
+frame_0008.jpg: a boy is playing with a toy on a table
+frame_0009.jpg: a boy sitting at a table with a piece of paper
+frame_0010.jpg: a boy sitting at a table with a toy
+frame_0011.jpg: a young boy sitting at a table with a toy
+frame_0012.jpg: a woman sitting at a table with a cup
+frame_0013.jpg: a young boy sitting at a table with a toy
+frame_0014.jpg: a young boy sitting at a table with a toy
+frame_0015.jpg: a young boy sitting at a table with a toy
+frame_0016.jpg: a young boy sitting at a table with a toy
+frame_0017.jpg: a young boy sitting at a table with a toy
+frame_0018.jpg: a young boy sitting at a table with a toy
+frame_0019.jpg: a boy is sitting at a table with a toy
+frame_0020.jpg: a young boy sitting at a table with a toy
+frame_0021.jpg: a woman sitting at a table with a cup and a tooth
+frame_0022.jpg: a young boy playing with wooden sticks on a table
+frame_0023.jpg: a person sitting at a table with a box
+frame_0024.jpg: a person is sitting at a table with a small object
+frame_0025.jpg: a person sitting on a chair with a cell
+frame_0026.jpg: a man sitting at a table with a laptop
+frame_0027.jpg: a person sitting on a stool with their feet up
+frame_0028.jpg: a small toy is sitting on the floor
+frame_0029.jpg: a small toy is sitting on the floor
+frame_0030.jpg: a small toy is sitting on the floor

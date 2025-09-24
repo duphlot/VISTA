@@ -1,0 +1,17 @@
+frame_0000.jpg: a little boy walking on the beach with his dad
+frame_0001.jpg: a man walking on the beach with a surfboard
+frame_0002.jpg: a young boy is standing on the beach
+frame_0003.jpg: a woman is seen in a mirror while she is taking a self self self self self self self self
+frame_0004.jpg: a woman with a nose piercing
+frame_0005.jpg: a woman is looking at the camera while she is taking a picture
+frame_0006.jpg: a man is standing on the beach looking at the water
+frame_0007.jpg: a man is walking on the beach with his head in his hands
+frame_0008.jpg: a man is standing on the beach looking at the water
+frame_0009.jpg: a man in a blue shirt and tie is looking at a woman
+frame_0010.jpg: a young boy is walking on the beach with his father
+frame_0011.jpg: a little boy walking on the beach with his father
+frame_0012.jpg: a man and a woman are walking on the beach
+frame_0013.jpg: a little boy running in the water at the beach
+frame_0014.jpg: a woman and a child walking on the beach
+frame_0015.jpg: a man and a child are walking in the water
+frame_0016.jpg: a man and a child walking on the beach

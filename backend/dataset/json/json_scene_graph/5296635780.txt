@@ -1,0 +1,553 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang cho ăn) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang cho ăn) - gần - người2 (trẻ, mặc vest đen, đang ăn)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang cho ăn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang ăn)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang ăn)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang cho ăn) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang cho ăn) - gần - người2 (trẻ, mặc vest đen, đang ăn)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang cho ăn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang ăn)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang ăn)",
+  "người1 (trẻ, mặc váy cưới trắng, đang cho ăn) - gần - thức ăn"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nĩa (màu bạc)",
+  "ghế (màu xanh lá cây) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nạ (màu bạc)",
+  "ghế (màu xanh lá cây) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "chậu cây (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - chậu cây (màu xanh)",
+  "ghế (màu cam) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nạ (màu bạc)",
+  "ghế (màu xanh lá cây) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "chậu cây (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - chậu cây (màu xanh)",
+  "ghế (màu cam) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nạ (màu bạc)",
+  "ghế (màu xanh lá cây) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "chậu cây (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - chậu cây (màu xanh)",
+  "ghế (màu cam) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nạ (màu bạc)",
+  "ghế (màu xanh lá cây) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "chậu cây (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - chậu cây (màu xanh)",
+  "ghế (màu cam) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nạ (màu bạc)",
+  "ghế (màu xanh lá cây) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "chậu cây (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - chậu cây (màu xanh)",
+  "ghế (màu cam) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nạ (màu bạc)",
+  "ghế (màu xanh lá cây) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "chậu cây (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - chậu cây (màu xanh)",
+  "ghế (màu cam) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang cười) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang cười) - gần - người2 (trẻ, mặc vest đen, đang cười)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang cười)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang cười)",
+  "người1 (trẻ, mặc váy cưới trắng, đang cười) - gần - nơ (màu bạc)",
+  "ghế (màu xanh lá cây) - phía sau - người2 (trẻ, mặc vest đen, đang cười)",
+  "chậu cây (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "tường - phía sau - chậu cây (màu xanh)",
+  "ghế (màu cam) - phía sau - người2 (trẻ, mặc vest đen, đang cười)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang nói chuyện)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang nói chuyện)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang nói chuyện)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nơ (màu bạc)",
+  "ghế (màu xanh lá cây) - phía sau - người2 (trẻ, mặc vest đen, đang nói chuyện)",
+  "chậu cây (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - chậu cây (màu xanh)",
+  "ghế (màu cam) - phía sau - người2 (trẻ, mặc vest đen, đang nói chuyện)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang nói chuyện)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang nói chuyện)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang nói chuyện)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nơ (màu bạc)",
+  "ghế (màu xanh lá cây) - phía sau - người2 (trẻ, mặc vest đen, đang nói chuyện)",
+  "chậu cây (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - chậu cây (màu xanh)",
+  "ghế (màu cam) - phía sau - người2 (trẻ, mặc vest đen, đang nói chuyện)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang chạm vào người2) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang chạm vào người2) - gần - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang chạm vào người2)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "người1 (trẻ, mặc váy cưới trắng, đang chạm vào người2) - gần - nơ (màu bạc)",
+  "ghế (màu xanh lá cây) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "chậu cây (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang chạm vào người2)",
+  "tường - phía sau - chậu cây (màu xanh)",
+  "ghế (màu cam) - phía sau - người2 (trẻ, mặc vest đen, đang nhìn)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang chạm vào người2)"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang ôm người2) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang ôm người2) - gần - người2 (trẻ, mặc vest đen, đang hôn)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang ôm người2)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang hôn)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang hôn)",
+  "người1 (trẻ, mặc váy cưới trắng, đang ôm người2) - gần - nơ (màu bạc)",
+  "ghế (màu xanh lá cây) - phía sau - người2 (trẻ, mặc vest đen, đang hôn)",
+  "chậu cây (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang ôm người2)",
+  "tường - phía sau - chậu cây (màu xanh)",
+  "ghế (màu cam) - phía sau - người2 (trẻ, mặc vest đen, đang hôn)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang ôm người2)"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang đưa thức ăn cho người2) - gần - súp lơ xanh (màu xanh)",
+  "người1 (trẻ, mặc váy cưới trắng, đang đưa thức ăn cho người2) - gần - người2 (trẻ, mặc vest đen, đang ăn)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang đưa thức ăn cho người2)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang ăn)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang ăn)",
+  "người1 (trẻ, mặc váy cưới trắng, đang đưa thức ăn cho người2) - gần - nơ (màu bạc)",
+  "ghế (màu xanh lá cây) - phía sau - người2 (trẻ, mặc vest đen, đang ăn)",
+  "chậu cây (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang đưa thức ăn cho người2)",
+  "tường - phía sau - chậu cây (màu xanh)",
+  "ghế (màu cam) - phía sau - người2 (trẻ, mặc vest đen, đang ăn)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang đưa thức ăn cho người2)"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nơ (màu bạc)",
+  "chậu cây (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - chậu cây (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang cười) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang cười) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cây trồng trong chậu (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang cười) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang cười) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cây trồng trong chậu (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "cây trồng trong chậu (màu xanh) - gần - tường"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang cười) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang cười) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cây trồng trong chậu (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "cây trồng trong chậu (màu xanh) - gần - tường"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang cười) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang cười) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cây trồng trong chậu (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "cây trồng trong chậu (màu xanh) - gần - tường"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang cười) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang cười) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cây trồng trong chậu (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "cây trồng trong chậu (màu xanh) - gần - tường",
+  "giấy - gần - người1 (trẻ, mặc váy cưới trắng, đang cười)",
+  "ghế1 (màu vàng) - gần - người2 (trẻ, mặc vest đen, đang đứng)"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cây trồng trong chậu (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "cây trồng trong chậu (màu xanh) - gần - tường",
+  "giấy - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "ghế1 (màu vàng) - gần - người2 (trẻ, mặc vest đen, đang đứng)"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cây trồng trong chậu (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "cây trồng trong chậu (màu xanh) - gần - tường",
+  "giấy - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "ghế1 (màu vàng) - gần - người2 (trẻ, mặc vest đen, đang đứng)"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "ghế1 (màu xanh) - gần - bàn ăn (màu xanh)"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "ghế1 (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "ghế1 (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "bàn ăn (màu trắng) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "bàn ăn (màu trắng) - gần - người2 (trẻ, mặc vest đen, đang đứng)"
+]
+```
+
+frame_30:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "ghế1 (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "bàn ăn (màu trắng) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "bàn ăn (màu trắng) - gần - người2 (trẻ, mặc vest đen, đang đứng)"
+]
+```
+
+frame_31:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "ghế1 (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "bàn ăn (màu trắng) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "bàn ăn (màu trắng) - gần - người2 (trẻ, mặc vest đen, đang đứng)"
+]
+```
+
+frame_32:
+```json
+[
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "tường - phía sau - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "cửa-đồ đạc - phía sau - người2 (trẻ, mặc vest đen, đang đứng)",
+  "người1 (trẻ, mặc váy cưới trắng, đang nhìn) - gần - nơ (màu bạc)",
+  "súp lơ xanh (màu xanh) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "tường - phía sau - súp lơ xanh (màu xanh)",
+  "sàn-gỗ - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "súp lơ xanh (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "sàn nhà - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "ghế1 (màu xanh) - gần - người2 (trẻ, mặc vest đen, đang đứng)",
+  "bàn ăn (màu trắng) - gần - người1 (trẻ, mặc váy cưới trắng, đang nhìn)",
+  "bàn ăn (màu trắng) - gần - người2 (trẻ, mặc vest đen, đang đứng)"
+]
+```
+

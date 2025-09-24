@@ -1,0 +1,480 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ngồi, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ngồi, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang với tay lên, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang với tay lên, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang với tay lên, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang với tay lên, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang nhìn, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang nhìn, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "ghế2 (màu vàng) - ở bên cạnh - ghế1 (màu đỏ)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang há miệng, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang há miệng, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "ghế2 (màu vàng) - ở bên cạnh - ghế1 (màu đỏ)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "ghế2 (màu vàng) - ở bên cạnh - ghế1 (màu đỏ)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "ghế2 (màu vàng) - ở bên cạnh - ghế1 (màu đỏ)",
+  "ghế2 (màu vàng) - ở cạnh - tường (màu trắng)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "ghế2 (màu vàng) - ở bên cạnh - ghế1 (màu đỏ)",
+  "ghế2 (màu vàng) - ở cạnh - tường (màu trắng)",
+  "tường (màu trắng) - ở cạnh - cửa sổ (màu đỏ)"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "ghế2 (màu vàng) - ở bên cạnh - ghế1 (màu đỏ)",
+  "ghế2 (màu vàng) - ở cạnh - tường (màu trắng)"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "ghế2 (màu vàng) - ở bên cạnh - ghế1 (màu đỏ)",
+  "ghế2 (màu vàng) - ở cạnh - tường (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "ghế2 (màu vàng) - ở bên cạnh - ghế1 (màu đỏ)",
+  "ghế2 (màu vàng) - ở cạnh - tường (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "ghế2 (màu vàng) - ở bên cạnh - ghế1 (màu đỏ)",
+  "ghế2 (màu vàng) - ở cạnh - tường (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ)",
+  "tường (màu trắng) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu trắng) - ở trên - bàn ăn (màu xanh)",
+  "cửa sổ - ở trên - tủ (màu trắng)"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ)",
+  "tường (màu trắng) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu trắng) - ở trên - bàn ăn (màu xanh)",
+  "cửa sổ - ở trên - tủ (màu trắng)"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ)",
+  "tường (màu trắng) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu trắng) - ở trên - bàn ăn (màu xanh)",
+  "cửa sổ - ở trên - tủ (màu trắng)"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ)",
+  "tường (màu trắng) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu trắng) - ở trên - bàn ăn (màu xanh)",
+  "cửa sổ - ở trên - tủ (màu trắng)"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang chơi đùa, vui vẻ)",
+  "tường (màu trắng) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu trắng) - ở trên - bàn ăn (màu xanh)",
+  "cửa sổ - ở trên - tủ (màu trắng)"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ)",
+  "tường (màu trắng) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu trắng) - ở trên - bàn ăn (màu xanh)",
+  "cửa sổ - ở trên - tủ (màu trắng)"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ)",
+  "tường (màu trắng) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu trắng) - ở trên - bàn ăn (màu xanh)",
+  "cửa sổ - ở trên - tủ (màu trắng)"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ)",
+  "tường (màu trắng) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu trắng) - ở trên - bàn ăn (màu xanh)",
+  "cửa sổ - ở trên - tủ (màu trắng)"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ)",
+  "tường (màu trắng) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu trắng) - ở trên - bàn ăn (màu xanh)",
+  "cửa sổ - ở trên - tủ (màu trắng)"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang ăn, vui vẻ)",
+  "tường (màu trắng) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu trắng) - ở trên - bàn ăn (màu xanh)",
+  "cửa sổ - ở trên - tủ (màu trắng)"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ngậm tay, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ngậm tay, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang ngậm tay, vui vẻ)",
+  "tường (màu trắng) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu trắng) - ở trên - bàn ăn (màu xanh)",
+  "cửa sổ - ở trên - tủ (màu trắng)"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ngậm tay, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang ngậm tay, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang ngậm tay, vui vẻ)",
+  "tường (màu trắng) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu trắng) - ở trên - bàn ăn (màu xanh)",
+  "cửa sổ - ở trên - tủ (màu trắng)",
+  "cửa - ở trên - sàn nhà (màu nâu)"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ)",
+  "tường (màu trắng) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu trắng) - ở trên - bàn ăn (màu xanh)",
+  "cửa sổ - ở trên - tủ (màu trắng)",
+  "cửa - ở trên - sàn nhà (màu nâu)"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ) - đặt trên - bàn ăn (màu xanh)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu nâu)",
+  "tủ (màu trắng) - ở trên - sàn nhà (màu nâu)",
+  "tường (màu trắng) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh) - ở phía trước - tủ (màu trắng)",
+  "cửa sổ - ở trên - tường (màu trắng)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ)",
+  "tường (màu trắng) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu trắng) - ở trên - bàn ăn (màu xanh)",
+  "cửa sổ - ở trên - tủ (màu trắng)",
+  "đồ vật - ở gần - tủ"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bồn rửa, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bồn rửa, vui vẻ) - đặt trên - bồn rửa (màu xanh lá cây)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - sàn nhà (màu hồng)",
+  "tường (màu xám) - ở sau - ghế1 (màu đỏ)",
+  "bồn rửa (màu xanh lá cây) - ở phía trước - tủ (màu xanh lá cây)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bồn rửa, vui vẻ)",
+  "tường (màu xám) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu xanh lá cây) - ở trên - bồn rửa (màu xanh lá cây)"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ) - đặt trên - bàn ăn (màu xanh lam)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - sàn nhà (màu hồng)",
+  "tường (màu xám) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh lam) - ở phía trước - tủ (màu xanh lá cây)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ)",
+  "tường (màu xám) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu xanh lá cây) - ở trên - bàn ăn (màu xanh lam)"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ) - đặt trên - bàn ăn (màu xanh lam)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - sàn nhà (màu hồng)",
+  "tường (màu xám) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh lam) - ở phía trước - tủ (màu xanh lá cây)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ)",
+  "tường (màu xám) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu xanh lá cây) - ở trên - bàn ăn (màu xanh lam)",
+  "cửa (màu xanh lá cây) - ở cạnh - tủ (màu xanh lá cây)",
+  "cửa sổ - ở trên - tủ (màu xanh lá cây)"
+]
+```
+
+frame_30:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ) - ngồi trên - ghế1 (màu đỏ)",
+  "người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ) - đặt trên - bàn ăn (màu xanh lam)",
+  "ghế1 (màu đỏ) - đặt trên - sàn nhà (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - sàn nhà (màu hồng)",
+  "tường (màu xám) - ở sau - ghế1 (màu đỏ)",
+  "bàn ăn (màu xanh lam) - ở phía trước - tủ (màu xanh lá cây)",
+  "ghế1 (màu đỏ) - ở sau - người1 (trẻ - nữ, mặc áo sọc dài tay, đang chạm tay vào bàn ăn, vui vẻ)",
+  "tường (màu xám) - ở trên - ghế1 (màu đỏ)",
+  "tủ (màu xanh lá cây) - ở trên - bàn ăn (màu xanh lam)",
+  "cửa (màu xanh lá cây) - ở cạnh - tủ (màu xanh lá cây)"
+]
+```
+
