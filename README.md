@@ -61,7 +61,7 @@ The system consists of three main components:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/VISTA.git
+   git clone https://github.com/duphlot/VISTA.git
    cd VISTA
    ```
 
