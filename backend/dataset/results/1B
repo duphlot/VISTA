@@ -80,5 +80,5 @@ Video 4260763967 has 233 relations in scene graph.
 Processed video 4260763967: TP=1, ES=1, EM=1, Reason=Scene graph thể hiện đầy đủ thông tin về cậu bé lắp ráp đồ chơi.
 Video 4263096481 has 143 relations in scene graph.
 Processed video 4263096481: TP=1, ES=1, EM=1, Reason=Scene graph có thông tin về người cắt đầu cá.
-Saved evaluation results to /Users/ptdung/Coding/Github/soICT/backend/dataset/scene_graph_eval_results_llm_simple.csv
+Saved evaluation results to /Users/ptdung/Coding/Github/VISTA/backend/dataset/scene_graph_eval_results_llm_simple.csv
 Average number of relations per video: 260.66
