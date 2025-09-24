@@ -27,7 +27,7 @@ from src.utils.agents.graph_reasoning_agent import GraphReasoningAgent, GraphRea
 load_dotenv()
 
 # Initialize FastAPI app
-app = FastAPI(title="soICT Video Analysis API", version="0.1.0")
+app = FastAPI(title="VISTA Video Analysis API", version="0.1.0")
 
 # CORS middleware for React frontend
 app.add_middleware(
@@ -78,7 +78,7 @@ class SessionInfo(BaseModel):
 
 @app.get("/")
 async def root():
-    return {"message": "soICT Video Analysis API", "version": "0.1.0"}
+    return {"message": "VISTA Video Analysis API", "version": "0.1.0"}
 
 @app.get("/health")
 async def health_check():

@@ -14,7 +14,7 @@ from pathlib import Path
 from datetime import datetime
 
 # Initialize FastAPI app
-app = FastAPI(title="soICT Video Analysis API", version="0.1.0")
+app = FastAPI(title="VISTA Video Analysis API", version="0.1.0")
 
 # CORS middleware for React frontend
 app.add_middleware(
@@ -191,7 +191,7 @@ class ChatResponse(BaseModel):
 
 @app.get("/")
 async def root():
-    return {"message": "soICT Video Analysis API", "version": "0.1.0", "status": "running"}
+    return {"message": "VISTA Video Analysis API", "version": "0.1.0", "status": "running"}
 
 @app.get("/health")
 async def health_check():

@@ -92,4 +92,4 @@ Processed video 8557532213: TP=1, ES =1, EM = 1, Reason=Cả hai quan hệ đề
 Processed video 8740703217: TP=1, ES =1, EM = 0, Reason=Có người ăn thức ăn, người1 ăn, người 2 ăn.
 Processed video 8783897632: TP=0, ES =0, EM = 0, Reason=Không có thông tin về dốc trong scene graph.
 Processed video 9082180631: TP=1, ES =1, EM = 0, Reason=Người lớn quan sát trẻ em đang trượt băng.
-Saved evaluation results to /content/drive/MyDrive/soICT/scene_graph_eval_results_llm_simple.csv
+Saved evaluation results to /content/drive/MyDrive/VISTA/scene_graph_eval_results_llm_simple.csv
