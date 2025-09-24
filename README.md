@@ -12,14 +12,9 @@
 
 Watch our system in action:
 
-<video width="800" controls>
-  <source src="media/record.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="media/record.gif" width="800" alt="recorded gif">
 
 *Preview of the VISTA system analyzing videos and answering questions in real-time*
-
-**Note**: If the video doesn't display above, you can [download and view it here](media/record.mov)
 
 ![System Workflow](media/visgg-workflow.drawio.png)
 
@@ -43,11 +38,11 @@ The system consists of three main components:
 2. **Scene Graph Construction**: Builds comprehensive scene graphs using advanced AI agents
 3. **Question Answering Engine**: Processes natural language queries and provides intelligent responses
 
-![Dataset Overview](media/visgg-dataset.drawio.png)
+![Dataset Overview](/media/ee5332ea25cdaf93f6dc.jpg)
 
 ## System Design
 
-![System S1 Design](media/visgg-S1.drawio.png)
+![System S1 Design](media/f991102507028d5cd413.jpg)
 
 ## Quick Start
 
