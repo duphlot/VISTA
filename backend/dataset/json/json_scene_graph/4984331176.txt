@@ -1,0 +1,376 @@
+frame_0:
+```json
+[
+  "người1 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng trên - vỉa hè",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng trên - vỉa hè",
+  "người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - vỉa hè",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang nhảy) - đứng trên - vỉa hè",
+  "hàng rào - ở trên - vỉa hè",
+  "cây - ở trên - hàng rào",
+  "trần nhà - ở trên - cây",
+  "mái hiên - ở trên - vỉa hè"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng trên - vỉa hè",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - vỉa hè",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - vỉa hè",
+  "hàng rào - ở trên - vỉa hè",
+  "cây - ở trên - hàng rào",
+  "trần nhà - ở trên - cây",
+  "mái hiên - ở trên - vỉa hè",
+  "ván trượt (màu đen) - ở dưới - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "ghế1 (màu hồng) - ở gần - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "đường - ở dưới - ghế1 (màu hồng)",
+  "cỏ - ở gần - cây",
+  "bầu trời - ở trên - cây"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng trên - đường",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "hàng rào - ở trên - đường",
+  "cây - ở trên - hàng rào",
+  "trần nhà - ở trên - cây",
+  "mái hiên - ở trên - đường",
+  "ván trượt (màu đen) - ở dưới - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "ghế1 (màu hồng) - ở gần - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "đường - ở dưới - ghế1 (màu hồng)",
+  "cỏ - ở gần - cây",
+  "bầu trời - ở trên - cây"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng trên - đường",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "hàng rào - ở trên - đường",
+  "cây - ở trên - hàng rào",
+  "trần nhà - ở trên - cây",
+  "mái hiên - ở trên - đường",
+  "ván trượt (màu đen) - ở dưới - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "ghế1 (màu hồng) - ở gần - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "đường - ở dưới - ghế1 (màu hồng)",
+  "cỏ - ở gần - cây",
+  "bầu trời - ở trên - cây",
+  "người5 (trưởng thành, mặc váy cam, đang đứng) - đứng trên - đường",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng trên - đường",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "hàng rào - ở trên - đường",
+  "cây - ở trên - hàng rào",
+  "trần nhà - ở trên - cây",
+  "mái hiên - ở trên - đường",
+  "ván trượt (màu đen) - ở dưới - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "ghế1 (màu hồng) - ở gần - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "đường - ở dưới - ghế1 (màu hồng)",
+  "cỏ - ở gần - cây",
+  "bầu trời - ở trên - cây",
+  "người5 (trưởng thành, mặc váy cam, đang đứng) - đứng trên - đường",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "người6 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - đường",
+  "đường - ở trên - vỉa hè"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng trên - đường",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "hàng rào - ở trên - đường",
+  "cây - ở trên - hàng rào",
+  "trần nhà - ở trên - cây",
+  "mái hiên - ở trên - đường",
+  "ván trượt (màu đen) - ở dưới - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "ghế1 (màu hồng) - ở gần - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "đường - ở dưới - ghế1 (màu hồng)",
+  "cỏ - ở gần - cây",
+  "bầu trời - ở trên - cây",
+  "người5 (trưởng thành, mặc váy cam, đang đi) - đứng trên - đường",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "người6 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - đường",
+  "đường - ở trên - vỉa hè",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người5 (trưởng thành, mặc váy cam, đang đi)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng trên - đường",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "hàng rào - ở trên - đường",
+  "cây - ở trên - hàng rào",
+  "trần nhà - ở trên - cây",
+  "mái hiên - ở trên - đường",
+  "ván trượt (màu đen) - ở dưới - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "ghế1 (màu hồng) - ở gần - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "đường - ở dưới - ghế1 (màu hồng)",
+  "cỏ - ở gần - cây",
+  "bầu trời - ở trên - cây",
+  "người5 (trưởng thành, mặc váy cam, đang đi) - đứng trên - đường",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "người6 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - đường",
+  "đường - ở trên - vỉa hè",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng trên - vỉa hè",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "hàng rào - ở trên - vỉa hè",
+  "cây - ở trên - hàng rào",
+  "trần nhà - ở trên - cây",
+  "mái hiên - ở trên - đường",
+  "ván trượt (màu đen) - ở dưới - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "ghế1 (màu hồng) - ở gần - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "đường - ở dưới - ghế1 (màu hồng)",
+  "cỏ - ở gần - cây",
+  "bầu trời - ở trên - cây",
+  "người5 (trưởng thành, mặc váy cam, đang đi) - đứng trên - đường",
+  "người6 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - đường",
+  "đường - ở trên - vỉa hè",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng trên - đường",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng cạnh - hàng rào"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng trên - vỉa hè",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "hàng rào - ở trên - vỉa hè",
+  "cây - ở trên - hàng rào",
+  "trần nhà - ở trên - cây",
+  "mái hiên - ở trên - đường",
+  "ván trượt (màu đen) - ở dưới - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "ghế1 (màu hồng) - ở gần - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "đường - ở dưới - ghế1 (màu hồng)",
+  "cỏ - ở gần - cây",
+  "bầu trời - ở trên - cây",
+  "người5 (trưởng thành, mặc váy cam, đang đi) - đứng trên - đường",
+  "người6 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - đường",
+  "đường - ở trên - vỉa hè",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng trên - đường",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng cạnh - hàng rào",
+  "người8 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - vỉa hè"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng trên - vỉa hè",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "hàng rào - ở trên - vỉa hè",
+  "cây - ở trên - hàng rào",
+  "trần nhà - ở trên - cây",
+  "mái hiên - ở trên - đường",
+  "ván trượt (màu đen) - ở dưới - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "ghế1 (màu hồng) - ở gần - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "đường - ở dưới - ghế1 (màu hồng)",
+  "cỏ - ở gần - cây",
+  "bầu trời - ở trên - cây",
+  "người5 (trưởng thành, mặc váy cam, đang đi) - đứng trên - đường",
+  "người6 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - đường",
+  "đường - ở trên - vỉa hè",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng trên - đường",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng cạnh - hàng rào",
+  "người8 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - vỉa hè",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng cạnh - người5 (trưởng thành, mặc váy cam, đang đi)"
+]
+```
+
+frame_10:
+```json
+[
+  "hàng rào - ở trên - vỉa hè",
+  "cây - ở trên - hàng rào",
+  "trần nhà - ở trên - cây",
+  "mái hiên - ở trên - đường",
+  "đường - ở trên - vỉa hè",
+  "cỏ - ở gần - cây",
+  "bầu trời - ở trên - cây",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng trên - đường",
+  "ghế1 (màu hồng) - ở gần - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "đường - ở dưới - ghế1 (màu hồng)",
+  "người5 (trưởng thành, mặc váy cam, đang đi) - đứng trên - đường",
+  "người6 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - đường",
+  "người1 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng trên - vỉa hè",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "ván trượt (màu đen) - ở dưới - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "người8 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - vỉa hè",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng cạnh - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng cạnh - hàng rào",
+  "người9 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đứng) - đứng cạnh - ghế2 (màu đỏ)",
+  "ghế2 (màu đỏ) - ở trên - đường",
+  "người9 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đứng) - đứng trên - đường",
+  "người10 (trẻ, mặc quần áo che kín người, đang đi) - đứng cạnh - chậu cây (màu xanh lá cây)",
+  "người10 (trẻ, mặc quần áo che kín người, đang đi) - đứng trên - vỉa hè",
+  "chậu cây (màu xanh lá cây) - ở trên - vỉa hè",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)"
+]
+```
+
+frame_11:
+```json
+[
+  "trần nhà - ở trên - cây",
+  "cây - ở trên - hàng rào",
+  "hàng rào - ở trên - vỉa hè",
+  "mái hiên - ở trên - đường",
+  "đường - ở trên - vỉa hè",
+  "cỏ - ở gần - cây",
+  "bầu trời - ở trên - cây",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng trên - đường",
+  "ghế1 (màu hồng) - ở gần - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "đường - ở dưới - ghế1 (màu hồng)",
+  "người5 (trưởng thành, mặc váy cam, đang đi) - đứng trên - đường",
+  "người6 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - đường",
+  "người1 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng trên - vỉa hè",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)",
+  "người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng trên - đường",
+  "ván trượt (màu đen) - ở dưới - người1 (trưởng thành, mặc áo sơ mi trắng, đang đi)",
+  "người8 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - vỉa hè",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng cạnh - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "người4 (trưởng thành, mặc áo sơ mi trắng, đang đứng) - đứng cạnh - hàng rào",
+  "người9 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đứng) - đứng cạnh - ghế2 (màu đỏ)",
+  "ghế2 (màu đỏ) - ở trên - đường",
+  "người9 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đứng) - đứng trên - đường",
+  "người10 (trẻ, mặc quần áo che kín người, đang đi) - đứng cạnh - chậu cây (màu xanh lá cây)",
+  "người10 (trẻ, mặc quần áo che kín người, đang đi) - đứng trên - vỉa hè",
+  "chậu cây (màu xanh lá cây) - ở trên - vỉa hè",
+  "người2 (trưởng thành, mặc áo sơ mi trắng, đang đi) - đứng cạnh - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng cạnh - người3 (trưởng thành, mặc áo sơ mi trắng, đang đứng)"
+]
+```
+
+frame_12:
+```json
+[
+  "trần nhà - ở trên - cây",
+  "cây - ở trên - hàng rào",
+  "hàng rào - ở trên - vỉa hè",
+  "mái hiên - ở trên - đường",
+  "đường - ở trên - vỉa hè",
+  "cỏ - ở gần - cây",
+  "bầu trời - ở trên - cây",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng trên - đường",
+  "ghế1 (màu hồng) - ở gần - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "đường - ở dưới - ghế1 (màu hồng)",
+  "người5 (trưởng thành, mặc váy cam, đang đi) - đứng trên - đường",
+  "người6 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - đường",
+  "người8 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - vỉa hè",
+  "người9 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đứng) - đứng cạnh - ghế2 (màu đỏ)",
+  "ghế2 (màu đỏ) - ở trên - đường",
+  "người9 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đứng) - đứng trên - đường",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng cạnh - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "người11 (trưởng thành, mặc quần áo che kín người, đang chạy) - đứng trên - vỉa hè",
+  "người6 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng cạnh - cây",
+  "người10 (trẻ, mặc quần áo che kín người, đang đi) - đứng cạnh - người9 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đứng)"
+]
+```
+
+frame_13:
+```json
+[
+  "trần nhà - ở trên - cây",
+  "cây - ở trên - hàng rào",
+  "hàng rào - ở trên - vỉa hè",
+  "mái hiên - ở trên - đường",
+  "đường - ở trên - vỉa hè",
+  "cỏ - ở gần - cây",
+  "bầu trời - ở trên - cây",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng trên - đường",
+  "ghế1 (màu hồng) - ở gần - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "đường - ở dưới - ghế1 (màu hồng)",
+  "người5 (trưởng thành, mặc váy cam, đang đi) - đứng trên - đường",
+  "người6 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - đường",
+  "người8 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - vỉa hè",
+  "người9 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đứng) - đứng cạnh - ghế2 (màu đỏ)",
+  "ghế2 (màu đỏ) - ở trên - đường",
+  "người9 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đứng) - đứng trên - đường",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy) - đứng cạnh - người5 (trưởng thành, mặc váy cam, đang đi)",
+  "người11 (trưởng thành, mặc quần áo che kín người, đang chạy) - đứng trên - vỉa hè",
+  "người6 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng cạnh - cây",
+  "người10 (trẻ, mặc quần áo che kín người, đang đi) - đứng cạnh - người9 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đứng)",
+  "người10 (trẻ, mặc quần áo che kín người, đang đi) - ở trên - vỉa hè",
+  "ván trượt - ở gần - người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang chạy)"
+]
+```
+
+frame_14:
+```json
+[
+  "trần nhà - ở trên - cây",
+  "cây - ở trên - hàng rào",
+  "hàng rào - ở trên - vỉa hè",
+  "mái hiên - ở trên - đường",
+  "đường - ở trên - vỉa hè",
+  "cỏ - ở gần - cây",
+  "bầu trời - ở trên - cây",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đi bộ) - đứng trên - đường",
+  "ghế1 (màu hồng) - ở gần - người5 (trưởng thành, mặc váy cam, đang đi bộ)",
+  "đường - ở dưới - ghế1 (màu hồng)",
+  "người5 (trưởng thành, mặc váy cam, đang đi bộ) - đứng trên - đường",
+  "người6 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - đường",
+  "người8 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng trên - vỉa hè",
+  "người9 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đứng) - đứng cạnh - ghế2 (màu đỏ)",
+  "ghế2 (màu đỏ) - ở trên - đường",
+  "người9 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đứng) - đứng trên - đường",
+  "người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đi bộ) - đứng cạnh - người5 (trưởng thành, mặc váy cam, đang đi bộ)",
+  "người11 (trưởng thành, mặc quần áo che kín người, đang đi bộ) - đứng trên - vỉa hè",
+  "người6 (trưởng thành, mặc quần áo che kín người, đang đứng) - đứng cạnh - cây",
+  "người10 (trẻ, mặc quần áo che kín người, đang đi bộ) - đứng cạnh - người9 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đứng)",
+  "người10 (trẻ, mặc quần áo che kín người, đang đi bộ) - ở trên - vỉa hè",
+  "ván trượt - ở gần - người7 (trưởng thành, mặc quần áo thể thao màu cam và hồng, đang đi bộ)"
+]
+```
+

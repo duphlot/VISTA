@@ -1,0 +1,666 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - chăn (màu xám và xanh)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - chăn (màu xám và xanh)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời",
+  "nhà - ở phía sau - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở trước - nhà"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - chăn (màu xám và xanh)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời",
+  "nhà - ở phía sau - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở trước - nhà",
+  "hàng rào - gần - cây",
+  "hàng rào - ở xa - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở dưới - hàng rào"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - chăn (màu xám và xanh)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời",
+  "nhà - ở phía sau - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở trước - nhà",
+  "hàng rào - gần - cây",
+  "hàng rào - ở xa - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở dưới - hàng rào"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - chăn (màu xám và xanh)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời",
+  "nhà - ở phía sau - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở trước - nhà",
+  "hàng rào - gần - cây",
+  "hàng rào - ở xa - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở dưới - hàng rào"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - chăn (màu xám và xanh)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời",
+  "nhà - ở phía sau - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở trước - nhà",
+  "hàng rào - gần - cây",
+  "hàng rào - ở xa - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở dưới - hàng rào"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - chăn (màu xám và xanh)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời",
+  "nhà - ở phía sau - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở trước - nhà",
+  "hàng rào - gần - cây",
+  "hàng rào - ở xa - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở dưới - hàng rào"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - chăn (màu xám và xanh)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời",
+  "nhà - ở phía sau - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở trước - nhà",
+  "hàng rào - gần - cây",
+  "hàng rào - ở xa - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở dưới - hàng rào"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - chăn (màu xám và xanh)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời",
+  "nhà - ở phía sau - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở trước - nhà",
+  "hàng rào - gần - cây",
+  "hàng rào - ở xa - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở dưới - hàng rào"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - chăn (màu xám và xanh)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời",
+  "nhà - ở phía sau - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở trước - nhà",
+  "hàng rào - gần - cây",
+  "hàng rào - ở xa - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở dưới - hàng rào",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - chăn (màu tím)"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - giường (màu tím)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời",
+  "nhà - ở phía sau - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở trước - nhà",
+  "hàng rào - gần - cây",
+  "hàng rào - ở xa - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở dưới - hàng rào",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - giường (màu tím)",
+  "cừu - trên - cỏ",
+  "xe hơi - ở xa - cây"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - giường (màu tím)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời",
+  "nhà - ở phía sau - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở trước - nhà",
+  "hàng rào - gần - cây",
+  "hàng rào - ở xa - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở dưới - hàng rào",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - giường (màu tím)",
+  "cừu - trên - cỏ",
+  "xe hơi - ở xa - cây",
+  "chim (màu tím) - trên - cỏ"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - giường (màu tím)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời",
+  "nhà - ở phía sau - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở trước - nhà",
+  "hàng rào - gần - cây",
+  "hàng rào - ở xa - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở dưới - hàng rào",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - giường (màu tím)",
+  "xe đạp - trên - cỏ",
+  "xe đạp - ở xa - cây"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - giường (màu tím)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời",
+  "nhà - ở phía sau - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở trước - nhà",
+  "hàng rào - gần - cây",
+  "hàng rào - ở xa - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở dưới - hàng rào",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - giường (màu tím)",
+  "xe đạp (màu xanh) - trên - cỏ",
+  "xe đạp (màu xanh) - ở xa - cây",
+  "xe đạp (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - chăn (màu trắng xám)",
+  "cỏ - bao quanh - cây",
+  "cỏ - ở dưới - bầu trời",
+  "nhà - ở phía sau - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở trước - nhà",
+  "hàng rào - gần - cây",
+  "hàng rào - ở xa - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - ở dưới - hàng rào",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - chăn (màu trắng xám)",
+  "xe đạp (màu xanh) - trên - cỏ",
+  "xe đạp (màu xanh) - ở xa - cây",
+  "xe đạp (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - chăn (màu trắng xám)",
+  "chim (màu nâu) - trên - cỏ",
+  "chim (màu nâu) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "xe đạp (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - giường (màu tím)",
+  "cỏ - bao quanh - cây (màu xanh lá cây)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - cây (màu xanh lá cây)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - giường (màu tím)",
+  "chim (màu nâu) - trên - cỏ",
+  "chim (màu nâu) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cừu (màu xanh lá cây) - trên - cỏ",
+  "cừu (màu xanh lá cây) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - giường (màu tím)",
+  "cỏ - bao quanh - cây (màu xanh lá cây)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - cây (màu xanh lá cây)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - giường (màu tím)",
+  "chim (màu nâu) - trên - cỏ",
+  "chim (màu nâu) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cừu (màu xanh lá cây) - trên - cỏ",
+  "cừu (màu xanh lá cây) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - giường (màu tím)",
+  "cỏ - bao quanh - cây (màu xanh lá cây)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - cây (màu xanh lá cây)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - giường (màu tím)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - giường (màu tím)",
+  "cỏ - bao quanh - cây (màu xanh lá cây)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - cây (màu xanh lá cây)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - giường (màu tím)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - giường (màu tím)",
+  "cỏ - bao quanh - cây (màu xanh lá cây)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - cây (màu xanh lá cây)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - giường (màu tím)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe máy (màu xanh)",
+  "cỏ - bao quanh - cây (màu xanh lá cây)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - cây (màu xanh lá cây)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - xe máy (màu xanh)"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe máy (màu xanh)",
+  "cỏ - bao quanh - xe đạp (màu nâu)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - xe đạp (màu nâu)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - xe máy (màu xanh)",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - giấy (màu trắng)",
+  "giấy (màu trắng) - trên - cỏ",
+  "xe đạp (màu nâu) - trên - cỏ"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe máy (màu xanh)",
+  "cỏ - bao quanh - xe đạp (màu nâu)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - xe đạp (màu nâu)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - xe máy (màu xanh)",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - giấy (màu trắng)",
+  "giấy (màu trắng) - trên - cỏ",
+  "xe đạp (màu nâu) - trên - cỏ"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe máy (màu xanh)",
+  "cỏ - bao quanh - xe đạp (màu nâu)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - xe đạp (màu nâu)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - xe máy (màu xanh)",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - giấy (màu trắng)",
+  "giấy (màu trắng) - trên - cỏ",
+  "xe đạp (màu nâu) - trên - cỏ"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe máy (màu xanh)",
+  "cỏ - bao quanh - xe đạp (màu nâu)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - xe đạp (màu nâu)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - xe máy (màu xanh)",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - giấy (màu trắng)",
+  "giấy (màu trắng) - trên - cỏ",
+  "xe đạp (màu nâu) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe đạp (màu nâu)"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe máy (màu xanh)",
+  "cỏ - bao quanh - xe đạp (màu nâu)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - xe đạp (màu nâu)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - xe máy (màu xanh)",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - giấy (màu trắng)",
+  "giấy (màu trắng) - trên - cỏ",
+  "xe đạp (màu nâu) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe đạp (màu nâu)"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe máy (màu xanh)",
+  "cỏ - bao quanh - xe đạp (màu nâu)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - xe đạp (màu nâu)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - xe máy (màu xanh)",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - giấy (màu trắng)",
+  "giấy (màu trắng) - trên - cỏ",
+  "xe đạp (màu nâu) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe đạp (màu nâu)",
+  "ngựa1 (không rõ) - gần - xe đạp (màu nâu)",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - vỉa hè",
+  "xe đạp (màu nâu) - trên - vỉa hè"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe máy (màu xanh)",
+  "cỏ - bao quanh - xe đạp (màu nâu)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - xe đạp (màu nâu)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - xe máy (màu xanh)",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - giấy (màu trắng)",
+  "giấy (màu trắng) - trên - cỏ",
+  "xe đạp (màu nâu) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe đạp (màu nâu)"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe máy (màu xanh)",
+  "cỏ - bao quanh - xe đạp (màu nâu)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - xe đạp (màu nâu)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - xe máy (màu xanh)",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - giấy (màu trắng)",
+  "giấy (màu trắng) - trên - cỏ",
+  "xe đạp (màu nâu) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe đạp (màu nâu)",
+  "chim1 (màu đen) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe máy (màu xanh)",
+  "cỏ - bao quanh - xe đạp (màu nâu)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - xe đạp (màu nâu)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - xe máy (màu xanh)",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - giấy (màu trắng)",
+  "giấy (màu trắng) - trên - cỏ",
+  "xe đạp (màu nâu) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe đạp (màu nâu)",
+  "chim1 (màu đen) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)"
+]
+```
+
+frame_30:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe máy (màu xanh)",
+  "cỏ - bao quanh - xe đạp1 (màu nâu)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - xe đạp1 (màu nâu)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - xe máy (màu xanh)",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - giấy (màu trắng)",
+  "giấy (màu trắng) - trên - cỏ",
+  "xe đạp1 (màu nâu) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe đạp1 (màu nâu)",
+  "chim1 (màu đen) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "chim1 (màu đen) - gần - xe đạp1 (màu nâu)",
+  "xe đạp2 (màu hồng) - gần - cỏ"
+]
+```
+
+frame_31:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe máy (màu xanh)",
+  "cỏ - bao quanh - xe đạp1 (màu nâu)",
+  "cỏ - ở dưới - bầu trời",
+  "xe máy (màu xanh) - trên - cỏ",
+  "xe máy (màu xanh) - ở xa - xe đạp1 (màu nâu)",
+  "xe máy (màu xanh) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "cỏ - gần - xe máy (màu xanh)",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - giấy (màu trắng)",
+  "giấy (màu trắng) - trên - cỏ",
+  "xe đạp1 (màu nâu) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - xe đạp1 (màu nâu)",
+  "chim1 (màu đen) - gần - người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ)",
+  "chim1 (màu đen) - gần - xe đạp1 (màu nâu)",
+  "xe đạp2 (màu hồng) - gần - cỏ"
+]
+```
+
+frame_32:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - gần - chim1 (màu đen)",
+  "cỏ - bao quanh - chim1 (màu đen)"
+]
+```
+
+frame_33:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"
+]
+```
+
+frame_34:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"]
+```
+
+frame_35:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"]
+```
+
+frame_36:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"]
+```
+
+frame_37:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"]
+```
+
+frame_38:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"]
+```
+
+frame_39:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"]
+```
+
+frame_40:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"]
+```
+
+frame_41:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"]
+```
+
+frame_42:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"]
+```
+
+frame_43:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"]
+```
+
+frame_44:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"]
+```
+
+frame_45:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"]
+```
+
+frame_46:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"]
+```
+
+frame_47:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ"]
+```
+
+frame_48:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ", "cây - ở trên - cỏ"]
+```
+
+frame_49:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ", "cây - ở trên - cỏ"]
+```
+
+frame_50:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ", "cây - ở trên - cỏ"]
+```
+
+frame_51:
+```json
+["người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ", "cây - ở trên - cỏ"]
+```
+
+frame_52:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "cây - ở trên - cỏ"
+]
+```
+
+frame_53:
+```json
+[
+  "người1 (trẻ - không rõ giới tính, mặc áo tối màu, đang bò, vui vẻ) - trên - cỏ",
+  "cây - ở trên - cỏ",
+  "người2 (trẻ - không rõ giới tính, mặc áo tối màu, đang đứng, vui vẻ) - trên - cỏ"
+]
+```
+

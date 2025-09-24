@@ -1,0 +1,102 @@
+frame_0000.jpg: a woman sitting in the grass with a dog
+frame_0001.jpg: a girl is petting a dog in the yard
+frame_0002.jpg: a woman is petting a dog in the grass
+frame_0003.jpg: a woman is petting a dog in the grass
+frame_0004.jpg: a girl is petting a dog in the grass
+frame_0005.jpg: a girl is playing with her dog in the grass
+frame_0006.jpg: a girl and her dog playing in the grass
+frame_0007.jpg: a girl playing with a dog in the grass
+frame_0008.jpg: a girl is playing with her dog in the grass
+frame_0009.jpg: a girl is petting a dog in the yard
+frame_0010.jpg: a girl is petting a dog in the yard
+frame_0011.jpg: a girl petting a dog in the grass
+frame_0012.jpg: a girl petting a dog
+frame_0013.jpg: a girl is petting a dog in the grass
+frame_0014.jpg: a girl petting a dog in the grass
+frame_0015.jpg: a girl petting a dog in a yard
+frame_0016.jpg: a girl is petting a dog in the yard
+frame_0017.jpg: a girl is petting a dog in the yard
+frame_0018.jpg: a girl and her dog playing in the grass
+frame_0019.jpg: a girl is playing with a dog in the grass
+frame_0020.jpg: a girl playing with a dog in the grass
+frame_0021.jpg: a girl is petting a dog in the yard
+frame_0022.jpg: a girl is petting a dog in the yard
+frame_0023.jpg: a girl is playing with a dog in the grass
+frame_0024.jpg: a girl is petting a dog in the grass
+frame_0025.jpg: a girl is playing with a dog in the grass
+frame_0026.jpg: a girl is playing with a dog in the grass
+frame_0027.jpg: a girl is petting a dog in the grass
+frame_0028.jpg: a girl is petting a dog in the yard
+frame_0029.jpg: a girl petting a dog in a field
+frame_0030.jpg: a girl petting a dog in a field
+frame_0031.jpg: a girl is petting a dog in the yard
+frame_0032.jpg: a girl is petting a dog in the grass
+frame_0033.jpg: a girl is petting a dog
+frame_0034.jpg: a girl is petting a dog in the grass
+frame_0035.jpg: a girl is playing with her dog in the grass
+frame_0036.jpg: a girl is petting a dog in the grass
+frame_0037.jpg: a girl is petting a dog in the grass
+frame_0038.jpg: a girl is petting a dog in the grass
+frame_0039.jpg: a girl petting a dog
+frame_0040.jpg: a woman kneeling down to pet a dog
+frame_0041.jpg: a girl is petting a dog in the grass
+frame_0042.jpg: a girl is petting a dog in the grass
+frame_0043.jpg: a girl is petting a dog in the grass
+frame_0044.jpg: a girl is petting a dog in the grass
+frame_0045.jpg: a girl is petting a dog in the grass
+frame_0046.jpg: a girl is petting a dog in the grass
+frame_0047.jpg: a girl is petting a dog in the grass
+frame_0048.jpg: a girl is petting a dog in the grass
+frame_0049.jpg: a girl is petting a dog in the grass
+frame_0050.jpg: a girl is petting a dog in the grass
+frame_0051.jpg: a girl is petting a dog in a yard
+frame_0052.jpg: a girl is petting a dog in the grass
+frame_0053.jpg: a girl is petting a dog in the yard
+frame_0054.jpg: a girl is petting a dog
+frame_0055.jpg: a girl playing with a dog in the grass
+frame_0056.jpg: a girl is petting a dog in a yard
+frame_0057.jpg: a girl petting a dog in a yard
+frame_0058.jpg: a girl is petting a dog in the grass
+frame_0059.jpg: a girl is petting a dog in the yard
+frame_0060.jpg: a girl sitting on the grass
+frame_0061.jpg: a girl sitting on the grass with her dog
+frame_0062.jpg: a girl sitting on the grass with her dog
+frame_0063.jpg: a girl sitting on the grass with a dog
+frame_0064.jpg: a girl sitting on the grass with her dog
+frame_0065.jpg: a girl sitting on the grass with a dog
+frame_0066.jpg: a girl sitting on the grass with a dog
+frame_0067.jpg: a girl is playing with her dog in the grass
+frame_0068.jpg: a girl is playing with her dog in the grass
+frame_0069.jpg: a girl is petting a dog in the grass
+frame_0070.jpg: a girl is petting a dog in the grass
+frame_0071.jpg: a girl is petting a dog in the grass
+frame_0072.jpg: a girl is petting a dog
+frame_0073.jpg: a girl is petting a dog in the grass
+frame_0074.jpg: a girl is playing with her dog in the grass
+frame_0075.jpg: a girl is playing with her dog in the grass
+frame_0076.jpg: a girl is playing with her dog in the grass
+frame_0077.jpg: a girl is playing with her dog in the grass
+frame_0078.jpg: a girl is playing with a dog in the grass
+frame_0079.jpg: a woman is laying down on the grass
+frame_0080.jpg: a girl is playing with a dog in the grass
+frame_0081.jpg: a woman is playing with a dog in the grass
+frame_0082.jpg: a girl is playing with her dog in the grass
+frame_0083.jpg: a girl playing with a dog in the grass
+frame_0084.jpg: a girl sitting on the grass with her dog
+frame_0085.jpg: a girl is playing with her dog in the grass
+frame_0086.jpg: a girl is playing with a dog in the grass
+frame_0087.jpg: a girl is laying down with a dog
+frame_0088.jpg: a girl is playing with her dog in the grass
+frame_0089.jpg: a girl is playing with her dog in the grass
+frame_0090.jpg: a girl is petting a dog in the grass
+frame_0091.jpg: a girl is petting a dog in the grass
+frame_0092.jpg: a girl and her dog are playing in the grass
+frame_0093.jpg: a girl is playing with a dog in the grass
+frame_0094.jpg: a girl is laying down on the grass
+frame_0095.jpg: a girl is playing with a dog in the grass
+frame_0096.jpg: a girl is kneeling down on the grass
+frame_0097.jpg: a girl is laying on the grass in her yard
+frame_0098.jpg: a girl is playing with a dog in the grass
+frame_0099.jpg: a girl playing with a dog
+frame_0100.jpg: a girl sitting on the grass with her dog
+frame_0101.jpg: a girl and her dog playing in the grass

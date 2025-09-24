@@ -1,0 +1,54 @@
+frame_0000.jpg: two people are climbing on a high wire
+frame_0001.jpg: two people are climbing on a high wire
+frame_0002.jpg: two people are standing on a power pole
+frame_0003.jpg: two people are standing on a high voltage pole
+frame_0004.jpg: two people are standing on a high wire
+frame_0005.jpg: two people are standing on a high wire
+frame_0006.jpg: two people are standing on a high wire
+frame_0007.jpg: two people are standing on a high wire
+frame_0008.jpg: two men are standing on a high wire
+frame_0009.jpg: two people are standing on a high wire
+frame_0010.jpg: two people are standing on a high wire
+frame_0011.jpg: two people are standing on a high wire
+frame_0012.jpg: two men are standing on a high wire
+frame_0013.jpg: two people are on a high wire
+frame_0014.jpg: two men are on a high wire
+frame_0015.jpg: two men are on a high wire
+frame_0016.jpg: two men are standing on a high wire
+frame_0017.jpg: two men are on a high wire
+frame_0018.jpg: two men are standing on a high wire
+frame_0019.jpg: two men are on a high wire
+frame_0020.jpg: two men are standing on a high wire
+frame_0021.jpg: two people are on a high wire
+frame_0022.jpg: two men are climbing up a high wire
+frame_0023.jpg: a woman is suspended on a rope
+frame_0024.jpg: a person is suspended on a rope
+frame_0025.jpg: a man is suspended on a rope in the sky
+frame_0026.jpg: a man is suspended on a rope in the sky
+frame_0027.jpg: a man is suspended on a pole in the sky
+frame_0028.jpg: a man is suspended on a pole
+frame_0029.jpg: a woman is suspended on a rope in the air
+frame_0030.jpg: a woman is suspended on a pole
+frame_0031.jpg: a woman is suspended on a rope
+frame_0032.jpg: a man is suspended on a rope
+frame_0033.jpg: a woman is suspended on a rope
+frame_0034.jpg: a woman is suspended on a pole
+frame_0035.jpg: a man is suspended on a rope in the air
+frame_0036.jpg: a woman is suspended on a rope
+frame_0037.jpg: a woman is suspended on a rope
+frame_0038.jpg: a woman is suspended on a rope in the sky
+frame_0039.jpg: a man is suspended on a rope
+frame_0040.jpg: a woman is suspended on a rope in the sky
+frame_0041.jpg: a woman is standing on a pole
+frame_0042.jpg: a man is suspended by a rope
+frame_0043.jpg: a man is suspended by a rope
+frame_0044.jpg: a woman is standing on a pole
+frame_0045.jpg: a woman is suspended on a rope in the sky
+frame_0046.jpg: a man is suspended on a rope in the sky
+frame_0047.jpg: a man is suspended on a rope in the sky
+frame_0048.jpg: a man is on a pole with a rope
+frame_0049.jpg: a woman is standing on a rope in the air
+frame_0050.jpg: a woman is standing on a rope in the air
+frame_0051.jpg: a woman is walking on a rope
+frame_0052.jpg: a woman is standing on a rope in the air
+frame_0053.jpg: a woman standing on top of a boat

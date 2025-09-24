@@ -1,0 +1,29 @@
+frame_0000.jpg: a woman is sitting on a slide
+frame_0001.jpg: a woman is riding a slide in a playground
+frame_0002.jpg: a child slides down a slide at the new york children ' s center
+frame_0003.jpg: a young girl is playing on a slide
+frame_0004.jpg: a woman and child are playing on a slide
+frame_0005.jpg: a dog is sitting on a slide in a play area
+frame_0006.jpg: a young boy slides down a slide at the indoor playground
+frame_0007.jpg: a woman is sitting on a slide
+frame_0008.jpg: a young boy and girl are playing on a slide
+frame_0009.jpg: a woman and child are playing on a slide
+frame_0010.jpg: a woman and child are playing on a slide
+frame_0011.jpg: a woman and child are playing on a bounce bounce
+frame_0012.jpg: a woman and child are playing on a slide
+frame_0013.jpg: a woman and child are on a slide
+frame_0014.jpg: a woman and child are on a slide
+frame_0015.jpg: a woman and child are riding on a slide
+frame_0016.jpg: a man riding a blue and yellow slide
+frame_0017.jpg: a man is walking down a blue slide
+frame_0018.jpg: two children are riding on a slide
+frame_0019.jpg: a man in a black shirt is standing in front of a blue wall
+frame_0020.jpg: a baby is being held by a man
+frame_0021.jpg: a baby is being held by a man
+frame_0022.jpg: a man is dancing in a room with a blue wall
+frame_0023.jpg: a woman holding a baby in her arms
+frame_0024.jpg: a woman and a child are playing in a play area
+frame_0025.jpg: a woman is talking to a man on a slide
+frame_0026.jpg: a young boy is sitting on a plane
+frame_0027.jpg: a young boy and a woman are talking
+frame_0028.jpg: a baby is standing in front of a wall

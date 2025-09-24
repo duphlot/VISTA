@@ -1,0 +1,1121 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang chơi, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang chơi, bình thường) - đứng cạnh - lều (màu xanh)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_6:
+```json
+[
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o xanh, \u0111ang n\u00e9m b\u00f3ng, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - \u0111\u1ee9a tr\u1ebb1 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o xanh, \u0111ang n\u00e9m b\u00f3ng, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - l\u1ec1u (m\u00e0u xanh)",
+  "\u0111\u1ee9a tr\u1ebb1 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - l\u1ec1u (m\u00e0u xanh)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - nam, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang ch\u01a1i, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - l\u1ec1u (m\u00e0u xanh)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - nam, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - l\u1ec1u (m\u00e0u xanh)",
+  "\u0111\u1ee9a tr\u1ebb2 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi2 (tr\u1ebb - nam, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang ch\u01a1i, b\u00ecnh th\u01b0\u1eddng)",
+  "\u0111\u1ee9a tr\u1ebb3 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - qu\u1ea3 b\u00f3ng (m\u00e0u x\u00e1m)",
+  "\u0111\u1ee9a tr\u1ebb3 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ed1i di\u1ec7n v\u1edbi - \u0111\u1ee9a tr\u1ebb2 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang chơi, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang chơi, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đứng cạnh - quả bóng (màu xám)"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang ngồi xổm, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang ngồi xổm, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang chơi, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang chơi, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang ngồi xổm, bình thường) - đứng cạnh - quả bóng (màu xám)"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang chơi, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang chơi, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang chơi, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang chơi, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường)"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang chơi, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang chơi, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường)"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang chơi, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang chơi, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang chạy, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang chạy, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang chạy, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang chạy, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang chạy, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang chạy, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang chỉ tay, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang cúi người, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang chỉ tay, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang cúi người, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang chạy, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang chỉ tay, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang cúi người, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang chỉ tay, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang chỉ tay, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang cúi người, bình thường)"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang chỉ tay, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đứng thẳng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang chỉ tay, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đứng thẳng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang chạy, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang chỉ tay, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đứng thẳng, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang chỉ tay, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang chỉ tay, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đứng thẳng, bình thường)"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang chạy, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang chạy, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người3 (trẻ - nam, mặc áo tối màu, đang chạy, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang chạy, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang chạy, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đối diện với - đứa trẻ2 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang chạy, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang chạy, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang chạy, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đối diện với - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đá - quả bóng (màu xám)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đối diện với - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang chạy, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang chạy, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang chạy, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang chạy, vui vẻ) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang chạy, vui vẻ) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang chạy, vui vẻ) - đối diện với - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang chạy, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang chạy, vui vẻ)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang chạy, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang chạy, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đối diện với - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đối diện với - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đối diện với - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đối diện với - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đối diện với - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường) - đứng cạnh - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đối diện với - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đá, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đối diện với - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đối diện với - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_30:
+```json
+[
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o xanh, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ed1i di\u1ec7n v\u1edbi - \u0111\u1ee9a tr\u1ebb1 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o xanh, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - l\u1ec1u (m\u00e0u xanh)",
+  "\u0111\u1ee9a tr\u1ebb1 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - l\u1ec1u (m\u00e0u xanh)",
+  "\u0111\u1ee9a tr\u1ebb2 (tr\u1ebb - nam, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ed1i di\u1ec7n v\u1edbi - b\u00f3ng (m\u00e0u tr\u1eafng)",
+  "\u0111\u1ee9a tr\u1ebb2 (tr\u1ebb - nam, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - \u0111\u1ee9a tr\u1ebb1 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng)",
+  "\u0111\u1ee9a tr\u1ebb3 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u0111i v\u00e0o - l\u1ec1u (m\u00e0u xanh)",
+  "\u0111\u1ee9a tr\u1ebb3 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi2 (tr\u1ebb - nam, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o xanh, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ed1i di\u1ec7n v\u1edbi - \u0111\u1ee9a tr\u1ebb3 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)",
+  "\u0111\u1ee9a tr\u1ebb4 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o xanh, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng)",
+  "\u0111\u1ee9a tr\u1ebb4 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - \u0111\u1ee9a tr\u1ebb1 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng)",
+  "\u0111\u1ee9a tr\u1ebb4 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - \u0111\u1ee9a tr\u1ebb3 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)"
+]
+```
+
+frame_31:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đối diện với - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đối diện với - bóng (màu trắng)",
+  "đứa trẻ2 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đi vào - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường) - đối diện với - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_32:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đối diện với - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đối diện với - bóng (màu trắng)",
+  "đứa trẻ2 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đi vào - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đối diện với - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_33:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đối diện với - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đối diện với - bóng (màu trắng)",
+  "đứa trẻ2 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đi vào - lều (màu xanh)",
+  "đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - người2 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đối diện với - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - không xác định, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ4 (trẻ - không xác định, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ3 (trẻ - không xác định, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_34:
+```json
+[
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o xanh, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ed1i di\u1ec7n v\u1edbi - \u0111\u1ee9a tr\u1ebb1 (tr\u1ebb - nam, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o xanh, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - l\u1ec1u (m\u00e0u xanh)",
+  "\u0111\u1ee9a tr\u1ebb1 (tr\u1ebb - nam, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - l\u1ec1u (m\u00e0u xanh)"
+]
+```
+
+frame_35:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)"
+]
+```
+
+frame_36:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)"
+]
+```
+
+frame_37:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)"
+]
+```
+
+frame_38:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đứng, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường)"
+]
+```
+
+frame_39:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đứng, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường)"
+]
+```
+
+frame_40:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đứng, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường)"
+]
+```
+
+frame_41:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - gần - bóng (màu xám)"
+]
+```
+
+frame_42:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - gần - bóng (màu xám)"
+]
+```
+
+frame_43:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - gần - bóng (màu xám)"
+]
+```
+
+frame_44:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang ném bóng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - đi về phía - lều (màu xanh)"
+]
+```
+
+frame_45:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - đi về phía - lều (màu xanh)"
+]
+```
+
+frame_46:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, bình thường) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo tối màu, đang chạy, bình thường) - ở phía trước - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_47:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đá bóng, hào hứng) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo tối màu, đang chạy, bình thường) - ở phía trước - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_48:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang kéo tóc, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang kéo tóc, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đá bóng, hào hứng) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang kéo tóc, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo tối màu, đang chạy, bình thường) - ở phía trước - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_49:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đá bóng, hào hứng) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - đi về phía - lều (màu xanh)"
+]
+```
+
+frame_50:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đá bóng, hào hứng) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - đi về phía - lều (màu xanh)"
+]
+```
+
+frame_51:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đá bóng, hào hứng) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - đi về phía - lều (màu xanh)"
+]
+```
+
+frame_52:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đá bóng, hào hứng) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đá bóng, bình thường) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng gần - lều (màu xanh)"
+]
+```
+
+frame_53:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đá bóng, hào hứng) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng gần - lều (màu xanh)"
+]
+```
+
+frame_54:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đá bóng, hào hứng) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng gần - lều (màu xanh)"
+]
+```
+
+frame_55:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đá bóng, hào hứng) - đứng cạnh - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng gần - lều (màu xanh)"
+]
+```
+
+frame_56:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, bình thường) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - lều (màu xanh)"
+]
+```
+
+frame_57:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - lều (màu xanh)"
+]
+```
+
+frame_58:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang nhìn, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - gần - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang đi lại, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường)"
+]
+```
+
+frame_59:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đá bóng, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đá bóng, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đá bóng, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang đi lại, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - gần - bóng (màu xám)"
+]
+```
+
+frame_60:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang đi lại, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - gần - bóng (màu xám)"
+]
+```
+
+frame_61:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang đi lại, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - gần - bóng (màu xám)",
+  "người2 (trẻ - nam, mặc áo xanh, đang đi lại, bình thường) - đang cúi người xuống - lều (màu xanh)"
+]
+```
+
+frame_62:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang đi lại, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - gần - bóng (màu xám)",
+  "người2 (trẻ - nam, mặc áo xanh, đang đi lại, bình thường) - đang cúi người xuống - lều (màu xanh)"
+]
+```
+
+frame_63:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang đi lại, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - gần - bóng (màu xám)",
+  "người2 (trẻ - nam, mặc áo xanh, đang đi lại, bình thường) - đang cúi người xuống - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - bóng (màu xám)"
+]
+```
+
+frame_64:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đi, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang đi lại, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - gần - bóng (màu xám)",
+  "người2 (trẻ - nam, mặc áo xanh, đang đi lại, bình thường) - đang cúi người xuống - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - bóng (màu xám)"
+]
+```
+
+frame_65:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang bò, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang đi lại, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - gần - bóng (màu xám)",
+  "người2 (trẻ - nam, mặc áo xanh, đang đi lại, bình thường) - đang cúi người xuống - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đi bộ, bình thường) - đứng cạnh - bóng (màu xám)"
+]
+```
+
+frame_66:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang cúi người, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang cúi người, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phẫn khích) - gần - bóng (màu xám)",
+  "người2 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đang cúi người xuống - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - bóng (màu xám)"
+]
+```
+
+frame_67:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang cúi người, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang cúi người, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang ném, phấn khích) - gần - bóng (màu xám)",
+  "người2 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đang cúi người xuống - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - bóng (màu xám)"
+]
+```
+
+frame_68:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đứng, phấn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đứng, phấn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đứng, phấn khích) - gần - bóng (màu xám)",
+  "người2 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đang cúi người xuống - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - bóng (màu xám)"
+]
+```
+
+frame_69:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, phấn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, phấn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, phấn khích) - gần - bóng (màu xám)",
+  "người2 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đang cúi người xuống - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - bóng (màu xám)"
+]
+```
+
+frame_70:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, phấn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, phấn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, phấn khích) - gần - bóng (màu xám)",
+  "người2 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đang cúi người xuống - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - bóng (màu xám)"
+]
+```
+
+frame_71:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đi bộ, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi bộ, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, phấn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đi bộ, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, phấn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đi bộ, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi bộ, phấn khích) - gần - bóng (màu xám)",
+  "người2 (trẻ - nam, mặc áo xanh, đang cúi người, bình thường) - đang cúi người xuống - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đứng, phấn khích) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_72:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đứng, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đứng, phẫn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đứng, phẫn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đứng, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang giơ tay lên, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đứng, phẫn khích) - gần - bóng (màu xám)",
+  "người2 (trẻ - nam, mặc áo xanh, đang giơ tay lên, bình thường) - giơ tay lên - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đứng, phẫn khích) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đứng, bình thường)"
+]
+```
+
+frame_73:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng) - đối diện với - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường) - đứng cạnh - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đứng, hào hứng) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi, phấn khích) - nhìn - người1 (trẻ - nam, mặc áo xanh, đang đứng, lo lắng)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi, phấn khích) - đi về phía - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng gần - lều (màu xanh)",
+  "đứa trẻ2 (trẻ - nam, mặc quần áo tối màu, đang đứng, hào hứng) - nhìn - lều (màu xanh)",
+  "người2 (trẻ - nam, mặc áo xanh, đang giơ tay lên, bình thường) - đứng gần - đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi, phấn khích) - gần - bóng (màu xám)",
+  "người2 (trẻ - nam, mặc áo xanh, đang giơ tay lên, bình thường) - giơ tay lên - lều (màu xanh)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng cạnh - bóng (màu xám)",
+  "đứa trẻ3 (trẻ - nam, mặc áo xanh lá cây, đang đi, phấn khích) - nhìn - đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường)",
+  "đứa trẻ1 (trẻ - nam, mặc áo tối màu, đang đi, bình thường) - đang đi - sàn nhà (màu trắng)",
+  "đứa trẻ4 (trẻ - nam, mặc áo đỏ, đang đứng, bình thường) - đứng gần - người2 (trẻ - nam, mặc áo xanh, đang giơ tay lên, bình thường)"
+]
+```
+

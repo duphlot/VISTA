@@ -1,0 +1,39 @@
+frame_0000.jpg: a baby laying on top of a bed next to a person
+frame_0001.jpg: a man holding a baby in his arms
+frame_0002.jpg: a baby crying while being fed by a parent
+frame_0003.jpg: a man holding a baby in his arms
+frame_0004.jpg: a man is holding a baby in his arms
+frame_0005.jpg: a baby laying on top of a bed
+frame_0006.jpg: a man laying on top of a baby
+frame_0007.jpg: a man is holding a baby in his arms
+frame_0008.jpg: a young boy is sitting on the floor
+frame_0009.jpg: a young boy is playing with a toy
+frame_0010.jpg: a man is holding a baby on the bed
+frame_0011.jpg: a man holding a baby in his arms
+frame_0012.jpg: a man laying on top of a baby
+frame_0013.jpg: a man laying on top of a baby
+frame_0014.jpg: a man laying on top of a bed next to a baby
+frame_0015.jpg: a man holding a baby in his arms
+frame_0016.jpg: a man holding a baby on top of a bed
+frame_0017.jpg: a man holding a baby in his arms
+frame_0018.jpg: a man holding a baby in his arms
+frame_0019.jpg: a man holding a baby in his arms
+frame_0020.jpg: a baby laying on top of a bed
+frame_0021.jpg: a baby laying on top of a bed
+frame_0022.jpg: a man holding a baby in his arms
+frame_0023.jpg: a man holding a baby in his arms
+frame_0024.jpg: a baby laying on top of a bed
+frame_0025.jpg: a baby laying on top of a bed
+frame_0026.jpg: a baby laying on top of a bed
+frame_0027.jpg: a baby laying on top of a bed
+frame_0028.jpg: a woman holding a baby in her arms
+frame_0029.jpg: a baby is laying on a bed with its mother
+frame_0030.jpg: a baby laying on top of a bed
+frame_0031.jpg: a baby laying on top of a bed
+frame_0032.jpg: a baby laying on top of a bed
+frame_0033.jpg: a baby laying on top of a bed
+frame_0034.jpg: a baby laying on top of a bed
+frame_0035.jpg: a baby laying on top of a bed
+frame_0036.jpg: a baby laying on top of a bed
+frame_0037.jpg: a baby laying on top of a bed
+frame_0038.jpg: a baby laying on top of a bed

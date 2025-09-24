@@ -1,0 +1,539 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở trên - vỉa hè",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - vỉa hè",
+  "xe hơi1 (màu xanh) - ở trên - vỉa hè",
+  "cây - ở trên - vỉa hè"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở trên - vỉa hè",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - vỉa hè",
+  "cây - ở trên - vỉa hè",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "vỉa hè - chứa - tuyết",
+  "vỉa hè - chứa - cát",
+  "vỉa hè - chứa - nước",
+  "ván trượt1 (màu đen) - ở trên - vỉa hè",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ván trượt1 (màu đen)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở trên - vỉa hè",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - vỉa hè",
+  "cây - ở trên - vỉa hè",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "vỉa hè - chứa - tuyết",
+  "vỉa hè - chứa - cát",
+  "vỉa hè - chứa - nước",
+  "ván trượt1 (màu đen) - ở trên - vỉa hè",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ván trượt1 (màu đen)",
+  "xe tải1 (màu xanh) - ở trên - vỉa hè"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở trên - vỉa hè",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - vỉa hè",
+  "cây - ở trên - vỉa hè",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "vỉa hè - chứa - đất",
+  "vỉa hè - chứa - nước",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - ba lô (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang đi bộ)",
+  "đường - ở gần - cây"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở trên - vỉa hè",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - vỉa hè",
+  "cây - ở trên - vỉa hè",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "vỉa hè - chứa - đất",
+  "vỉa hè - chứa - nước",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - ba lô (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang đi bộ)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang đi bộ)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở trên - vỉa hè",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - vỉa hè",
+  "cây - ở trên - vỉa hè",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "vỉa hè - chứa - đất",
+  "vỉa hè - chứa - nước",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - ba lô (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang đi bộ)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang đi bộ)",
+  "xe hơi (màu xanh) - ở gần - đường",
+  "thuyền (màu xanh dương) - ở trên - nước",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - xe hơi (màu xanh)",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - xe hơi (màu xanh)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở trên - vỉa hè",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - vỉa hè",
+  "cây - ở trên - vỉa hè",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "vỉa hè - chứa - đất",
+  "vỉa hè - chứa - nước",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - ba lô (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang đi bộ)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang đi bộ)",
+  "biển báo dừng - ở gần - đường",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - biển báo dừng"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - đường",
+  "cây - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - ba lô (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang đi bộ)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - đường",
+  "cây - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - ba lô (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang đi bộ)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - đường",
+  "cây - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô1 (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - ở gần - ba lô1 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang đi bộ)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang đi bộ) - mang - ba lô2 (màu tím)"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - đường",
+  "cây - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô1 (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - ba lô1 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - mang - ba lô2 (màu tím)",
+  "chim1 (màu nâu) - ở trên - đường",
+  "tòa nhà1 (màu trắng) - ở gần - cây"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - đường",
+  "cây - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô1 (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - ba lô1 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - mang - ba lô2 (màu tím)",
+  "chim1 (màu nâu) - ở trên - đường",
+  "tòa nhà1 (màu trắng) - ở gần - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - đường",
+  "cây - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô1 (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - ba lô1 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - mang - ba lô2 (màu tím)",
+  "chim1 (màu nâu) - ở trên - đường",
+  "tòa nhà1 (màu trắng) - ở gần - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - mang - ba lô3 (màu vàng)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - đường",
+  "cây - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô1 (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - ba lô1 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - mang - ba lô2 (màu tím)",
+  "chim1 (màu nâu) - ở trên - đường",
+  "tòa nhà1 (màu trắng) - ở gần - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - mang - ba lô3 (màu vàng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường"
+]
+```
+
+frame_14:
+```json
+[
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở trên - đường",
+  "cây - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô1 (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - ba lô1 (màu trắng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - mang - ba lô2 (màu tím)",
+  "chim1 (màu nâu) - ở trên - đường",
+  "tòa nhà1 (màu trắng) - ở gần - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - mang - ba lô3 (màu vàng)",
+  "người1 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)"
+]
+```
+
+frame_15:
+```json
+[
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - mang - ba lô2 (màu tím)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "cây - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô1 (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - ba lô1 (màu trắng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - mang - ba lô3 (màu vàng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)"
+]
+```
+
+frame_16:
+```json
+[
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - mang - ba lô2 (màu tím)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "cây - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô1 (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - ba lô1 (màu trắng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - mang - ba lô3 (màu vàng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)"
+]
+```
+
+frame_17:
+```json
+[
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - mang - ba lô2 (màu tím)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "cây - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô1 (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - ba lô1 (màu trắng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - mang - ba lô3 (màu vàng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "người6 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người5 (trẻ, mặc áo đỏ, đang đi bộ)"
+]
+```
+
+frame_18:
+```json
+[
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - mang - ba lô2 (màu tím)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "cây - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô1 (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - ba lô1 (màu trắng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - mang - ba lô3 (màu vàng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "người6 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người5 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - mang - túi xách (màu đen)"
+]
+```
+
+frame_19:
+```json
+[
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - mang - ba lô2 (màu tím)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "cây - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô1 (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - ba lô1 (màu trắng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - mang - ba lô3 (màu vàng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "xe máy1 (màu xanh dương) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người5 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - mang - túi xách (màu đen)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)"
+]
+```
+
+frame_20:
+```json
+[
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - mang - ba lô2 (màu tím)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "cây - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô1 (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - ba lô1 (màu trắng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - mang - ba lô3 (màu vàng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người5 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - mang - túi xách (màu đen)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - đội - mũ (đen)",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ôm - người3 (trẻ, mặc áo trắng, đang đi bộ)"
+]
+```
+
+frame_21:
+```json
+[
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - mang - ba lô2 (màu tím)",
+  "đường - chứa - đất",
+  "đường - chứa - nước",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trong - bầu trời",
+  "bầu trời - ở trên - cây",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "cây - ở trên - đường",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - mang - ba lô1 (màu trắng)",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - ba lô1 (màu trắng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "đường - ở gần - cây",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở trên - đường",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người4 (trẻ, mặc áo hồng, đang đi bộ) - mang - ba lô3 (màu vàng)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người4 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - đường",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - ở gần - người3 (trẻ, mặc áo trắng, đang đi bộ)",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - ở gần - người5 (trẻ, mặc áo đỏ, đang đi bộ)",
+  "người5 (trẻ, mặc áo đỏ, đang đi bộ) - mang - túi xách (màu đen)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở gần - người2 (trẻ, mặc áo cam, đang ôm)",
+  "người3 (trẻ, mặc áo trắng, đang đi bộ) - đội - mũ (đen)",
+  "người2 (trẻ, mặc áo cam, đang ôm) - ôm - người3 (trẻ, mặc áo trắng, đang đi bộ)"
+]
+```
+

@@ -1,0 +1,840 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nói, bình thường) - ngồi trên - ghế1 (59%)",
+  "người2 (trẻ - nữ, mặc áo trắng, đang nhìn, không rõ) - ngồi trên - ghế1 (59%)",
+  "người3 (trẻ - nam, mặc áo trắng, đang cười, vui vẻ) - ngồi trên - ghế1 (59%)",
+  "ghế1 (59%) - ở trong - cửa sổ (của xe)"
+]
+```
+
+frame_1:
+```json
+[
+  "ghế2 (hoa văn) - ở bên cạnh - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nói, bình thường)",
+  "người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nói, bình thường) - ngồi trên - bàn ăn (màu xanh dương)",
+  "người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang không rõ hành động, không rõ cảm xúc) - ngồi trên - bàn ăn (màu xanh dương)",
+  "ghế3 (hoa văn) - ở bên cạnh - người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang không rõ hành động, không rõ cảm xúc)",
+  "người3 (trẻ - nam, mặc áo trắng, đang cười, vui vẻ) - ngồi trên - bàn ăn (màu xanh dương)",
+  "ghế4 (hoa văn) - ở bên cạnh - người3 (trẻ - nam, mặc áo trắng, đang cười, vui vẻ)",
+  "cửa sổ (của xe) - ở phía trên - người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang không rõ hành động, không rõ cảm xúc)"
+]
+```
+
+frame_2:
+```json
+[
+  "ghế2 (hoa văn) - ở bên cạnh - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường)",
+  "người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường) - ngồi trên - giường (màu tím)",
+  "người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang không rõ hành động, không rõ cảm xúc) - ngồi trên - giường (màu tím)",
+  "ghế3 (hoa văn) - ở bên cạnh - người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang không rõ hành động, không rõ cảm xúc)",
+  "người3 (trẻ - nam, mặc áo trắng, đang cười, vui vẻ) - ngồi trên - giường (màu tím)",
+  "ghế4 (hoa văn) - ở bên cạnh - người3 (trẻ - nam, mặc áo trắng, đang cười, vui vẻ)",
+  "cửa sổ (của xe) - ở phía trên - người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang không rõ hành động, không rõ cảm xúc)"
+]
+```
+
+frame_3:
+```json
+[
+  "ghế2 (hoa văn) - ở bên cạnh - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường)",
+  "người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường) - ngồi trên - giường (màu tím)",
+  "người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang không rõ hành động, không rõ cảm xúc) - ngồi trên - giường (màu tím)",
+  "ghế3 (hoa văn) - ở bên cạnh - người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang không rõ hành động, không rõ cảm xúc)",
+  "người3 (trẻ - nam, mặc áo trắng, đang ngủ, bình thường) - ngồi trên - giường (màu tím)",
+  "ghế4 (hoa văn) - ở bên cạnh - người3 (trẻ - nam, mặc áo trắng, đang ngủ, bình thường)",
+  "cửa sổ (của xe) - ở phía trên - người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang không rõ hành động, không rõ cảm xúc)"
+]
+```
+
+frame_4:
+```json
+[
+  "ghế2 (hoa văn) - ở bên cạnh - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường)",
+  "người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường) - ngồi trên - giường (màu tím)",
+  "người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang không rõ hành động, không rõ cảm xúc) - ngồi trên - giường (màu tím)",
+  "ghế3 (hoa văn) - ở bên cạnh - người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang không rõ hành động, không rõ cảm xúc)",
+  "người3 (trẻ - nam, mặc áo trắng, đang ngủ, bình thường) - ngồi trên - giường (màu tím)",
+  "ghế4 (hoa văn) - ở bên cạnh - người3 (trẻ - nam, mặc áo trắng, đang ngủ, bình thường)",
+  "cửa sổ (của xe) - ở phía trên - người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang không rõ hành động, không rõ cảm xúc)",
+  "gương - ở phía trên - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường)"
+]
+```
+
+frame_5:
+```json
+[
+  "ghế2 (hoa văn) - ở bên cạnh - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường)",
+  "người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường) - ngồi trên - giường (màu tím)",
+  "người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang khóc, buồn bã) - ngồi trên - giường (màu tím)",
+  "ghế3 (hoa văn) - ở bên cạnh - người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang khóc, buồn bã)",
+  "người3 (trẻ - nam, mặc áo trắng, đang nói chuyện, bình thường) - ngồi trên - giường (màu tím)",
+  "ghế4 (hoa văn) - ở bên cạnh - người3 (trẻ - nam, mặc áo trắng, đang nói chuyện, bình thường)",
+  "cửa sổ (của xe) - ở phía trên - người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang khóc, buồn bã)",
+  "gương - ở phía trên - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường)",
+  "chai (màu trắng) - ở trên - cửa sổ (của xe)",
+  "xe hơi (màu xanh) - ở trên - người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang khóc, buồn bã)"
+]
+```
+
+frame_6:
+```json
+[
+  "tường - ở phía trên - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường)",
+  "chim gió 1 (màu hồng) - ở phía trên - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường)",
+  "người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường) - ngồi trên - ghế1 (màu cam)",
+  "gương - ở phía trên - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường)",
+  "người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang khóc, buồn bã) - ở phía trên - ghế2 (màu hồng)"
+]
+```
+
+frame_7:
+```json
+[
+  "tường - ở phía trên - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường)",
+  "chim gió 1 (màu hồng) - ở phía trên - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường)",
+  "người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường) - ngồi trên - ghế1 (màu cam)",
+  "gương - ở phía trên - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường)",
+  "người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang cười, vui vẻ) - ở phía trên - ghế2 (màu hồng)",
+  "tường - ở phía trên - người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang cười, vui vẻ)",
+  "người3 (trẻ - không xác định giới tính, không rõ mặc gì, đang ngậm, vui vẻ) - dùng - dĩa (màu đen)",
+  "người3 (trẻ - không xác định giới tính, không rõ mặc gì, đang ngậm, vui vẻ) - ở gần - ghế1 (màu cam)",
+  "người3 (trẻ - không xác định giới tính, không rõ mặc gì, đang cười, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường)"
+]
+```
+
+frame_8:
+```json
+[
+  "g\u01b0\u01a1ng - ch\u1ee9a - \u0111\u1ed3",
+  "c\u1eeda s\u1ed5 - ph\u1ea3n chi\u1ebfu - ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u01a1 mi k\u1ebb s\u1ecdc xanh tr\u1eafng, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng)",
+  "t\u01b0\u1eddng - \u1edf tr\u00ean - c\u1eeda s\u1ed5",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh gi\u1edbi t\u00ednh, kh\u00f4ng r\u00f5 m\u1eb7c g\u00ec, \u0111ang n\u1eb1m, b\u00ecnh th\u01b0\u1eddng) - n\u1eb1m tr\u00ean - gi\u01b0\u1eddng",
+  "gh\u1ebf1 (m\u00e0u cam) - \u1edf g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh gi\u1edbi t\u00ednh, kh\u00f4ng r\u00f5 m\u1eb7c g\u00ec, \u0111ang ng\u1eadm, vui v\u1ebb)",
+  "gh\u1ebf2 (m\u00e0u h\u1ed3ng) - \u1edf g\u1ea7n - ng\u01b0\u1eddi4 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh gi\u1edbi t\u00ednh, kh\u00f4ng r\u00f5 m\u1eb7c g\u00ec, \u0111ang ng\u1ed3i, vui v\u1ebb)",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh gi\u1edbi t\u00ednh, kh\u00f4ng r\u00f5 m\u1eb7c g\u00ec, \u0111ang ng\u1ed3i, vui v\u1ebb) - \u1edf g\u1ea7n - gh\u1ebf1 (m\u00e0u cam)",
+  "gh\u1ebf3 (m\u00e0u cam) - \u1edf g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh gi\u1edbi t\u00ednh, kh\u00f4ng r\u00f5 m\u1eb7c g\u00ec, \u0111ang ng\u1eadm, vui v\u1ebb)",
+  "gh\u1ebf3 (m\u00e0u cam) - \u1edf g\u1ea7n - ng\u01b0\u1eddi4 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh gi\u1edbi t\u00ednh, kh\u00f4ng r\u00f5 m\u1eb7c g\u00ec, \u0111ang ng\u1ed3i, vui v\u1ebb)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang ng\u1ed3i, b\u00ecnh th\u01b0\u1eddng) - \u1edf g\u1ea7n - gh\u1ebf1 (m\u00e0u cam)"
+]
+```
+
+frame_9:
+```json
+[
+  "cửa sổ - phản chiếu - người1 (trẻ - nam, mặc áo sơ mi kẻ sọc xanh trắng, đang nhìn, bình thường)",
+  "tường - ở trên - cửa sổ",
+  "người2 (trẻ - không xác định giới tính, không rõ mặc gì, đang nằm, bình thường) - nằm trên - giường",
+  "ghế1 (màu cam) - ở gần - người3 (trẻ - không xác định giới tính, không rõ mặc gì, đang ngậm, vui vẻ)",
+  "ghế2 (màu hồng) - ở gần - người4 (trẻ - không xác định giới tính, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người4 (trẻ - không xác định giới tính, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - ghế1 (màu cam)",
+  "ghế3 (màu cam) - ở gần - người3 (trẻ - không xác định giới tính, không rõ mặc gì, đang ngậm, vui vẻ)",
+  "ghế3 (màu cam) - ở gần - người4 (trẻ - không xác định giới tính, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - không xác định giới tính, mặc áo trắng, đang ngồi, bình thường) - ở gần - ghế1 (màu cam)",
+  "ghế sofa - ở gần - người3 (trẻ - không xác định giới tính, không rõ mặc gì, đang ngậm, vui vẻ)",
+  "người3 (trẻ - không xác định giới tính, không rõ mặc gì, đang ngậm, vui vẻ) - ở trước - ghế1 (màu cam)"
+]
+```
+
+frame_10:
+```json
+[
+  "c\u1eeda s\u1ed5 - ph\u1ea3n chi\u1ebfu - ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u01a1 mi k\u1ebb s\u1ecdc xanh tr\u1eafng, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng)",
+  "t\u01b0\u1eddng - \u1edf tr\u00ean - c\u1eeda s\u1ed5",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh gi\u1edbi t\u00ednh, kh\u00f4ng r\u00f5 m\u1eb7c g\u00ec, \u0111ang n\u1eb1m, b\u00ecnh th\u01b0\u1eddng) - n\u1eb1m tr\u00ean - gi\u01b0\u1eddng",
+  "gh\u1ebf1 (m\u00e0u cam) - \u1edf g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang c\u01b0\u1eddi, vui v\u1ebb)",
+  "gh\u1ebf2 (m\u00e0u h\u1ed3ng) - \u1edf g\u1ea7n - ng\u01b0\u1eddi4 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, vui v\u1ebb)",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, vui v\u1ebb) - \u1edf g\u1ea7n - gh\u1ebf1 (m\u00e0u cam)",
+  "gh\u1ebf3 (m\u00e0u cam) - \u1edf g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang c\u01b0\u1eddi, vui v\u1ebb)",
+  "gh\u1ebf3 (m\u00e0u cam) - \u1edf g\u1ea7n - ng\u01b0\u1eddi4 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, vui v\u1ebb)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang ng\u1ed3i, b\u00ecnh th\u01b0\u1eddng) - \u1edf g\u1ea7n - gh\u1ebf1 (m\u00e0u cam)",
+  "gh\u1ebf sofa - \u1edf g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang c\u01b0\u1eddi, vui v\u1ebb)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang c\u01b0\u1eddi, vui v\u1ebb) - \u1edf tr\u01b0\u1edbc - gh\u1ebf1 (m\u00e0u cam)",
+  "chai (m\u00e0u tr\u1eafng) - \u1edf trong - c\u1eeda s\u1ed5",
+  "r\u00e8m - \u1edf b\u00ean c\u1ea1nh - gh\u1ebf1 (m\u00e0u cam)",
+  "c\u1eeda s\u1ed5 - \u1edf sau - ng\u01b0\u1eddi3 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang c\u01b0\u1eddi, vui v\u1ebb)"
+]
+```
+
+frame_11:
+```json
+[
+  "tường - ở trên - xe (phản chiếu)",
+  "người3 (trẻ - nữ, mặc áo trắng, đang cười, vui vẻ) - ở gần - ghế1 (màu cam)",
+  "người3 (trẻ - nữ, mặc áo trắng, đang cười, vui vẻ) - ở gần - ghế sofa",
+  "người4 (trẻ - không xác định giới tính, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - ghế sofa",
+  "ghế1 (màu cam) - ở gần - người4 (trẻ - không xác định giới tính, mặc áo hồng, đang nhìn, vui vẻ)",
+  "xe - phản chiếu - người4 (trẻ - không xác định giới tính, mặc áo hồng, đang nhìn, vui vẻ)",
+  "xe - phản chiếu - người3 (trẻ - nữ, mặc áo trắng, đang cười, vui vẻ)"
+]
+```
+
+frame_12:
+```json
+[
+  "tường - ở trên - xe (phản chiếu)",
+  "người3 (trẻ - nữ, mặc áo trắng, đang nhìn, vui vẻ) - ở gần - ghế1 (màu cam)",
+  "người3 (trẻ - nữ, mặc áo trắng, đang nhìn, vui vẻ) - ở gần - ghế sofa",
+  "người4 (trẻ - không xác định giới tính, mặc áo hồng, đang cười, vui vẻ) - ở gần - ghế sofa",
+  "ghế1 (màu cam) - ở gần - người4 (trẻ - không xác định giới tính, mặc áo hồng, đang cười, vui vẻ)",
+  "xe - phản chiếu - người4 (trẻ - không xác định giới tính, mặc áo hồng, đang cười, vui vẻ)",
+  "xe - phản chiếu - người3 (trẻ - nữ, mặc áo trắng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_13:
+```json
+[
+  "tường - ở trên - xe (phản chiếu)",
+  "người3 (trẻ - nữ, mặc áo trắng, đang nhìn, vui vẻ) - ở gần - ghế1 (màu cam)",
+  "người3 (trẻ - nữ, mặc áo trắng, đang nhìn, vui vẻ) - ở gần - ghế sofa",
+  "người4 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ) - ở gần - ghế sofa",
+  "ghế1 (màu cam) - ở gần - người4 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "xe (phản chiếu) - phản chiếu - người4 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "xe (phản chiếu) - phản chiếu - người3 (trẻ - nữ, mặc áo trắng, đang nhìn, vui vẻ)",
+  "cửa sổ - ở trên - xe (phản chiếu)",
+  "xe (82%) - ở trong - cửa sổ",
+  "chim (65%) - ở trong - cửa sổ"
+]
+```
+
+frame_14:
+```json
+[
+  "cửa sổ - ở trên - xe (53%)",
+  "ghế1 (màu cam) - ở gần - người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên) - ở trong - xe (53%)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ) - ở trong - xe (53%)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nghịch, vui vẻ) - ở trong - xe (53%)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nghịch, vui vẻ) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nghịch, vui vẻ) - ở gần - người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "ghế1 (màu cam) - ở gần - người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)"
+]
+```
+
+frame_15:
+```json
+[
+  "cửa sổ - ở trên - xe (52%)",
+  "ghế1 (màu cam) - ở gần - người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên) - ở trong - xe (52%)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ) - ở trong - xe (52%)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nghịch, vui vẻ) - ở trong - xe (52%)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nghịch, vui vẻ) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nghịch, vui vẻ) - ở gần - người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "ghế1 (màu cam) - ở gần - người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "bình hoa (màu nâu) - ở trong - xe (52%)"
+]
+```
+
+frame_16:
+```json
+[
+  "cửa sổ - ở trên - xe (65%)",
+  "ghế1 (màu cam) - ở gần - người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên) - ở trong - xe (65%)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ) - ở trong - xe (65%)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nghịch, vui vẻ) - ở trong - xe (65%)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nghịch, vui vẻ) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nghịch, vui vẻ) - ở gần - người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "ghế1 (màu cam) - ở gần - người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)"
+]
+```
+
+frame_17:
+```json
+[
+  "cửa sổ - ở trên - xe (73%)",
+  "ghế1 (màu cam) - ở gần - người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên) - ở trong - xe (73%)",
+  "người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ) - ở trong - xe (73%)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nói, ngạc nhiên) - ở trong - xe (73%)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nói, ngạc nhiên) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nói, ngạc nhiên) - ở gần - người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "ghế1 (màu cam) - ở gần - người1 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)"
+]
+```
+
+frame_18:
+```json
+[
+  "xe - \u1edf trong - c\u1eeda s\u1ed5",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o kh\u00f4ng r\u00f5, \u0111ang n\u00f3i, ng\u1ea1c nhi\u00ean) - \u1edf trong - xe",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - nam, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang nh\u00ecn, bu\u1ed3n b\u00e3) - \u1edf trong - xe",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang n\u00f3i, ng\u1ea1c nhi\u00ean) - \u1edf trong - xe",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang n\u00f3i, ng\u1ea1c nhi\u00ean) - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u1ebb - nam, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang nh\u00ecn, bu\u1ed3n b\u00e3)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang n\u00f3i, ng\u1ea1c nhi\u00ean) - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o kh\u00f4ng r\u00f5, \u0111ang n\u00f3i, ng\u1ea1c nhi\u00ean)",
+  "gh\u1ebf1 (m\u00e0u cam) - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o kh\u00f4ng r\u00f5, \u0111ang n\u00f3i, ng\u1ea1c nhi\u00ean)",
+  "xe - \u1edf tr\u00ean - xe",
+  "xe - \u1edf tr\u00ean - xe"
+]
+```
+
+frame_19:
+```json
+[
+  "xe - ở trong - cửa sổ",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người2 (trẻ - nam, mặc áo trắng, đang nhìn, buồn bã) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, buồn bã)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế1 (màu xám) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, buồn bã)",
+  "xe - ở trên - xe",
+  "xe - ở trên - xe"
+]
+```
+
+frame_20:
+```json
+[
+  "xe - ở trong - cửa sổ",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người2 (trẻ - nam, mặc áo trắng, đang nhìn, buồn bã) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, buồn bã)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế1 (màu xám) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, buồn bã)",
+  "xe - ở trên - xe",
+  "xe - ở trên - xe"
+]
+```
+
+frame_21:
+```json
+[
+  "xe - ở trong - cửa sổ",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế1 (màu xám) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên)",
+  "xe - ở trên - xe",
+  "xe - ở trên - xe"
+]
+```
+
+frame_22:
+```json
+[
+  "xe - ở trong - cửa sổ",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế1 (màu xám) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên)",
+  "xe - ở trên - xe",
+  "xe - ở trên - xe"
+]
+```
+
+frame_23:
+```json
+[
+  "xe - ở trong - cửa sổ",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế1 (màu xám) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, ngạc nhiên)",
+  "xe - ở trên - xe",
+  "xe - ở trên - xe",
+  "tường - ở trên - cửa sổ"
+]
+```
+
+frame_24:
+```json
+[
+  "xe - ở trong - cửa sổ",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người2 (trẻ - nam, mặc áo trắng, đang cười, vui vẻ) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang cười, vui vẻ)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế1 (màu xám) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang cười, vui vẻ)",
+  "xe - ở trên - xe",
+  "xe - ở trên - xe",
+  "tường - ở trên - cửa sổ",
+  "chai (trong suốt) - ở trong - xe"
+]
+```
+
+frame_25:
+```json
+[
+  "cửa sổ - ở trong - xe",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người2 (trẻ - nam, mặc áo trắng, đang cười, vui vẻ) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang cười, vui vẻ)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế1 (màu xám) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang cười, vui vẻ)",
+  "xe - ở trên - xe",
+  "xe - ở trên - xe",
+  "tường - ở trên - cửa sổ",
+  "chai (trong suốt) - ở trong - xe",
+  "bàn ăn - ở dưới - người2 (trẻ - nam, mặc áo trắng, đang cười, vui vẻ)"
+]
+```
+
+frame_26:
+```json
+[
+  "cửa sổ - ở trong - xe",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người2 (trẻ - nam, mặc áo trắng, đang nói chuyện, vui vẻ) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế1 (màu xám) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nói chuyện, vui vẻ)",
+  "xe - ở trên - xe",
+  "xe - ở trên - xe",
+  "tường - ở trên - cửa sổ",
+  "chai (trong suốt) - ở trong - xe",
+  "bàn ăn - ở dưới - người2 (trẻ - nam, mặc áo trắng, đang nói chuyện, vui vẻ)"
+]
+```
+
+frame_27:
+```json
+[
+  "bình (trong suốt) - ở trong - xe",
+  "xe - ở trên - xe",
+  "cửa sổ - ở trong - xe",
+  "người2 (trẻ - nam, mặc áo trắng, đang nhìn, vui vẻ) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, vui vẻ)",
+  "ghế1 (màu xám) - ở gần - người2 (trẻ - nam, mặc áo trắng, đang nhìn, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, ngạc nhiên) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)"
+]
+```
+
+frame_28:
+```json
+[
+  "t\u01b0\u1eddng - \u1edf tr\u00ean - c\u1eeda s\u1ed5",
+  "c\u1eeda s\u1ed5 - \u1edf trong - xe",
+  "v\u1eadt-g\u01b0\u01a1ng - \u1edf tr\u00ean - gh\u1ebf1 (m\u00e0u x\u00e1m)",
+  "t\u00f3c - \u1edf tr\u00ean - gh\u1ebf1 (m\u00e0u x\u00e1m)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o kh\u00f4ng r\u00f5, \u0111ang nh\u00ecn, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - gh\u1ebf1 (m\u00e0u x\u00e1m)",
+  "gh\u1ebf s\u00f4 pha - \u1edf g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, ng\u1ea1c nhi\u00ean)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, ng\u1ea1c nhi\u00ean) - \u1edf trong - xe",
+  "gh\u1ebf1 (m\u00e0u x\u00e1m) - \u1edf trong - xe",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o kh\u00f4ng r\u00f5, \u0111ang nh\u00ecn, ng\u1ea1c nhi\u00ean) - \u1edf trong - xe",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, ng\u1ea1c nhi\u00ean) - \u1edf g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o kh\u00f4ng r\u00f5, \u0111ang nh\u00ecn, ng\u1ea1c nhi\u00ean)"
+]
+```
+
+frame_29:
+```json
+[
+  "tường - ở trên - cửa sổ",
+  "cửa sổ - ở trong - xe",
+  "vật-gương - ở trên - ghế1 (màu xám)",
+  "tóc - ở trên - ghế1 (màu xám)",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trên - ghế1 (màu xám)",
+  "ghế sô pha - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ) - ở trong - xe",
+  "ghế1 (màu xám) - ở trong - xe",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế2 (màu hồng họa tiết) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi, bình thường)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ở trong - xe"
+]
+```
+
+frame_30:
+```json
+[
+  "tường - ở trên - cửa sổ",
+  "cửa sổ - ở trong - xe",
+  "vật-gương - ở trên - ghế1 (màu xám)",
+  "tóc - ở trên - ghế1 (màu xám)",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trên - ghế1 (màu xám)",
+  "ghế sô pha - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ) - ở trong - xe",
+  "ghế1 (màu xám) - ở trong - xe",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế2 (màu hồng họa tiết) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở trong - xe",
+  "bình hoa - ở trong - xe",
+  "xe - ở trong - xe"
+]
+```
+
+frame_31:
+```json
+[
+  "tường - ở trên - cửa sổ",
+  "cửa sổ - ở trong - xe",
+  "vật-gương - ở trên - ghế1 (màu xám)",
+  "tóc - ở trên - ghế1 (màu xám)",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trên - ghế1 (màu xám)",
+  "ghế sô pha - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ) - ở trong - xe",
+  "ghế1 (màu xám) - ở trong - xe",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế2 (màu hồng họa tiết) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở trong - xe",
+  "bình hoa - ở trong - xe",
+  "xe - ở trong - xe"
+]
+```
+
+frame_32:
+```json
+[
+  "tường - ở trên - cửa sổ",
+  "cửa sổ - ở trong - xe",
+  "vật-gương - ở trên - ghế1 (màu xám)",
+  "tóc - ở trên - ghế1 (màu xám)",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trên - ghế1 (màu xám)",
+  "ghế sofa - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ) - ở trong - xe",
+  "ghế1 (màu xám) - ở trong - xe",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế2 (màu hồng họa tiết) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở trong - xe",
+  "bình hoa - ở trong - xe",
+  "xe - ở trong - xe",
+  "xe hơi (màu tím) - ở trong - cửa sổ",
+  "ghế2 (màu hồng họa tiết) - ở trong - xe"
+]
+```
+
+frame_33:
+```json
+[
+  "tường - ở trên - cửa sổ",
+  "cửa sổ - ở trong - xe",
+  "vật-gương - ở trên - ghế1 (màu xám)",
+  "tóc - ở trên - ghế1 (màu xám)",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trên - ghế1 (màu xám)",
+  "ghế sofa - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ) - ở trong - xe",
+  "ghế1 (màu xám) - ở trong - xe",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế2 (màu hồng họa tiết) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở trong - xe",
+  "bình hoa - ở trong - xe",
+  "xe - ở trong - xe",
+  "xe hơi (màu tím) - ở trong - cửa sổ",
+  "ghế2 (màu hồng họa tiết) - ở trong - xe",
+  "vật điều khiển từ xa - ở trong - xe",
+  "ghế3 (màu xanh lá) - ở trong - xe",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang nhìn, buồn bã) - ở trong - xe"
+]
+```
+
+frame_34:
+```json
+[
+  "tường - ở trên - cửa sổ",
+  "cửa sổ - ở trong - xe",
+  "vật-gương - ở trên - ghế1 (màu xám)",
+  "tóc - ở trên - ghế1 (màu xám)",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trên - ghế1 (màu xám)",
+  "ghế sofa - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ) - ở trong - xe",
+  "ghế1 (màu xám) - ở trong - xe",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế2 (màu hồng họa tiết) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở trong - xe",
+  "chai (trong suốt) - ở trong - xe",
+  "xe - ở trong - xe",
+  "xe hơi (màu tím) - ở trong - cửa sổ",
+  "ghế2 (màu hồng họa tiết) - ở trong - xe",
+  "vật điều khiển từ xa - ở trong - xe",
+  "ghế3 (màu xanh lá) - ở trong - xe",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang nhìn, buồn bã) - ở trong - xe",
+  "tường - ở trên - chai (trong suốt)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở gần - ghế3 (màu xanh lá)",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang nhìn, buồn bã) - ở gần - ghế3 (màu xanh lá)"
+]
+```
+
+frame_35:
+```json
+[
+  "tường - ở trên - cửa sổ",
+  "cửa sổ - ở trong - xe",
+  "vật-gương - ở trên - ghế1 (màu xám)",
+  "tóc - ở trên - ghế1 (màu xám)",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trên - ghế1 (màu xám)",
+  "ghế sofa - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ) - ở trong - xe",
+  "ghế1 (màu xám) - ở trong - xe",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế2 (màu hồng họa tiết) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở trong - xe",
+  "chai (trong suốt) - ở trong - xe",
+  "xe - ở trong - xe",
+  "xe hơi (màu tím) - ở trong - cửa sổ",
+  "ghế2 (màu hồng họa tiết) - ở trong - xe",
+  "vật điều khiển từ xa - ở trong - xe",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang nhìn, buồn bã) - ở trong - xe",
+  "tường - ở trên - chai (trong suốt)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở gần - ghế3 (màu vàng)",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang nhìn, buồn bã) - ở gần - ghế3 (màu vàng)",
+  "xe tải (màu tím) - ở trong - cửa sổ",
+  "ghế3 (màu vàng) - ở trong - xe",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang nhìn, buồn bã) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường)"
+]
+```
+
+frame_36:
+```json
+[
+  "tường - ở trên - cửa sổ",
+  "cửa sổ - ở trong - xe",
+  "vật-gương - ở trên - ghế1 (màu xám)",
+  "tóc - ở trên - ghế1 (màu xám)",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trên - ghế1 (màu xám)",
+  "ghế sofa - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ) - ở trong - xe",
+  "ghế1 (màu xám) - ở trong - xe",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "ghế2 (màu hồng họa tiết) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở trong - xe",
+  "chai (trong suốt) - ở trong - xe",
+  "xe - ở trong - xe",
+  "xe hơi (màu tím) - ở trong - cửa sổ",
+  "ghế2 (màu hồng họa tiết) - ở trong - xe",
+  "vật điều khiển từ xa - ở trong - xe",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang nhìn, buồn bã) - ở trong - xe",
+  "tường - ở trên - chai (trong suốt)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở gần - ghế3 (màu vàng)",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang nhìn, buồn bã) - ở gần - ghế3 (màu vàng)",
+  "xe tải (màu tím) - ở trong - cửa sổ",
+  "ghế3 (màu vàng) - ở trong - xe",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang nhìn, buồn bã) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường)",
+  "người5 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi, vui vẻ) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi, vui vẻ) - ở gần - ghế3 (màu vàng)"
+]
+```
+
+frame_37:
+```json
+[
+  "tường - ở trên - cửa sổ",
+  "cửa sổ - ở trong - xe",
+  "xe hơi1 (màu tím) - ở trong - cửa sổ",
+  "ghế sofa - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ) - ở trong - xe",
+  "người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên) - ở trong - xe",
+  "người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - người1 (trẻ - nam, mặc áo không rõ, đang nhìn, ngạc nhiên)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở trong - xe",
+  "chai (trong suốt) - ở trong - xe",
+  "xe - ở trong - xe",
+  "ghế2 (màu hồng họa tiết) - ở trong - xe",
+  "vật điều khiển từ xa - ở trong - xe",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang nhìn, buồn bã) - ở trong - xe",
+  "tường - ở trên - chai (trong suốt)",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở gần - ghế3 (màu vàng)",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang nhìn, buồn bã) - ở gần - ghế3 (màu vàng)",
+  "xe tải (màu tím) - ở trong - cửa sổ",
+  "ghế3 (màu vàng) - ở trong - xe",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang nhìn, buồn bã) - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường)",
+  "người5 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi, vui vẻ) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi, vui vẻ) - ở gần - ghế3 (màu vàng)",
+  "ghế sofa - ở trong - xe"
+]
+```
+
+frame_38:
+```json
+[
+  "bàn - ở gần - người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường)",
+  "chai (trong suốt) - ở trên - tường",
+  "đồ vật trong gương - ở gần - tường",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở gần - người4 (trẻ - không rõ giới tính, mặc áo cam, đang nhìn, buồn bã)",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang nhìn, buồn bã) - ở gần - đồ vật trong gương",
+  "tường - ở trên - đồ vật trong gương"
+]
+```
+
+frame_39:
+```json
+[
+  "cửa sổ - ở trên - người1 (trẻ - không rõ giới tính, đang ngồi ghế, cười tươi)",
+  "ghế1 (54%) - ở gần - cửa sổ",
+  "ghế sofa - ở gần - người1 (trẻ - không rõ giới tính, đang ngồi ghế, cười tươi)",
+  "người3 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi ghế, bình thường) - ở gần - ghế1 (54%)",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang ngồi ghế, bình thường) - ở gần - ghế1 (54%)",
+  "người1 (trẻ - không rõ giới tính, mặc áo trắng, đang ngồi ghế, vui vẻ) - ở gần - ghế sofa"
+]
+```
+
+frame_40:
+```json
+[
+  "tường - ở trên - chai (màu trắng)",
+  "chai (màu trắng) - ở trong - cửa sổ",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang ngồi ghế, bình thường) - ở gần - ghế1 (màu xanh lá cây)",
+  "người3 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi ghế, bình thường) - ở gần - ghế1 (màu xanh lá cây)",
+  "người2 (trẻ - không rõ giới tính, mặc áo trắng, đang nhìn, bình thường) - ở gần - ghế1 (màu xanh lá cây)",
+  "người5 (trẻ - không rõ giới tính, mặc áo hồng, đang cười, vui vẻ) - ở gần - ghế sofa",
+  "người1 (trẻ - không rõ giới tính, đang ngồi ghế, cười tươi) - ở gần - ghế sofa",
+  "cửa sổ - ở trên - người1 (trẻ - không rõ giới tính, đang ngồi ghế, cười tươi)",
+  "ghế sofa - ở gần - người5 (trẻ - không rõ giới tính, mặc áo hồng, đang cười, vui vẻ)",
+  "người1 (trẻ - không rõ giới tính, mặc áo trắng, đang ngồi ghế, vui vẻ) - ở gần - ghế sofa",
+  "ghế1 (màu xanh lá cây) - ở gần - cửa sổ",
+  "ghế sofa - ở gần - người1 (trẻ - không rõ giới tính, đang ngồi ghế, cười tươi)"
+]
+```
+
+frame_41:
+```json
+[
+  "tường - ở trên - chai (màu trắng)",
+  "chai (màu trắng) - ở trong - cửa sổ",
+  "người4 (trẻ - không rõ giới tính, mặc áo cam, đang ngồi ghế, bình thường) - ở gần - ghế1 (màu xanh lá cây)",
+  "người3 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi ghế, bình thường) - ở gần - ghế1 (màu xanh lá cây)",
+  "người2 (trẻ - không rõ giới tính, mặc áo trắng, đang nhìn, bình thường) - ở gần - ghế1 (màu xanh lá cây)",
+  "người5 (trẻ - không rõ giới tính, mặc áo hồng, đang cười, vui vẻ) - ở gần - ghế sofa",
+  "người1 (trẻ - không rõ giới tính, đang ngồi ghế, cười tươi) - ở gần - ghế sofa",
+  "cửa sổ - ở trên - người1 (trẻ - không rõ giới tính, đang ngồi ghế, cười tươi)",
+  "ghế sofa - ở gần - người5 (trẻ - không rõ giới tính, mặc áo hồng, đang cười, vui vẻ)",
+  "người1 (trẻ - không rõ giới tính, mặc áo trắng, đang ngồi ghế, vui vẻ) - ở gần - ghế sofa",
+  "ghế1 (màu xanh lá cây) - ở gần - cửa sổ",
+  "ghế sofa - ở gần - người1 (trẻ - không rõ giới tính, đang ngồi ghế, cười tươi)",
+  "người1 (trẻ - không rõ giới tính, mặc áo trắng, đang ngồi ghế, vui vẻ) - ở gần - ghế2",
+  "ghế2 - ở gần - người3 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi ghế, bình thường)",
+  "ghế sofa - ở gần - người5 (trẻ - không rõ giới tính, mặc áo hồng, đang cười, vui vẻ)",
+  "tường - ở gần - gương"
+]
+```
+
+frame_42:
+```json
+[
+  "tường - ở trên - chai (màu trắng)",
+  "chai (màu trắng) - ở trong - cửa sổ",
+  "người4 (trẻ - nữ, mặc áo cam, đang ngồi ghế, bình thường) - ở gần - ghế1 (màu xanh lá cây, họa tiết)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang ngồi ghế, bình thường) - ở gần - ghế1 (màu xanh lá cây, họa tiết)",
+  "người2 (trẻ - nữ, mặc áo trắng, đang cười, vui vẻ) - ở gần - ghế1 (màu xanh lá cây, họa tiết)",
+  "người5 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ) - ở gần - ghế sofa",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - ghế sofa",
+  "cửa sổ - ở trên - người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ)",
+  "ghế sofa - ở gần - người5 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - ghế sofa",
+  "ghế1 (màu xanh lá cây, họa tiết) - ở gần - cửa sổ",
+  "ghế sofa - ở gần - người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - ghế2",
+  "ghế2 - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang ngồi ghế, bình thường)",
+  "ghế sofa - ở gần - người5 (trẻ - nữ, mặc áo hồng, đang cười, vui vẻ)",
+  "tường - ở gần - gương",
+  "gương - chứa - chai (màu trắng)"
+]
+```
+
+frame_43:
+```json
+[
+  "tường - ở trên - chai (màu trắng)",
+  "chai (màu trắng) - ở trong - cửa sổ",
+  "người3 (trẻ - nữ, mặc áo hồng, đang ngồi ghế, bình thường) - ở gần - ghế1 (màu vàng, họa tiết)",
+  "người2 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - ghế1 (màu vàng, họa tiết)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - giường",
+  "cửa sổ - ở trên - người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang ngồi ghế, bình thường)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - ghế2",
+  "ghế2 - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang ngồi ghế, bình thường)",
+  "tường - ở gần - gương",
+  "gương - chứa - chai (màu trắng)",
+  "người2 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - đang ngồi trên - giường"
+]
+```
+
+frame_44:
+```json
+[
+  "tường - ở trên - chai (màu trắng)",
+  "chai (màu trắng) - ở trong - cửa sổ",
+  "người3 (trẻ - nữ, mặc áo hồng, đang ngồi ghế, bình thường) - ở gần - ghế1 (màu vàng, họa tiết)",
+  "người2 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - ghế1 (màu vàng, họa tiết)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - giường",
+  "cửa sổ - ở trên - người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - ghế2",
+  "ghế2 - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - ở gần - gương",
+  "gương - chứa - chai (màu trắng)",
+  "người2 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - đang ngồi trên - giường",
+  "tường - ở trên - cửa sổ",
+  "ghế1 (màu vàng, họa tiết) - ở gần - cửa sổ"
+]
+```
+
+frame_45:
+```json
+[
+  "tường - ở trên - chai (màu trắng)",
+  "chai (màu trắng) - ở trong - cửa sổ",
+  "người3 (trẻ - nữ, mặc áo hồng, đang ngồi ghế, bình thường) - ở gần - ghế1 (màu vàng, họa tiết)",
+  "người2 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - ghế1 (màu vàng, họa tiết)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - giường",
+  "cửa sổ - ở trên - người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang ngồi ghế, bình thường)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - ghế2",
+  "ghế2 - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang ngồi ghế, bình thường)",
+  "tường - ở gần - gương",
+  "gương - chứa - chai (màu trắng)",
+  "người2 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - đang ngồi trên - giường",
+  "tường - ở trên - cửa sổ",
+  "ghế1 (màu vàng, họa tiết) - ở gần - cửa sổ",
+  "cửa sổ - ở trên - tường",
+  "ghế sô pha - ở gần - người2 (trẻ - nữ, mặc áo trắng, đang nghịch điện thoại, bình thường)",
+  "người2 (trẻ - nữ, mặc áo trắng, đang nghịch điện thoại, bình thường) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang ngồi ghế, bình thường)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - ghế1 (màu vàng, họa tiết)"
+]
+```
+
+frame_46:
+```json
+[
+  "tường - ở trên - chai (màu trắng)",
+  "chai (màu trắng) - ở trong - cửa sổ",
+  "người3 (trẻ - nữ, mặc áo hồng, đang ngồi ghế, bình thường) - ở gần - ghế1 (màu vàng, họa tiết)",
+  "người2 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - ghế1 (màu vàng, họa tiết)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - giường",
+  "cửa sổ - ở trên - người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang ngồi ghế, bình thường)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - ghế2",
+  "ghế2 - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang ngồi ghế, bình thường)",
+  "tường - ở gần - gương",
+  "gương - chứa - chai (màu trắng)",
+  "người2 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - đang ngồi trên - giường",
+  "tường - ở trên - cửa sổ",
+  "ghế1 (màu vàng, họa tiết) - ở gần - cửa sổ",
+  "cửa sổ - ở trên - tường",
+  "ghế sô pha - ở gần - người2 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ)",
+  "người2 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - người3 (trẻ - nữ, mặc áo hồng, đang ngồi ghế, bình thường)",
+  "người1 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ) - ở gần - ghế1 (màu vàng, họa tiết)",
+  "người3 (trẻ - nữ, mặc áo hồng, đang ngắm nhìn, bình thường) - ở gần - ghế3",
+  "ghế3 - ở gần - người2 (trẻ - nữ, mặc áo trắng, đang nói chuyện, vui vẻ)",
+  "ghế3 - ở gần - ghế1 (màu vàng, họa tiết)"
+]
+```
+

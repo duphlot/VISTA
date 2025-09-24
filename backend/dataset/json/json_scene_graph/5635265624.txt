@@ -1,0 +1,388 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc áo xanh, đang chơi) - ở phía trước - người2 (lớn, mặc áo xám, đang ngồi)",
+  "người1 (trẻ, mặc áo xanh, đang chơi) - ở trên - bàn1 (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh, đang chơi) - ở phía trước - người3 (lớn, mặc áo cam, đang ngồi)",
+  "tường1 (màu xanh da trời) - ở phía sau - người2 (lớn, mặc áo xám, đang ngồi)"
+]
+```
+
+frame_1:
+```json
+[
+  "người2 (lớn, mặc áo xám, đang ngồi) - ở phía trước - người1 (trẻ, mặc áo xanh, đang ngồi)"
+]
+```
+
+frame_2:
+```json
+[
+  "người2 (lớn, mặc áo xám, đang ngồi) - ở phía trước - người3 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang đứng) - ở phía sau - người3 (trẻ, mặc áo hồng, đang ngồi)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang ngồi) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người3 (lớn, mặc áo xám, đang ngồi) - ở phía sau - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "sàn nhà - ở dưới - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "cửa sổ - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "đường - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "tường - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "cây - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "vỉa hè - ở sau - người3 (lớn, mặc áo xám, đang ngồi)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang ngồi) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người3 (lớn, mặc áo xám, đang ngồi) - ở phía sau - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "sàn nhà - ở dưới - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "cửa sổ - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "đường - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "tường - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "cây - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "vỉa hè - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "người3 (lớn, mặc áo xám, đang ngồi) - đang bế - người2 (trẻ, mặc áo hồng, đang ngồi)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang ngồi) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người3 (lớn, mặc áo xám, đang ngồi) - ở phía sau - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "sàn nhà - ở dưới - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "cửa sổ - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "đường - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "tường - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "cây - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "vỉa hè - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "người3 (lớn, mặc áo xám, đang ngồi) - đang bế - người2 (trẻ, mặc áo hồng, đang ngồi)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang bế) - ở phía trước - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "người3 (lớn, mặc áo xám, đang ngồi) - đang bế - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "sàn nhà - ở dưới - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "cửa sổ - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "đường - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "tường - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "cây - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "vỉa hè - ở sau - người3 (lớn, mặc áo xám, đang ngồi)",
+  "người3 (lớn, mặc áo xám, đang ngồi) - đang bế - người2 (trẻ, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_7:
+```json
+[
+  "tường gạch - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "tường - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "cây - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "vỉa hè - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - ở phía trước - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "ghế1 (màu cam) - ở sau - người2 (trẻ, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_8:
+```json
+[
+  "tường gạch - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "tường - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "cây - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "vỉa hè - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - ở phía trước - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "ghế1 (màu cam) - ở sau - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - bế - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - ở gần - người3 (đứng)",
+  "người3 (đứng) - ở gần - người2 (trẻ, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_9:
+```json
+[
+  "tường gạch - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "tường - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "cây - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "vỉa hè - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - ở phía trước - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "ghế1 (màu cam) - ở sau - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - bế - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - ở gần - người3 (đứng)",
+  "người3 (đứng) - ở gần - người2 (trẻ, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_10:
+```json
+[
+  "tường gạch - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "tường - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "cây - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "vỉa hè - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "ghế1 (màu cam) - ở sau - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - bế - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - ở gần - người3 (lớn, cầm chai nước)",
+  "người3 (lớn, cầm chai nước) - ở gần - người2 (trẻ, mặc áo hồng, đang ngồi)"
+]
+```
+
+frame_11:
+```json
+[
+  "tường gạch - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "tường - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "cây - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "vỉa hè - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "ghế1 (màu cam) - ở sau - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - bế - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - ở gần - người3 (lớn, cầm chai nước)",
+  "người3 (lớn, cầm chai nước) - ở gần - người2 (trẻ, mặc áo hồng, đang ngồi)"
+]
+```
+
+frame_12:
+```json
+[
+  "tường gạch - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "tường - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "cây - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "vỉa hè - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "ghế1 (màu cam) - ở sau - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - bế - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "sàn - ở dưới - người2 (trẻ, mặc áo hồng, đang ngồi)"
+]
+```
+
+frame_13:
+```json
+[
+  "tường gạch - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "tường - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "cây - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "vỉa hè - ở trên - người1 (lớn, mặc áo đỏ, đang bế)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "ghế1 (màu cam) - ở sau - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - bế - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "ghế sofa (màu xanh dương) - ở dưới - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang bế) - đứng cạnh - người3 (trẻ, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_14:
+```json
+[
+  "tường gạch - ở trên - người1 (lớn, mặc áo đỏ, đang cho ăn)",
+  "tường - ở trên - người1 (lớn, mặc áo đỏ, đang cho ăn)",
+  "cây - ở trên - người1 (lớn, mặc áo đỏ, đang cho ăn)",
+  "vỉa hè - ở trên - người1 (lớn, mặc áo đỏ, đang cho ăn)",
+  "người1 (lớn, mặc áo đỏ, đang cho ăn) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "ghế1 (màu cam) - ở sau - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang cho ăn) - bế - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "ghế sofa (màu xanh dương) - ở dưới - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang cho ăn) - đứng cạnh - người3 (trẻ, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang cho ăn) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang cho ăn)",
+  "người1 (lớn, mặc áo đỏ, đang cho ăn) - bế - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang cho ăn) - đứng cạnh - người3 (trẻ, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang đứng) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang đứng)",
+  "người1 (lớn, mặc áo đỏ, đang đứng) - bế - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang đứng) - đứng cạnh - người3 (trẻ, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang đứng) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang đứng)",
+  "người1 (lớn, mặc áo đỏ, đang đứng) - bế - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang đứng) - đứng cạnh - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang đứng) - cầm - điều khiển từ xa (màu trắng)",
+  "sàn nhà - ở dưới - người2 (trẻ, mặc áo hồng, đang ngồi)"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang cầm) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang cầm)",
+  "người1 (lớn, mặc áo đỏ, đang cầm) - bế - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang cầm) - đứng cạnh - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang cầm) - cầm - điều khiển từ xa (màu trắng)",
+  "sàn nhà - ở dưới - người2 (trẻ, mặc áo hồng, đang ngồi)"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang cho ăn) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang cho ăn)",
+  "người1 (lớn, mặc áo đỏ, đang cho ăn) - bế - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang cho ăn) - đứng cạnh - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang cho ăn) - cầm - điều khiển từ xa (màu trắng)",
+  "sàn nhà - ở dưới - người2 (trẻ, mặc áo hồng, đang ngồi)"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang cầm điều khiển) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang cầm điều khiển)",
+  "người1 (lớn, mặc áo đỏ, đang cầm điều khiển) - bế - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang cầm điều khiển) - đứng cạnh - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang cầm điều khiển) - cầm - điều khiển từ xa (màu trắng)",
+  "sàn nhà - ở dưới - người2 (trẻ, mặc áo hồng, đang ngồi)"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang cầm điều khiển) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang cầm điều khiển)",
+  "người1 (lớn, mặc áo đỏ, đang cầm điều khiển) - bế - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang cầm điều khiển) - đứng cạnh - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang cầm điều khiển) - cầm - điều khiển từ xa (màu trắng)",
+  "sàn nhà - ở dưới - người2 (trẻ, mặc áo hồng, đang ngồi)"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang cầm tay) - ở phía trước - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang cầm tay)",
+  "người1 (lớn, mặc áo đỏ, đang cầm tay) - bế - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "người1 (lớn, mặc áo đỏ, đang cầm tay) - đứng cạnh - người2 (trẻ, mặc áo hồng, đang ngồi)",
+  "sàn nhà - ở dưới - người2 (trẻ, mặc áo hồng, đang ngồi)"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang giữ) - ở phía trước - người2 (trẻ, mặc áo hồng, đang vịn)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "người1 (lớn, mặc áo đỏ, đang giữ) - bế - người2 (trẻ, mặc áo hồng, đang vịn)",
+  "người1 (lớn, mặc áo đỏ, đang giữ) - đứng cạnh - người2 (trẻ, mặc áo hồng, đang vịn)",
+  "sàn nhà - ở dưới - người2 (trẻ, mặc áo hồng, đang vịn)",
+  "ghế1 (màu cam) - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang giữ) - ở phía trước - người2 (trẻ, mặc áo hồng, đang nghịch)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "người1 (lớn, mặc áo đỏ, đang giữ) - bế - người2 (trẻ, mặc áo hồng, đang nghịch)",
+  "người1 (lớn, mặc áo đỏ, đang giữ) - đứng cạnh - người2 (trẻ, mặc áo hồng, đang nghịch)",
+  "sàn nhà - ở dưới - người2 (trẻ, mặc áo hồng, đang nghịch)"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang giữ) - ở phía trước - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "người1 (lớn, mặc áo đỏ, đang giữ) - bế - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "người1 (lớn, mặc áo đỏ, đang giữ) - đứng cạnh - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "sàn nhà - ở dưới - người2 (trẻ, mặc áo hồng, đang chơi)"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang giữ) - ở phía trước - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "người1 (lớn, mặc áo đỏ, đang giữ) - bế - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "người1 (lớn, mặc áo đỏ, đang giữ) - đứng cạnh - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "tường - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "tòa nhà - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "cây - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "vỉa hè - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang giữ) - ở phía trước - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "người1 (lớn, mặc áo đỏ, đang giữ) - bế - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "người1 (lớn, mặc áo đỏ, đang giữ) - đứng cạnh - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "tường - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "tòa nhà - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "cây - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "vỉa hè - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "ghế1 - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang giữ) - ở phía trước - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "người1 (lớn, mặc áo đỏ, đang giữ) - bế - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "người1 (lớn, mặc áo đỏ, đang giữ) - đứng cạnh - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "tường - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "tòa nhà - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "cây - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "vỉa hè - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "ghế1 - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "gấu bông - ở cạnh - người2 (trẻ, mặc áo hồng, đang chơi)"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (lớn, mặc áo đỏ, đang giữ) - ở phía trước - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "cửa sổ - ở trên - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "người1 (lớn, mặc áo đỏ, đang giữ) - bế - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "người1 (lớn, mặc áo đỏ, đang giữ) - đứng cạnh - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "tường (màu gạch) - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "tòa nhà - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "cây - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "vỉa hè - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "ghế1 - ở sau - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "gấu bông - ở cạnh - người2 (trẻ, mặc áo hồng, đang chơi)",
+  "bầu trời - ở trên - người1 (lớn, mặc áo đỏ, đang giữ)",
+  "người2 (trẻ, mặc áo hồng, đang chơi) - ở gần - gấu bông"
+]
+```
+

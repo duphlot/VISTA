@@ -1,0 +1,1044 @@
+frame_0:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo gilê, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo gilê, đang chơi guitar, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người3 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "bàn (màu đen) - ở trên - sân khấu"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo gilê, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo gilê, đang chơi guitar, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ)",
+  "bàn (màu đen) - ở trên - sân khấu",
+  "bầu trời - ở phía sau - cây",
+  "người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ) - đứng trước - cây"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ)",
+  "bàn (màu đen) - ở trên - sân khấu",
+  "bầu trời - ở phía sau - cây",
+  "người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ) - đứng trước - cây",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng cạnh - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ)",
+  "bàn (màu đen) - ở trên - sân khấu",
+  "bầu trời - ở phía sau - cây",
+  "người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ) - đứng trước - cây",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng cạnh - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ)",
+  "tường - ở phía sau - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người5 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng cạnh - người5 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)"
+]
+```
+
+frame_4:
+```json
+[
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ)",
+  "bàn (màu đen) - ở trên - sân khấu",
+  "bầu trời - ở phía sau - cây",
+  "người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ) - đứng trước - cây",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ)",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng cạnh - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ)",
+  "tường - ở phía sau - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người5 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng cạnh - người5 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "xe đạp (màu tím) - ở trên - sân khấu",
+  "chai (màu trong suốt) - ở trên - sân khấu",
+  "ván trượt (màu xanh lá cây) - ở bên cạnh - người6 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh)",
+  "người6 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh) - đứng trên - sân khấu"
+]
+```
+
+frame_5:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng trên - sân khấu",
+  "bàn (màu đen) - ở trên - sân khấu",
+  "bầu trời - ở phía sau - cây",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng cạnh - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ)",
+  "tường - ở phía sau - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người5 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng cạnh - người5 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh)",
+  "bàn - ở trên - sân khấu"
+]
+```
+
+frame_6:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng trên - sân khấu",
+  "bàn (màu đen) - ở trên - sân khấu",
+  "bầu trời - ở phía sau - cây",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng cạnh - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ)",
+  "tường - ở phía sau - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người5 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng cạnh - người5 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh)",
+  "bàn - ở trên - sân khấu",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo sơ mi, đang cầm pizza, hào hứng) - đứng trên - sân khấu",
+  "pizza (màu xanh) - được cầm bởi - người6 (trưởng thành - nam, mặc áo sơ mi, đang cầm pizza, hào hứng)",
+  "ghế1 (màu vàng) - ở phía sau - người6 (trưởng thành - nam, mặc áo sơ mi, đang cầm pizza, hào hứng)"
+]
+```
+
+frame_7:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng trên - sân khấu",
+  "bàn (màu đen) - ở trên - sân khấu",
+  "bầu trời - ở phía sau - cây",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng cạnh - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ)",
+  "tường - ở phía sau - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người5 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng cạnh - người5 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh)",
+  "bàn - ở trên - sân khấu",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo sơ mi, đang cầm pizza, hào hứng) - đứng trên - sân khấu",
+  "pizza (màu xanh) - được cầm bởi - người6 (trưởng thành - nam, mặc áo sơ mi, đang cầm pizza, hào hứng)",
+  "ghế1 (màu vàng) - ở phía sau - người6 (trưởng thành - nam, mặc áo sơ mi, đang cầm pizza, hào hứng)",
+  "giấy (màu trắng) - ở trên - tường",
+  "bầu trời - ở trên - tường",
+  "ly rượu (trong suốt) - ở cạnh - người5 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh)"
+]
+```
+
+frame_8:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng trên - sân khấu",
+  "bàn (màu đen) - ở trên - sân khấu",
+  "bầu trời - ở phía sau - cây",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng cạnh - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ)",
+  "tường - ở phía sau - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người5 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng cạnh - người5 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh)",
+  "bàn - ở trên - sân khấu",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo sơ mi, đang cầm pizza, hào hứng) - đứng trên - sân khấu",
+  "pizza (màu xanh) - được cầm bởi - người6 (trưởng thành - nam, mặc áo sơ mi, đang cầm pizza, hào hứng)",
+  "ghế1 (màu vàng) - ở phía sau - người6 (trưởng thành - nam, mặc áo sơ mi, đang cầm pizza, hào hứng)",
+  "giấy (màu trắng) - ở trên - tường",
+  "bầu trời - ở trên - tường",
+  "ly rượu (trong suốt) - ở cạnh - người5 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh)",
+  "cây - ở trên - tường",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)"
+]
+```
+
+frame_9:
+```json
+[
+  "bầu trời - ở phía sau - cây",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng trên - sân khấu",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng trên - sân khấu",
+  "bàn (màu đen) - ở trên - sân khấu",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ) - đứng cạnh - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người2 (trưởng thành - nam, mặc áo gile, đang chơi guitar, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo khoác jean, đang hát, vui vẻ)",
+  "tường - ở phía sau - người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh)",
+  "người5 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh) - đứng trên - sân khấu",
+  "người4 (trưởng thành - nam, mặc áo khoác, đang đứng, bình tĩnh) - đứng cạnh - người5 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh)",
+  "bàn - ở trên - sân khấu",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo sơ mi, đang cầm pizza, hào hứng) - đứng trên - sân khấu",
+  "pizza (màu xanh) - được cầm bởi - người6 (trưởng thành - nam, mặc áo sơ mi, đang cầm pizza, hào hứng)",
+  "ghế1 (màu vàng) - ở phía sau - người6 (trưởng thành - nam, mặc áo sơ mi, đang cầm pizza, hào hứng)",
+  "giấy (màu trắng) - ở trên - tường",
+  "bầu trời - ở trên - tường",
+  "ly rượu (trong suốt) - ở cạnh - người5 (trưởng thành - nam, mặc áo hoodie, đang đứng, bình tĩnh)",
+  "cây - ở trên - tường",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác jean, đang chơi guitar, vui vẻ)",
+  "người7 (trưởng thành - nam, mặc áo hoodie màu hồng, đang cầm đàn guitar, vui vẻ) - đứng cạnh - cây",
+  "người8 (trưởng thành - nam, mặc áo khoác cam, đang cầm vợt tennis, vui vẻ) - đứng trên - sân khấu",
+  "vợt tennis (màu trắng) - được cầm bởi - người8 (trưởng thành - nam, mặc áo khoác cam, đang cầm vợt tennis, vui vẻ)",
+  "người9 (trưởng thành - nam, mặc áo hoodie màu hồng, đang ngồi, bình tĩnh) - ngồi trên - sân khấu",
+  "người8 (trưởng thành - nam, mặc áo khoác cam, đang cầm vợt tennis, vui vẻ) - đứng cạnh - người9 (trưởng thành - nam, mặc áo hoodie màu hồng, đang ngồi, bình tĩnh)"
+]
+```
+
+frame_10:
+```json
+[
+  "b\u1ea7u tr\u1eddi - \u1edf ph\u00eda sau - c\u00e2y",
+  "t\u01b0\u1eddng - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o kho\u00e1c jean, \u0111ang ch\u01a1i guitar, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o kho\u00e1c jean, \u0111ang ch\u01a1i guitar, vui v\u1ebb) - \u0111\u1ee9ng tr\u00ean - s\u00e2n kh\u1ea5u",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o gile, \u0111ang ch\u01a1i guitar, vui v\u1ebb) - \u0111\u1ee9ng tr\u00ean - s\u00e2n kh\u1ea5u",
+  "t\u01b0\u1eddng - \u1edf ph\u00eda sau - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o gile, \u0111ang ch\u01a1i guitar, vui v\u1ebb)",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o kho\u00e1c jean, \u0111ang h\u00e1t, vui v\u1ebb) - \u0111\u1ee9ng tr\u00ean - s\u00e2n kh\u1ea5u",
+  "b\u00e0n (m\u00e0u \u0111en) - \u1edf tr\u00ean - s\u00e2n kh\u1ea5u",
+  "ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o kho\u00e1c, \u0111ang \u0111\u1ee9ng, b\u00ecnh t\u0129nh) - \u0111\u1ee9ng tr\u00ean - s\u00e2n kh\u1ea5u",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o kho\u00e1c jean, \u0111ang h\u00e1t, vui v\u1ebb) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o kho\u00e1c, \u0111ang \u0111\u1ee9ng, b\u00ecnh t\u0129nh)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o gile, \u0111ang ch\u01a1i guitar, vui v\u1ebb) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o kho\u00e1c jean, \u0111ang h\u00e1t, vui v\u1ebb)",
+  "t\u01b0\u1eddng - \u1edf ph\u00eda sau - ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o kho\u00e1c, \u0111ang \u0111\u1ee9ng, b\u00ecnh t\u0129nh)",
+  "ng\u01b0\u1eddi5 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o hoodie, \u0111ang \u0111\u1ee9ng, b\u00ecnh t\u0129nh) - \u0111\u1ee9ng tr\u00ean - s\u00e2n kh\u1ea5u",
+  "ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o kho\u00e1c, \u0111ang \u0111\u1ee9ng, b\u00ecnh t\u0129nh) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi5 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o hoodie, \u0111ang \u0111\u1ee9ng, b\u00ecnh t\u0129nh)",
+  "b\u00e0n - \u1edf tr\u00ean - s\u00e2n kh\u1ea5u",
+  "t\u01b0\u1eddng - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o kho\u00e1c jean, \u0111ang ch\u01a1i guitar, vui v\u1ebb)",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o s\u01a1 mi, \u0111ang c\u1ea7m pizza, h\u00e0o h\u1ee9ng) - \u0111\u1ee9ng tr\u00ean - s\u00e2n kh\u1ea5u",
+  "pizza (m\u00e0u xanh) - \u0111\u01b0\u1ee3c c\u1ea7m b\u1edfi - ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o s\u01a1 mi, \u0111ang c\u1ea7m pizza, h\u00e0o h\u1ee9ng)",
+  "gh\u1ebf1 (m\u00e0u v\u00e0ng) - \u1edf ph\u00eda sau - ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o s\u01a1 mi, \u0111ang c\u1ea7m pizza, h\u00e0o h\u1ee9ng)",
+  "gi\u1ea5y (m\u00e0u tr\u1eafng) - \u1edf tr\u00ean - t\u01b0\u1eddng",
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - t\u01b0\u1eddng",
+  "ly r\u01b0\u1ee3u (trong su\u1ed1t) - \u1edf c\u1ea1nh - ng\u01b0\u1eddi5 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o hoodie, \u0111ang \u0111\u1ee9ng, b\u00ecnh t\u0129nh)",
+  "c\u00e2y - \u1edf tr\u00ean - t\u01b0\u1eddng",
+  "t\u01b0\u1eddng - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o kho\u00e1c jean, \u0111ang ch\u01a1i guitar, vui v\u1ebb)",
+  "ng\u01b0\u1eddi7 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o hoodie m\u00e0u h\u1ed3ng, \u0111ang c\u1ea7m \u0111\u00e0n guitar, vui v\u1ebb) - \u0111\u1ee9ng c\u1ea1nh - c\u00e2y",
+  "ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o kho\u00e1c cam, \u0111ang c\u1ea7m v\u1ee3t tennis, vui v\u1ebb) - \u0111\u1ee9ng tr\u00ean - s\u00e2n kh\u1ea5u",
+  "v\u1ee3t tennis (m\u00e0u tr\u1eafng) - \u0111\u01b0\u1ee3c c\u1ea7m b\u1edfi - ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o kho\u00e1c cam, \u0111ang c\u1ea7m v\u1ee3t tennis, vui v\u1ebb)",
+  "ng\u01b0\u1eddi9 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o hoodie m\u00e0u h\u1ed3ng, \u0111ang ng\u1ed3i, b\u00ecnh t\u0129nh) - ng\u1ed3i tr\u00ean - s\u00e2n kh\u1ea5u",
+  "ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o kho\u00e1c cam, \u0111ang c\u1ea7m v\u1ee3t tennis, vui v\u1ebb) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi9 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o hoodie m\u00e0u h\u1ed3ng, \u0111ang ng\u1ed3i, b\u00ecnh t\u0129nh)"
+]
+```
+
+frame_11:
+```json
+[
+  "cây - ở trên - tường",
+  "tường - ở phía sau - người7 (trưởng thành - nam, mặc áo hoodie màu hồng, đang cầm đàn guitar, vui vẻ)",
+  "người7 (trưởng thành - nam, mặc áo hoodie màu hồng, đang cầm đàn guitar, vui vẻ) - đứng cạnh - cây",
+  "người8 (trưởng thành - nam, mặc áo khoác cam, đang cầm vợt tennis, vui vẻ) - đứng trên - sân khấu",
+  "vợt tennis (màu trắng) - được cầm bởi - người8 (trưởng thành - nam, mặc áo khoác cam, đang cầm vợt tennis, vui vẻ)"
+]
+```
+
+frame_12:
+```json
+[
+  "cây - ở trên - tường",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường) - đứng cạnh - cây",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - đứng cạnh - người3 (không xác định - không xác định, không xác định, không xác định)",
+  "người3 (không xác định - không xác định, không xác định, không xác định) - gần - người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - cầm - guitar",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - giống - người7 (trưởng thành - nam, mặc áo hoodie màu hồng, đang cầm đàn guitar, vui vẻ)"
+]
+```
+
+frame_13:
+```json
+[
+  "cây - ở trên - tường",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường) - đứng cạnh - cây",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - đứng cạnh - người3 (không xác định - không xác định, không xác định, không xác định)",
+  "người3 (không xác định - không xác định, không xác định, không xác định) - gần - người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - cầm - guitar",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - gần - người7 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ)",
+  "diều - ở gần - cây",
+  "người7 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - chơi - guitar"
+]
+```
+
+frame_14:
+```json
+[
+  "cây - ở trên - tường",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường) - đứng cạnh - cây",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - đứng cạnh - người3 (không xác định - không xác định, không xác định, không xác định)",
+  "người3 (không xác định - không xác định, không xác định, không xác định) - gần - người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - cầm - guitar",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - gần - người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, bình thường)",
+  "diều - ở gần - cây",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, bình thường) - đứng - guitar"
+]
+```
+
+frame_15:
+```json
+[
+  "cây - ở trên - tường",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường) - đứng cạnh - cây",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo hoodie màu hồng, đang đi bộ, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hoodie màu hồng, đang đi bộ, bình thường) - gần - người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - cầm - guitar",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - gần - người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, bình thường)",
+  "diều - ở gần - cây",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, bình thường) - đứng - guitar",
+  "chậu cây (màu vàng) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hoodie màu hồng, đang đi bộ, bình thường) - gần - ván trượt (màu vàng)",
+  "ván trượt (màu vàng) - ở gần - tường"
+]
+```
+
+frame_16:
+```json
+[
+  "cây - ở trên - tường",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường) - đứng cạnh - cây",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo hoodie màu hồng, đang đi bộ, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hoodie màu hồng, đang đi bộ, bình thường) - gần - người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - cầm - guitar",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - gần - người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, bình thường)",
+  "diều - ở gần - cây",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, bình thường) - đứng - guitar",
+  "chậu cây (màu vàng) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hoodie màu hồng, đang đi bộ, bình thường) - gần - ván trượt (màu vàng)",
+  "ván trượt (màu vàng) - ở gần - tường",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo hoodie màu hồng, đang đi bộ, bình thường) - đang đi - ván trượt (màu vàng)"
+]
+```
+
+frame_17:
+```json
+[
+  "cây - ở trên - tường",
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường) - đứng cạnh - cây",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo hoodie màu hồng, đang đi bộ, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hoodie màu hồng, đang đi bộ, bình thường) - gần - người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - cầm - guitar",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - gần - người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, bình thường)",
+  "diều - ở gần - cây",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đang đứng, bình thường) - đứng - guitar",
+  "chậu cây (màu vàng) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường)",
+  "người3 (trưởng thành - nam, mặc áo hoodie màu hồng, đang đi bộ, bình thường) - gần - ván trượt (màu vàng)",
+  "ván trượt (màu vàng) - ở gần - tường",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo hoodie màu hồng, đang đi bộ, bình thường) - đang đi - ván trượt (màu vàng)",
+  "người2 (trưởng thành - nam, mặc áo hoodie màu hồng, đang chơi guitar, vui vẻ) - gần - người5 (trưởng thành - chưa rõ giới tính, mặc áo khoác, đang đứng, bình thường)",
+  "người5 (trưởng thành - chưa rõ giới tính, mặc áo khoác, đang đứng, bình thường) - ở phía sau - tường"
+]
+```
+
+frame_18:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường) - đứng cạnh - cây",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường) - cầm - guitar",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo khoác, đang đứng, bình thường) - đứng cạnh - người1 (trưởng thành - nam, mặc áo khoác, đang hát, bình thường)",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo khoác, đang đứng, bình thường) - ở gần - guitar"
+]
+```
+
+frame_19:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang đứng, bỡ ngỡ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang đứng, bỡ ngỡ) - đứng cạnh - cây",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang đứng, bỡ ngỡ) - đứng cạnh - guitar",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo khoác, đang đứng, bỡ ngỡ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo khoác, đang đứng, bỡ ngỡ)",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo khoác, đang đứng, bỡ ngỡ) - ở gần - guitar"
+]
+```
+
+frame_20:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang hát, bỡ ngỡ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang hát, bỡ ngỡ) - đứng cạnh - cây",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang hát, bỡ ngỡ) - cầm - guitar",
+  "tường - ở phía sau - guitar"
+]
+```
+
+frame_21:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bỡ ngỡ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bỡ ngỡ) - đứng cạnh - cây",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bỡ ngỡ) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - chưa xác định, mặc áo khoác, đang đứng, không rõ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bỡ ngỡ)",
+  "tường - ở phía sau - người2 (trưởng thành - chưa xác định, mặc áo khoác, đang đứng, không rõ)",
+  "người2 (trưởng thành - chưa xác định, mặc áo khoác, đang đứng, không rõ) - cầm - guitar"
+]
+```
+
+frame_22:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bỡ ngỡ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bỡ ngỡ) - đứng cạnh - cây (trong chậu)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bỡ ngỡ) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - chưa xác định, mặc áo khoác, đang đứng, không rõ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bỡ ngỡ)",
+  "tường - ở phía sau - người2 (trưởng thành - chưa xác định, mặc áo khoác, đang đứng, không rõ)",
+  "người2 (trưởng thành - chưa xác định, mặc áo khoác, đang đứng, không rõ) - ở xa - người3 (trưởng thành - chưa xác định, mặc áo khoác, đang đứng, không rõ)"
+]
+```
+
+frame_23:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - đứng cạnh - cây (trong chậu)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - chưa xác định, mặc áo khoác, đang chơi guitar, vui vẻ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - người2 (trưởng thành - chưa xác định, mặc áo khoác, đang chơi guitar, vui vẻ)"
+]
+```
+
+frame_24:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - đứng cạnh - cây (trong chậu)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - chưa xác định, mặc áo khoác, đang chơi guitar, vui vẻ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - người2 (trưởng thành - chưa xác định, mặc áo khoác, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - cầm - guitar"
+]
+```
+
+frame_25:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - đứng cạnh - cây (trong chậu)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - cầm - guitar",
+  "va li (màu xanh lam) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)"
+]
+```
+
+frame_26:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - đứng cạnh - cây (trong chậu)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - cầm - guitar",
+  "va li (màu xanh lam) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang ngồi, lo lắng) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang chơi trống, tập trung) - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ)",
+  "tường - ở phía sau - vợt tennis (màu trắng)"
+]
+```
+
+frame_27:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - đứng cạnh - cây (trong chậu)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - cầm - guitar",
+  "va li (màu xanh lam) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang ngồi, lo lắng) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tập trung) - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ)",
+  "tường - ở phía sau - vợt tennis (màu trắng)",
+  "bàn (màu xanh lá cây) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)"
+]
+```
+
+frame_28:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - đứng cạnh - cây (trong chậu)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - cầm - guitar",
+  "va li (màu xanh lam) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang ngồi, lo lắng) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tập trung) - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ)",
+  "tường - ở phía sau - vợt tennis (màu trắng)",
+  "bàn (màu xanh lá cây) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - tường"
+]
+```
+
+frame_29:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - đứng cạnh - cây (trong chậu)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - cầm - guitar",
+  "va li (màu xanh lam) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang chơi guitar, lo lắng) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tập trung) - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ)",
+  "tường - ở phía sau - vợt tennis (màu trắng)",
+  "bàn (màu xanh lá cây) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - tường",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang chơi guitar, lo lắng) - cầm - guitar"
+]
+```
+
+frame_30:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - đứng cạnh - cây (trong chậu)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - cầm - guitar",
+  "va li (màu xanh lam) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang đứng, lo lắng) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang chơi guitar, tập trung) - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ)",
+  "tường - ở phía sau - vợt tennis (màu trắng)",
+  "bàn (màu xanh lá cây) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - tường",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang đứng, lo lắng) - cầm - guitar"
+]
+```
+
+frame_31:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - đứng cạnh - cây (trong chậu)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ) - cầm - guitar",
+  "va li (màu xanh lam) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang đứng, lo lắng) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò) - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, vui vẻ)",
+  "tường - ở phía sau - vợt tennis (màu trắng)",
+  "bàn (màu xanh lá cây) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - tường",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang đứng, lo lắng) - ở phía sau - người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò)",
+  "tường - ở phía sau - người3 (trưởng thành - nam, mặc đồ màu hồng, đang đứng, lo lắng)",
+  "chai (màu trắng) - ở phía sau - người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò)"
+]
+```
+
+frame_32:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - đứng cạnh - cây (trong chậu)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ) - đang cầm - chai (màu trắng)",
+  "vali (màu xanh lam) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò) - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ)",
+  "tường - ở phía sau - vợt tennis (màu trắng)",
+  "bàn (màu xanh lá cây) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - tường",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng) - ở phía sau - người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò)",
+  "tường - ở phía sau - người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng)",
+  "chai (màu trắng) - ở phía sau - người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò)"
+]
+```
+
+frame_33:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - đứng cạnh - cây (trong chậu)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ) - đang cầm - chai (màu trắng)",
+  "vali (màu xanh lam) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò) - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ)",
+  "tường - ở phía sau - vợt tennis (màu trắng)",
+  "bàn (màu xanh lá cây) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, bơ ngơ)",
+  "tường - ở phía sau - tường",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng) - ở phía sau - người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò)",
+  "tường - ở phía sau - người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng)",
+  "chai (màu trắng) - ở phía sau - người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò)",
+  "tường - ở phía sau - ly rượu (màu xanh lá cây)"
+]
+```
+
+frame_34:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang nhìn, ngạc nhiên)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang nhìn, ngạc nhiên) - đứng cạnh - cây (trong chậu)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang nhìn, ngạc nhiên) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang nhìn, ngạc nhiên)",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ) - đang cầm - chai (màu trắng)",
+  "vali (màu xanh lam) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang nhìn, ngạc nhiên)",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang nhìn, ngạc nhiên)",
+  "người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò) - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ)",
+  "tường - ở phía sau - vợt tennis (màu trắng)",
+  "bàn (màu xanh lá cây) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang nhìn, ngạc nhiên)",
+  "tường - ở phía sau - tường",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng) - ở phía sau - người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò)",
+  "tường - ở phía sau - người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng)",
+  "chai (màu trắng) - ở phía sau - người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò)",
+  "tường - ở phía sau - ly rượu (màu xanh lá cây)"
+]
+```
+
+frame_35:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - đứng cạnh - cây (trong chậu)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - cầm - guitar",
+  "tường - ở phía sau - guitar",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)",
+  "tường - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ) - đang cầm - chai (màu trắng)",
+  "vali (màu xanh lam) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)",
+  "người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò) - ở phía sau - người2 (trưởng thành - nam, mặc áo khoác, đang đứng, vui vẻ)",
+  "tường - ở phía sau - vợt tennis (màu trắng)",
+  "bàn (màu xanh lá cây) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)",
+  "tường - ở phía sau - tường",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng) - ở phía sau - người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò)",
+  "tường - ở phía sau - người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng)",
+  "chai (màu trắng) - ở phía sau - người4 (trưởng thành - chưa rõ giới tính, mặc đồ màu cam, đang đứng, tò mò)",
+  "tường - ở phía sau - ly rượu (màu xanh lá cây)",
+  "tường - ở phía sau - điện thoại di động",
+  "điện thoại di động - trong tay - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng) - ở - tường"
+]
+```
+
+frame_36:
+```json
+[
+  "tường - ở phía sau - người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - cầm - guitar",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - đứng cạnh - tường",
+  "guitar - ở phía sau - tường",
+  "người3 (trưởng thành - nam, mặc đồ màu hồng, đang nhìn, lo lắng) - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)"
+]
+```
+
+frame_37:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - cầm - guitar",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - đứng cạnh - tường",
+  "guitar - ở phía sau - tường"
+]
+```
+
+frame_38:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - cầm - guitar",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - đứng cạnh - tường",
+  "guitar - ở phía sau - tường"
+]
+```
+
+frame_39:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - cầm - guitar",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - đứng cạnh - tường",
+  "guitar - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)"
+]
+```
+
+frame_40:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - cầm - guitar",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - đứng cạnh - tường",
+  "guitar - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)"
+]
+```
+
+frame_41:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - cầm - guitar",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - đứng cạnh - tường",
+  "guitar - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)"
+]
+```
+
+frame_42:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - cầm - guitar",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - đứng cạnh - tường",
+  "guitar - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)"
+]
+```
+
+frame_43:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - cầm - guitar",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng) - đứng cạnh - tường",
+  "guitar - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hào hứng)"
+]
+```
+
+frame_44:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - cầm - guitar",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - đứng cạnh - tường",
+  "guitar - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)"
+]
+```
+
+frame_45:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - cầm - guitar",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - đứng cạnh - tường",
+  "guitar - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)"
+]
+```
+
+frame_46:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - cầm - guitar",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - đứng cạnh - tường",
+  "guitar - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người2 (trưởng thành - không rõ, mặc áo khoác, đang chơi nhạc, vui vẻ) - đứng cạnh - tường"
+]
+```
+
+frame_47:
+```json
+[
+  "tường - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - cầm - guitar",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - đứng cạnh - tường",
+  "guitar - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người2 (trưởng thành - không rõ, mặc áo khoác, đang đứng, vui vẻ) - đứng cạnh - tường"
+]
+```
+
+frame_48:
+```json
+[
+  "cây - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - cầm - cần gạt nước",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - đứng cạnh - cây",
+  "cần gạt nước - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người2 (trưởng thành - không rõ, mặc áo khoác, đang đứng, vui vẻ) - đứng cạnh - tường",
+  "tường - ở phía sau - người2 (trưởng thành - không rõ, mặc áo khoác, đang đứng, vui vẻ)",
+  "người2 (trưởng thành - không rõ, mặc áo khoác, đang đứng, vui vẻ) - đứng cạnh - tường",
+  "người3 (trưởng thành - không rõ, mặc áo khoác, đang chơi guitar, hăng say) - đứng cạnh - tường",
+  "người3 (trưởng thành - không rõ, mặc áo khoác, đang chơi guitar, hăng say) - đứng cạnh - người2 (trưởng thành - không rõ, mặc áo khoác, đang đứng, vui vẻ)"
+]
+```
+
+frame_49:
+```json
+[
+  "cây - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - cầm - cần gạt nước",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - đứng cạnh - cây",
+  "cần gạt nước - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm em bé, vui vẻ) - đứng cạnh - tường",
+  "tường - ở phía sau - người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm em bé, vui vẻ)",
+  "người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm em bé, vui vẻ) - đứng cạnh - tường",
+  "người3 (trưởng thành - không rõ, mặc áo khoác, đang chơi trống, hăng say) - đứng cạnh - tường",
+  "người3 (trưởng thành - không rõ, mặc áo khoác, đang chơi trống, hăng say) - đứng cạnh - người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm em bé, vui vẻ)"
+]
+```
+
+frame_50:
+```json
+[
+  "cây - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - cầm - cần gạt nước",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - đứng cạnh - cây",
+  "cần gạt nước - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - tường",
+  "tường - ở phía sau - người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - tường",
+  "người3 (trưởng thành - chưa rõ, không rõ, đang đứng hát, bình thường) - đứng cạnh - tường",
+  "người3 (trưởng thành - chưa rõ, không rõ, đang đứng hát, bình thường) - đứng cạnh - người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "bàn (màu xanh lá cây) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "bàn (màu xanh lá cây) - ở gần - người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "người4 (trưởng thành - chưa rõ, mặc áo khoác, đang đứng hát, bình thường) - đứng cạnh - tường"
+]
+```
+
+frame_51:
+```json
+[
+  "cây - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - cầm - cần gạt nước",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - đứng cạnh - cây",
+  "cần gạt nước - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - tường",
+  "tường - ở phía sau - người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - tường",
+  "người3 (trưởng thành - chưa rõ, không rõ, đang đứng hát, bình thường) - đứng cạnh - tường",
+  "người3 (trưởng thành - chưa rõ, không rõ, đang đứng hát, bình thường) - đứng cạnh - người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "bàn (màu xanh lá cây) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "bàn (màu xanh lá cây) - ở gần - người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "người4 (trưởng thành - chưa rõ, mặc áo khoác, đang đứng hát, bình thường) - đứng cạnh - tường"
+]
+```
+
+frame_52:
+```json
+[
+  "cây - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - cầm - cần gạt nước",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - đứng cạnh - cây",
+  "cần gạt nước - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - tường",
+  "tường - ở phía sau - người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - tường",
+  "người3 (trưởng thành - chưa rõ, không rõ, đang đứng hát, bình thường) - đứng cạnh - tường",
+  "người3 (trưởng thành - chưa rõ, không rõ, đang đứng hát, bình thường) - đứng cạnh - người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "bàn (màu xanh lá cây) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "bàn (màu xanh lá cây) - ở gần - người2 (trưởng thành - chưa rõ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "người4 (trưởng thành - chưa rõ, mặc áo khoác, đang đứng hát, bình thường) - đứng cạnh - tường"
+]
+```
+
+frame_53:
+```json
+[
+  "cây - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - cầm - cần gạt nước",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - đứng cạnh - cây",
+  "cần gạt nước - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - tường",
+  "tường - ở phía sau - người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - tường",
+  "người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường) - đứng cạnh - tường",
+  "người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường) - đứng cạnh - người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "bàn (màu xanh lá cây) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "bàn (màu xanh lá cây) - ở gần - người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "người4 (trưởng thành - nam, không rõ, đang đứng hát, bình thường) - đứng cạnh - tường",
+  "ván trượt (đen) - ở gần - người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường)",
+  "ván trượt (đen) - ở gần - người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)"
+]
+```
+
+frame_54:
+```json
+[
+  "cây - ở phía sau - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - cầm - cần gạt nước",
+  "người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say) - đứng cạnh - cây",
+  "cần gạt nước - ở phía sau - tường",
+  "găng tay bóng chày (xanh da trời) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - tường",
+  "tường - ở phía sau - người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - tường",
+  "người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường) - đứng cạnh - tường",
+  "người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường) - đứng cạnh - người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "bàn (màu xanh lá cây) - ở gần - người1 (trưởng thành - nam, mặc áo khoác, đang chơi guitar, hăng say)",
+  "bàn (màu xanh lá cây) - ở gần - người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "người4 (trưởng thành - nam, không rõ, đang đứng hát, bình thường) - đứng cạnh - tường",
+  "ván trượt (đen) - ở gần - người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường)",
+  "ván trượt (đen) - ở gần - người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "trời - ở trên - tường",
+  "tường - ở trên - bàn (màu xanh lá cây)"
+]
+```
+
+frame_55:
+```json
+[
+  "tường - ở phía sau - chim (màu vàng)",
+  "người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - tường",
+  "người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường) - đứng cạnh - tường",
+  "người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường) - đứng cạnh - người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "người4 (trưởng thành - nam, không rõ, đang đứng hát, bình thường) - đứng cạnh - tường",
+  "trời - ở trên - tường",
+  "người5 (trưởng thành - không rõ, không rõ, đang đứng, bình thường) - đứng cạnh - tường",
+  "người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - người5 (trưởng thành - không rõ, không rõ, đang đứng, bình thường)",
+  "chim (màu vàng) - ở trên - người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường)"
+]
+```
+
+frame_56:
+```json
+[
+  "tường - ở phía sau - chim (màu vàng)",
+  "người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - tường",
+  "người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường) - đứng cạnh - tường",
+  "người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường) - đứng cạnh - người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "người4 (trưởng thành - nam, không rõ, đang đứng hát, bình thường) - đứng cạnh - tường",
+  "trời - ở trên - tường",
+  "người5 (trưởng thành - không rõ, không rõ, đang chơi nhạc cụ, bình thường) - đứng cạnh - tường",
+  "người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - người5 (trưởng thành - không rõ, không rõ, đang chơi nhạc cụ, bình thường)",
+  "chim (màu vàng) - ở trên - người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường)"
+]
+```
+
+frame_57:
+```json
+[
+  "tường - ở phía sau - chim (màu vàng)",
+  "người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - tường",
+  "người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường) - đứng cạnh - tường",
+  "người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường) - đứng cạnh - người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ)",
+  "người4 (trưởng thành - nam, không rõ, đang đứng hát, bình thường) - đứng cạnh - tường",
+  "trời - ở trên - tường",
+  "người5 (trưởng thành - không rõ, không rõ, đang chơi nhạc cụ, bình thường) - đứng cạnh - tường",
+  "người2 (trưởng thành - nữ, mặc áo khoác hồng, đang ôm guitar, vui vẻ) - đứng cạnh - người5 (trưởng thành - không rõ, không rõ, đang chơi nhạc cụ, bình thường)",
+  "chim (màu vàng) - ở trên - người3 (trưởng thành - nam, mặc áo sơ mi kẻ caro, đang đứng hát, bình thường)"
+]
+```
+
+frame_58:
+```json
+["trời - ở trên - tường"]
+```
+
+frame_59:
+```json
+["trời - ở trên - vật thể"]
+```
+
+frame_60:
+```json
+["Frisbee (h\u1ed3ng) - \u1edf tr\u00ean - v\u1eadt th\u1ec3", "tr\u1eddi - \u1edf tr\u00ean - v\u1eadt th\u1ec3"]
+```
+
+frame_61:
+```json
+["trần nhà - ở trên - vật thể", "ánh sáng - ở trên - trần nhà", "bầu trời - ở trên - vật thể"]
+```
+
+frame_62:
+```json
+["bầu trời - ở trên - vật thể"]
+```
+
+frame_63:
+xe - 56% - nền
+
+frame_64:
+Tôi xin lỗi, không thể xác định các đối tượng và mô tả mối quan hệ giữa chúng vì hình ảnh quá tối và thiếu thông tin chi tiết.
+
+frame_65:
+bầu trời - thuộc về - sky
+
+frame_66:
+```json
+[
+  "tường - ở - người1",
+  "người1 - ở - người2",
+  "người2 - ở - người3"
+]
+```
+
+frame_67:
+```json
+[
+  "cây - ở - bầu trời",
+  "người1 (không rõ - không rõ, màu hồng, không rõ, không rõ) - ở - cây",
+  "người1 (không rõ - không rõ, màu hồng, không rõ, không rõ) - ở - người2 (không rõ - không rõ, màu cam, không rõ, không rõ)",
+  "người2 (không rõ - không rõ, màu cam, không rõ, không rõ) - ở - người3 (không rõ - không rõ, màu hồng, không rõ, không rõ)",
+  "người3 (không rõ - không rõ, màu hồng, không rõ, không rõ) - ở - tường",
+  "người4 (không rõ - không rõ, màu hồng, không rõ, không rõ) - ở - tường"
+]
+```
+

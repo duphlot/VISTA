@@ -1,0 +1,31 @@
+frame_0000.jpg: a woman holding a baby in her arms
+frame_0001.jpg: a woman holding a baby on her lap
+frame_0002.jpg: a woman holding a baby while sitting on a couch
+frame_0003.jpg: a woman holding a baby while she is holding her
+frame_0004.jpg: a woman holding a baby while she is holding her
+frame_0005.jpg: a woman holding a baby while she is holding her
+frame_0006.jpg: a woman and a baby are sitting on a couch
+frame_0007.jpg: a woman holding a baby while she is holding her
+frame_0008.jpg: a woman holding a baby while sitting on a couch
+frame_0009.jpg: a woman holding a baby while sitting on a couch
+frame_0010.jpg: a woman holding a baby on her lap
+frame_0011.jpg: a woman and her baby are sitting on a couch
+frame_0012.jpg: a woman holding a baby on her lap
+frame_0013.jpg: a woman and her baby are sitting on a couch
+frame_0014.jpg: a woman holding a baby while sitting on a couch
+frame_0015.jpg: a woman holding a baby while she is holding her
+frame_0016.jpg: a woman holding a baby while sitting on a couch
+frame_0017.jpg: a woman holding a baby in her lap
+frame_0018.jpg: a woman holding a baby in her arms
+frame_0019.jpg: a woman and a baby sitting on a couch
+frame_0020.jpg: a woman holding a baby on her lap
+frame_0021.jpg: a woman holding a baby while sitting on a couch
+frame_0022.jpg: a woman holding a baby in her arms
+frame_0023.jpg: a woman holding a baby in her arms
+frame_0024.jpg: a woman holding a baby in her arms
+frame_0025.jpg: a woman holding a baby in her arms
+frame_0026.jpg: a woman holding a baby in her arms
+frame_0027.jpg: a woman holding a baby in her arms
+frame_0028.jpg: a woman holding a baby in her arms
+frame_0029.jpg: a woman holding a baby in her arms
+frame_0030.jpg: a woman holding a baby in her arms

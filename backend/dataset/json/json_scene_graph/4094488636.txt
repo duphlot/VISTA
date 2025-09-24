@@ -1,0 +1,447 @@
+frame_0:
+```json
+[
+  "chó1 - trên - sàn",
+  "chó1 - cạnh - tường"
+]
+```
+
+frame_1:
+```json
+[
+  "chó1 - trên - sàn"
+]
+```
+
+frame_2:
+```json
+[
+  "chó1 - bên cạnh - mèo1",
+  "chó1 - trên - sàn",
+  "mèo1 - trên - sàn",
+  "tường - trên - sàn"
+]
+```
+
+frame_3:
+```json
+[
+  "chó1 (98%) - trên - sàn",
+  "tường - trên - sàn"
+]
+```
+
+frame_4:
+```json
+[
+  "chó1 (99%) - trên - sàn",
+  "tường - trên - sàn"
+]
+```
+
+frame_5:
+```json
+[
+  "chó1 - trên - sàn",
+  "tường - trên - sàn"
+]
+```
+
+frame_6:
+```json
+[
+  "chó1 - trên - sàn",
+  "tường - trên - sàn",
+  "chó2 - trên - sàn"
+]
+```
+
+frame_7:
+```json
+[
+  "chó1 - trên - sàn",
+  "mèo1 (màu hồng) - trên - sàn",
+  "tường - trên - sàn"
+]
+```
+
+frame_8:
+```json
+[
+  "chó1 - trên - sàn",
+  "chó2 - trên - sàn",
+  "tường - trên - sàn",
+  "cỏ - ở - tường"
+]
+```
+
+frame_9:
+```json
+[
+  "chó1 - trên - sàn",
+  "mèo - trên - sàn",
+  "tường - trên - sàn"
+]
+```
+
+frame_10:
+```json
+[
+  "chó1 - trên - sàn",
+  "tường - trên - sàn",
+  "người1 (trẻ, mặc áo vàng, đang đứng) - bên cạnh - chó1"
+]
+```
+
+frame_11:
+```json
+[
+  "chó1 - trên - sàn",
+  "tường - trên - sàn",
+  "người1 (trẻ, mặc áo vàng, đang đứng) - bên cạnh - chó1",
+  "chó1 - gần - tường",
+  "cây - trên - sàn"
+]
+```
+
+frame_12:
+```json
+[
+  "chó1 - trên - sàn",
+  "tường - trên - sàn",
+  "người1 (trẻ, mặc áo vàng, đang đứng) - bên cạnh - chó1",
+  "chó1 - gần - tường",
+  "cây - trên - sàn",
+  "chó2 - trên - sàn"
+]
+```
+
+frame_13:
+```json
+[
+  "mèo1 - trên - sàn",
+  "chó1 - trên - sàn",
+  "tường - trên - sàn"
+]
+```
+
+frame_14:
+```json
+[
+  "chó1 - trên - sàn",
+  "chó2 - trên - sàn",
+  "tường - trên - sàn"
+]
+```
+
+frame_15:
+```json
+[
+  "chó1 - trên - sàn",
+  "chó2 - trên - sàn",
+  "tường - trên - sàn"
+]
+```
+
+frame_16:
+```json
+[
+  "mèo1 - trên - sàn",
+  "chó1 - trên - sàn",
+  "tường - trên - sàn",
+  "rèm - trên - sàn"
+]
+```
+
+frame_17:
+```json
+[
+  "chó1 - trên - sàn",
+  "chó2 - trên - sàn",
+  "tường - trên - sàn",
+  "rèm - trên - tường"
+]
+```
+
+frame_18:
+```json
+[
+  "chó1 - trên - sàn",
+  "chó2 - trên - sàn",
+  "tường - trên - sàn",
+  "rèm - trên - tường"
+]
+```
+
+frame_19:
+```json
+[
+  "chó1 - trên - sàn",
+  "chó2 - trên - sàn",
+  "sàn - chứa - ván trượt",
+  "chó2 - trên - ván trượt"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang ngồi) - trên - sàn",
+  "chó1 (xanh dương) - trên - sàn",
+  "sàn - chứa - người1",
+  "sàn - chứa - chó1"
+]
+```
+
+frame_21:
+```json
+[
+  "mèo1 (hồng) - cạnh - chó1 (xanh dương)",
+  "chó1 (xanh dương) - trên - sàn",
+  "sàn - chứa - chó1 (xanh dương)",
+  "rèm - ở - tường",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - trên - sàn",
+  "sàn - chứa - người1 (trẻ, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_22:
+```json
+[
+  "mèo1 (hồng) - cạnh - chó1 (xanh dương)",
+  "chó1 (xanh dương) - trên - sàn",
+  "sàn - chứa - chó1 (xanh dương)",
+  "người1 (trẻ, mặc áo hồng, đang đi) - trên - sàn",
+  "sàn - chứa - người1 (trẻ, mặc áo hồng, đang đi)",
+  "chó1 (xanh dương) - trên - sàn",
+  "sàn - chứa - chó1 (xanh dương)"
+]
+```
+
+frame_23:
+```json
+[
+  "chó1 (xanh dương) - trên - sàn",
+  "sàn - chứa - chó1 (xanh dương)",
+  "chó2 (xanh dương) - trên - sàn",
+  "sàn - chứa - chó2 (xanh dương)",
+  "người1 (trẻ, mặc áo hồng, đang đi) - trên - sàn",
+  "sàn - chứa - người1 (trẻ, mặc áo hồng, đang đi)",
+  "cỏ - trên - sàn"
+]
+```
+
+frame_24:
+```json
+[
+  "sàn - chứa - chó1 (xanh dương)",
+  "chó2 (xanh dương) - trên - sàn",
+  "sàn - chứa - chó2 (xanh dương)",
+  "người1 (trẻ, mặc áo hồng, đang đi) - trên - sàn",
+  "sàn - chứa - người1 (trẻ, mặc áo hồng, đang đi)",
+  "cỏ - trên - sàn",
+  "máy bay1 (tím) - trên - sàn",
+  "sàn - chứa - máy bay1 (tím)",
+  "máy bay2 (tím) - trên - sàn",
+  "sàn - chứa - máy bay2 (tím)",
+  "chó1 (xanh dương) - kéo - máy bay2 (tím)",
+  "cây - trên - sàn"
+]
+```
+
+frame_25:
+```json
+[
+  "sàn - chứa - chó1 (xanh dương)",
+  "chó2 (xanh dương) - trên - sàn",
+  "sàn - chứa - chó2 (xanh dương)",
+  "người1 (trẻ, mặc áo hồng, đang đi) - trên - sàn",
+  "sàn - chứa - người1 (trẻ, mặc áo hồng, đang đi)",
+  "cỏ - trên - sàn",
+  "máy bay1 (tím) - trên - sàn",
+  "sàn - chứa - máy bay1 (tím)",
+  "máy bay2 (tím) - trên - sàn",
+  "sàn - chứa - máy bay2 (tím)",
+  "chó1 (xanh dương) - kéo - máy bay2 (tím)",
+  "cây - trên - sàn",
+  "chó2 (xanh dương) - gần - cây"
+]
+```
+
+frame_26:
+```json
+[
+  "sàn - chứa - chó1 (xanh dương)",
+  "chó2 (xanh dương) - trên - sàn",
+  "sàn - chứa - chó2 (xanh dương)",
+  "máy bay1 (tím) - trên - sàn",
+  "sàn - chứa - máy bay1 (tím)",
+  "máy bay2 (tím) - trên - sàn",
+  "sàn - chứa - máy bay2 (tím)",
+  "chó1 (xanh dương) - gần - máy bay2 (tím)",
+  "cây - trên - sàn",
+  "chó2 (xanh dương) - gần - cây",
+  "sàn - chứa - mèo1 (tím)",
+  "chó1 (xanh dương) - gần - mèo1 (tím)",
+  "mèo1 (tím) - trên - sàn",
+  "vỉa hè - trên - sàn",
+  "cỏ - trên - sàn"
+]
+```
+
+frame_27:
+```json
+[
+  "sàn - chứa - chó1 (xanh dương)",
+  "chó2 (xanh dương) - trên - sàn",
+  "sàn - chứa - chó2 (xanh dương)",
+  "máy bay1 (tím) - trên - sàn",
+  "sàn - chứa - máy bay1 (tím)",
+  "máy bay2 (tím) - trên - sàn",
+  "sàn - chứa - máy bay2 (tím)",
+  "chó1 (xanh dương) - gần - máy bay2 (tím)",
+  "cây - trên - sàn",
+  "chó2 (xanh dương) - gần - cây",
+  "sàn - chứa - mèo1 (tím)",
+  "chó1 (xanh dương) - gần - mèo1 (tím)",
+  "mèo1 (tím) - trên - sàn",
+  "vỉa hè - trên - sàn",
+  "cỏ - trên - sàn",
+  "sàn - chứa - bánh donut1 (trắng)",
+  "bánh donut1 (trắng) - trên - sàn",
+  "sàn - chứa - chân1"
+]
+```
+
+frame_28:
+```json
+[
+  "sàn - chứa - chó1 (xanh dương)",
+  "chó2 (xanh dương) - trên - sàn",
+  "sàn - chứa - chó2 (xanh dương)",
+  "máy bay1 (tím) - trên - sàn",
+  "sàn - chứa - máy bay1 (tím)",
+  "máy bay2 (tím) - trên - sàn",
+  "sàn - chứa - máy bay2 (tím)",
+  "chó1 (xanh dương) - gần - máy bay2 (tím)",
+  "cây - trên - sàn",
+  "chó2 (xanh dương) - gần - cây",
+  "sàn - chứa - mèo1 (tím)",
+  "chó1 (xanh dương) - gần - mèo1 (tím)",
+  "mèo1 (tím) - trên - sàn",
+  "vỉa hè - trên - sàn",
+  "cỏ - trên - sàn",
+  "sàn - chứa - bánh donut1 (trắng)",
+  "bánh donut1 (trắng) - trên - sàn",
+  "sàn - chứa - chân1"
+]
+```
+
+frame_29:
+```json
+[
+  "sàn - chứa - chó1 (xanh dương)",
+  "chó2 (xanh dương) - trên - sàn",
+  "sàn - chứa - chó2 (xanh dương)",
+  "sàn - chứa - vỉa hè",
+  "vỉa hè - trên - sàn",
+  "cỏ - trên - sàn",
+  "cây - trên - sàn",
+  "sàn - chứa - chó1 (xanh dương)",
+  "chó1 (xanh dương) - trên - sàn"
+]
+```
+
+frame_30:
+```json
+[
+  "sàn - chứa - mèo (màu hồng)",
+  "mèo (màu hồng) - trên - sàn",
+  "cỏ - trên - sàn",
+  "cây - trên - sàn"
+]
+```
+
+frame_31:
+```json
+[
+  "sàn - chứa - chó",
+  "chó - trên - sàn",
+  "cỏ - trên - sàn",
+  "cây - trên - sàn"
+]
+```
+
+frame_32:
+```json
+[
+  "sàn - chứa - chó",
+  "chó - trên - sàn",
+  "cỏ - trên - sàn"
+]
+```
+
+frame_33:
+```json
+[
+  "chó - trên - sàn",
+  "mèo - trên - sàn"
+]
+```
+
+frame_34:
+```json
+[
+  "chó1 - trên - sàn",
+  "chó2 - trên - sàn"
+]
+```
+
+frame_35:
+```json
+[
+  "chó1 - trên - sàn",
+  "chó2 - trên - sàn"
+]
+```
+
+frame_36:
+```json
+[
+  "người1 (trẻ, mặc quần áo hồng, đang đứng) - bên cạnh - chó1 (màu xanh)",
+  "chó1 (màu xanh) - trên - sàn (màu tím)"
+]
+```
+
+frame_37:
+```json
+[
+  "mèo1 (màu hồng) - trên - sàn (màu tím)",
+  "chó1 (màu xanh) - trên - sàn (màu tím)"
+]
+```
+
+frame_38:
+```json
+[
+  "chó1 (màu xanh) - trên - sàn (màu tím)",
+  "chó2 (màu xanh) - trên - sàn (màu tím)"
+]
+```
+
+frame_39:
+```json
+[
+  "chó1 (màu xanh) - trên - sàn (màu tím)",
+  "chó2 (màu xanh) - trên - sàn (màu tím)"
+]
+```
+
+frame_40:
+```json
+[
+  "chó1 (màu xanh) - trên - sàn (màu tím)",
+  "mèo1 (màu hồng) - trên - sàn (màu tím)"
+]
+```
+

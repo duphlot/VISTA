@@ -1,0 +1,54 @@
+frame_0000.jpg: a baby in a stroller is seen through a fence
+frame_0001.jpg: a man in a stroller is on the tracks
+frame_0002.jpg: a baby in a stroller is seen through a fence
+frame_0003.jpg: a baby in a stroller is seen through a fence
+frame_0004.jpg: a man in a car is seen through a fence
+frame_0005.jpg: a baby in a stroller is seen through a fence
+frame_0006.jpg: a man in a wheelchair is seen through a fence
+frame_0007.jpg: a baby in a stroller is being held by a man
+frame_0008.jpg: a baby in a stroller is sitting on the ground
+frame_0009.jpg: a baby in a stroller is being held by a man
+frame_0010.jpg: a baby in a stroller is being held by a man
+frame_0011.jpg: a baby in a stroller is being held by a man
+frame_0012.jpg: a baby in a stroller is being held by a man
+frame_0013.jpg: a baby in a stroller is sitting on the ground
+frame_0014.jpg: a baby in a stroller is on the ground
+frame_0015.jpg: a baby in a stroller is sitting on a fence
+frame_0016.jpg: a baby in a stroller is sitting on a fence
+frame_0017.jpg: a baby in a stroller is standing on a fence
+frame_0018.jpg: a baby in a stroller is being pushed by a man
+frame_0019.jpg: a skateboarder is riding on a ramp
+frame_0020.jpg: a man is holding a baseball bat
+frame_0021.jpg: a baby in a stroller is sitting on the ground
+frame_0022.jpg: a man in a white shirt is holding a baseball bat
+frame_0023.jpg: a baby is sitting in a stroller
+frame_0024.jpg: a baby is sitting on a bench in front of a fence
+frame_0025.jpg: a baby sitting in a stroller next to a train
+frame_0026.jpg: a baby is sitting in a stroller
+frame_0027.jpg: a baby is sitting in a stroller
+frame_0028.jpg: a baby sitting in a stroller next to a train
+frame_0029.jpg: a baby sitting in a stroller on a sidewalk
+frame_0030.jpg: a baby sitting in a stroller next to a fence
+frame_0031.jpg: a baby in a stroller is sitting on a fence
+frame_0032.jpg: a baby in a stroller is sitting on a fence
+frame_0033.jpg: a baby in a stroller is sitting on a bench
+frame_0034.jpg: a baby in a stroller is sitting on a fence
+frame_0035.jpg: a baby in a stroller is sitting on a fence
+frame_0036.jpg: a baby in a stroller is looking at a train
+frame_0037.jpg: a baby sitting in a stroller next to a fence
+frame_0038.jpg: a baby is sitting in a stroller
+frame_0039.jpg: a baby in a stroller is sitting on a fence
+frame_0040.jpg: a baby in a stroller is looking at a train track
+frame_0041.jpg: a baby in a stroller is looking at a train
+frame_0042.jpg: a baby in a stroller is looking at a train
+frame_0043.jpg: a baby in a stroller is looking at a train
+frame_0044.jpg: a baby in a stroller is sitting on the ground
+frame_0045.jpg: a baby sitting in a stroller next to a train
+frame_0046.jpg: a baby in a stroller is sitting on a bench
+frame_0047.jpg: a baby in a stroller is standing on the side of a train track
+frame_0048.jpg: a baby in a stroller is sitting on the ground
+frame_0049.jpg: a baby in a stroller is sitting on the ground
+frame_0050.jpg: a baby in a stroller is sitting on the ground
+frame_0051.jpg: a baby in a stroller is sitting on the ground
+frame_0052.jpg: a baby in a stroller is sitting on the ground
+frame_0053.jpg: a baby in a stroller is sitting on the ground

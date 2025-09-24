@@ -1,0 +1,2 @@
+Total time: 38.50 seconds
+Average time per frame: 1.33 seconds

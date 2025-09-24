@@ -1,0 +1,1190 @@
+frame_0:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, ngủ) - bên cạnh - tường (màu trắng)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang bế, chăm sóc)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang bế, chăm sóc) - đang cầm - bình sữa (màu trắng)",
+  "bình sữa (màu trắng) - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, ngủ)",
+  "cà vạt (màu trắng hồng) - trên - người2 (trưởng thành - nữ, mặc áo đen, đang bế, chăm sóc)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, ngủ) - bên cạnh - tường (màu trắng)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, chăm sóc)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, chăm sóc) - đang cầm - bình sữa (màu trắng)",
+  "bình sữa (màu trắng) - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, ngủ)",
+  "cà vạt (màu trắng hồng) - trên - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, chăm sóc)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, ngủ) - bên cạnh - tường (màu trắng)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, chăm sóc)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, chăm sóc) - đang cầm - bình sữa (màu trắng)",
+  "bình sữa (màu trắng) - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, ngủ)",
+  "cà vạt (màu trắng hồng) - trên - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, chăm sóc)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, ngủ) - bên cạnh - tường (màu trắng)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương) - đang cầm - bình sữa (màu trắng)",
+  "bình sữa (màu trắng) - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, ngủ)",
+  "cà vạt (màu trắng hồng) - trên - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - bên cạnh - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương) - đang cầm - bình sữa (màu trắng)",
+  "bình sữa (màu trắng) - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ)",
+  "cà vạt (màu trắng hồng) - trên - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - bên cạnh - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương) - đang cầm - bình sữa (màu trắng)",
+  "bình sữa (màu trắng) - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ)",
+  "cà vạt (màu trắng hồng) - trên - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - bên cạnh - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương) - đang cầm - bình sữa (màu trắng)",
+  "bình sữa (màu trắng) - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ)",
+  "cà vạt (màu trắng hồng) - trên - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - bên cạnh - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương) - đang cầm - bình sữa (màu trắng)",
+  "bình sữa (màu trắng) - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ)",
+  "cà vạt (màu trắng hồng) - trên - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - bên cạnh - người2 (trưởng thành - nữ, mặc áo đen, đang lau chùi, yêu thương)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang lau chùi, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang lau chùi, yêu thương) - đang cầm - miếng bọt biển (màu xanh lam)",
+  "miếng bọt biển (màu xanh lam) - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ)",
+  "cà vạt (màu trắng hồng) - trên - người2 (trưởng thành - nữ, mặc áo đen, đang lau chùi, yêu thương)"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - bên cạnh - người2 (trưởng thành - nữ, mặc áo đen, đang lau chùi, yêu thương)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang lau chùi, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang lau chùi, yêu thương) - đang cầm - miếng bọt biển (màu xanh lam)",
+  "miếng bọt biển (màu xanh lam) - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ)",
+  "cà vạt (màu trắng hồng) - trên - người2 (trưởng thành - nữ, mặc áo đen, đang lau chùi, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang lau chùi, yêu thương) - chạm vào - bìa cứng (màu be)",
+  "bìa cứng (màu be) - trên - chăn (màu xanh ngọc)"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - bên cạnh - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương) - đang cầm - bìa cứng (màu be)",
+  "bìa cứng (màu be) - trên - chăn (màu trắng)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương) - chạm vào - bìa cứng (màu be)"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - bên cạnh - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương) - đang cầm - sách (màu cam)",
+  "sách (màu cam) - trên - chăn (màu trắng)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang cho ăn, yêu thương) - chạm vào - sách (màu cam)"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - bên cạnh - người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương) - đang cầm - sách (màu cam)",
+  "sách (màu cam) - bên cạnh - sách1 (màu xanh da trời)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương) - chạm vào - sách (màu cam)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - bên cạnh - người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương) - đang cầm - sách (màu cam)",
+  "sách (màu cam) - bên cạnh - sách1 (màu xanh da trời)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương) - chạm vào - sách (màu cam)"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - bên cạnh - người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương) - đang cầm - sách (màu cam)",
+  "sách (màu cam) - bên cạnh - sách1 (màu xanh da trời)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương) - chạm vào - sách (màu cam)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương) - trên - chăn (màu trắng xám)",
+  "sách1 (màu xanh da trời) - trên - chăn (màu trắng xám)"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - bên cạnh - người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương) - đang cầm - sách (màu cam)",
+  "sách (màu cam) - bên cạnh - sách1 (màu xanh da trời)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương) - chạm vào - sách (màu cam)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương) - trên - chăn (màu trắng xám)",
+  "sách1 (màu xanh da trời) - trên - chăn (màu trắng xám)"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - bên cạnh - người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - đang được bế bởi - người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương) - đang cầm - sách (màu cam)",
+  "sách (màu cam) - bên cạnh - sách1 (màu xanh da trời)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương) - chạm vào - sách (màu cam)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang giữ sách, yêu thương) - trên - chăn (màu trắng xám)",
+  "sách1 (màu xanh da trời) - trên - chăn (màu trắng xám)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang được cho ăn, buồn ngủ) - đang uống - sách1 (màu xanh da trời)"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bình yên) - trên - chăn (màu trắng xám)",
+  "chăn (màu trắng xám) - bên cạnh - tường (màu tím)"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bình yên) - trên - chăn (màu trắng xám)"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang ngậm bàn chải đánh răng, bối rối) - giữ - bàn chải đánh răng (màu tím)",
+  "bàn chải đánh răng (màu tím) - gần - người1 (sơ sinh - không xác định, mặc áo cam, đang ngậm bàn chải đánh răng, bối rối)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang ngậm bàn chải đánh răng, bối rối) - gần - tường (màu tím)"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang mút tay, bối rối) - gần - tường (màu tím)",
+  "tường (màu tím) - gần - giấy (màu trắng)",
+  "giấy (màu trắng) - gần - người1 (sơ sinh - không xác định, mặc áo cam, đang mút tay, bối rối)"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm trên giường, bối rối) - gần - tường (màu tím)",
+  "tường (màu tím) - gần - giấy (màu trắng)",
+  "giấy (màu trắng) - gần - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm trên giường, bối rối)"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm trên giường, bối rối) - gần - giấy (màu trắng)",
+  "giấy (màu trắng) - gần - tường (màu tím)",
+  "tường (màu tím) - gần - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm trên giường, bối rối)"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm trên giường, bối rối) - gần - giấy (màu trắng)",
+  "giấy (màu trắng) - gần - tường (màu tím)",
+  "tường (màu tím) - gần - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm trên giường, bối rối)"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm trên giường, bối rối) - gần - giấy (màu trắng)",
+  "giấy (màu trắng) - gần - tường (màu tím)",
+  "tường (màu tím) - gần - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm trên giường, bối rối)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm trên giường, bối rối) - gần - kéo (màu xanh)",
+  "kéo (màu xanh) - trên - bàn (màu vàng)",
+  "bàn (màu vàng) - trên - sàn (màu vàng)"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang che mặt, bối rối) - gần - giấy (màu trắng)",
+  "giấy (màu trắng) - gần - tường (màu tím)",
+  "tường (màu tím) - gần - người1 (sơ sinh - không xác định, mặc áo cam, đang che mặt, bối rối)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang che mặt, bối rối) - gần - kéo (màu xanh)",
+  "kéo (màu xanh) - trên - bàn (màu vàng)",
+  "bàn (màu vàng) - trên - sàn (màu vàng)"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang che mặt, bối rối) - gần - tường (màu tím)",
+  "tường (màu tím) - gần - người1 (sơ sinh - không xác định, mặc áo cam, đang che mặt, bối rối)"
+]
+```
+
+frame_27:
+```json
+[
+  "ng\u01b0\u1eddi1 (s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang che m\u1eb7t, b\u1ed1i r\u1ed1i) - g\u1ea7n - t\u01b0\u1eddng (m\u00e0u t\u00edm)",
+  "t\u01b0\u1eddng (m\u00e0u t\u00edm) - g\u1ea7n - ng\u01b0\u1eddi1 (s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang che m\u1eb7t, b\u1ed1i r\u1ed1i)",
+  "ng\u01b0\u1eddi1 (s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang che m\u1eb7t, b\u1ed1i r\u1ed1i) - g\u1ea7n - s\u00e0n (m\u00e0u n\u00e2u)",
+  "s\u00e0n (m\u00e0u n\u00e2u) - g\u1ea7n - ng\u01b0\u1eddi1 (s\u01a1 sinh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang che m\u1eb7t, b\u1ed1i r\u1ed1i)"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang che mặt, bối rối) - gần - sàn (màu nâu)",
+  "sàn (màu nâu) - gần - người1 (sơ sinh - không xác định, mặc áo cam, đang che mặt, bối rối)"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang che mặt, bối rối) - gần - sàn (màu nâu)",
+  "sàn (màu nâu) - gần - người1 (sơ sinh - không xác định, mặc áo cam, đang che mặt, bối rối)",
+  "người2 (không xác định - không xác định, không mặc gì, không xác định, không xác định) - không xác định - không xác định"
+]
+```
+
+frame_30:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nghịch điện thoại, bối rối) - cầm - điện thoại di động (màu tím)",
+  "điện thoại di động (màu tím) - được cầm bởi - người1 (sơ sinh - không xác định, mặc áo cam, đang nghịch điện thoại, bối rối)"
+]
+```
+
+frame_31:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang cầm khăn, bối rối) - đang cầm - khăn (trắng)",
+  "khăn (trắng) - được cầm bởi - người1 (sơ sinh - không xác định, mặc áo cam, đang cầm khăn, bối rối)"
+]
+```
+
+frame_32:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang đứng, không xác định) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang bối rối, bối rối)",
+  "điện thoại di động1 (màu trắng) - giữa - người2 (không xác định - không xác định, mặc áo đỏ, đang đứng, không xác định)",
+  "điện thoại di động1 (màu trắng) - giữa - người1 (sơ sinh - không xác định, mặc áo cam, đang bối rối, bối rối)"
+]
+```
+
+frame_33:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang đứng, không xác định) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang bối rối, bối rối)"
+]
+```
+
+frame_34:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang đứng, không xác định) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang bối rối, bối rối)"
+]
+```
+
+frame_35:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang đứng, không xác định) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang bối rối, bối rối)"
+]
+```
+
+frame_36:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang đứng, không xác định) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang bối rối, bối rối)"
+]
+```
+
+frame_37:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang đứng, không xác định) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang bối rối, bối rối)"
+]
+```
+
+frame_38:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang ngồi, không xác định) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "cửa sổ - ở - người2 (không xác định - không xác định, mặc áo đỏ, đang ngồi, không xác định)"
+]
+```
+
+frame_39:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang ngồi, không xác định) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "cửa sổ - ở - người2 (không xác định - không xác định, mặc áo đỏ, đang ngồi, không xác định)"
+]
+```
+
+frame_40:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang bế, không xác định) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "tường - ở - người2 (không xác định - không xác định, mặc áo đỏ, đang bế, không xác định)"
+]
+```
+
+frame_41:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang bế, không xác định) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "tường - ở - người2 (không xác định - không xác định, mặc áo đỏ, đang bế, không xác định)",
+  "bầu trời - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)"
+]
+```
+
+frame_42:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang nằm, không xác định) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "tường - ở - người2 (không xác định - không xác định, mặc áo đỏ, đang nằm, không xác định)",
+  "bầu trời - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)"
+]
+```
+
+frame_43:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang nằm, không xác định) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "tường - ở - người2 (không xác định - không xác định, mặc áo đỏ, đang nằm, không xác định)",
+  "bầu trời - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối) - gần - giấy (màu be)",
+  "giấy (màu be) - trên - bàn (màu ô liu)",
+  "tường - ở - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối) - gần - tường"
+]
+```
+
+frame_44:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang nằm, không xác định) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "tường - ở - người2 (không xác định - không xác định, mặc áo đỏ, đang nằm, không xác định)",
+  "bầu trời - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối) - gần - giấy (màu be)",
+  "giấy (màu be) - trên - bàn (màu ô liu)",
+  "tường - ở - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối) - gần - tường",
+  "chăn (màu trắng) - ở - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)"
+]
+```
+
+frame_45:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang ngủ, ngạc nhiên) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bối rối)",
+  "tường - ở - người2 (không xác định - không xác định, mặc áo đỏ, đang ngủ, ngạc nhiên)",
+  "bầu trời - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bối rối)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bối rối) - gần - giấy (màu be)",
+  "giấy (màu be) - trên - bàn (màu ô liu)",
+  "tường - ở - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bối rối) - gần - tường",
+  "chăn (màu trắng) - ở - người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bối rối)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bối rối) - bên cạnh - gối (màu hồng)"
+]
+```
+
+frame_46:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang nằm, ngạc nhiên) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "tường - ở - người2 (không xác định - không xác định, mặc áo đỏ, đang nằm, ngạc nhiên)",
+  "bầu trời - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối) - gần - giấy (màu be)",
+  "giấy (màu be) - trên - bàn (màu ô liu)",
+  "tường - ở - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối) - gần - tường",
+  "chăn (màu trắng) - ở - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối) - bên cạnh - gối (màu hồng)"
+]
+```
+
+frame_47:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang nhìn, ngạc nhiên) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "tường - ở - người2 (không xác định - không xác định, mặc áo đỏ, đang nhìn, ngạc nhiên)",
+  "bầu trời - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối) - gần - giấy (màu be)",
+  "giấy (màu be) - trên - bàn (màu ô liu)",
+  "tường - ở - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối) - gần - tường",
+  "chăn (màu trắng) - ở - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối) - bên cạnh - gối (màu hồng)"
+]
+```
+
+frame_48:
+```json
+[
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang nhìn, ngạc nhiên) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bối rối)",
+  "tường - ở - người2 (không xác định - không xác định, mặc áo đỏ, đang nhìn, ngạc nhiên)",
+  "bầu trời - ở trên - người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bối rối)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bối rối) - gần - giấy (màu be)",
+  "giấy (màu be) - trên - bàn (màu ô liu)",
+  "tường - ở - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bối rối) - gần - tường",
+  "chăn (màu trắng) - ở - người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bối rối)",
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bối rối) - bên cạnh - gối (màu hồng)",
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang nhìn, ngạc nhiên) - bên cạnh - người3 (không xác định - không xác định, mặc áo hồng, đang nhìn, bối rối)"
+]
+```
+
+frame_49:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bối rối) - trên - chăn (màu trắng)",
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang nhìn, ngạc nhiên) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang ngủ, bối rối)",
+  "sàn nhà - ở - người2 (không xác định - không xác định, mặc áo đỏ, đang nhìn, ngạc nhiên)"
+]
+```
+
+frame_50:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nhìn, bối rối) - trên - cà vạt (trắng)",
+  "người2 (không xác định - không xác định, mặc áo đỏ, đang nhìn, ngạc nhiên) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang nhìn, bối rối)",
+  "sàn nhà - ở - người2 (không xác định - không xác định, mặc áo đỏ, đang nhìn, ngạc nhiên)"
+]
+```
+
+frame_51:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối) - trên - chăn (màu xanh lam)",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo cam, đang nằm, bối rối)"
+]
+```
+
+frame_52:
+```json
+["người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, không xác định) - bên cạnh - người2"]
+```
+
+frame_53:
+```json
+["người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, không xác định) - bên cạnh - người2 (trưởng thành - không xác định, mặc áo hồng, đang nằm, không xác định)"]
+```
+
+frame_54:
+```json
+["người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, không xác định) - bên cạnh - người2 (trưởng thành - không xác định, mặc áo hồng, đang nằm, không xác định)"]
+```
+
+frame_55:
+```json
+["người1 (sơ sinh - không xác định, mặc áo hồng, đang nắn, không xác định) - bên cạnh - người2 (trưởng thành - không xác định, mặc áo hồng, đang nắn, không xác định)"]
+```
+
+frame_56:
+```json
+["người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, không xác định) - bên cạnh - người2 (trưởng thành - không xác định, mặc áo hồng, đang nằm, không xác định)"]
+```
+
+frame_57:
+```json
+["người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, không xác định) - bên cạnh - người2 (trưởng thành - nữ, mặc áo hoa, đang đứng, không xác định)"]
+```
+
+frame_58:
+```json
+["người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, không xác định) - bên cạnh - người2 (trưởng thành - nữ, đeo kính, không xác định, không xác định)"]
+```
+
+frame_59:
+```json
+["người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, không xác định) - bên cạnh - người2 (trưởng thành - nữ, mặc áo không xác định, đang không xác định, không xác định)", "người2 (trưởng thành - nữ, mặc áo không xác định, đang không xác định, không xác định) - bên cạnh - tường (màu xanh)"]
+```
+
+frame_60:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, không xác định) - bên cạnh - người2 (trưởng thành - nữ, mặc áo không xác định, đang không xác định, không xác định)",
+  "người2 (trưởng thành - nữ, mặc áo không xác định, đang không xác định, không xác định) - trên - sàn (màu tím)",
+  "người2 (trưởng thành - nữ, mặc áo không xác định, đang không xác định, không xác định) - trên - vỉa hè (màu xám)"
+]
+```
+
+frame_61:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, không xác định) - bên cạnh - người2 (trưởng thành - nữ, mặc áo không xác định, đang nhìn, không xác định)",
+  "người2 (trưởng thành - nữ, mặc áo không xác định, đang nhìn, không xác định) - trên - sàn (màu tím)",
+  "người2 (trưởng thành - nữ, mặc áo không xác định, đang nhìn, không xác định) - trên - vỉa hè (màu xám)"
+]
+```
+
+frame_62:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, không xác định) - bên cạnh - giấy (màu trắng)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, không xác định) - che - giấy (màu trắng)"
+]
+```
+
+frame_63:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, không xác định) - bên cạnh - người2 (trưởng thành - không xác định, không xác định, không xác định, không xác định)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, không xác định) - che - người2 (trưởng thành - không xác định, không xác định, không xác định, không xác định)",
+  "tường - bên cạnh - người2 (trưởng thành - không xác định, không xác định, không xác định, không xác định)"
+]
+```
+
+frame_64:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, không xác định) - bên cạnh - người2 (trưởng thành - không xác định, không xác định, không xác định, không xác định)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, không xác định) - che - người2 (trưởng thành - không xác định, không xác định, không xác định, không xác định)",
+  "tường - bên cạnh - người2 (trưởng thành - không xác định, không xác định, không xác định, không xác định)",
+  "tường - bên cạnh - rèm"
+]
+```
+
+frame_65:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, không xác định) - bên cạnh - người2 (trưởng thành - không xác định, không xác định, không xác định, không xác định)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, không xác định) - che - người2 (trưởng thành - không xác định, không xác định, không xác định, không xác định)",
+  "tường - bên cạnh - người2 (trưởng thành - không xác định, không xác định, không xác định, không xác định)",
+  "tường - bên cạnh - rèm"
+]
+```
+
+frame_66:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, không xác định) - bên cạnh - người2 (trưởng thành - không xác định, không xác định, không xác định, không xác định)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, không xác định) - che - người2 (trưởng thành - không xác định, không xác định, không xác định, không xác định)",
+  "tường - bên cạnh - người2 (trưởng thành - không xác định, không xác định, không xác định, không xác định)",
+  "tường - bên cạnh - chăn"
+]
+```
+
+frame_67:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, không xác định) - bên cạnh - chăn",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, không xác định) - che - chăn",
+  "tường - bên cạnh - chăn",
+  "rèm cửa - bên cạnh - chăn"
+]
+```
+
+frame_68:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngắm nhìn, hạnh phúc) - bên cạnh - chăn",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngắm nhìn, hạnh phúc) - che - chăn",
+  "tường - bên cạnh - chăn",
+  "rèm cửa - bên cạnh - chăn"
+]
+```
+
+frame_69:
+```json
+[
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - bên cạnh - chăn",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chăn",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - che - chăn",
+  "tường - bên cạnh - chăn",
+  "rèm cửa - bên cạnh - chăn"
+]
+```
+
+frame_70:
+```json
+[
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - bên cạnh - chăn",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chăn",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - che - chăn",
+  "tường - bên cạnh - chăn",
+  "rèm cửa - bên cạnh - chăn"
+]
+```
+
+frame_71:
+```json
+[
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngẩng đầu, bình yên)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngẩng đầu, bình yên) - che - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngẩng đầu, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngẩng đầu, bình yên)",
+  "tường - bên cạnh - giấy",
+  "tủ - bên cạnh - giấy"
+]
+```
+
+frame_72:
+```json
+[
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - che - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "tường - bên cạnh - giấy",
+  "tủ - bên cạnh - giấy"
+]
+```
+
+frame_73:
+```json
+[
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - che - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "tường - bên cạnh - giấy",
+  "tủ - bên cạnh - giấy"
+]
+```
+
+frame_74:
+```json
+[
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - che - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)"
+]
+```
+
+frame_75:
+```json
+[
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - che - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)"
+]
+```
+
+frame_76:
+```json
+[
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - che - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - tường"
+]
+```
+
+frame_77:
+```json
+[
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - che - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - tường"
+]
+```
+
+frame_78:
+```json
+[
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - che - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - tường"
+]
+```
+
+frame_79:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế"
+]
+```
+
+frame_80:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chân ghế"
+]
+```
+
+frame_81:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - chân ghế"
+]
+```
+
+frame_82:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "bình sữa (trong suốt) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)"
+]
+```
+
+frame_83:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "bình sữa (trong suốt) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "bình sữa (trong suốt) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)"
+]
+```
+
+frame_84:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "bình sữa (trong suốt) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "bình sữa (trong suốt) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)"
+]
+```
+
+frame_85:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "bình sữa (trong suốt) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "bình sữa (trong suốt) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)"
+]
+```
+
+frame_86:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "bình sữa (trong suốt) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang nằm, bình yên)",
+  "bình sữa (trong suốt) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)"
+]
+```
+
+frame_87:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "bình sữa (trong suốt) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "bình sữa (trong suốt) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)"
+]
+```
+
+frame_88:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngắm nhìn xung quanh, tò mò) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngắm nhìn xung quanh, tò mò) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngắm nhìn xung quanh, tò mò)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngắm nhìn xung quanh, tò mò)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngắm nhìn xung quanh, tò mò)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngắm nhìn xung quanh, tò mò) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngắm nhìn xung quanh, tò mò) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngắm nhìn xung quanh, tò mò) - bên cạnh - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngắm nhìn xung quanh, tò mò) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "bình sữa (trong suốt) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngắm nhìn xung quanh, tò mò)",
+  "bình sữa (trong suốt) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)"
+]
+```
+
+frame_89:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "bình sữa (trong suốt) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "bình sữa (trong suốt) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "kéo (màu tím) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)"
+]
+```
+
+frame_90:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "bình sữa (trong suốt) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "bình sữa (trong suốt) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "kéo (màu tím) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)"
+]
+```
+
+frame_91:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "bình sữa (trong suốt) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "bình sữa (trong suốt) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "kéo (màu tím) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)"
+]
+```
+
+frame_92:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "bình sữa (trong suốt) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)",
+  "bình sữa (trong suốt) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "kéo (màu tím) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngủ, bình yên)"
+]
+```
+
+frame_93:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - bên cạnh - chân ghế",
+  "người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ) - cho - bình sữa (trong suốt)",
+  "bình sữa (trong suốt) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)",
+  "bình sữa (trong suốt) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "kéo (màu tím) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)"
+]
+```
+
+frame_94:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - bên cạnh - chân ghế",
+  "người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ) - cho - bình sữa (trong suốt)",
+  "bình sữa (trong suốt) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)",
+  "bình sữa (trong suốt) - bên cạnh - người3 (không xác định - không xác định, mặc quần áo không rõ, đang ôm bình sữa, không rõ)",
+  "kéo (màu tím) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)"
+]
+```
+
+frame_95:
+```json
+[
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - che - giấy (màu be)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - bên cạnh - chăn",
+  "tường - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)",
+  "rèm cửa - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)",
+  "sàn nhà - bên dưới - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)",
+  "tường - bên cạnh - cửa sổ",
+  "cửa sổ - bên cạnh - rèm cửa",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - cửa sổ",
+  "người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ) - che - tường",
+  "sàn nhà - bên dưới - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - bên cạnh - tường",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - bên cạnh - người2 (không xác định - không xác định, mặc quần áo sẫm màu, đang đứng, không rõ)",
+  "sàn nhà - bên dưới - chân ghế",
+  "tường - phía trên - chân ghế",
+  "người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên) - bên cạnh - chân ghế",
+  "người3 (người lớn - nữ, mặc áo hồng, đang cho ăn, hạnh phúc) - cho - bình sữa (trong suốt)",
+  "bình sữa (trong suốt) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)",
+  "bình sữa (trong suốt) - bên cạnh - người3 (người lớn - nữ, mặc áo hồng, đang cho ăn, hạnh phúc)",
+  "kéo (màu tím) - bên cạnh - người1 (sơ sinh - không xác định, mặc áo hồng, đang ngậm bình sữa, bình yên)"
+]
+```
+

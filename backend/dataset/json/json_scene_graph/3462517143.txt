@@ -1,0 +1,607 @@
+frame_0:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang uống nước, vui vẻ) - gần - nước",
+  "chó1 (trưởng thành, lông trắng, đang uống nước, vui vẻ) - gần - bể nước (màu xanh)",
+  "bể nước (màu xanh) - trên - cỏ",
+  "bò (màu trắng) - trên - cỏ",
+  "cỏ - gần - đá",
+  "chó1 (trưởng thành, lông trắng, đang uống nước, vui vẻ) - gần - đá",
+  "tường - gần - cỏ",
+  "tường - phía sau - hàng rào",
+  "hàng rào - gần - cây",
+  "chó2 (trưởng thành, lông nâu, đang nhìn, bình thường) - gần - bể nước (màu xanh)"
+]
+```
+
+frame_1:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang đứng, vui vẻ) - gần - bát (màu xanh lá cây)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, vui vẻ) - gần - chó2 (trưởng thành, lông nâu, đang đứng, bình thường)",
+  "bát (màu xanh lá cây) - trên - cỏ",
+  "cỏ - gần - đá",
+  "tường - gần - cỏ",
+  "tường - phía sau - hàng rào",
+  "hàng rào - gần - cây",
+  "chó2 (trưởng thành, lông nâu, đang đứng, bình thường) - gần - bát (màu xanh lá cây)"
+]
+```
+
+frame_2:
+```json
+[
+  "ch\u00f31 (tr\u01b0\u1edfng th\u00e0nh, l\u00f4ng tr\u1eafng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - b\u00e1t (m\u00e0u h\u1ed3ng)",
+  "ch\u00f31 (tr\u01b0\u1edfng th\u00e0nh, l\u00f4ng tr\u1eafng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - ch\u00f32 (tr\u01b0\u1edfng th\u00e0nh, l\u00f4ng n\u00e2u, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng)",
+  "b\u00e1t (m\u00e0u h\u1ed3ng) - tr\u00ean - c\u1ecf",
+  "c\u1ecf - g\u1ea7n - \u0111\u00e1",
+  "t\u01b0\u1eddng - g\u1ea7n - c\u1ecf",
+  "t\u01b0\u1eddng - ph\u00eda sau - h\u00e0ng r\u00e0o",
+  "h\u00e0ng r\u00e0o - g\u1ea7n - c\u00e2y",
+  "ch\u00f32 (tr\u01b0\u1edfng th\u00e0nh, l\u00f4ng n\u00e2u, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - g\u1ea7n - b\u00e1t (m\u00e0u h\u1ed3ng)"
+]
+```
+
+frame_3:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang đứng, vui vẻ) - gần - bát (màu hồng)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, vui vẻ) - gần - chó2 (trưởng thành, lông nâu, đang đứng, bình thường)",
+  "bát (màu hồng) - trên - cỏ",
+  "cỏ - gần - đá",
+  "tường - gần - cỏ",
+  "tường - phía sau - hàng rào",
+  "hàng rào - gần - cây",
+  "chó2 (trưởng thành, lông nâu, đang đứng, bình thường) - gần - bát (màu hồng)",
+  "tường-gỗ - gần - tường",
+  "cừu 1 (lông trắng) - gần - bát (màu hồng)",
+  "chó2 (trưởng thành, lông nâu, đang đứng, bình thường) - gần - cỏ"
+]
+```
+
+frame_4:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang đứng, vui vẻ) - gần - bát (màu hồng)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, vui vẻ) - gần - chó2 (trưởng thành, lông nâu, đang đứng, bình thường)",
+  "bát (màu hồng) - trên - cỏ",
+  "cỏ - gần - đá",
+  "tường - gần - cỏ",
+  "tường - phía sau - hàng rào",
+  "hàng rào - gần - cây",
+  "chó2 (trưởng thành, lông nâu, đang đứng, bình thường) - gần - bát (màu hồng)",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - cừu 1 (lông trắng)",
+  "cừu 1 (lông trắng) - gần - cỏ"
+]
+```
+
+frame_5:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang đứng, vui vẻ) - gần - bát1 (màu xanh)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, vui vẻ) - gần - chó2 (trưởng thành, lông nâu, đang đứng, bình thường)",
+  "bát1 (màu xanh) - trên - cỏ",
+  "cỏ - gần - đá",
+  "tường - gần - cỏ",
+  "tường - phía sau - hàng rào",
+  "hàng rào - gần - cây",
+  "chó2 (trưởng thành, lông nâu, đang đứng, bình thường) - gần - bát1 (màu xanh)",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - cừu1 (lông trắng)",
+  "cừu1 (lông trắng) - gần - cỏ",
+  "cừu1 (lông trắng) - gần - bát1 (màu xanh)"
+]
+```
+
+frame_6:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang uống nước, vui vẻ) - gần - bát1 (màu xanh)",
+  "bát1 (màu xanh) - trên - cỏ",
+  "cỏ - gần - đá",
+  "tường - gần - cỏ",
+  "tường - phía sau - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang uống nước, vui vẻ)"
+]
+```
+
+frame_7:
+```json
+[
+  "ch\u00f31 (tr\u01b0\u1edfng th\u00e0nh, l\u00f4ng tr\u1eafng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - b\u00e1t1 (m\u00e0u xanh)",
+  "b\u00e1t1 (m\u00e0u xanh) - tr\u00ean - c\u1ecf",
+  "c\u1ecf - g\u1ea7n - \u0111\u00e1",
+  "t\u01b0\u1eddng - g\u1ea7n - c\u1ecf",
+  "t\u01b0\u1eddng - ph\u00eda sau - h\u00e0ng r\u00e0o",
+  "h\u00e0ng r\u00e0o - g\u1ea7n - c\u00e2y",
+  "t\u01b0\u1eddng-g\u1ed7 - g\u1ea7n - t\u01b0\u1eddng",
+  "c\u1ecf - g\u1ea7n - ch\u00f31 (tr\u01b0\u1edfng th\u00e0nh, l\u00f4ng tr\u1eafng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb)"
+]
+```
+
+frame_8:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang đứng, vui vẻ) - gần - bát1 (màu xanh)",
+  "bát1 (màu xanh) - trên - cỏ",
+  "cỏ - gần - đá",
+  "tường - gần - cỏ",
+  "tường - phía sau - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, vui vẻ)"
+]
+```
+
+frame_9:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang đứng, vui vẻ) - ở trong - ván lướt sóng1 (màu trắng)",
+  "ván lướt sóng1 (màu trắng) - trên - cỏ",
+  "cỏ - gần - đá",
+  "tường - gần - cỏ",
+  "tường - phía sau - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, vui vẻ)"
+]
+```
+
+frame_10:
+```json
+[
+  "ch\u00f31 (tr\u01b0\u1edfng th\u00e0nh, l\u00f4ng tr\u1eafng, \u0111ang \u0111\u1ee9ng, t\u1ea1o d\u00e1ng) - \u1edf trong - b\u00e1t1 (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "b\u00e1t1 (m\u00e0u xanh l\u00e1 c\u00e2y) - tr\u00ean - c\u1ecf",
+  "c\u1ecf - g\u1ea7n - \u0111\u00e1",
+  "t\u01b0\u1eddng - g\u1ea7n - c\u1ecf",
+  "t\u01b0\u1eddng - ph\u00eda sau - h\u00e0ng r\u00e0o",
+  "h\u00e0ng r\u00e0o - g\u1ea7n - c\u00e2y",
+  "t\u01b0\u1eddng-g\u1ed7 - g\u1ea7n - t\u01b0\u1eddng",
+  "c\u1ecf - g\u1ea7n - ch\u00f31 (tr\u01b0\u1edfng th\u00e0nh, l\u00f4ng tr\u1eafng, \u0111ang \u0111\u1ee9ng, t\u1ea1o d\u00e1ng)"
+]
+```
+
+frame_11:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - ở trong - bát1 (màu xanh lá cây)",
+  "bát1 (màu xanh lá cây) - trên - cỏ",
+  "cỏ - gần - đá",
+  "tường - gần - cỏ",
+  "tường - phía sau - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)"
+]
+```
+
+frame_12:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - ở trong - bát1 (màu xanh lá cây)",
+  "bát1 (màu xanh lá cây) - trên - cỏ",
+  "cỏ - gần - đá",
+  "tường - gần - cỏ",
+  "tường - phía sau - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)"
+]
+```
+
+frame_13:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - ở trong - bát1 (màu xanh lá cây)",
+  "bát1 (màu xanh lá cây) - trên - cỏ",
+  "cỏ - gần - đá",
+  "tường - gần - cỏ",
+  "tường - phía sau - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)"
+]
+```
+
+frame_14:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - ở trong - bát1 (màu xanh lá cây)",
+  "bát1 (màu xanh lá cây) - trên - cỏ",
+  "cỏ - gần - tường",
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)"
+]
+```
+
+frame_15:
+```json
+[
+  "ch\u00f31 (tr\u01b0\u1edfng th\u00e0nh, l\u00f4ng tr\u1eafng, \u0111ang u\u1ed1ng n\u01b0\u1edbc, t\u00f2 m\u00f2) - \u1edf trong - b\u00e1t1 (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "b\u00e1t1 (m\u00e0u xanh l\u00e1 c\u00e2y) - tr\u00ean - c\u1ecf",
+  "c\u1ecf - g\u1ea7n - t\u01b0\u1eddng",
+  "t\u01b0\u1eddng - g\u1ea7n - h\u00e0ng r\u00e0o",
+  "h\u00e0ng r\u00e0o - g\u1ea7n - c\u00e2y",
+  "t\u01b0\u1eddng-g\u1ed7 - g\u1ea7n - t\u01b0\u1eddng",
+  "c\u1ecf - g\u1ea7n - ch\u00f31 (tr\u01b0\u1edfng th\u00e0nh, l\u00f4ng tr\u1eafng, \u0111ang u\u1ed1ng n\u01b0\u1edbc, t\u00f2 m\u00f2)",
+  "ch\u00f32 (tr\u01b0\u1edfng th\u00e0nh, l\u00f4ng tr\u1eafng, \u0111ang \u0111\u1ee9ng, t\u00f2 m\u00f2) - g\u1ea7n - b\u00e1t1 (m\u00e0u xanh l\u00e1 c\u00e2y)"
+]
+```
+
+frame_16:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang uống nước, tò mò) - ở trong - bát1 (màu xanh lá cây)",
+  "bát1 (màu xanh lá cây) - trên - cỏ",
+  "cỏ - gần - tường",
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang uống nước, tò mò)",
+  "chó2 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bát1 (màu xanh lá cây)"
+]
+```
+
+frame_17:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang uống nước, tò mò) - ở trong - bát1 (màu xanh lá cây)",
+  "bát1 (màu xanh lá cây) - trên - cỏ",
+  "cỏ - gần - tường",
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang uống nước, tò mò)",
+  "chó2 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bát1 (màu xanh lá cây)"
+]
+```
+
+frame_18:
+```json
+[
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - ở trong - bát1 (màu xanh lá cây)",
+  "bát1 (màu xanh lá cây) - trên - cỏ",
+  "cỏ - gần - tường",
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "chó2 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bát1 (màu xanh lá cây)",
+  "chó2 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - đá"
+]
+```
+
+frame_19:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang ngửi, tò mò)",
+  "chó2 (trưởng thành, lông trắng, đang ngửi, tò mò) - gần - bồn rửa (màu xám)",
+  "chó2 (trưởng thành, lông trắng, đang ngửi, tò mò) - gần - cỏ",
+  "bồn rửa (màu xám) - trên - cỏ",
+  "chó1 (trưởng thành, lông trắng, đang ngửi, tò mò) - gần - bồn rửa (màu xám)"
+]
+```
+
+frame_20:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang ngồi, tò mò)",
+  "chó2 (trưởng thành, lông trắng, đang ngồi, tò mò) - gần - bồn rửa (màu xám)",
+  "chó2 (trưởng thành, lông trắng, đang ngồi, tò mò) - gần - cỏ",
+  "bồn rửa (màu xám) - trên - cỏ",
+  "chó1 (trưởng thành, lông trắng, đang ngồi, tò mò) - gần - bồn rửa (màu xám)",
+  "bò (84%) - trên - cỏ"
+]
+```
+
+frame_21:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang ngồi, tò mò)",
+  "chó2 (trưởng thành, lông trắng, đang ngồi, tò mò) - gần - bồn rửa (màu xám)",
+  "chó2 (trưởng thành, lông trắng, đang ngồi, tò mò) - gần - cỏ",
+  "bồn rửa (màu xám) - trên - cỏ",
+  "chó1 (trưởng thành, lông trắng, đang ngồi, tò mò) - gần - bồn rửa (màu xám)",
+  "bò (98%) - trên - cỏ",
+  "bò (98%) - gần - bồn rửa (màu xám)",
+  "bò (98%) - gần - tường",
+  "bò (98%) - gần - hàng rào",
+  "bò (98%) - gần - cây"
+]
+```
+
+frame_22:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang ngồi, tò mò)",
+  "chó2 (trưởng thành, lông trắng, đang ngồi, tò mò) - gần - bồn rửa (màu xám)",
+  "chó2 (trưởng thành, lông trắng, đang ngồi, tò mò) - gần - cỏ",
+  "bồn rửa (màu xám) - trên - cỏ",
+  "chó1 (trưởng thành, lông trắng, đang ngồi, tò mò) - gần - bồn rửa (màu xám)",
+  "bò (98%) - trên - cỏ",
+  "bò (98%) - gần - bồn rửa (màu xám)",
+  "bò (98%) - gần - tường",
+  "bò (98%) - gần - hàng rào",
+  "bò (98%) - gần - cây"
+]
+```
+
+frame_23:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang ngồi, tò mò)",
+  "chó2 (trưởng thành, lông trắng, đang ngồi, tò mò) - gần - bồn rửa (màu xám)",
+  "chó2 (trưởng thành, lông trắng, đang ngồi, tò mò) - gần - cỏ",
+  "bồn rửa (màu xám) - trên - cỏ",
+  "chó1 (trưởng thành, lông trắng, đang ngồi, tò mò) - gần - bồn rửa (màu xám)",
+  "bò (98%) - trên - cỏ",
+  "bò (98%) - gần - bồn rửa (màu xám)",
+  "bò (98%) - gần - tường",
+  "bò (98%) - gần - hàng rào",
+  "bò (98%) - gần - cây"
+]
+```
+
+frame_24:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bồn rửa (màu xám)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - cỏ",
+  "bồn rửa (màu xám) - trên - cỏ",
+  "chó2 (trưởng thành, lông trắng, đang ngồi, tò mò) - gần - bồn rửa (màu xám)",
+  "bò (98%) - trên - cỏ",
+  "bò (98%) - gần - bồn rửa (màu xám)",
+  "bò (98%) - gần - tường",
+  "bò (98%) - gần - hàng rào",
+  "bò (98%) - gần - cây"
+]
+```
+
+frame_25:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bồn rửa (màu xám)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - cỏ",
+  "bồn rửa (màu xám) - trên - cỏ",
+  "bò - trên - cỏ",
+  "bò - gần - bồn rửa (màu xám)",
+  "bò - gần - tường",
+  "bò - gần - hàng rào",
+  "bò - gần - cây",
+  "đá - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)"
+]
+```
+
+frame_26:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bồn rửa (màu xám)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - cỏ",
+  "bồn rửa (màu xám) - trên - cỏ",
+  "bò - trên - cỏ",
+  "bò - gần - bồn rửa (màu xám)",
+  "bò - gần - tường",
+  "bò - gần - hàng rào",
+  "bò - gần - cây",
+  "đá - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "cỏ - gần - chó2 (trưởng thành, lông trắng, đang nằm, vui vẻ)",
+  "chó2 (trưởng thành, lông trắng, đang nằm, vui vẻ) - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)"
+]
+```
+
+frame_27:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bồn rửa (màu xám)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - cỏ",
+  "bồn rửa (màu xám) - trên - cỏ",
+  "bò - trên - cỏ",
+  "bò - gần - bồn rửa (màu xám)",
+  "bò - gần - tường",
+  "bò - gần - hàng rào",
+  "bò - gần - cây",
+  "đá - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "cỏ - gần - chó2 (trưởng thành, lông trắng, đang nằm, vui vẻ)",
+  "chó2 (trưởng thành, lông trắng, đang nằm, vui vẻ) - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)"
+]
+```
+
+frame_28:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bồn rửa (màu xanh)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - cỏ",
+  "bồn rửa (màu xanh) - trên - cỏ",
+  "bò - trên - cỏ",
+  "bò - gần - bồn rửa (màu xanh)",
+  "bò - gần - tường",
+  "bò - gần - hàng rào",
+  "bò - gần - cây",
+  "đá - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "cỏ - gần - chó2 (trưởng thành, lông trắng, đang nằm, vui vẻ)",
+  "chó2 (trưởng thành, lông trắng, đang nằm, vui vẻ) - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "đá - gần - bò"
+]
+```
+
+frame_29:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bồn rửa (màu xanh)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - cỏ",
+  "bồn rửa (màu xanh) - trên - cỏ",
+  "đá - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "cỏ - gần - chó2 (trưởng thành, lông trắng, đang nằm, vui vẻ)",
+  "chó2 (trưởng thành, lông trắng, đang nằm, vui vẻ) - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "đá - gần - bồn rửa (màu xanh)"
+]
+```
+
+frame_30:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bồn rửa (màu xanh)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - cỏ",
+  "bồn rửa (màu xanh) - trên - cỏ",
+  "đá - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "cỏ - gần - chó2 (trưởng thành, lông trắng, đang nằm, vui vẻ)",
+  "chó2 (trưởng thành, lông trắng, đang nằm, vui vẻ) - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "đá - gần - bồn rửa (màu xanh)"
+]
+```
+
+frame_31:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bồn rửa (màu xanh)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - cỏ",
+  "bồn rửa (màu xanh) - trên - cỏ",
+  "đá - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "cỏ - gần - chó2 (trưởng thành, lông trắng, đang nằm, vui vẻ)",
+  "chó2 (trưởng thành, lông trắng, đang nằm, vui vẻ) - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "đá - gần - bồn rửa (màu xanh)"
+]
+```
+
+frame_32:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bồn rửa (màu xanh)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - cỏ",
+  "bồn rửa (màu xanh) - trên - cỏ",
+  "đá - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "cỏ - gần - bò1 (màu xám, đang nằm, không thể hiện cảm xúc)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bò1 (màu xám, đang nằm, không thể hiện cảm xúc)",
+  "đá - gần - bồn rửa (màu xanh)"
+]
+```
+
+frame_33:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bồn rửa (màu xanh)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - cỏ",
+  "bồn rửa (màu xanh) - trên - cỏ",
+  "đá - gần - chó1 (trưởng thành, lông trắng, đang đứng, tò mò)",
+  "cỏ - gần - bò1 (màu xám, đang nằm, không thể hiện cảm xúc)",
+  "chó1 (trưởng thành, lông trắng, đang đứng, tò mò) - gần - bò1 (màu xám, đang nằm, không thể hiện cảm xúc)",
+  "đá - gần - bồn rửa (màu xanh)",
+  "bò1 (màu xám, đang nằm, không thể hiện cảm xúc) - trên - cỏ"
+]
+```
+
+frame_34:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang nhìn, tò mò)",
+  "chó1 (trưởng thành, lông trắng, đang nhìn, tò mò) - gần - bồn rửa (màu xanh)",
+  "chó1 (trưởng thành, lông trắng, đang nhìn, tò mò) - gần - cỏ",
+  "bồn rửa (màu xanh) - trên - cỏ",
+  "đá - gần - chó1 (trưởng thành, lông trắng, đang nhìn, tò mò)",
+  "cỏ - gần - bò1 (màu xám, đang nằm, không thể hiện cảm xúc)",
+  "chó1 (trưởng thành, lông trắng, đang nhìn, tò mò) - gần - bò1 (màu xám, đang nằm, không thể hiện cảm xúc)",
+  "đá - gần - bồn rửa (màu xanh)",
+  "bò1 (màu xám, đang nằm, không thể hiện cảm xúc) - trên - cỏ",
+  "bò1 (màu xám, đang nằm, không thể hiện cảm xúc) - gần - cỏ"
+]
+```
+
+frame_35:
+```json
+[
+  "tường - gần - hàng rào",
+  "hàng rào - gần - cây",
+  "tường-gỗ - gần - tường",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang nhìn, tò mò)",
+  "chó1 (trưởng thành, lông trắng, đang nhìn, tò mò) - gần - bồn rửa (màu xanh)",
+  "chó1 (trưởng thành, lông trắng, đang nhìn, tò mò) - gần - cỏ",
+  "bồn rửa (màu xanh) - trên - cỏ",
+  "đá - gần - chó1 (trưởng thành, lông trắng, đang nhìn, tò mò)",
+  "cỏ - gần - bò1 (màu xám, đang nằm, không thể hiện cảm xúc)",
+  "chó1 (trưởng thành, lông trắng, đang nhìn, tò mò) - gần - bò1 (màu xám, đang nằm, không thể hiện cảm xúc)",
+  "đá - gần - bồn rửa (màu xanh)",
+  "bò1 (màu xám, đang nằm, không thể hiện cảm xúc) - trên - cỏ",
+  "bò1 (màu xám, đang nằm, không thể hiện cảm xúc) - gần - cỏ"
+]
+```
+
+frame_36:
+```json
+[
+  "cừu1 - gần - cỏ",
+  "cỏ - gần - đá",
+  "đá - gần - bồn rửa (màu xanh)",
+  "bồn rửa (màu xanh) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, bình thường) - trên - cỏ",
+  "cỏ - gần - người1 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, bình thường)",
+  "chó1 (trưởng thành, lông trắng, đang nhin, tò mò) - gần - cừu1",
+  "chó1 (trưởng thành, lông trắng, đang nhin, tò mò) - gần - bồn rửa (màu xanh)",
+  "chó1 (trưởng thành, lông trắng, đang nhin, tò mò) - gần - cỏ",
+  "đá - gần - chó1 (trưởng thành, lông trắng, đang nhin, tò mò)",
+  "cỏ - gần - chó1 (trưởng thành, lông trắng, đang nhin, tò mò)"
+]
+```
+

@@ -1,0 +1,758 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - ghế1 (hồng)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - ghế1 (hồng)",
+  "ghế1 (hồng) - gần - cây (xanh)",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - ghế1 (hồng)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - ghế1 (hồng)",
+  "ghế1 (hồng) - gần - cây (xanh)",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - ghế1 (hồng)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - ghế1 (hồng)",
+  "ghế1 (hồng) - gần - cây (xanh)",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - ghế1 (hồng)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - ghế1 (hồng)",
+  "ghế1 (hồng) - gần - cây (xanh)",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - ghế1 (hồng)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - ghế1 (hồng)",
+  "ghế1 (hồng) - gần - cây (xanh)",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - gần - người2 (trẻ, mặc áo khoác, đang đứng)",
+  "hàng rào (nâu) - gần - ghế1 (hồng)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - tòa nhà",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - tòa nhà",
+  "tòa nhà - gần - cây (xanh)",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - gần - người2 (trẻ, mặc áo khoác, đang đứng)",
+  "hàng rào (nâu) - gần - tòa nhà"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - tòa nhà",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - tòa nhà",
+  "tòa nhà - gần - cây (xanh)",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - gần - người2 (trẻ, mặc áo khoác, đang đứng)",
+  "hàng rào (nâu) - gần - tòa nhà",
+  "người3 (trẻ, mặc áo trắng, đang ngồi) - đứng trên - tòa nhà",
+  "ghế (nâu) - gần - tòa nhà"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - mái nhà",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - mái nhà",
+  "tòa nhà - gần - cây (xanh)",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - gần - người2 (trẻ, mặc áo khoác, đang đứng)",
+  "hàng rào (nâu) - gần - tòa nhà",
+  "người3 (trẻ, mặc áo trắng, đang ngồi) - đứng trên - mái nhà",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - tòa nhà",
+  "hàng rào (nâu) - gần - tòa nhà"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - mái nhà",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "tòa nhà - gần - cây (xanh)",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - mái nhà",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - gần - người2 (trẻ, mặc áo khoác, đang đứng)",
+  "hàng rào (nâu) - gần - tòa nhà",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - đứng trên - mái nhà",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - tòa nhà",
+  "hàng rào (nâu) - gần - tòa nhà",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "cây (xanh) - gần - mái nhà"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - tòa nhà",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "tòa nhà - gần - cây (xanh)",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - tòa nhà",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - gần - người2 (trẻ, mặc áo khoác, đang đứng)",
+  "hàng rào (nâu) - gần - tòa nhà",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - đứng trên - tòa nhà",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - tòa nhà",
+  "hàng rào (nâu) - gần - tòa nhà",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "cây (xanh) - gần - tòa nhà",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - tòa nhà",
+  "tòa nhà - gần - hàng rào (nâu)",
+  "tòa nhà - gần - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người4 (trưởng thành, mặc áo cam, đang đứng im)"
+]
+```
+
+frame_10:
+```json
+[
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - đứng trên - tòa nhà",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "tòa nhà - gần - cây (xanh)",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - tòa nhà",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - gần - người2 (trẻ, mặc áo khoác, đang đứng)",
+  "hàng rào (nâu) - gần - tòa nhà",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - đứng trên - tòa nhà",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - tòa nhà",
+  "hàng rào (nâu) - gần - tòa nhà",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "cây (xanh) - gần - tòa nhà",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - tòa nhà",
+  "tòa nhà - gần - hàng rào (nâu)",
+  "tòa nhà - gần - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người4 (trưởng thành, mặc áo cam, đang đứng im)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - đứng trên - tòa nhà",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - gần - người3 (trẻ, mặc áo trắng, đang vẫy tay)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - người6 (trưởng thành, mặc áo hồng, đang đứng)",
+  "cây (xanh) - gần - người6 (trưởng thành, mặc áo hồng, đang đứng)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - gần - người6 (trưởng thành, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_11:
+```json
+[
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - đứng trên - cây (xanh)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "cây (xanh) - gần - cây (xanh)",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - cây (xanh)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - gần - người2 (trẻ, mặc áo khoác, đang đứng)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "cây (xanh) - gần - cây (xanh)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người4 (trưởng thành, mặc áo cam, đang đứng im)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - đứng trên - cây (xanh)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - gần - người3 (trẻ, mặc áo trắng, đang vẫy tay)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - người6 (trưởng thành, mặc áo hồng, đang đứng)",
+  "cây (xanh) - gần - người6 (trưởng thành, mặc áo hồng, đang đứng)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - gần - người6 (trưởng thành, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_12:
+```json
+[
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - đứng trên - cây (xanh)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "cây (xanh) - gần - cây (xanh)",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - cây (xanh)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - gần - người2 (trẻ, mặc áo khoác, đang đứng)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "cây (xanh) - gần - cây (xanh)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người4 (trưởng thành, mặc áo cam, đang đứng im)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - đứng trên - cây (xanh)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - gần - người3 (trẻ, mặc áo trắng, đang vẫy tay)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - người5 (trẻ, mặc áo hồng, đang giơ tay)",
+  "cây (xanh) - gần - người5 (trẻ, mặc áo hồng, đang giơ tay)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - gần - hàng rào (màu xám)"
+]
+```
+
+frame_13:
+```json
+[
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - đứng trên - cây (xanh)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "cây (xanh) - gần - cây (xanh)",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - cây (xanh)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - gần - người2 (trẻ, mặc áo khoác, đang đứng)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "cây (xanh) - gần - cây (xanh)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người4 (trưởng thành, mặc áo cam, đang đứng im)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - đứng trên - cây (xanh)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - gần - người3 (trẻ, mặc áo trắng, đang vẫy tay)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - người5 (trẻ, mặc áo hồng, đang giơ tay)",
+  "cây (xanh) - gần - người5 (trẻ, mặc áo hồng, đang giơ tay)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - gần - hàng rào (màu xám)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - mái nhà (đen)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - đứng trên - mái nhà (đen)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - đứng trên - toà nhà (trắng)"
+]
+```
+
+frame_14:
+```json
+[
+  "bầu trời - ở trên - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "cây (xanh) - gần - cây (xanh)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - gần - người2 (trẻ, mặc áo khoác, đang đứng)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - mái nhà (đen)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người1 (trẻ, mặc áo trắng, đang giơ tay)",
+  "cây (xanh) - gần - cây (xanh)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo trắng, đang giơ tay) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người4 (trưởng thành, mặc áo cam, đang đứng im)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - đứng trên - cây (xanh)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - gần - người3 (trẻ, mặc áo trắng, đang vẫy tay)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - người5 (trẻ, mặc áo hồng, đang giơ tay)",
+  "cây (xanh) - gần - người5 (trẻ, mặc áo hồng, đang giơ tay)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - gần - hàng rào (màu xám)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - đứng trên - mái nhà (đen)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - đứng trên - toà nhà (trắng)"
+]
+```
+
+frame_15:
+```json
+[
+  "bầu trời - ở trên - người5 (trẻ, mặc áo hồng, đang giơ tay)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "cây (xanh) - gần - cây (xanh)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - cây (xanh)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - gần - người2 (trẻ, mặc áo khoác, đang đứng)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - đứng trên - mái nhà (đen)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người5 (trẻ, mặc áo hồng, đang giơ tay)",
+  "cây (xanh) - gần - cây (xanh)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - cây (xanh)",
+  "người5 (trẻ, mặc áo hồng, đang giơ tay) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người4 (trưởng thành, mặc áo cam, đang đứng im)",
+  "người1 (trẻ, mặc áo hồng, đang giơ tay) - đứng trên - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang giơ tay) - gần - người3 (trẻ, mặc áo trắng, đang vẫy tay)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - người1 (trẻ, mặc áo hồng, đang giơ tay)",
+  "cây (xanh) - gần - người1 (trẻ, mặc áo hồng, đang giơ tay)",
+  "người1 (trẻ, mặc áo hồng, đang giơ tay) - gần - hàng rào (màu xám)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - đứng trên - cây (xanh)"
+]
+```
+
+frame_16:
+```json
+[
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang leo tr\u00e8o)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o kho\u00e1c, \u0111ang \u0111\u1ee9ng) - g\u1ea7n - c\u00e2y (xanh)",
+  "c\u00e2y (xanh) - g\u1ea7n - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o kho\u00e1c, \u0111ang \u0111\u1ee9ng) - \u0111\u1ee9ng tr\u00ean - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang v\u1eaby tay) - \u0111\u1ee9ng tr\u00ean - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang v\u1eaby tay) - g\u1ea7n - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang gi\u01a1 tay) - g\u1ea7n - ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o kho\u00e1c, \u0111ang \u0111\u1ee9ng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang gi\u01a1 tay) - \u0111\u1ee9ng tr\u00ean - m\u00e1i nh\u00e0 (\u0111en)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang v\u1eaby tay) - g\u1ea7n - ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang gi\u01a1 tay)",
+  "c\u00e2y (xanh) - g\u1ea7n - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng im) - g\u1ea7n - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang gi\u01a1 tay) - \u0111\u1ee9ng tr\u00ean - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang v\u1eaby tay) - g\u1ea7n - ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng im)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang leo tr\u00e8o) - \u0111\u1ee9ng tr\u00ean - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang leo tr\u00e8o) - g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang v\u1eaby tay)",
+  "ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng im) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang leo tr\u00e8o)",
+  "c\u00e2y (xanh) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang leo tr\u00e8o)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang leo tr\u00e8o) - g\u1ea7n - h\u00e0ng r\u00e0o (m\u00e0u x\u00e1m)",
+  "ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng im) - \u0111\u1ee9ng tr\u00ean - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang leo tr\u00e8o) - g\u1ea7n - ng\u01b0\u1eddi6 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng)",
+  "ng\u01b0\u1eddi6 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u0111\u1ee9ng tr\u00ean - m\u00e1i nh\u00e0 (\u0111en)"
+]
+```
+
+frame_17:
+```json
+[
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang leo trèo)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "cây (xanh) - gần - cây (xanh)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - cây (xanh)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - gần - người2 (trẻ, mặc áo khoác, đang đứng)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - đứng trên - mái nhà (đen)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "cây (xanh) - gần - cây (xanh)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - cây (xanh)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - đứng trên - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người4 (trưởng thành, mặc áo cam, đang đứng im)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - đứng trên - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - gần - người3 (trẻ, mặc áo trắng, đang vẫy tay)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - người1 (trẻ, mặc áo hồng, đang leo trèo)",
+  "cây (xanh) - gần - người1 (trẻ, mặc áo hồng, đang leo trèo)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - gần - hàng rào (màu xám)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - đứng trên - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - gần - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - đứng trên - cây (xanh)"
+]
+```
+
+frame_18:
+```json
+[
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang leo trèo)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - cây (xanh)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - gần - người4 (trưởng thành, mặc áo cam, đang đứng im)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "cây (xanh) - gần - cây (xanh)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - cây (xanh)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - người1 (trẻ, mặc áo hồng, đang leo trèo)",
+  "cây (xanh) - gần - người1 (trẻ, mặc áo hồng, đang leo trèo)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - đứng trên - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - gần - người3 (trẻ, mặc áo trắng, đang vẫy tay)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - đứng trên - cây (xanh)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - đứng trên - cây (xanh)",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - đứng trên - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - gần - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - đứng trên - toà nhà",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - gần - người6 (trẻ, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_19:
+```json
+[
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang leo trèo)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - cây (xanh)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - gần - người4 (trưởng thành, mặc áo cam, đang đứng im)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "cây (xanh) - gần - cây (xanh)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - cây (xanh)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - người1 (trẻ, mặc áo hồng, đang leo trèo)",
+  "cây (xanh) - gần - người1 (trẻ, mặc áo hồng, đang leo trèo)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - đứng trên - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - gần - người3 (trẻ, mặc áo trắng, đang vẫy tay)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - đứng trên - cây (xanh)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - đứng trên - cây (xanh)",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - đứng trên - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - gần - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - đứng trên - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - gần - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "cây (xanh) - gần - tòa nhà"
+]
+```
+
+frame_20:
+```json
+[
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang leo trèo)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - cây (xanh)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - gần - người4 (trưởng thành, mặc áo cam, đang đứng im)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "cây (xanh) - gần - cây (xanh)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - cây (xanh)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - người1 (trẻ, mặc áo hồng, đang leo trèo)",
+  "cây (xanh) - gần - người1 (trẻ, mặc áo hồng, đang leo trèo)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - đứng trên - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - gần - người3 (trẻ, mặc áo trắng, đang vẫy tay)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - đứng trên - cây (xanh)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - đứng trên - cây (xanh)",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - đứng trên - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - gần - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - đứng trên - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang leo trèo) - gần - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "cây (xanh) - gần - tòa nhà"
+]
+```
+
+frame_21:
+```json
+[
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang trèo)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - cây (xanh)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - cây (xanh)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - gần - người4 (trưởng thành, mặc áo cam, đang đứng im)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "cây (xanh) - gần - cây (xanh)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - gần - cây (xanh)",
+  "người2 (trẻ, mặc áo khoác, đang đứng) - đứng trên - cây (xanh)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - gần - người1 (trẻ, mặc áo hồng, đang trèo)",
+  "cây (xanh) - gần - người1 (trẻ, mặc áo hồng, đang trèo)",
+  "người1 (trẻ, mặc áo hồng, đang trèo) - đứng trên - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang trèo) - gần - người3 (trẻ, mặc áo trắng, đang vẫy tay)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - đứng trên - cây (xanh)",
+  "người4 (trưởng thành, mặc áo cam, đang đứng im) - đứng trên - cây (xanh)",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - đứng trên - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang trèo) - gần - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "người3 (trẻ, mặc áo trắng, đang vẫy tay) - gần - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "người6 (trẻ, mặc áo hồng, đang đứng) - gần - cây (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang trèo) - đứng trên - tòa nhà",
+  "người1 (trẻ, mặc áo hồng, đang trèo) - gần - người6 (trẻ, mặc áo hồng, đang đứng)",
+  "cây (xanh) - gần - tòa nhà"
+]
+```
+
+frame_22:
+```json
+[
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang tr\u00e8o)",
+  "ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng im) - g\u1ea7n - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang v\u1eaby tay) - g\u1ea7n - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - g\u1ea7n - ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng im)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang v\u1eaby tay) - g\u1ea7n - ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng)",
+  "c\u00e2y (xanh) - g\u1ea7n - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o kho\u00e1c, \u0111ang \u0111\u1ee9ng) - g\u1ea7n - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c \u00e1o kho\u00e1c, \u0111ang \u0111\u1ee9ng) - \u0111\u1ee9ng tr\u00ean - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng im) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang tr\u00e8o)",
+  "c\u00e2y (xanh) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang tr\u00e8o)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang tr\u00e8o) - \u0111\u1ee9ng tr\u00ean - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang tr\u00e8o) - g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang v\u1eaby tay)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u0111\u1ee9ng tr\u00ean - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng im) - \u0111\u1ee9ng tr\u00ean - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi6 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - \u0111\u1ee9ng tr\u00ean - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang tr\u00e8o) - g\u1ea7n - ng\u01b0\u1eddi6 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb, m\u1eb7c \u00e1o tr\u1eafng, \u0111ang v\u1eaby tay) - g\u1ea7n - ng\u01b0\u1eddi6 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng)",
+  "ng\u01b0\u1eddi6 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - g\u1ea7n - c\u00e2y (xanh)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang tr\u00e8o) - \u0111\u1ee9ng tr\u00ean - t\u00f2a nh\u00e0",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang tr\u00e8o) - g\u1ea7n - ng\u01b0\u1eddi6 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng)",
+  "c\u00e2y (xanh) - g\u1ea7n - t\u00f2a nh\u00e0",
+  "c\u00e2y (xanh) - \u0111\u1ee9ng tr\u00ean - t\u00f2a nh\u00e0",
+  "ng\u01b0\u1eddi7 (tr\u1ebb, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng) - g\u1ea7n - c\u00e2y (xanh)"
+]
+```
+
+frame_23:
+```json
+[
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang đu dây)",
+  "cây (xanh) - gần - người1 (trẻ, mặc áo hồng, đang đu dây)"
+]
+```
+
+frame_24:
+```json
+[
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang treo lơ lửng)",
+  "người1 (trẻ, mặc áo hồng, đang treo lơ lửng) - ở trong - bầu trời"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang treo lơ lửng) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang treo lơ lửng)"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang treo lơ lửng) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang treo lơ lửng)"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang treo lơ lửng) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang treo lơ lửng)"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang treo lơ lửng) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang treo lơ lửng)"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang treo lơ lửng) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang treo lơ lửng)",
+  "người1 (trẻ, mặc áo hồng, đang treo lơ lửng) - gần - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - gần - người1 (trẻ, mặc áo hồng, đang treo lơ lửng)"
+]
+```
+
+frame_30:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang treo lơ lửng) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang treo lơ lửng)",
+  "người1 (trẻ, mặc áo hồng, đang treo lơ lửng) - gần - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - gần - người1 (trẻ, mặc áo hồng, đang treo lơ lửng)"
+]
+```
+
+frame_31:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang treo lơ lửng) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang treo lơ lửng)",
+  "người1 (trẻ, mặc áo hồng, đang treo lơ lửng) - gần - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - gần - người1 (trẻ, mặc áo hồng, đang treo lơ lửng)"
+]
+```
+
+frame_32:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang treo lơ lửng) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang treo lơ lửng)"
+]
+```
+
+frame_33:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang treo lơ lửng) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang treo lơ lửng)"
+]
+```
+
+frame_34:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang giơ tay) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang giơ tay)",
+  "cây - ở trong - bầu trời"
+]
+```
+
+frame_35:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang bám vào) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang bám vào)",
+  "cây - ở trong - bầu trời"
+]
+```
+
+frame_36:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang bám vào) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang bám vào)",
+  "cây - ở trong - bầu trời"
+]
+```
+
+frame_37:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang bám vào) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang bám vào)",
+  "cây - ở trong - bầu trời"
+]
+```
+
+frame_38:
+```json
+[
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang b\u00e1m v\u00e0o) - \u1edf trong - b\u1ea7u tr\u1eddi",
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang b\u00e1m v\u00e0o)",
+  "c\u00e2y - \u1edf trong - b\u1ea7u tr\u1eddi"
+]
+```
+
+frame_39:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang bay) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang bay)"
+]
+```
+
+frame_40:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang bay) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang bay)"
+]
+```
+
+frame_41:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang bay) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang bay)",
+  "cây - ở trong - bầu trời"
+]
+```
+
+frame_42:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang bay) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang bay)",
+  "cây - ở trong - bầu trời"
+]
+```
+
+frame_43:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang bay) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang bay)",
+  "cây - ở trong - bầu trời"
+]
+```
+
+frame_44:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang treo ngược) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang treo ngược)",
+  "cây - ở trong - bầu trời"
+]
+```
+
+frame_45:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang treo ngược) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang treo ngược)"
+]
+```
+
+frame_46:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang treo ngược) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang treo ngược)"
+]
+```
+
+frame_47:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang treo ngược) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang treo ngược)"
+]
+```
+
+frame_48:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang chỉ) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang chỉ)"
+]
+```
+
+frame_49:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - cây"
+]
+```
+
+frame_50:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - cây",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - hàng rào"
+]
+```
+
+frame_51:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - cây",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - hàng rào"
+]
+```
+
+frame_52:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - cây",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - hàng rào",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - mái nhà"
+]
+```
+
+frame_53:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trong - bầu trời",
+  "bầu trời - ở trên - người1 (trẻ, mặc áo hồng, đang đứng)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - hàng rào",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - ở trên - mái nhà"
+]
+```
+

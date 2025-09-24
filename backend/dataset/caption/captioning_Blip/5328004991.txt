@@ -1,0 +1,40 @@
+frame_0000.jpg: two people in a kitchen with a stove
+frame_0001.jpg: two people in a kitchen with a pan
+frame_0002.jpg: two people in the kitchen preparing food
+frame_0003.jpg: two people in the kitchen preparing food
+frame_0004.jpg: a woman and a child in a kitchen
+frame_0005.jpg: two people in a kitchen preparing food
+frame_0006.jpg: two people in the kitchen preparing food
+frame_0007.jpg: two people in a kitchen preparing food
+frame_0008.jpg: two people in a kitchen preparing food
+frame_0009.jpg: a woman and a child in a kitchen
+frame_0010.jpg: a woman and child in the kitchen preparing food
+frame_0011.jpg: a woman and a child in a kitchen
+frame_0012.jpg: two children are in the kitchen preparing food
+frame_0013.jpg: two girls in the kitchen preparing food
+frame_0014.jpg: two children are in the kitchen preparing food
+frame_0015.jpg: a woman and a child in a kitchen
+frame_0016.jpg: a woman and a child in a kitchen
+frame_0017.jpg: a woman and a child in a kitchen
+frame_0018.jpg: a woman and a child in a kitchen
+frame_0019.jpg: a woman and child in a kitchen preparing food
+frame_0020.jpg: a woman and a child in a kitchen
+frame_0021.jpg: a woman and a child in a kitchen
+frame_0022.jpg: a woman and a child in a kitchen
+frame_0023.jpg: a woman and a child in a kitchen
+frame_0024.jpg: a woman and a child are preparing food in the kitchen
+frame_0025.jpg: a woman and a child in the kitchen
+frame_0026.jpg: a woman and a child in the kitchen
+frame_0027.jpg: a woman and a child in a kitchen
+frame_0028.jpg: a woman and a child in a kitchen
+frame_0029.jpg: a woman and a child in a kitchen
+frame_0030.jpg: a woman and a child in a kitchen
+frame_0031.jpg: a woman and a child in a kitchen
+frame_0032.jpg: a woman and a child in a kitchen
+frame_0033.jpg: a group of people are preparing food in a kitchen
+frame_0034.jpg: a bottle of beer is sitting on the floor
+frame_0035.jpg: a cat is sitting on the counter in the kitchen
+frame_0036.jpg: a white toilet
+frame_0037.jpg: a bathroom counter with a white sink and a white toilet
+frame_0038.jpg: a counter top with a light shining on it
+frame_0039.jpg: a counter top with a sink and a mirror

@@ -1,0 +1,138 @@
+frame_0000.jpg: a man and woman are dancing on a stage
+frame_0001.jpg: a couple dancing on a stage with lights
+frame_0002.jpg: a couple dancing on a ice rink
+frame_0003.jpg: a couple dancing on a stage with smoke coming from the floor
+frame_0004.jpg: a couple dancing on a stage with smoke in the background
+frame_0005.jpg: a couple dancing on a stage with a light shining down
+frame_0006.jpg: a couple dancing on a stage
+frame_0007.jpg: a couple dancing on a stage with a light
+frame_0008.jpg: a couple dancing on stage with smoke in the background
+frame_0009.jpg: a man and woman are skating on a rink
+frame_0010.jpg: a man is skating on a rink at night
+frame_0011.jpg: a man is walking through smoke on the street
+frame_0012.jpg: a man is running through the fog
+frame_0013.jpg: a man in a suit is dancing on a stage
+frame_0014.jpg: two people dancing in the dark
+frame_0015.jpg: a couple dancing on stage with smoke in the background
+frame_0016.jpg: a man and woman are dancing on stage
+frame_0017.jpg: a man and woman dancing on stage
+frame_0018.jpg: a couple dancing on stage with smoke behind them
+frame_0019.jpg: two people are walking on a stage with smoke
+frame_0020.jpg: a man and woman dancing in the dark
+frame_0021.jpg: a couple dancing in the dark
+frame_0022.jpg: a man is dancing on a stage with smoke
+frame_0023.jpg: a couple dancing on a stage with smoke
+frame_0024.jpg: a couple is performing on a stage
+frame_0025.jpg: a man is doing a trick on a skateboard
+frame_0026.jpg: a couple dancing on a stage
+frame_0027.jpg: a couple skating on an ice rink
+frame_0028.jpg: a couple dancing on a stage with one man in the background
+frame_0029.jpg: a couple dancing on a stage with purple lights
+frame_0030.jpg: a couple dancing on a stage with a light
+frame_0031.jpg: a couple dancing on a stage with a man in the background
+frame_0032.jpg: a couple dancing on a stage with lights
+frame_0033.jpg: a man is performing on a stage with a microphone
+frame_0034.jpg: a man is performing on stage with a microphone
+frame_0035.jpg: a man and woman are performing on a stage
+frame_0036.jpg: a woman in a purple dress is dancing
+frame_0037.jpg: a man and woman are performing on a stage
+frame_0038.jpg: a woman in black pants and a black top is dancing on a stage
+frame_0039.jpg: a man in a black shirt is standing in front of a stage
+frame_0040.jpg: a woman in a purple dress is on stage
+frame_0041.jpg: a man is standing on a stage with smoke coming out
+frame_0042.jpg: a man in a white shirt is flying through the air
+frame_0043.jpg: a man in a suit is standing on a stage
+frame_0044.jpg: a couple dancing on a stage with a man in the background
+frame_0045.jpg: a man is standing on a stage with a microphone
+frame_0046.jpg: a man is standing on a stage with a microphone
+frame_0047.jpg: a woman in a purple dress is dancing on stage
+frame_0048.jpg: a man in a white shirt is dancing
+frame_0049.jpg: a man in a black suit is performing on stage
+frame_0050.jpg: a man on a stage with a microphone
+frame_0051.jpg: a man in a black suit is standing on a stage
+frame_0052.jpg: a man is dancing on stage with a microphone
+frame_0053.jpg: a man is standing on a stage with a microphone
+frame_0054.jpg: a man in a black suit is standing on a stage
+frame_0055.jpg: a man is performing on stage with a microphone
+frame_0056.jpg: a man is performing on a stage with a microphone
+frame_0057.jpg: a man is performing on a stage with a light
+frame_0058.jpg: a man is dancing on a stage with a woman
+frame_0059.jpg: a man is performing on a stage with a microphone
+frame_0060.jpg: a couple dancing on stage with a crowd watching
+frame_0061.jpg: a woman in a black dress is dancing on stage
+frame_0062.jpg: a couple dancing on a stage
+frame_0063.jpg: a woman in a purple dress is skating on a rink
+frame_0064.jpg: a couple skating on an ice rink
+frame_0065.jpg: a couple dancing on a stage with a purple background
+frame_0066.jpg: a couple dancing on a stage with a purple background
+frame_0067.jpg: a couple dancing on a stage with a purple background
+frame_0068.jpg: a couple is flying through the air with a balloon
+frame_0069.jpg: a couple dancing on a stage with a purple background
+frame_0070.jpg: a couple dancing on a cloud
+frame_0071.jpg: a couple dancing on a stage with lights
+frame_0072.jpg: a couple dancing on a stage with lights
+frame_0073.jpg: a man is standing on a stage with a microphone
+frame_0074.jpg: a woman in a black dress is dancing on stage
+frame_0075.jpg: a man in a white shirt and black pants on stage
+frame_0076.jpg: a man and woman are performing on stage
+frame_0077.jpg: a man is performing on stage with a microphone
+frame_0078.jpg: a man in black shirt and black pants on stage
+frame_0079.jpg: a man is dancing on a stage with a light
+frame_0080.jpg: a group of people on stage with lights
+frame_0081.jpg: a man is skating on a rink at night
+frame_0082.jpg: a couple skating on an ice rink at night
+frame_0083.jpg: a man is skating on a large ice rink
+frame_0084.jpg: a man is dancing on a stage with a microphone
+frame_0085.jpg: a woman is dancing on a stage
+frame_0086.jpg: a couple dancing on a stage with a purple background
+frame_0087.jpg: a man is dancing on a stage with a crowd
+frame_0088.jpg: a man and woman dancing on a stage
+frame_0089.jpg: a couple dancing on a stage with purple lights
+frame_0090.jpg: a couple dancing on a stage with lights
+frame_0091.jpg: a man is skating on a rink with a ball
+frame_0092.jpg: a woman skating on an ice rink
+frame_0093.jpg: a couple skating on an ice rink
+frame_0094.jpg: a couple skating on an ice rink
+frame_0095.jpg: a couple skating on an ice rink
+frame_0096.jpg: a couple dancing on a stage with a light
+frame_0097.jpg: a couple dancing on a stage with a light
+frame_0098.jpg: a couple skating on an ice rink at night
+frame_0099.jpg: a couple skating on an ice rink
+frame_0100.jpg: a couple skating on a rink at night
+frame_0101.jpg: a couple dancing on a stage with lights
+frame_0102.jpg: a couple dancing on a stage with a man in the background
+frame_0103.jpg: a man and woman are performing on a stage
+frame_0104.jpg: a man is skating on a large ice rink
+frame_0105.jpg: a person skating on a rink at night
+frame_0106.jpg: a man in a black shirt is dancing on stage
+frame_0107.jpg: a man in a white shirt is performing on stage
+frame_0108.jpg: a man in a black shirt is dancing on a stage
+frame_0109.jpg: a man and woman are performing on a ice rink
+frame_0110.jpg: a couple dancing on a stage with a man in the background
+frame_0111.jpg: a couple dancing on a stage with a man in the background
+frame_0112.jpg: a woman is dancing on a stage
+frame_0113.jpg: a couple dancing on a stage with a light shining down
+frame_0114.jpg: a woman in a purple dress is dancing on a stage
+frame_0115.jpg: a couple is dancing on a stage
+frame_0116.jpg: a man and woman dancing on a stage
+frame_0117.jpg: a couple skating on an ice rink at night
+frame_0118.jpg: a couple of dancers are performing on a stage
+frame_0119.jpg: two people are performing on a stage
+frame_0120.jpg: a man and woman dancing on a stage
+frame_0121.jpg: a couple dancing on a stage with lights
+frame_0122.jpg: a man in a black suit is dancing on a stage
+frame_0123.jpg: a man is skating on an ice rink
+frame_0124.jpg: a man is dancing on a stage with a microphone
+frame_0125.jpg: a man and woman dancing on a stage
+frame_0126.jpg: a couple dancing on a stage with a crowd watching
+frame_0127.jpg: a couple is performing on a stage
+frame_0128.jpg: a man is skating on a large ice rink
+frame_0129.jpg: a man is standing on a stage with a microphone
+frame_0130.jpg: a person is watching a video on a screen
+frame_0131.jpg: a person is watching a fish in an aquarium
+frame_0132.jpg: a person is standing in front of a stage
+frame_0133.jpg: a man in a black shirt is standing in front of a crowd
+frame_0134.jpg: a couple dancing on a stage with purple lights
+frame_0135.jpg: a man and woman dancing on stage
+frame_0136.jpg: a woman in a white dress is on a stage
+frame_0137.jpg: a person is looking at a purple sky

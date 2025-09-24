@@ -1,0 +1,459 @@
+frame_0:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang cầm micro)",
+  "Người1 (trẻ, mặc áo trắng, đang cầm micro) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang cầm micro) - gần - ghế sofa (đen)",
+  "Người1 (trẻ, mặc áo trắng, đang cầm micro) - gần - cửa (màu xanh)"
+]
+```
+
+frame_1:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (đen)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh)"
+]
+```
+
+frame_2:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (đen)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)"
+]
+```
+
+frame_3:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (đen)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)"
+]
+```
+
+frame_4:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)"
+]
+```
+
+frame_5:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)"
+]
+```
+
+frame_6:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_7:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_8:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_9:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_10:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_11:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_12:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_13:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_14:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_15:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_16:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_17:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_18:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_19:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_20:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang cầm mic)",
+  "Người1 (trẻ, mặc áo trắng, đang cầm mic) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang cầm mic) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo trắng, đang cầm mic) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang cầm mic) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang cầm mic)",
+  "Người1 (trẻ, mặc áo trắng, đang cầm mic) - cầm - micro (hồng)"
+]
+```
+
+frame_21:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_22:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_23:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo trắng, đang hát)",
+  "Người1 (trẻ, mặc áo trắng, đang hát) - cầm - micro (hồng)"
+]
+```
+
+frame_24:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo hồng, đang uống)",
+  "Người1 (trẻ, mặc áo hồng, đang uống) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo hồng, đang uống) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo hồng, đang uống) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo hồng, đang uống) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo hồng, đang uống)",
+  "Người1 (trẻ, mặc áo hồng, đang uống) - cầm - chai (trắng)"
+]
+```
+
+frame_25:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo hồng, đang cầm mic)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo hồng, đang cầm mic)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - cầm - chai (trắng)"
+]
+```
+
+frame_26:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo hồng, đang cầm mic)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo hồng, đang cầm mic)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - cầm - mic (hồng)"
+]
+```
+
+frame_27:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo hồng, đang cầm mic)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo hồng, đang cầm mic)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm mic) - cầm - mic (hồng)"
+]
+```
+
+frame_28:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo hồng, đang hát)",
+  "Người1 (trẻ, mặc áo hồng, đang hát) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo hồng, đang hát) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo hồng, đang hát) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo hồng, đang hát) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo hồng, đang hát)",
+  "Người1 (trẻ, mặc áo hồng, đang hát) - cầm - mic (hồng)"
+]
+```
+
+frame_29:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo hồng, đang cầm đồ chơi)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo hồng, đang cầm đồ chơi)"
+]
+```
+
+frame_30:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo hồng, đang cầm đồ chơi)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo hồng, đang cầm đồ chơi)"
+]
+```
+
+frame_31:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo hồng, đang cầm đồ chơi)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo hồng, đang cầm đồ chơi)",
+  "Tường (trắng) - ở phía sau - tủ (màu xanh lá cây)"
+]
+```
+
+frame_32:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo hồng, đang nhìn)",
+  "Người1 (trẻ, mặc áo hồng, đang nhìn) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo hồng, đang nhìn) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo hồng, đang nhìn) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo hồng, đang nhìn) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo hồng, đang nhìn)",
+  "Tường (trắng) - ở phía sau - tủ (màu xanh lá cây)"
+]
+```
+
+frame_33:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo hồng, đang giữ)",
+  "Người1 (trẻ, mặc áo hồng, đang giữ) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo hồng, đang giữ) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo hồng, đang giữ) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo hồng, đang giữ) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo hồng, đang giữ)",
+  "Tường (trắng) - ở phía sau - tủ (màu xanh lá cây)",
+  "Chai (màu trắng) - được giữ bởi - người1 (trẻ, mặc áo hồng, đang giữ)"
+]
+```
+
+frame_34:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo hồng, đang giữ)",
+  "Người1 (trẻ, mặc áo hồng, đang giữ) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo hồng, đang giữ) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo hồng, đang giữ) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo hồng, đang giữ) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo hồng, đang giữ)",
+  "Tường (trắng) - ở phía sau - tủ (màu xanh lá cây)",
+  "Chai (màu trắng) - được giữ bởi - người1 (trẻ, mặc áo hồng, đang giữ)"
+]
+```
+
+frame_35:
+```json
+[
+  "Ghế1 (màu nâu) - xung quanh - người1 (trẻ, mặc áo hồng, đang cầm đồ chơi)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - đứng trên - thảm (hoa văn)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - gần - ghế sofa (màu xanh dương)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - gần - cửa (màu xanh lá cây)",
+  "Người1 (trẻ, mặc áo hồng, đang cầm đồ chơi) - ở trên - sàn gỗ (màu nâu)",
+  "Tường (trắng) - ở phía sau - người1 (trẻ, mặc áo hồng, đang cầm đồ chơi)",
+  "Tường (trắng) - ở phía sau - tủ (màu xanh lá cây)",
+  "Chai (màu trắng) - được giữ bởi - người1 (trẻ, mặc áo hồng, đang cầm đồ chơi)"
+]
+```
+

@@ -1,0 +1,1572 @@
+frame_0:
+```json
+[
+  "tường - wall-word - tường",
+  "người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ) - tương tác - ngựa (nâu)",
+  "ngựa (nâu) - horse-word - 78% - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "chó1 - dog-word - 77% - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ) - 100% - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo vàng đen, nhìn, vui vẻ) - 99% - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "chó2 - dog-word - 52% - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - 96% - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)"
+]
+```
+
+frame_1:
+```json
+[
+  "nhà - gần - cây",
+  "nhà - gần - hàng rào",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ) - tương tác - bò (màu be)",
+  "bò (màu be) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo vàng đen, nhìn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)"
+]
+```
+
+frame_2:
+```json
+[
+  "nhà - gần - cây",
+  "nhà - gần - hàng rào",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ) - tương tác - bò (màu be)",
+  "bò (màu be) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo vàng đen, nhìn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)"
+]
+```
+
+frame_3:
+```json
+[
+  "cây - gần - nhà",
+  "nhà - gần - hàng rào",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ) - tương tác - bò (màu be)",
+  "bò (màu be) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo vàng đen, nhìn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo cam, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)"
+]
+```
+
+frame_4:
+```json
+[
+  "cây - gần - nhà",
+  "nhà - gần - hàng rào",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ) - tương tác - bò (màu be)",
+  "bò (màu be) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo vàng đen, nhìn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo cam, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo cam, đứng, vui vẻ) - tương tác - người2 (trưởng thành - nữ, mặc áo hồng, đứng, vui vẻ)"
+]
+```
+
+frame_5:
+```json
+[
+  "cây - gần - nhà",
+  "nhà - gần - hàng rào",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ) - tương tác - bò (màu be)",
+  "bò (màu be) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo vàng đen, nhìn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo cam, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)"
+]
+```
+
+frame_6:
+```json
+[
+  "cây - gần - nhà",
+  "nhà - gần - hàng rào",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ) - tương tác - bò (màu be)",
+  "bò (màu be) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo vàng đen, nhìn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người4 (trưởng thành - nữ, mặc áo cam, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người5 (trưởng thành - nam, mặc áo caro, nhìn, vui vẻ) - tương tác - bò (màu be)",
+  "người5 (trưởng thành - nam, mặc áo caro, nhìn, vui vẻ) - tương tác - người4 (trưởng thành - nữ, mặc áo cam, đứng, vui vẻ)"
+]
+```
+
+frame_7:
+```json
+[
+  "tường - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc áo cam, đứng cạnh, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất"
+]
+```
+
+frame_8:
+```json
+[
+  "tường - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc áo cam, đứng cạnh, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - ngựa (màu trắng)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - cưỡi - ngựa (màu trắng)",
+  "người4 (trẻ - nữ, mặc áo cam, đứng cạnh, vui vẻ) - nhìn - ngựa (màu trắng)"
+]
+```
+
+frame_9:
+```json
+[
+  "tường - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, đứng cạnh, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - ngựa (màu đen)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - cưỡi - ngựa (màu đen)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, đứng cạnh, vui vẻ) - nhìn - ngựa (màu đen)"
+]
+```
+
+frame_10:
+```json
+[
+  "tường - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, đứng cạnh, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - ngựa (màu đen)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - cưỡi - ngựa (màu đen)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - ngựa (màu đen)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - giữ - cà rốt (màu tím)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - chạm - ngựa (màu đen)"
+]
+```
+
+frame_11:
+```json
+[
+  "tường - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - ngựa (màu đen)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - cưỡi - ngựa (màu đen)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - ngựa (màu đen)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - giữ - người5 (mặc đồ tím)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - chạm - ngựa (màu đen)",
+  "bò (màu xám) - ở - cỏ",
+  "người6 (trẻ - nữ, mặc áo trắng, nhìn, vui vẻ) - nhìn - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)"
+]
+```
+
+frame_12:
+```json
+[
+  "tường - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - ngựa (màu đen)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - cưỡi - ngựa (màu đen)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - ngựa (màu đen)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - giữ - người5 (mặc đồ tím)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - chạm - ngựa (màu đen)",
+  "bò (màu xám) - ở - cỏ",
+  "người6 (trẻ - nữ, mặc áo trắng, nhìn, vui vẻ) - nhìn - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - cho ăn - ngựa (màu đen)"
+]
+```
+
+frame_13:
+```json
+[
+  "tường - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - ngựa (màu đen)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - cưỡi - ngựa (màu đen)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - ngựa (màu đen)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - giữ - người5 (mặc đồ tím)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - chạm - ngựa (màu đen)",
+  "bò (màu xám) - ở - cỏ",
+  "người6 (trẻ - nữ, mặc áo trắng, nhìn, vui vẻ) - nhìn - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - cho ăn - ngựa (màu đen)",
+  "tường - ở - tường",
+  "người7 (trưởng thành - nam, mặc áo đỏ, chạm, vui vẻ) - chạm - ngựa (màu đen)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - người7 (trưởng thành - nam, mặc áo đỏ, chạm, vui vẻ)",
+  "người7 (trưởng thành - nam, mặc áo đỏ, chạm, vui vẻ) - ở - cỏ"
+]
+```
+
+frame_14:
+```json
+[
+  "nhà - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - bò (màu xám)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - chạm - bò (màu xám)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - bò (màu xám)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - giữ - người5 (mặc đồ tím)",
+  "chó (màu xanh) - ở - cỏ",
+  "bò (màu xám) - ở - cỏ",
+  "cây - ở - cỏ",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - chó (màu xanh)",
+  "người5 (mặc đồ tím) - tương tác - chó (màu xanh)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ)",
+  "người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ) - chạm - bò (màu xám)"
+]
+```
+
+frame_15:
+```json
+[
+  "nhà - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - bò (màu xám)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - chạm - bò (màu xám)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - bò (màu xám)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - giữ - người5 (mặc đồ tím)",
+  "chó (màu xanh) - ở - cỏ",
+  "bò (màu xám) - ở - cỏ",
+  "cây - ở - cỏ",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - chó (màu xanh)",
+  "người5 (mặc đồ tím) - tương tác - chó (màu xanh)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ)",
+  "người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ) - chạm - bò (màu xám)",
+  "người6 (trưởng thành - nam, mặc áo đỏ, nhìn, hạnh phúc) - đứng cạnh - bò (màu xám)",
+  "ba lô (màu xám) - ở - người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ)"
+]
+```
+
+frame_16:
+```json
+[
+  "nhà - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - bò (màu xám)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - chạm - bò (màu xanh lá cây)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - bò (màu xanh lá cây)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - giữ - người5 (trẻ - chưa rõ, mặc áo tím, cầm điều khiển, đang chơi, vui vẻ)",
+  "chó (màu xanh) - ở - cỏ",
+  "bò (màu xanh lá cây) - ở - cỏ",
+  "cây - ở - cỏ",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - chó (màu xanh)",
+  "người5 (trẻ - chưa rõ, mặc áo tím, cầm điều khiển, đang chơi, vui vẻ) - tương tác - chó (màu xanh)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ)",
+  "người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ) - chạm - bò (màu xanh lá cây)",
+  "người6 (trưởng thành - nam, mặc áo đỏ, nhìn, hạnh phúc) - đứng cạnh - bò (màu xanh lá cây)",
+  "ba lô (màu xám) - ở - người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ)",
+  "người5 (trẻ - chưa rõ, mặc áo tím, cầm điều khiển, đang chơi, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)"
+]
+```
+
+frame_17:
+```json
+[
+  "nhà - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - bò (màu xám)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - chạm - bò (màu xanh lá cây)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - bò (màu xanh lá cây)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - giữ - người5 (trẻ - chưa rõ, mặc áo tím, cầm điều khiển, đang chơi, vui vẻ)",
+  "chó (màu xanh) - ở - cỏ",
+  "bò (màu xanh lá cây) - ở - cỏ",
+  "cây - ở - cỏ",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - chó (màu xanh)",
+  "người5 (trẻ - chưa rõ, mặc áo tím, cầm điều khiển, đang chơi, vui vẻ) - tương tác - chó (màu xanh)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ)",
+  "người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ) - chạm - bò (màu xanh lá cây)",
+  "người6 (trưởng thành - nam, mặc áo đỏ, nhìn, hạnh phúc) - đứng cạnh - bò (màu xanh lá cây)",
+  "ba lô (màu xám) - ở - người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ)",
+  "người5 (trẻ - chưa rõ, mặc áo tím, cầm điều khiển, đang chơi, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)"
+]
+```
+
+frame_18:
+```json
+[
+  "nh\u00e0 - \u1edf - c\u1ecf",
+  "h\u00e0ng r\u00e0o - \u1edf - c\u1ecf",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o h\u1ed3ng, ch\u01a1i, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - n\u1eef, m\u1eb7c qu\u1ea7n \u00e1o m\u00e0u cam, cho \u0103n, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "c\u1ecf - \u1edf - \u0111\u1ea5t",
+  "t\u01b0\u1eddng - \u1edf - b\u00f2 (m\u00e0u x\u00e1m)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o h\u1ed3ng, ch\u01a1i, vui v\u1ebb) - ch\u1ea1m - b\u00f2 (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - n\u1eef, m\u1eb7c qu\u1ea7n \u00e1o m\u00e0u cam, cho \u0103n, vui v\u1ebb) - nh\u00ecn - b\u00f2 (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - n\u1eef, m\u1eb7c qu\u1ea7n \u00e1o m\u00e0u cam, cho \u0103n, vui v\u1ebb) - gi\u1eef - ng\u01b0\u1eddi5 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o t\u00edm, c\u1ea7m \u0111i\u1ec1u khi\u1ec3n, \u0111ang ch\u01a1i, vui v\u1ebb)",
+  "ch\u00f3 (m\u00e0u xanh) - \u1edf - c\u1ecf",
+  "b\u00f2 (m\u00e0u xanh l\u00e1 c\u00e2y) - \u1edf - c\u1ecf",
+  "c\u00e2y - \u1edf - c\u1ecf",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - n\u1eef, m\u1eb7c qu\u1ea7n \u00e1o m\u00e0u cam, cho \u0103n, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ch\u00f3 (m\u00e0u xanh)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o t\u00edm, c\u1ea7m \u0111i\u1ec1u khi\u1ec3n, \u0111ang ch\u01a1i, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ch\u00f3 (m\u00e0u xanh)",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - n\u1eef, m\u1eb7c qu\u1ea7n \u00e1o m\u00e0u cam, cho \u0103n, vui v\u1ebb) - nh\u00ecn - ng\u01b0\u1eddi7 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi7 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - ch\u1ea1m - b\u00f2 (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o \u0111\u1ecf, nh\u00ecn, h\u1ea1nh ph\u00fac) - \u0111\u1ee9ng c\u1ea1nh - b\u00f2 (m\u00e0u xanh l\u00e1 c\u00e2y)",
+  "ba l\u00f4 (m\u00e0u x\u00e1m) - \u1edf - ng\u01b0\u1eddi7 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o t\u00edm, c\u1ea7m \u0111i\u1ec1u khi\u1ec3n, \u0111ang ch\u01a1i, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb)"
+]
+```
+
+frame_19:
+```json
+[
+  "ngôi nhà - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - bò (màu xám)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - chạm - bò (màu xanh lá cây)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - bò (màu xanh lá cây)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - giữ - người5 (trẻ - chưa rõ, mặc áo tím, cầm điều khiển, đang chơi, vui vẻ)",
+  "chó (màu xanh) - ở - cỏ",
+  "bò (màu xanh lá cây) - ở - cỏ",
+  "cây - ở - cỏ",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - chó (màu xanh)",
+  "người5 (trẻ - chưa rõ, mặc áo tím, cầm điều khiển, đang chơi, vui vẻ) - tương tác - chó (màu xanh)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ)",
+  "người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ) - chạm - bò (màu xanh lá cây)",
+  "người6 (trưởng thành - nam, mặc áo đỏ, nhìn, hạnh phúc) - đứng cạnh - bò (màu xanh lá cây)",
+  "ba lô (màu xám) - ở - người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ)",
+  "người5 (trẻ - chưa rõ, mặc áo tím, cầm điều khiển, đang chơi, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo đỏ, nhìn, hạnh phúc) - bế - người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ)",
+  "người8 (trẻ - nam, mặc áo sọc, vui vẻ) - chạm - bò (màu xanh lá cây)",
+  "người8 (trẻ - nam, mặc áo sọc, vui vẻ) - tương tác - người6 (trưởng thành - nam, mặc áo đỏ, nhìn, hạnh phúc)"
+]
+```
+
+frame_20:
+```json
+[
+  "ngôi nhà - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - bò (màu xám)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - chạm - bò (màu xanh lá cây)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - bò (màu xanh lá cây)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - giữ - người5 (trẻ - chưa rõ, mặc áo tím, cầm điều khiển, đang chơi, vui vẻ)",
+  "chó (màu xanh) - ở - cỏ",
+  "bò (màu xanh lá cây) - ở - cỏ",
+  "cây - ở - cỏ",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - chó (màu xanh)",
+  "người5 (trẻ - chưa rõ, mặc áo tím, cầm điều khiển, đang chơi, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ)",
+  "người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ) - chạm - bò (màu xanh lá cây)",
+  "người6 (trưởng thành - nam, mặc áo đỏ, nhìn, hạnh phúc) - đứng cạnh - bò (màu xanh lá cây)",
+  "ba lô (màu xám) - ở - người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ)",
+  "người5 (trẻ - chưa rõ, mặc áo tím, cầm điều khiển, đang chơi, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo đỏ, nhìn, hạnh phúc) - bế - người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ)",
+  "người8 (trẻ - nam, mặc áo sọc, vui vẻ) - chạm - bò (màu xanh lá cây)",
+  "người8 (trẻ - nam, mặc áo sọc, vui vẻ) - tương tác - người6 (trưởng thành - nam, mặc áo đỏ, nhìn, hạnh phúc)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - người8 (trẻ - nam, mặc áo sọc, vui vẻ)",
+  "người8 (trẻ - nam, mặc áo sọc, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người8 (trẻ - nam, mặc áo sọc, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - đứng cạnh - bò (màu xanh lá cây)"
+]
+```
+
+frame_21:
+```json
+[
+  "ngôi nhà - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - cưỡi - voi (màu đen)",
+  "cỏ - ở - đất",
+  "tường - ở - nhà",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - chạm - voi (màu đen)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - nhìn - voi (màu đen)",
+  "người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trẻ - nam, mặc áo sọc, vui vẻ) - chạm - voi (màu đen)",
+  "người8 (trẻ - nam, mặc áo sọc, vui vẻ) - tương tác - người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - tương tác - người8 (trẻ - nam, mặc áo sọc, vui vẻ)",
+  "người8 (trẻ - nam, mặc áo sọc, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người8 (trẻ - nam, mặc áo sọc, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người7 (trưởng thành - nam, mặc áo cam, tương tác, vui vẻ)",
+  "người4 (trẻ - nữ, mặc quần áo màu cam, cho ăn, vui vẻ) - đứng cạnh - voi (màu đen)",
+  "người8 (trẻ - nam, mặc áo sọc, vui vẻ) - nhìn - voi (màu đen)"
+]
+```
+
+frame_22:
+```json
+[
+  "ngôi nhà - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - nhà",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - chạm - bò (màu đen)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - bò (màu đen)",
+  "người5 (trưởng thành - nam, mặc áo đỏ, chăm sóc, hạnh phúc) - tương tác - bò (đen trắng)",
+  "bò (đen trắng) - được chăm sóc bởi - người5 (trưởng thành - nam, mặc áo đỏ, chăm sóc, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò (đen trắng)",
+  "người5 (trưởng thành - nam, mặc áo đỏ, chăm sóc, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)"
+]
+```
+
+frame_23:
+```json
+[
+  "nhà - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - nhà",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - chạm - bò (màu đen)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - bò (màu đen)",
+  "người5 (trưởng thành - nam, mặc áo đỏ, chăm sóc, hạnh phúc) - tương tác - bò (đen trắng)",
+  "bò (đen trắng) - được chăm sóc bởi - người5 (trưởng thành - nam, mặc áo đỏ, chăm sóc, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò (đen trắng)",
+  "người5 (trưởng thành - nam, mặc áo đỏ, chăm sóc, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)"
+]
+```
+
+frame_24:
+```json
+[
+  "nhà - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, tương tác, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - nhà",
+  "người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ) - chạm - bò (đen trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo hồng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - bò (đen trắng)",
+  "người5 (trưởng thành - nam, mặc áo đỏ, vuốt ve, hạnh phúc) - tương tác - bò (đen trắng)",
+  "bò (đen trắng) - được vuốt ve bởi - người5 (trưởng thành - nam, mặc áo đỏ, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò (đen trắng)",
+  "người5 (trưởng thành - nam, mặc áo đỏ, vuốt ve, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)"
+]
+```
+
+frame_25:
+```json
+[
+  "nhà - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, tương tác, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - nhà",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - bò (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò (xám trắng)",
+  "bò (xám trắng) - được vuốt ve bởi - người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "cừu (đen) - ở - cỏ",
+  "chó (xanh) - ở - cỏ"
+]
+```
+
+frame_26:
+```json
+[
+  "nhà - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - nhà",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - bò (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò (xám trắng)",
+  "bò (xám trắng) - được vuốt ve bởi - người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, tương tác, vui vẻ) - tương tác - bò (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, tương tác, vui vẻ)",
+  "cừu (đen) - ở - cỏ",
+  "chó (xanh) - ở - cỏ",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "bò1 (xám trắng) - ở - cỏ",
+  "bò2 (xanh) - ở - cỏ"
+]
+```
+
+frame_27:
+```json
+[
+  "nhà - ở - cỏ",
+  "hàng rào - ở - cỏ",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, tương tác, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "tường - ở - nhà",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, tương tác, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, tương tác, vui vẻ)",
+  "cừu (đen) - ở - cỏ",
+  "chó (xanh) - ở - cỏ",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "bò1 (xám trắng) - ở - cỏ",
+  "bò2 (đen trắng) - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ) - gần - bò2 (đen trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò2 (đen trắng)"
+]
+```
+
+frame_28:
+```json
+[
+  "tường - ở - nhà",
+  "hàng rào - ở - cỏ",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, tương tác, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - đất",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, tương tác, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, tương tác, vui vẻ)",
+  "cừu (đen) - ở - cỏ",
+  "chó (xanh) - ở - cỏ",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "bò1 (xám trắng) - ở - cỏ",
+  "bò2 (đen trắng) - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ) - gần - bò2 (đen trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò2 (đen trắng)"
+]
+```
+
+frame_29:
+```json
+[
+  "tường - ở - nhà",
+  "hàng rào - ở - cỏ",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "cỏ - ở - đất",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "cừu (đen) - ở - cỏ",
+  "chó (xanh) - ở - cỏ",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "bò1 (xám trắng) - ở - cỏ",
+  "bò2 (đen trắng) - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - gần - bò2 (đen trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò2 (đen trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc)"
+]
+```
+
+frame_30:
+```json
+[
+  "nhà - ở - tường",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "cừu (đen) - ở - cỏ",
+  "chó (xanh) - ở - cỏ",
+  "bò1 (xám trắng) - ở - cỏ",
+  "bò2 (đen trắng) - ở - cỏ",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - gần - bò2 (đen trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò2 (đen trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "cây - ở - cỏ",
+  "người6 (trẻ - chưa rõ, mặc áo cam, đứng, lo lắng) - gần - bò1 (xám trắng)",
+  "hàng rào - ở - nhà"
+]
+```
+
+frame_31:
+```json
+[
+  "nhà - ở - tường",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - gần - bò2 (đen trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò2 (đen trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "bò1 (xám trắng) - ở - cỏ",
+  "người6 (trẻ - chưa rõ, mặc áo cam, đứng, lo lắng) - gần - bò1 (xám trắng)"
+]
+```
+
+frame_32:
+```json
+[
+  "tường - ở - tường-gỗ",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "bò1 (xám trắng) - ở - cỏ",
+  "người6 (trẻ - chưa rõ, mặc áo cam, đứng, lo lắng) - gần - bò1 (xám trắng)"
+]
+```
+
+frame_33:
+```json
+[
+  "tường - ở - tường-gỗ",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "bò1 (xám trắng) - ở - cỏ",
+  "người6 (trẻ - chưa rõ, mặc áo cam, đứng, lo lắng) - gần - bò1 (xám trắng)"
+]
+```
+
+frame_34:
+```json
+[
+  "tường - ở - tường-gỗ",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trưởng thành - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trưởng thành - nữ, mặc áo hồng, tương tác, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "bò1 (xám trắng) - ở - cỏ",
+  "người6 (trẻ - chưa rõ, mặc áo cam, đứng, lo lắng) - gần - bò1 (xám trắng)",
+  "cừu1 (đen) - ở - cỏ"
+]
+```
+
+frame_35:
+```json
+[
+  "t\u01b0\u1eddng - \u1edf - t\u01b0\u1eddng-g\u1ed7",
+  "h\u00e0ng r\u00e0o - \u1edf - c\u1ecf",
+  "c\u1ecf - \u1edf - \u0111\u1ea5t",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb) - g\u1ea7n - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, h\u1ea1nh ph\u00fac) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, h\u1ea1nh ph\u00fac) - g\u1ea7n - ng\u01b0\u1eddi4 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, h\u1ea1nh ph\u00fac)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb) - ch\u1ea1m - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb) - ch\u1ea1m - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac) - t\u01b0\u01a1ng t\u00e1c - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "b\u00f21 (x\u00e1m tr\u1eafng) - \u0111\u01b0\u1ee3c vu\u1ed1t ve b\u1edfi - ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, h\u1ea1nh ph\u00fac) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb)",
+  "t\u00fai x\u00e1ch (n\u00e2u) - thu\u1ed9c v\u1ec1 - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb)",
+  "c\u00e2y - \u1edf - c\u1ecf",
+  "h\u00e0ng r\u00e0o - \u1edf - nh\u00e0",
+  "b\u00f21 (x\u00e1m tr\u1eafng) - \u1edf - c\u1ecf",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, ch\u1ec9, lo l\u1eafng) - g\u1ea7n - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "c\u1eebu1 (\u0111en) - \u1edf - c\u1ecf"
+]
+```
+
+frame_36:
+```json
+[
+  "tường - ở - tường-gỗ",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "bò1 (xám trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, chỉ, lo lắng) - gần - bò1 (xám trắng)",
+  "cừu1 (đen) - ở - cỏ"
+]
+```
+
+frame_37:
+```json
+[
+  "t\u01b0\u1eddng - \u1edf - t\u01b0\u1eddng-g\u1ed7",
+  "h\u00e0ng r\u00e0o - \u1edf - c\u1ecf",
+  "c\u1ecf - \u1edf - \u0111\u1ea5t",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb) - g\u1ea7n - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, h\u1ea1nh ph\u00fac) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, h\u1ea1nh ph\u00fac) - g\u1ea7n - ng\u01b0\u1eddi4 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, h\u1ea1nh ph\u00fac)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb) - ch\u1ea1m - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb) - ch\u1ea1m - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac) - t\u01b0\u01a1ng t\u00e1c - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "b\u00f21 (x\u00e1m tr\u1eafng) - \u0111\u01b0\u1ee3c vu\u1ed1t ve b\u1edfi - ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, h\u1ea1nh ph\u00fac) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb)",
+  "t\u00fai x\u00e1ch (n\u00e2u) - thu\u1ed9c v\u1ec1 - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, vui v\u1ebb)",
+  "c\u00e2y - \u1edf - c\u1ecf",
+  "h\u00e0ng r\u00e0o - \u1edf - nh\u00e0",
+  "b\u00f21 (x\u00e1m tr\u1eafng) - \u1edf - c\u1ecf",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, ch\u1ec9, lo l\u1eafng) - g\u1ea7n - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "c\u1eebu1 (\u0111en) - \u1edf - c\u1ecf"
+]
+```
+
+frame_38:
+```json
+[
+  "tường - ở - tường-gỗ",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "bò1 (xám trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, chỉ, lo lắng) - gần - bò1 (xám trắng)",
+  "cừu1 (đen) - ở - cỏ"
+]
+```
+
+frame_39:
+```json
+[
+  "tường - ở - tường-gỗ",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "bò1 (xám trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, chỉ, lo lắng) - gần - bò1 (xám trắng)",
+  "cừu1 (đen) - ở - cỏ",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - gần - bò1 (xám trắng)"
+]
+```
+
+frame_40:
+```json
+[
+  "tường - ở - tường-gỗ",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "bò1 (xám trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - gần - bò1 (xám trắng)",
+  "cừu1 (đen) - ở - cỏ",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - gần - bò1 (xám trắng)",
+  "tường - ở - hàng rào",
+  "người6 (trưởng thành - nam, mặc áo hồng, ôm, vui vẻ) - gần - cừu1 (đen)"
+]
+```
+
+frame_41:
+```json
+[
+  "tường - ở - tường-gỗ",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "bò1 (xám trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - bò1 (xám trắng)",
+  "cừu1 (trắng) - ở - cỏ",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - bò1 (xám trắng)",
+  "tường - ở - hàng rào",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - cừu1 (trắng)",
+  "người7 (trẻ - chưa rõ, mặc đồ đỏ, đứng, buồn bã) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)"
+]
+```
+
+frame_42:
+```json
+[
+  "tường - ở - tường-gỗ",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "bò1 (xám trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - bò1 (xám trắng)",
+  "cừu1 (trắng) - ở - cỏ",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - bò1 (xám trắng)",
+  "tường - ở - hàng rào",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - cừu1 (trắng)",
+  "người7 (trẻ - chưa rõ, mặc đồ đỏ, đứng, buồn bã) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - giữ - găng tay bóng chày (xanh)",
+  "người1 (trưởng thành - nam, mặc áo hồng, giữ bóng, vui vẻ) - giữ - găng tay bóng chày (xanh)",
+  "găng tay bóng chày (xanh) - được giữ bởi - người1 (trưởng thành - nam, mặc áo hồng, giữ bóng, vui vẻ)",
+  "găng tay bóng chày (xanh) - được giữ bởi - người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ)",
+  "ngựa1 (trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - ở - cỏ"
+]
+```
+
+frame_43:
+```json
+[
+  "ngôi nhà - ở - hàng rào",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - bò1 (xám trắng)",
+  "bò1 (xám trắng) - được vuốt ve bởi - người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - bò1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "túi xách (nâu) - thuộc về - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "bò1 (xám trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - bò1 (xám trắng)",
+  "cừu1 (trắng) - ở - cỏ",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - bò1 (xám trắng)",
+  "tường - ở - hàng rào",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - cừu1 (trắng)",
+  "người7 (trẻ - chưa rõ, mặc đồ đỏ, đứng, buồn bã) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - giữ - găng tay bóng chày (xanh)",
+  "người1 (trưởng thành - nam, mặc áo hồng, giữ bóng, vui vẻ) - giữ - găng tay bóng chày (xanh)",
+  "găng tay bóng chày (xanh) - được giữ bởi - người1 (trưởng thành - nam, mặc áo hồng, giữ bóng, vui vẻ)",
+  "găng tay bóng chày (xanh) - được giữ bởi - người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ)",
+  "ngựa (trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - ở - cỏ",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, giữ, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, giữ, hạnh phúc) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, giữ, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "cừu1 (trắng) - ở gần - người8 (trưởng thành - nữ, mặc áo hồng, giữ, hạnh phúc)"
+]
+```
+
+frame_44:
+```json
+[
+  "ng\u00f4i nh\u00e0 - \u1edf - h\u00e0ng r\u00e0o",
+  "h\u00e0ng r\u00e0o - \u1edf - c\u1ecf",
+  "c\u1ecf - \u1edf - \u0111\u1ea5t",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, h\u1ea1nh ph\u00fac) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, h\u1ea1nh ph\u00fac) - g\u1ea7n - ng\u01b0\u1eddi4 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, h\u1ea1nh ph\u00fac)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb) - ch\u1ea1m - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - ch\u1ea1m - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac) - t\u01b0\u01a1ng t\u00e1c - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "b\u00f21 (x\u00e1m tr\u1eafng) - \u0111\u01b0\u1ee3c vu\u1ed1t ve b\u1edfi - ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u00f4m, h\u1ea1nh ph\u00fac) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb)",
+  "t\u00fai x\u00e1ch (n\u00e2u) - thu\u1ed9c v\u1ec1 - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "c\u00e2y - \u1edf - c\u1ecf",
+  "h\u00e0ng r\u00e0o - \u1edf - nh\u00e0",
+  "b\u00f21 (x\u00e1m tr\u1eafng) - \u1edf - c\u1ecf",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "c\u1eebu1 (xanh l\u00e1 c\u00e2y) - \u1edf - c\u1ecf",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac) - g\u1ea7n - b\u00f21 (x\u00e1m tr\u1eafng)",
+  "t\u01b0\u1eddng - \u1edf - h\u00e0ng r\u00e0o",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - c\u1eebu1 (xanh l\u00e1 c\u00e2y)",
+  "ng\u01b0\u1eddi7 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 \u0111\u1ecf, \u0111\u1ee9ng, bu\u1ed3n b\u00e3) - \u1edf - c\u1ecf",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb) - gi\u1eef - g\u0103ng tay b\u00f3ng ch\u00e0y (xanh)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, gi\u1eef b\u00f3ng, vui v\u1ebb) - gi\u1eef - g\u0103ng tay b\u00f3ng ch\u00e0y (xanh)",
+  "g\u0103ng tay b\u00f3ng ch\u00e0y (xanh) - \u0111\u01b0\u1ee3c gi\u1eef b\u1edfi - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, gi\u1eef b\u00f3ng, vui v\u1ebb)",
+  "g\u0103ng tay b\u00f3ng ch\u00e0y (xanh) - \u0111\u01b0\u1ee3c gi\u1eef b\u1edfi - ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u1ef1a (tr\u1eafng) - \u1edf - c\u1ecf",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb) - \u1edf - c\u1ecf",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o cam, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi4 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o cam, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o cam, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "c\u1eebu1 (xanh l\u00e1 c\u00e2y) - \u1edf g\u1ea7n - ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o cam, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+    "b\u00f21 (x\u00e1m tr\u1eafng) - \u1edf g\u1ea7n - ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb)"
+]
+```
+
+frame_45:
+```json
+[
+  "tường - ở - hàng rào",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, giữ cương ngựa, vui vẻ) - gần - ngựa1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - gần - người1 (trưởng thành - nam, mặc áo hồng, giữ cương ngựa, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - ngựa1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - gần - người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, giữ cương ngựa, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, giữ cương ngựa, vui vẻ) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, giữ cương ngựa, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - ngựa1 (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, giữ cương ngựa, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, giữ cương ngựa, vui vẻ) - chạm - ngựa1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - ngựa1 (xám trắng)",
+  "ngựa1 (xám trắng) - được vuốt ve bởi - người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ) - tương tác - ngựa1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, ôm, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - ngựa1 (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - ngựa1 (xám trắng)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, giữ cương ngựa, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - giữ - túi xách (màu hồng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, giữ cương ngựa, vui vẻ) - giữ - túi xách (màu hồng)",
+  "túi xách (màu hồng) - được giữ bởi - người1 (trưởng thành - nam, mặc áo hồng, giữ cương ngựa, vui vẻ)",
+  "túi xách (màu hồng) - được giữ bởi - người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ)",
+  "ngựa (trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - ở - cỏ",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, giữ cương ngựa, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, giữ cương ngựa, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - ngựa1 (xám trắng)",
+  "ngựa1 (xám trắng) - ở gần - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "nhà - ở - tường",
+  "cỏ - ở gần - cây",
+  "tường - ở gần - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - ngựa (trắng)",
+  "cỏ - ở - người4 (trẻ - chưa rõ, mặc đồ hồng, đứng, vui vẻ)"
+]
+```
+
+frame_46:
+```json
+[
+  "t\u01b0\u1eddng - \u1edf - h\u00e0ng r\u00e0o",
+  "h\u00e0ng r\u00e0o - \u1edf - c\u1ecf",
+  "c\u1ecf - \u1edf - \u0111\u1ea5t",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - ng\u1ef1a1 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, h\u1ea1nh ph\u00fac) - g\u1ea7n - ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - ng\u1ef1a1 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, h\u1ea1nh ph\u00fac) - g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang ng\u1ed3i, vui v\u1ebb)",
+  "ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang ng\u1ed3i, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb) - ch\u1ea1m - ng\u1ef1a1 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - ch\u1ea1m - ng\u1ef1a1 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac) - t\u01b0\u01a1ng t\u00e1c - ng\u1ef1a1 (x\u00e1m tr\u1eafng)",
+  "ng\u1ef1a1 (x\u00e1m tr\u1eafng) - \u0111\u01b0\u1ee3c vu\u1ed1t ve b\u1edfi - ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang ng\u1ed3i, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u1ef1a1 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, h\u1ea1nh ph\u00fac) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang ng\u1ed3i, vui v\u1ebb)",
+  "c\u00e2y - \u1edf - c\u1ecf",
+  "h\u00e0ng r\u00e0o - \u1edf - nh\u00e0",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - ng\u1ef1a1 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac) - g\u1ea7n - ng\u1ef1a1 (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb) - gi\u1eef - t\u00fai x\u00e1ch (m\u00e0u h\u1ed3ng)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - gi\u1eef - t\u00fai x\u00e1ch (m\u00e0u h\u1ed3ng)",
+  "t\u00fai x\u00e1ch (m\u00e0u h\u1ed3ng) - \u0111\u01b0\u1ee3c gi\u1eef b\u1edfi - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "t\u00fai x\u00e1ch (m\u00e0u h\u1ed3ng) - \u0111\u01b0\u1ee3c gi\u1eef b\u1edfi - ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u1ef1a (tr\u1eafng) - \u1edf - c\u1ecf",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb) - \u1edf - c\u1ecf",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang ng\u1ed3i, vui v\u1ebb)",
+  "ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "nh\u00e0 - \u1edf - t\u01b0\u1eddng",
+  "c\u1ecf - \u1edf g\u1ea7n - c\u00e2y",
+  "t\u01b0\u1eddng - \u1edf g\u1ea7n - ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "c\u1ecf - \u1edf - ng\u1ef1a (tr\u1eafng)"
+]
+```
+
+frame_47:
+```json
+[
+  "tường - ở - hàng rào",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đang ngồi, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang ngồi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - ngựa (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - ngựa (xám trắng)",
+  "ngựa (xám trắng) - được vuốt ve bởi - người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang ngồi, vui vẻ) - tương tác - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đang ngồi, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - ngựa (xám trắng)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - giữ - túi xách (màu hồng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - giữ - túi xách (màu hồng)",
+  "túi xách (màu hồng) - được giữ bởi - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "túi xách (màu hồng) - được giữ bởi - người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ)",
+  "ngựa (trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - ở - cỏ",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đang ngồi, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "nhà - ở - tường",
+  "cỏ - ở gần - cây",
+  "tường - ở gần - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - ngựa (trắng)"
+]
+```
+
+frame_48:
+```json
+[
+  "tường - ở - hàng rào",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đang ngồi, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang ngồi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - ngựa (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - ngựa (xám trắng)",
+  "ngựa (xám trắng) - được vuốt ve bởi - người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang ngồi, vui vẻ) - tương tác - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, tương tác, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đang ngồi, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - ngựa (xám trắng)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - giữ - túi xách (màu hồng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - giữ - túi xách (màu hồng)",
+  "túi xách (màu hồng) - được giữ bởi - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "túi xách (màu hồng) - được giữ bởi - người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ)",
+  "ngựa (trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - ở - cỏ",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đang ngồi, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "nhà - ở - tường",
+  "cỏ - ở gần - cây",
+  "tường - ở gần - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - ngựa (trắng)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đứng, lo lắng) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "ngựa (màu nâu) - ở - cỏ"
+]
+```
+
+frame_49:
+```json
+[
+  "tường - ở - hàng rào",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - ngựa (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - ngựa (xám trắng)",
+  "ngựa (xám trắng) - được vuốt ve bởi - người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - tương tác - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - ngựa (xám trắng)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - giữ - túi xách (màu hồng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - giữ - túi xách (màu hồng)",
+  "túi xách (màu hồng) - được giữ bởi - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "túi xách (màu hồng) - được giữ bởi - người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ)",
+  "ngựa (trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - ở - cỏ",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "nhà - ở - tường",
+  "cỏ - ở gần - cây",
+  "tường - ở gần - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - ngựa (trắng)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đứng, lo lắng) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "ngựa (màu nâu) - ở - cỏ"
+]
+```
+
+frame_50:
+```json
+[
+  "tường - ở - hàng rào",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - ngựa (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - ngựa (xám trắng)",
+  "ngựa (xám trắng) - được vuốt ve bởi - người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - tương tác - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - ngựa (xám trắng)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - giữ - túi xách (màu hồng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - giữ - túi xách (màu hồng)",
+  "túi xách (màu hồng) - được giữ bởi - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "túi xách (màu hồng) - được giữ bởi - người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ)",
+  "ngựa (trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - ở - cỏ",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "nhà - ở - tường",
+  "cỏ - ở gần - cây",
+  "tường - ở gần - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - ngựa (trắng)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đứng, lo lắng) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "ngựa (màu nâu) - ở - cỏ",
+  "ngựa (xám trắng) - ở gần - bò (màu xám)",
+  "bò (màu xám) - ở - cỏ",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - chạm - bò (màu xám)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - gần - cỏ",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - cỏ"
+]
+```
+
+frame_51:
+```json
+[
+  "tường - ở - hàng rào",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - ngựa (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - ngựa (xám trắng)",
+  "ngựa (xám trắng) - được vuốt ve bởi - người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - tương tác - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - ngựa (xám trắng)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - giữ - túi xách (màu hồng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - giữ - túi xách (màu hồng)",
+  "túi xách (màu hồng) - được giữ bởi - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "túi xách (màu hồng) - được giữ bởi - người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ)",
+  "ngựa (trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - ở - cỏ",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "nhà - ở - tường",
+  "cỏ - ở gần - cây",
+  "tường - ở gần - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - ngựa (trắng)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đứng, lo lắng) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "ngựa (màu nâu) - ở - cỏ",
+  "ngựa (xám trắng) - ở gần - bò (màu xám)",
+  "bò (màu xám) - ở - cỏ",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - chạm - bò (màu xám)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - gần - cỏ",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - cỏ",
+  "người7 (trưởng thành - nữ, mặc áo cam hoa, đang đứng, lo lắng) - gần - người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ)",
+  "người9 (trẻ - chưa rõ, đang ngồi, vui vẻ) - gần - bò (màu xám)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - bò (màu xám)"
+]
+```
+
+frame_52:
+```json
+[
+  "t\u01b0\u1eddng - \u1edf - h\u00e0ng r\u00e0o",
+  "h\u00e0ng r\u00e0o - \u1edf - c\u1ecf",
+  "c\u1ecf - \u1edf - \u0111\u1ea5t",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - ng\u1ef1a (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac) - g\u1ea7n - ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - ng\u1ef1a (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac) - g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb) - ch\u1ea1m - ng\u1ef1a (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - ch\u1ea1m - ng\u1ef1a (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac) - t\u01b0\u01a1ng t\u00e1c - ng\u1ef1a (x\u00e1m tr\u1eafng)",
+  "ng\u1ef1a (x\u00e1m tr\u1eafng) - \u0111\u01b0\u1ee3c vu\u1ed1t ve b\u1edfi - ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - t\u01b0\u01a1ng t\u00e1c - ng\u1ef1a (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac) - t\u01b0\u01a1ng t\u00e1c - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb)",
+  "c\u00e2y - \u1edf - c\u1ecf",
+  "h\u00e0ng r\u00e0o - \u1edf - nh\u00e0",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - ng\u1ef1a (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, vu\u1ed1t ve, h\u1ea1nh ph\u00fac) - g\u1ea7n - ng\u1ef1a (x\u00e1m tr\u1eafng)",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb) - gi\u1eef - t\u00fai x\u00e1ch (m\u00e0u h\u1ed3ng)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - gi\u1eef - t\u00fai x\u00e1ch (m\u00e0u h\u1ed3ng)",
+  "t\u00fai x\u00e1ch (m\u00e0u h\u1ed3ng) - \u0111\u01b0\u1ee3c gi\u1eef b\u1edfi - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "t\u00fai x\u00e1ch (m\u00e0u h\u1ed3ng) - \u0111\u01b0\u1ee3c gi\u1eef b\u1edfi - ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u1ef1a (tr\u1eafng) - \u1edf - c\u1ecf",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb) - \u1edf - c\u1ecf",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u00e1o tr\u1eafng, ch\u01a1i, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "nh\u00e0 - \u1edf - t\u01b0\u1eddng",
+  "c\u1ecf - \u1edf g\u1ea7n - c\u00e2y",
+  "t\u01b0\u1eddng - \u1edf g\u1ea7n - ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "c\u1ecf - \u1edf - ng\u1ef1a (tr\u1eafng)",
+  "ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u0111\u1ee9ng, lo l\u1eafng) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)",
+  "ng\u1ef1a (m\u00e0u n\u00e2u) - \u1edf - c\u1ecf",
+  "ng\u1ef1a (x\u00e1m tr\u1eafng) - \u1edf g\u1ea7n - b\u00f2 (m\u00e0u x\u00e1m)",
+  "b\u00f2 (m\u00e0u x\u00e1m) - \u1edf - c\u1ecf",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - ch\u1ea1m - b\u00f2 (m\u00e0u x\u00e1m)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - c\u1ecf",
+  "ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb) - g\u1ea7n - c\u1ecf",
+  "ng\u01b0\u1eddi7 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o cam hoa, \u0111\u1ed3ng h\u1ee3p, lo l\u1eafng) - g\u1ea7n - ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi9 (tr\u1ebb - ch\u01b0a r\u00f5, \u0111ang ng\u1ed3i, vui v\u1ebb) - g\u1ea7n - b\u00f2 (m\u00e0u x\u00e1m)",
+  "ng\u01b0\u1eddi6 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - b\u00f2 (m\u00e0u x\u00e1m)",
+  "ng\u01b0\u1eddi7 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o cam hoa, \u0111\u1ed3ng h\u1ee3p, lo l\u1eafng) - g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb - ch\u01b0a r\u00f5, m\u1eb7c \u0111\u1ed3 h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi10 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - g\u1ea7n - ng\u01b0\u1eddi8 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o h\u1ed3ng, t\u01b0\u01a1ng t\u00e1c, vui v\u1ebb)"
+]
+```
+
+frame_53:
+```json
+[
+  "tường - ở - hàng rào",
+  "hàng rào - ở - cỏ",
+  "cỏ - ở - đất",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - tương tác - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - chạm - ngựa (xám trắng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - tương tác - người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - chạm - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - ngựa (xám trắng)",
+  "ngựa (xám trắng) - được vuốt ve bởi - người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - tương tác - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - tương tác - người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ)",
+  "cây - ở - cỏ",
+  "hàng rào - ở - nhà",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - ngựa (xám trắng)",
+  "người5 (trẻ - nữ, mặc áo hồng, vuốt ve, hạnh phúc) - gần - ngựa (xám trắng)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - giữ - túi xách (màu hồng)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - giữ - túi xách (màu hồng)",
+  "túi xách (màu hồng) - được giữ bởi - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "túi xách (màu hồng) - được giữ bởi - người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ)",
+  "ngựa (trắng) - ở - cỏ",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - ở - cỏ",
+  "người2 (trẻ - chưa rõ, mặc áo trắng, chơi, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "nhà - ở - tường",
+  "cỏ - ở gần - cây",
+  "tường - ở gần - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)",
+  "cỏ - ở - ngựa (trắng)",
+  "người4 (trưởng thành - nữ, mặc áo hồng, đứng, lo lắng) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - gần - người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ)",
+  "ngựa (màu nâu) - ở - cỏ",
+  "ngựa (xám trắng) - ở gần - bò (màu xám)",
+  "bò (màu xám) - ở - cỏ",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - chạm - bò (màu xám)",
+  "người1 (trưởng thành - nam, mặc áo hồng, tương tác, vui vẻ) - gần - cỏ",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - gần - cỏ",
+  "người7 (trưởng thành - nữ, mặc áo cam hoa, đồng hợp, lo lắng) - gần - người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ)",
+  "người9 (trẻ - chưa rõ, đang ngồi, vui vẻ) - gần - bò (màu xám)",
+  "người6 (trưởng thành - nam, mặc áo cam, đứng, vui vẻ) - gần - bò (màu xám)",
+  "người7 (trưởng thành - nữ, mặc áo cam hoa, đồng hợp, lo lắng) - gần - người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ)",
+  "người10 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - gần - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - ôm - người10 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ)",
+  "người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ) - ôm - người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ)",
+  "người3 (trẻ - chưa rõ, mặc đồ hồng, đang đứng, vui vẻ) - được ôm bởi - người8 (trưởng thành - nữ, mặc áo hồng, tương tác, vui vẻ)"
+]
+```
+

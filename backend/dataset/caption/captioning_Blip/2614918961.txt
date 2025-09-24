@@ -1,0 +1,66 @@
+frame_0000.jpg: a baby is sitting at a table eating something
+frame_0001.jpg: a baby sitting at a table with a toy
+frame_0002.jpg: a baby sitting at a table with a toy
+frame_0003.jpg: a baby playing with a toy on the floor
+frame_0004.jpg: a baby is sitting at a table with a toy
+frame_0005.jpg: a baby is playing with a toy on the table
+frame_0006.jpg: a baby is playing with a toy
+frame_0007.jpg: a baby is playing with a toy on the table
+frame_0008.jpg: a baby is playing with a toy at a table
+frame_0009.jpg: a baby is playing with a toy
+frame_0010.jpg: a baby is playing with a toy on the table
+frame_0011.jpg: a baby sitting at a table eating food
+frame_0012.jpg: a baby is playing with a toy on the floor
+frame_0013.jpg: a baby is playing with a toy on the table
+frame_0014.jpg: a baby is playing with a toy
+frame_0015.jpg: a baby is playing with a toy
+frame_0016.jpg: a baby is playing with a toy on the floor
+frame_0017.jpg: a baby is playing with a toy
+frame_0018.jpg: a baby is playing with a toy
+frame_0019.jpg: a baby sitting at a table with a toy
+frame_0020.jpg: a baby sitting at a table with a toy
+frame_0021.jpg: a baby sitting at a table with a cup
+frame_0022.jpg: a baby sitting at a table with a red rose
+frame_0023.jpg: a baby sitting at a table with a red rose
+frame_0024.jpg: a baby is playing with a toy
+frame_0025.jpg: a baby is sitting at a table with a toy
+frame_0026.jpg: a baby sitting at a table
+frame_0027.jpg: a baby is sitting at a table with a toy
+frame_0028.jpg: a baby is sitting at a table with a toy
+frame_0029.jpg: a baby is playing with a toy on the table
+frame_0030.jpg: a baby is playing with a toy
+frame_0031.jpg: a baby is sitting at a table with a toy
+frame_0032.jpg: two children playing with blocks on a table
+frame_0033.jpg: two children playing with toys on a table
+frame_0034.jpg: two children playing with a toy on a table
+frame_0035.jpg: two children playing with a toy on a table
+frame_0036.jpg: a baby is playing with a toy on the table
+frame_0037.jpg: a baby is playing with a toy on the table
+frame_0038.jpg: a baby is playing with a toy on the floor
+frame_0039.jpg: a baby playing with a toy on a table
+frame_0040.jpg: a baby playing with a toy on the table
+frame_0041.jpg: a baby playing with a toy on the floor
+frame_0042.jpg: a baby playing with a toy on the floor
+frame_0043.jpg: a baby playing with a toy on a table
+frame_0044.jpg: two children playing with a toy at a table
+frame_0045.jpg: a baby is playing with a toy on the table
+frame_0046.jpg: a baby playing with a toy on the floor
+frame_0047.jpg: a baby sitting at a table eating a piece of food
+frame_0048.jpg: a baby is eating something on a table
+frame_0049.jpg: a baby sitting on a table with a toy
+frame_0050.jpg: a small child sitting at a table
+frame_0051.jpg: a little girl playing with a cell phone
+frame_0052.jpg: a little boy playing with a toy on the floor
+frame_0053.jpg: a little boy is playing with a toy
+frame_0054.jpg: a little boy playing with a toy on the floor
+frame_0055.jpg: a small child is playing with a toy
+frame_0056.jpg: a little girl is playing with a toy
+frame_0057.jpg: a little boy playing with a toy on the floor
+frame_0058.jpg: a baby is playing with a toy on the floor
+frame_0059.jpg: two children playing with a toy in a box
+frame_0060.jpg: two children playing with toys in a room
+frame_0061.jpg: a baby is sitting on the floor with his mother
+frame_0062.jpg: a baby sitting at a table with a bottle
+frame_0063.jpg: two young boys are sitting at a table
+frame_0064.jpg: two children playing with a toy in a room
+frame_0065.jpg: a young boy playing with a teddy bear

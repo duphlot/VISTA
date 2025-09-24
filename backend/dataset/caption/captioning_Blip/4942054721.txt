@@ -1,0 +1,33 @@
+frame_0000.jpg: a white sheep is standing in the grass
+frame_0001.jpg: a white dog is walking in the grass
+frame_0002.jpg: a white bird is standing in the grass
+frame_0003.jpg: a group of goats grazing in a field
+frame_0004.jpg: two white horses are grazing in a grassy field
+frame_0005.jpg: two goats are standing in the grass
+frame_0006.jpg: two goats are standing in the grass on a hill
+frame_0007.jpg: a group of goats grazing in a field
+frame_0008.jpg: a group of goats grazing in a field
+frame_0009.jpg: a group of goats grazing in a field
+frame_0010.jpg: a herd of goats grazing in the mountains
+frame_0011.jpg: two goats in a field
+frame_0012.jpg: two goats in a field with trees and grass
+frame_0013.jpg: two goats are standing in the grass
+frame_0014.jpg: two goats in the wild
+frame_0015.jpg: two goats are standing in the grass
+frame_0016.jpg: two white ibes in the wild
+frame_0017.jpg: a group of goats grazing in a field
+frame_0018.jpg: two goats are standing in the grass
+frame_0019.jpg: two white goats in a field with green grass
+frame_0020.jpg: two goats are standing in the grass
+frame_0021.jpg: two goats are standing in the grass
+frame_0022.jpg: two white goats in the wild
+frame_0023.jpg: two goats are standing in the grass
+frame_0024.jpg: two goats are standing in the grass
+frame_0025.jpg: two goats are standing in the grass
+frame_0026.jpg: two goats are standing in the grass
+frame_0027.jpg: two goats are grazing in the grass on a hill
+frame_0028.jpg: two goats are standing on a hill
+frame_0029.jpg: a mountain road with a white dog on it
+frame_0030.jpg: a road with a mountain in the background
+frame_0031.jpg: a road with a mountain in the background
+frame_0032.jpg: a mountain road with sheep grazing on it

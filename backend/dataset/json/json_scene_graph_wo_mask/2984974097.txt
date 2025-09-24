@@ -1,0 +1,627 @@
+frame_0:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_1:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_2:
+```json
+[
+  "xe \u0111\u1ea1p1 - \u0111\u01b0\u1ee3c c\u01b0\u1ee1i b\u1edfi - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang \u0111\u1ea1p xe, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang \u0111\u1ea1p xe, vui v\u1ebb) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u0111\u1ea1p1 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u00f4 t\u00f41 - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang \u0111\u1ea1p xe, vui v\u1ebb)",
+  "xe \u00f4 t\u00f41 - \u0111\u1ed7 \u1edf - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "v\u1ea1ch k\u1ebb \u0111\u01b0\u1eddng1 (m\u00e0u tr\u1eafng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u0111\u1ea1p1 - \u0111i qua - v\u1ea1ch k\u1ebb \u0111\u01b0\u1eddng1 (m\u00e0u tr\u1eafng)"
+]
+```
+
+frame_3:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_4:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_5:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_6:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_7:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_8:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_9:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_10:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_11:
+```json
+[
+  "xe \u0111\u1ea1p1 - \u0111\u01b0\u1ee3c c\u01b0\u1ee1i b\u1edfi - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang \u0111\u1ea1p xe, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang \u0111\u1ea1p xe, vui v\u1ebb) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u0111\u1ea1p1 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u00f4 t\u00f41 - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang \u0111\u1ea1p xe, vui v\u1ebb)",
+  "xe \u00f4 t\u00f41 - \u0111\u1ed7 \u1edf - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "v\u1ea1ch k\u1ebb \u0111\u01b0\u1eddng1 (m\u00e0u tr\u1eafng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u0111\u1ea1p1 - \u0111i qua - v\u1ea1ch k\u1ebb \u0111\u01b0\u1eddng1 (m\u00e0u tr\u1eafng)"
+]
+```
+
+frame_12:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_13:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_14:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_15:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang đạp xe, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_16:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_17:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_18:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_19:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_20:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)"
+]
+```
+
+frame_21:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)"
+]
+```
+
+frame_22:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)"
+]
+```
+
+frame_23:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)"
+]
+```
+
+frame_24:
+```json
+[
+  "xe \u0111\u1ea1p1 - \u0111\u01b0\u1ee3c c\u01b0\u1ee1i b\u1edfi - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p, vui v\u1ebb) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u0111\u1ea1p1 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u00f4 t\u00f41 - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p, vui v\u1ebb)",
+  "xe \u00f4 t\u00f41 - \u0111\u1ed7 \u1edf - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "v\u1ea1ch k\u1ebb \u0111\u01b0\u1eddng1 (m\u00e0u tr\u1eafng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u0111\u1ea1p1 - \u0111i qua - v\u1ea1ch k\u1ebb \u0111\u01b0\u1eddng1 (m\u00e0u tr\u1eafng)",
+  "xe \u00f4 t\u00f42 - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p, vui v\u1ebb)"
+]
+```
+
+frame_25:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)"
+]
+```
+
+frame_26:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)"
+]
+```
+
+frame_27:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)"
+]
+```
+
+frame_28:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)"
+]
+```
+
+frame_29:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)"
+]
+```
+
+frame_30:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)"
+]
+```
+
+frame_31:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, vui vẻ)"
+]
+```
+
+frame_32:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)"
+]
+```
+
+frame_33:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)"
+]
+```
+
+frame_34:
+```json
+[
+  "xe \u0111\u1ea1p1 - \u0111\u01b0\u1ee3c c\u01b0\u1ee1i b\u1edfi - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p, lo l\u1eafng)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p, lo l\u1eafng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u0111\u1ea1p1 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u00f4 t\u00f41 - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p, lo l\u1eafng)",
+  "xe \u00f4 t\u00f41 - \u0111\u1ed7 \u1edf - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "v\u1ea1ch k\u1ebb \u0111\u01b0\u1eddng1 (m\u00e0u tr\u1eafng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u0111\u1ea1p1 - \u0111i qua - v\u1ea1ch k\u1ebb \u0111\u01b0\u1eddng1 (m\u00e0u tr\u1eafng)",
+  "xe \u00f4 t\u00f42 - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p, lo l\u1eafng)",
+  "xe \u00f4 t\u00f43 - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p, lo l\u1eafng)"
+]
+```
+
+frame_35:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)"
+]
+```
+
+frame_36:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)"
+]
+```
+
+frame_37:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)"
+]
+```
+
+frame_38:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)"
+]
+```
+
+frame_39:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)"
+]
+```
+
+frame_40:
+```json
+[
+  "xe \u0111\u1ea1p1 - \u0111\u01b0\u1ee3c c\u01b0\u1ee1i b\u1edfi - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p, lo l\u1eafng)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p, lo l\u1eafng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u0111\u1ea1p1 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u00f4 t\u00f41 - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p, lo l\u1eafng)",
+  "xe \u00f4 t\u00f41 - \u0111\u1ed7 \u1edf - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "v\u1ea1ch k\u1ebb \u0111\u01b0\u1eddng1 (m\u00e0u tr\u1eafng) - \u1edf tr\u00ean - \u0111\u01b0\u1eddng1 (m\u00e0u \u0111en)",
+  "xe \u0111\u1ea1p1 - \u0111i qua - v\u1ea1ch k\u1ebb \u0111\u01b0\u1eddng1 (m\u00e0u tr\u1eafng)",
+  "xe \u00f4 t\u00f42 - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p, lo l\u1eafng)",
+  "xe \u00f4 t\u00f43 - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c v\u00e1y h\u1ed3ng, \u0111ang l\u00e1i xe \u0111\u1ea1p, lo l\u1eafng)"
+]
+```
+
+frame_41:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)"
+]
+```
+
+frame_42:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)"
+]
+```
+
+frame_43:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)"
+]
+```
+
+frame_44:
+```json
+[
+  "xe đạp1 - được cưỡi bởi - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - ở trên - đường1 (màu đen)",
+  "xe ô tô1 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô1 - đỗ ở - đường1 (màu đen)",
+  "vạch kẻ đường1 (màu trắng) - ở trên - đường1 (màu đen)",
+  "xe đạp1 - đi qua - vạch kẻ đường1 (màu trắng)",
+  "xe ô tô2 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)",
+  "xe ô tô3 - ở phía sau - người1 (trẻ - nữ, mặc váy hồng, đang lái xe đạp, lo lắng)"
+]
+```
+

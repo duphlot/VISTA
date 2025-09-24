@@ -1,0 +1,467 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - chưa rõ, mặc áo trắng, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3",
+  "người2 (chưa rõ - chưa rõ, chưa rõ, đang đánh trống, vui vẻ) - đang chơi - trống3"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - chưa rõ, mặc áo trắng, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (chưa rõ - chưa rõ, chưa rõ, đang đánh trống, vui vẻ) - đang chơi - trống3"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (chưa rõ - chưa rõ, chưa rõ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (chưa rõ - chưa rõ, chưa rõ, đang đánh trống, vui vẻ)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (chưa rõ - chưa rõ, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (chưa rõ - chưa rõ, mặc áo đỏ, đang đánh trống, vui vẻ)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (chưa rõ - chưa rõ, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (chưa rõ - chưa rõ, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (chưa rõ - chưa rõ, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (chưa rõ - chưa rõ, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "người3 (trưởng thành - nam, mặc áo cam, đang đánh trống, vui vẻ) - đang chơi - trống3"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "người3 (trưởng thành - nam, mặc áo cam, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "người3 (trưởng thành - nam, mặc áo cam, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "người3 (trưởng thành - nam, mặc áo cam, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "người3 (trưởng thành - nam, mặc áo cam, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2",
+  "người4 (trẻ - nữ, mặc áo đen, đang đánh trống, vui vẻ) - đang chơi - trống3"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2",
+  "người4 (trẻ - nữ, mặc áo đen, đang nhìn, vui vẻ) - đang nhìn - trống3"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2",
+  "người4 (trẻ - nữ, mặc áo đen, đang nhìn, vui vẻ) - đang nhìn - trống3"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2",
+  "người4 (trẻ - nữ, mặc áo đen, đang nhìn, vui vẻ) - đang nhìn - trống3"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2",
+  "người4 (trẻ - nữ, mặc áo đen, đang nhìn, vui vẻ) - đang nhìn - trống3"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2",
+  "người3 (trưởng thành - nữ, mặc áo nhiều màu, đang đánh trống, vui vẻ) - bên cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2",
+  "người3 (trưởng thành - nữ, mặc áo nhiều màu, đang chơi, vui vẻ) - bên cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2",
+  "người3 (trưởng thành - nữ, mặc áo nhiều màu, đang chơi, vui vẻ) - bên cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống3 (nhiều màu) - bên cạnh - trống4 (màu kem)"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2",
+  "người3 (trưởng thành - nữ, mặc áo nhiều màu, đang chơi, vui vẻ) - bên cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống3 (nhiều màu) - bên cạnh - trống4 (màu kem)"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2",
+  "người3 (trưởng thành - nữ, mặc áo nhiều màu, đang chơi, vui vẻ) - bên cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống3 (nhiều màu) - bên cạnh - trống4 (màu kem)",
+  "người4 (trẻ - nam, mặc áo đen, đang chơi, vui vẻ) - nhìn - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "trống4 (màu kem) - cạnh - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "trống4 (màu kem) - cạnh - người4 (trẻ - nam, mặc áo đen, đang chơi, vui vẻ)"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2",
+  "người3 (trưởng thành - nữ, mặc áo nhiều màu, đang chơi, vui vẻ) - bên cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống3 (nhiều màu) - bên cạnh - trống4 (màu kem)",
+  "người4 (trẻ - nam, mặc áo đen, đang chơi, vui vẻ) - nhìn - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "trống4 (màu kem) - cạnh - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "trống4 (màu kem) - cạnh - người4 (trẻ - nam, mặc áo đen, đang chơi, vui vẻ)"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2",
+  "người3 (trưởng thành - nữ, mặc áo nhiều màu, đang chơi, vui vẻ) - bên cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống3 (nhiều màu) - bên cạnh - trống4 (màu kem)",
+  "người4 (trẻ - nam, mặc áo đen, đang chơi, vui vẻ) - nhìn - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "trống4 (màu kem) - cạnh - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "trống4 (màu kem) - cạnh - người4 (trẻ - nam, mặc áo đen, đang chơi, vui vẻ)"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2",
+  "người3 (trưởng thành - nữ, mặc áo nhiều màu, đang chơi, vui vẻ) - bên cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống3 (nhiều màu) - bên cạnh - trống4 (màu kem)",
+  "người4 (trẻ - nam, mặc áo đen, đang chơi, vui vẻ) - nhìn - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "trống4 (màu kem) - cạnh - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "trống4 (màu kem) - cạnh - người4 (trẻ - nam, mặc áo đen, đang chơi, vui vẻ)"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống2",
+  "tay - chạm vào - trống2",
+  "trống2 - cạnh - trống3 (nhiều màu)",
+  "người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ) - đang chơi - trống3",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - phía sau - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ) - đang chơi - trống1",
+  "tay - chạm vào - trống1",
+  "trống1 - cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống1 - cạnh - trống2",
+  "người3 (trưởng thành - nữ, mặc áo nhiều màu, đang chơi, vui vẻ) - bên cạnh - người1 (trẻ - nam, mặc áo xám, đang đánh trống, vui vẻ)",
+  "trống3 (nhiều màu) - bên cạnh - trống4 (màu kem)",
+  "người4 (trẻ - nam, mặc áo đen, đang chơi, vui vẻ) - nhìn - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "trống4 (màu kem) - cạnh - người2 (trưởng thành - nam, mặc áo đỏ, đang đánh trống, vui vẻ)",
+  "trống4 (màu kem) - cạnh - người4 (trẻ - nam, mặc áo đen, đang chơi, vui vẻ)"
+]
+```
+

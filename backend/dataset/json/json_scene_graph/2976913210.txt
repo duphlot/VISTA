@@ -1,0 +1,410 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - trên - xe ATV1",
+  "xe ATV1 - trong - nước1",
+  "cây1 - xung quanh - cỏ1",
+  "nước1 - trong - sông1",
+  "xe ATV1 - trên - bụi bẩn1"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - trên - xe máy1",
+  "xe máy1 - trong - nước2",
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - gần - chim1",
+  "sông1 - xung quanh - cỏ1",
+  "xe máy1 - trên - nước1",
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - gần - sông1",
+  "xe máy1 - trên - bụi bẩn1",
+  "nước2 - trong - sông1"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - trên - xe máy1",
+  "xe máy1 - trong - nước2",
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - gần - sông1",
+  "xe máy1 - trên - bụi bẩn1",
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - gần - cỏ1",
+  "xe máy1 - trên - nước1",
+  "nước2 - trong - sông1",
+  "sông1 - xung quanh - cỏ1",
+  "sông1 - xung quanh - cây1"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - trên - xe máy1",
+  "xe máy1 - trong - nước2",
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - gần - sông1",
+  "xe máy1 - trên - bụi bẩn1",
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - gần - cỏ1",
+  "xe máy1 - trên - nước1",
+  "nước2 - trong - sông1",
+  "sông1 - xung quanh - cỏ1",
+  "sông1 - xung quanh - cây1"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - trên - xe máy1",
+  "xe máy1 - trong - nước2",
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - gần - sông1",
+  "xe máy1 - trên - bụi bẩn1",
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - gần - cỏ1",
+  "xe máy1 - trên - nước1",
+  "nước2 - trong - sông1",
+  "sông1 - xung quanh - cỏ1",
+  "sông1 - xung quanh - cây1"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - trên - xe máy1",
+  "xe máy1 - trong - nước2",
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - gần - sông1",
+  "xe máy1 - trên - nước1",
+  "nước2 - trong - sông1",
+  "sông1 - xung quanh - cỏ1",
+  "sông1 - xung quanh - cây1"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - trên - xe máy1",
+  "xe máy1 - trong - sông1",
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - gần - sông1",
+  "xe máy1 - trên - nước1",
+  "nước2 - trong - sông1",
+  "sông1 - xung quanh - cỏ1",
+  "sông1 - xung quanh - cây1"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - trên - xe máy1",
+  "xe máy1 - trong - sông1",
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - gần - sông1",
+  "xe máy1 - trên - nước1",
+  "nước2 - trong - sông1",
+  "sông1 - xung quanh - cỏ1",
+  "sông1 - xung quanh - cây1",
+  "nước1 - một phần của - sông1",
+  "xe máy1 - gần - người1"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - trên - thuyền1",
+  "thuyền1 - trong - sông1",
+  "người1 (trẻ, mặc áo khoác xám, đang lái xe) - gần - sông1",
+  "cỏ - xung quanh - sông1",
+  "sông1 - xung quanh - cây1",
+  "nước1 - một phần của - sông1",
+  "nước2 - trong - sông1",
+  "bụi bẩn - xung quanh - sông1"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - thuyền1",
+  "thuyền1 - trong - sông1",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - sông1",
+  "cỏ - xung quanh - sông1",
+  "sông1 - xung quanh - cây1",
+  "nước1 - một phần của - sông1",
+  "nước2 - trong - sông1",
+  "bụi bẩn - xung quanh - sông1"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - xe máy1",
+  "xe máy1 - trong - sông1",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - sông1",
+  "cỏ - xung quanh - sông1",
+  "sông1 - xung quanh - cây1",
+  "nước1 - một phần của - sông1",
+  "nước2 - trong - sông1",
+  "bụi bẩn - xung quanh - sông1"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - xe máy1",
+  "xe máy1 - trong - sông1",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - sông1",
+  "cỏ - xung quanh - sông1",
+  "sông1 - xung quanh - cây1",
+  "nước1 - một phần của - sông1",
+  "nước2 - trong - sông1",
+  "bụi bẩn - xung quanh - sông1",
+  "chim1 (cam) - trong - sông1"
+]
+```
+
+frame_12:
+```json
+[
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o kho\u00e1c x\u00e1m, \u0111ang ng\u1ed3i) - tr\u00ean - thuy\u1ec1n1",
+  "thuy\u1ec1n1 - trong - n\u01b0\u1edbc1",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o kho\u00e1c x\u00e1m, \u0111ang ng\u1ed3i) - g\u1ea7n - n\u01b0\u1edbc1"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - thuyền1",
+  "thuyền1 - trong - nước1",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - nước1"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - thuyền1",
+  "thuyền1 (màu tím) - trong - sông",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - sông",
+  "thuyền1 (màu tím) - gần - nước",
+  "cỏ - gần - đất",
+  "thuyền2 (màu tím) - trong - sông",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - thuyền1 (màu tím)",
+  "cây - gần - sông"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - xe máy1",
+  "xe máy1 (màu tím) - trong - sông",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - sông",
+  "xe máy1 (màu tím) - gần - nước",
+  "cỏ - gần - đất",
+  "cây - gần - sông",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - xe máy1 (màu tím)"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - xe máy1",
+  "xe máy1 (màu tím) - trong - sông",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - sông",
+  "xe máy1 (màu tím) - gần - nước",
+  "cỏ - gần - đất",
+  "cây - gần - sông",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - xe máy1 (màu tím)"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - xe máy1",
+  "xe máy1 (màu tím) - trong - sông",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - sông",
+  "xe máy1 (màu tím) - gần - nước",
+  "cỏ - gần - đất",
+  "cây - gần - sông",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - xe máy1 (màu tím)",
+  "chim (màu cam) - trên - sông",
+  "chó - gần - xe máy1 (màu tím)"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - xe máy1",
+  "xe máy1 (màu tím) - trong - sông",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - sông",
+  "xe máy1 (màu tím) - gần - nước",
+  "cỏ - gần - đất",
+  "cây - gần - sông",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - xe máy1 (màu tím)"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - xe máy1",
+  "xe máy1 (màu tím) - trong - sông",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - sông",
+  "xe máy1 (màu tím) - gần - nước",
+  "cỏ - gần - đất",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - xe máy1 (màu tím)"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - xe máy1",
+  "xe máy1 (màu tím) - trong - nước",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - nước",
+  "xe máy1 (màu tím) - gần - nước",
+  "cỏ - gần - đất",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - xe máy1 (màu tím)",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - hành lý (màu hồng)",
+  "chim1 (màu cam) - gần - nước"
+]
+```
+
+frame_21:
+```json
+[
+  "tàu hỏa1 (71%) - gần - nước",
+  "tàu hỏa1 (71%) - gần - chim2",
+  "tuyết - gần - đất",
+  "cỏ - gần - đất",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - tàu hỏa1 (71%)",
+  "xe máy1 (màu tím) - trên - tàu hỏa1 (71%)",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - nước",
+  "xe máy1 (màu tím) - gần - nước",
+  "cỏ - gần - đất",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - xe máy1 (màu tím)",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - hành lý (màu hồng)",
+  "chim1 (màu cam) - gần - sông",
+  "chim2 - gần - sông"
+]
+```
+
+frame_22:
+```json
+[
+  "t\u00e0u h\u1ecfa1 - g\u1ea7n - n\u01b0\u1edbc",
+  "t\u00e0u h\u1ecfa1 - g\u1ea7n - chim2",
+  "tuy\u1ebft - g\u1ea7n - \u0111\u1ea5t",
+  "c\u1ecf - g\u1ea7n - \u0111\u1ea5t",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o kho\u00e1c x\u00e1m, \u0111ang ng\u1ed3i) - tr\u00ean - t\u00e0u h\u1ecfa1",
+  "xe m\u00e1y1 (m\u00e0u t\u00edm) - tr\u00ean - t\u00e0u h\u1ecfa1",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o kho\u00e1c x\u00e1m, \u0111ang ng\u1ed3i) - g\u1ea7n - n\u01b0\u1edbc",
+  "xe m\u00e1y1 (m\u00e0u t\u00edm) - g\u1ea7n - n\u01b0\u1edbc",
+  "c\u1ecf - g\u1ea7n - \u0111\u1ea5t",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o kho\u00e1c x\u00e1m, \u0111ang ng\u1ed3i) - g\u1ea7n - xe m\u00e1y1 (m\u00e0u t\u00edm)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c \u00e1o kho\u00e1c x\u00e1m, \u0111ang ng\u1ed3i) - g\u1ea7n - h\u00e0nh l\u00fd (m\u00e0u h\u1ed3ng)",
+  "chim1 (m\u00e0u cam) - g\u1ea7n - s\u00f4ng",
+  "chim2 - g\u1ea7n - s\u00f4ng",
+  "t\u00e0u h\u1ecfa1 - tr\u00ean - s\u00f4ng",
+  "m\u00e1y bay (m\u00e0u h\u1ed3ng) - g\u1ea7n - s\u00f4ng",
+  "m\u00e1y bay (m\u00e0u h\u1ed3ng) - g\u1ea7n - chim2"
+]
+```
+
+frame_23:
+```json
+[
+  "sông - gần - đất",
+  "cỏ - gần - đất",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - tàu hỏa1",
+  "xe máy1 (màu tím) - trên - tàu hỏa1",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - nước",
+  "xe máy1 (màu tím) - gần - nước",
+  "cỏ - gần - đất",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - xe máy1 (màu tím)",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - hành lý (màu hồng)",
+  "tàu hỏa1 - trên - sông",
+  "máy bay (màu hồng) - gần - sông",
+  "đất - gần - tảng đá",
+  "tàu hỏa1 - gần - nước"
+]
+```
+
+frame_24:
+```json
+[
+  "sông - gần - đất",
+  "cỏ - gần - đất",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - tàu hỏa1",
+  "xe máy1 (màu tím) - trên - tàu hỏa1",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - nước",
+  "xe máy1 (màu tím) - gần - nước",
+  "cỏ - gần - đất",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - xe máy1 (màu tím)",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - hành lý (màu hồng)",
+  "tàu hỏa1 - trên - sông",
+  "tàu hỏa1 - gần - nước",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - hành lý (màu hồng)"
+]
+```
+
+frame_25:
+```json
+[
+  "sông - gần - đất",
+  "cỏ - gần - đất",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - xe máy1 (màu tím)",
+  "xe máy1 (màu tím) - trên - voi (màu vàng)",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - nước",
+  "xe máy1 (màu tím) - gần - nước",
+  "cỏ - gần - đất",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - voi (màu vàng)",
+  "voi (màu vàng) - trong - nước",
+  "xe máy1 (màu tím) - gần - người1 (trẻ, mặc áo khoác xám, đang ngồi)",
+  "xe máy1 (màu tím) - trên - nước",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - voi (màu vàng)"
+]
+```
+
+frame_26:
+```json
+[
+  "sông - gần - đất",
+  "cỏ - gần - đất",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - xe máy1 (màu tím)",
+  "xe máy1 (màu tím) - trên - voi (màu vàng)",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - nước",
+  "xe máy1 (màu tím) - gần - nước",
+  "cỏ - gần - đất",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - voi (màu vàng)",
+  "voi (màu vàng) - trong - nước",
+  "xe máy1 (màu tím) - gần - người1 (trẻ, mặc áo khoác xám, đang ngồi)",
+  "xe máy1 (màu tím) - trên - nước",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - voi (màu vàng)",
+  "chim1 - trong - nước",
+  "chim2 - trong - nước",
+  "chim3 - trong - nước"
+]
+```
+
+frame_27:
+```json
+[
+  "cỏ - gần - đất",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - trên - tàu hỏa (màu xanh lam)",
+  "tàu hỏa (màu xanh lam) - trên - cây",
+  "người1 (trẻ, mặc áo khoác xám, đang ngồi) - gần - sông",
+  "tàu hỏa (màu xanh lam) - gần - sông",
+  "máy bay - trong - nước",
+  "sông - gần - đất"
+]
+```
+

@@ -1,0 +1,109 @@
+frame_0000.jpg: a young girl in a red dress is standing on a stage
+frame_0001.jpg: a young girl in a red dress is standing on a stage
+frame_0002.jpg: a young girl is performing on a stage
+frame_0003.jpg: a couple of dancers on stage with a man in the background
+frame_0004.jpg: two dancers on stage with one dancer in the fore
+frame_0005.jpg: two dancers on stage with one dancer in the fore
+frame_0006.jpg: two people are on stage with one person in the middle
+frame_0007.jpg: two dancers on stage with one dancer in the middle
+frame_0008.jpg: two dancers on stage with one dancer in the middle
+frame_0009.jpg: two dancers on stage with one dancer in the middle
+frame_0010.jpg: two dancers on stage with one dancer in the middle
+frame_0011.jpg: two dancers on stage with a purple background
+frame_0012.jpg: two dancers on stage with a purple background
+frame_0013.jpg: two dancers on stage with a red light
+frame_0014.jpg: two dancers on stage with a purple background
+frame_0015.jpg: two dancers on stage with one dancer in the middle
+frame_0016.jpg: two dancers on stage with one dancer in the middle
+frame_0017.jpg: a ballet performance with two dancers on stage
+frame_0018.jpg: a woman in a white dress is dancing on a stage
+frame_0019.jpg: a woman in a white dress is dancing on a stage
+frame_0020.jpg: two dancers on stage with one dancer in the middle
+frame_0021.jpg: a woman in a red dress is dancing on a stage
+frame_0022.jpg: two dancers on stage with one dancer in the middle
+frame_0023.jpg: a young girl in a white dress is dancing on a stage
+frame_0024.jpg: two dancers in white dresses on stage
+frame_0025.jpg: two dancers in white tutues and red tutues
+frame_0026.jpg: two dancers in white dresses on stage
+frame_0027.jpg: two dancers in a dark room with a red light
+frame_0028.jpg: a ballet performance with two dancers on stage
+frame_0029.jpg: two dancers in white dresses on stage
+frame_0030.jpg: a ballet performance with two dancers on stage
+frame_0031.jpg: two dancers in a dark room with red lights
+frame_0032.jpg: two dancers in a dark room with a red light
+frame_0033.jpg: two dancers in a dark room with a red light
+frame_0034.jpg: a woman in a white dress is dancing on a stage
+frame_0035.jpg: a woman in a white dress is dancing on a stage
+frame_0036.jpg: a young girl in a red dress is dancing on a stage
+frame_0037.jpg: two dancers in a dance pose on a stage
+frame_0038.jpg: two dancers in white dresses on stage
+frame_0039.jpg: two young girls are performing on stage
+frame_0040.jpg: a woman in a white dress is dancing on a stage
+frame_0041.jpg: two dancers in white dresses on stage
+frame_0042.jpg: two dancers in white dresses on stage
+frame_0043.jpg: two dancers in a dark room with red lights
+frame_0044.jpg: two dancers in a dance pose on stage
+frame_0045.jpg: a ballet performance with two dancers on stage
+frame_0046.jpg: two dancers in white tutues and red tutues
+frame_0047.jpg: a ballet performance with two dancers
+frame_0048.jpg: a ballet performance with a dancer in the middle
+frame_0049.jpg: a woman in a white dress is dancing on a stage
+frame_0050.jpg: two dancers in a dance pose on stage
+frame_0051.jpg: a ballet performance with two dancers on stage
+frame_0052.jpg: two dancers in white tutues and red tutues
+frame_0053.jpg: two dancers in a dance pose on a stage
+frame_0054.jpg: two dancers in white dresses on stage
+frame_0055.jpg: two dancers on stage with one dancer in the middle
+frame_0056.jpg: two dancers in white dresses on stage
+frame_0057.jpg: a couple of dancers on stage with a red light
+frame_0058.jpg: a ballerina and a dancer in a dance performance
+frame_0059.jpg: a woman in a red dress is dancing on a stage
+frame_0060.jpg: a woman in a red dress is dancing on a stage
+frame_0061.jpg: a woman in a red dress is dancing on a stage
+frame_0062.jpg: a young girl is dancing on a stage
+frame_0063.jpg: a woman in a red dress is dancing on a stage
+frame_0064.jpg: a woman in a red dress is dancing on a stage
+frame_0065.jpg: a woman in a red dress is dancing on a stage
+frame_0066.jpg: a young girl in a red dress is dancing on a stage
+frame_0067.jpg: a woman in a red dress is dancing on a stage
+frame_0068.jpg: a young girl is dancing on a stage
+frame_0069.jpg: a woman in a red dress is dancing on a stage
+frame_0070.jpg: a young girl is performing on a stage
+frame_0071.jpg: a woman in a red dress is dancing on a stage
+frame_0072.jpg: a woman in a red dress is dancing on a stage
+frame_0073.jpg: a woman in a red dress is dancing on a stage
+frame_0074.jpg: a woman in a red dress is dancing on a stage
+frame_0075.jpg: a woman in a red dress is dancing on a stage
+frame_0076.jpg: a woman in a white dress is dancing on a stage
+frame_0077.jpg: a woman in a white dress is dancing on a stage
+frame_0078.jpg: a woman in a white dress is dancing on a stage
+frame_0079.jpg: a woman in a white dress is dancing on a stage
+frame_0080.jpg: a woman in a red dress is dancing on a stage
+frame_0081.jpg: a young girl is dancing on a stage
+frame_0082.jpg: a woman in a white dress is dancing on a stage
+frame_0083.jpg: a young girl is dancing on a stage
+frame_0084.jpg: two dancers on stage with one dancer in the middle
+frame_0085.jpg: a woman in a white dress is dancing on a stage
+frame_0086.jpg: a woman in a white dress is dancing on a stage
+frame_0087.jpg: a young girl in a red dress is dancing on a stage
+frame_0088.jpg: two dancers on stage with one dancer in the middle
+frame_0089.jpg: two dancers on stage with one dancer in the middle
+frame_0090.jpg: two dancers on stage with one dancer in the middle
+frame_0091.jpg: a woman in a red dress is dancing on a stage
+frame_0092.jpg: a woman in a white dress is dancing on a stage
+frame_0093.jpg: a woman in a white dress is dancing on a stage
+frame_0094.jpg: a person on a stage with a ballerina
+frame_0095.jpg: a woman in a white dress is dancing on a stage
+frame_0096.jpg: a woman in a red dress is dancing on a stage
+frame_0097.jpg: a woman in a red dress is dancing on a stage
+frame_0098.jpg: a young girl in a red dress is dancing on a stage
+frame_0099.jpg: a young girl in a white dress is dancing on a stage
+frame_0100.jpg: a woman in a white dress is dancing on a stage
+frame_0101.jpg: a woman in a red dress is dancing on a stage
+frame_0102.jpg: a woman in a red dress is dancing on a stage
+frame_0103.jpg: two dancers in a dance pose on a stage
+frame_0104.jpg: a young girl in a red dress is dancing on a stage
+frame_0105.jpg: two dancers in a dance pose on a stage
+frame_0106.jpg: a woman in a red dress is dancing on a stage
+frame_0107.jpg: a woman in a red dress is dancing on a stage
+frame_0108.jpg: a woman in a red dress is dancing on a stage

@@ -1,0 +1,4127 @@
+frame_0:
+```json
+[
+  "Ghế bành1 (màu hồng) - dựa vào - tường",
+  "Cửa ra vào - trên - thảm",
+  "Sàn nhà - trên - thảm",
+  "Đèn - trên - ghế bành2",
+  "Ghế bành1 (màu hồng) - trên - thảm",
+  "Ghế bành2 (màu hồng) - trên - thảm",
+  "Thảm - dưới - ghế bành2"
+]
+```
+
+frame_1:
+```json
+[
+  "Ghế bành1 (màu hồng) - dựa vào - tường",
+  "Cửa ra vào - trên - thảm",
+  "Sàn nhà - trên - thảm",
+  "Đèn - trên - ghế bành2",
+  "Ghế bành1 (màu hồng) - trên - thảm",
+  "Ghế bành2 (màu hồng) - trên - thảm",
+  "Thảm - dưới - ghế bành2"
+]
+```
+
+frame_2:
+```json
+[
+  "Ghế bành1 (màu hồng) - dựa vào - tường",
+  "Cửa ra vào - trên - thảm",
+  "Sàn nhà - trên - thảm",
+  "Đèn - trên - ghế bành2",
+  "Ghế bành1 (màu hồng) - trên - thảm",
+  "Ghế bành2 (màu hồng) - trên - thảm",
+  "Thảm - dưới - ghế bành2"
+]
+```
+
+frame_3:
+```json
+[
+  "Ghế bành1 (màu xanh lá cây) - trên - thảm",
+  "Tường - trên - thảm",
+  "Người1 (trẻ con, mặc áo hồng, đang đi) - trên - thảm",
+  "Thảm - trên - sàn nhà",
+  "Đèn (màu trắng) - bên cạnh - cửa ra vào",
+  "Cửa ra vào - trên - thảm",
+  "Sàn nhà - trên - thảm",
+  "Ghế bành2 (màu xanh dương) - trên - thảm"
+]
+```
+
+frame_4:
+```json
+[
+  "Ghế bành1 (màu xanh lá cây) - trên - thảm",
+  "Tường - trên - thảm",
+  "Người1 (trẻ con, mặc áo hồng, đang đi) - trên - thảm",
+  "Thảm - trên - sàn nhà",
+  "Đèn (màu trắng) - bên cạnh - cửa ra vào",
+  "Cửa ra vào - trên - thảm",
+  "Sàn nhà - trên - thảm",
+  "Ghế bành2 (màu xanh dương) - trên - thảm"
+]
+```
+
+frame_5:
+```json
+[
+  "Ghế bành1 (màu xanh lá cây) - trên - thảm",
+  "Tường - trên - thảm",
+  "Người1 (trẻ con, mặc áo hồng, đang đi) - trên - thảm",
+  "Thảm - trên - sàn nhà",
+  "Đèn (màu trắng) - bên cạnh - cửa ra vào",
+  "Cửa ra vào - trên - thảm",
+  "Sàn nhà - trên - thảm",
+  "Ghế bành2 (màu xanh dương) - trên - thảm"
+]
+```
+
+frame_6:
+```json
+[
+  "Tường - trên - vỉa hè",
+  "Người1 (trẻ con, mặc áo hồng, đang đi) - trên - vỉa hè",
+  "Vỉa hè - trên - cầu thang",
+  "Đèn (màu trắng) - trên - tường",
+  "Cầu thang - dưới - tường"
+]
+```
+
+frame_7:
+```json
+[
+  "Tường - trên - vỉa hè",
+  "Người1 (trẻ con, mặc áo hồng, đang đi) - trên - vỉa hè",
+  "Vỉa hè - trên - cầu thang",
+  "Tường - trên - ghế sofa",
+  "Người1 (trẻ con, mặc áo hồng, đang đi) - đứng cạnh - ghế sofa"
+]
+```
+
+frame_8:
+```json
+[
+  "Tường - trên - vỉa hè",
+  "Người1 (trẻ con, mặc áo hồng, đang đi) - trên - vỉa hè",
+  "Vỉa hè - trên - cầu thang",
+  "Tường - trên - ghế sofa",
+  "Người1 (trẻ con, mặc áo hồng, đang đi) - đứng cạnh - ghế sofa",
+  "Người1 (trẻ con, mặc áo hồng, đang nhìn) - trên - sàn nhà",
+  "Sàn nhà - dưới - đèn (màu trắng)",
+  "Đèn (màu trắng) - trên - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Bàn (màu vàng) - trên - tấm các tông",
+  "Tấm các tông - trên - sàn nhà",
+  "Thảm - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang nhìn) - đứng cạnh - thảm"
+]
+```
+
+frame_9:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - sàn nhà",
+  "Sàn nhà - dưới - đèn (màu trắng)",
+  "Đèn (màu trắng) - trên - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - đứng cạnh - rèm cửa (màu nâu)"
+]
+```
+
+frame_10:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - trên - giường",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - ngồi trên - giường",
+  "Cốc (màu xanh lá cây) - trên - giường"
+]
+```
+
+frame_11:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - trên - giường",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - ngồi trên - giường",
+  "Cốc (màu xanh lá cây) - trên - giường"
+]
+```
+
+frame_12:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - trên - giường",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - ngồi trên - giường",
+  "Cốc (màu xanh lá cây) - trên - giường"
+]
+```
+
+frame_13:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - trên - giường",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - ngồi trên - giường",
+  "Cốc (màu xanh lá cây) - trên - giường"
+]
+```
+
+frame_14:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - trên - thảm",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - ngồi trên - thảm",
+  "Bánh (màu trắng) - trên - sàn nhà",
+  "Bình hoa (màu nâu) - trên - sàn nhà"
+]
+```
+
+frame_15:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - trên - thảm",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - ngồi trên - thảm"
+]
+```
+
+frame_16:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - trên - thảm",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - ngồi trên - thảm"
+]
+```
+
+frame_17:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - trên - thảm",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - ngồi trên - giường 76%"
+]
+```
+
+frame_18:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - trên - thảm",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - ngồi trên - giường 76%"
+]
+```
+
+frame_19:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - trên - thảm",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - ngồi trên - bánh (70%)"
+]
+```
+
+frame_20:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - trên - thảm",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - ngồi trên - giường (64%)",
+  "Giường (64%) - bên cạnh - bình hoa (73%)"
+]
+```
+
+frame_21:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - trên - thảm",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - ngồi trên - giường (60%)",
+  "Giường (60%) - bên cạnh - cốc (67%)",
+  "Rèm cửa (màu nâu) - cạnh - gương (màu xanh lá cây)"
+]
+```
+
+frame_22:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - trên - thảm",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - ngồi trên - giường (67%)",
+  "Giường (67%) - bên cạnh - rèm cửa (màu nâu)",
+  "Rèm cửa (màu nâu) - cạnh - cây (xanh)"
+]
+```
+
+frame_23:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - trên - thảm",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Người1 (trẻ con, mặc áo hồng, đang ngồi) - ngồi trên - thảm",
+  "Rèm cửa (màu nâu) - cạnh - cây (xanh)",
+  "Cốc (màu xanh lá cây) - trên - thảm"
+]
+```
+
+frame_24:
+```json
+[
+  "Tường - trên - sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - sàn nhà",
+  "Sàn nhà - dưới - tường",
+  "Tường - cạnh - rèm cửa (màu nâu)",
+  "Sàn nhà - trên - thảm",
+  "Cửa sổ - cạnh - rèm cửa (màu nâu)",
+  "Rèm cửa (màu nâu) - cạnh - cây (xanh)"
+]
+```
+
+frame_25:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Thảm",
+  "Cửa sổ - cạnh - Rèm cửa (màu nâu)",
+  "Rèm cửa (màu nâu) - cạnh - Cây (xanh)",
+  "Sàn gỗ - trên - Thảm",
+  "Thảm - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ"
+]
+```
+
+frame_26:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Thảm",
+  "Cửa sổ - cạnh - Rèm cửa (màu nâu)",
+  "Rèm cửa (màu nâu) - cạnh - Cây (xanh)",
+  "Sàn gỗ - trên - Thảm",
+  "Thảm - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ"
+]
+```
+
+frame_27:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Thảm",
+  "Cửa sổ - cạnh - Rèm cửa (màu nâu)",
+  "Rèm cửa (màu nâu) - cạnh - Cây (xanh)",
+  "Sàn gỗ - trên - Thảm",
+  "Thảm - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Bánh (trắng) - trên - Sàn nhà"
+]
+```
+
+frame_28:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang cầm) - đang cầm - Bánh mì kẹp xúc xích",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - cạnh - Cốc (màu hồng)",
+  "Cốc (màu hồng) - cạnh - Bìa cứng"
+]
+```
+
+frame_29:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang cầm) - đang cầm - Bánh mì kẹp xúc xích",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - cạnh - Cốc (màu hồng)",
+  "Cốc (màu hồng) - cạnh - Bìa cứng",
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đi) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc quần áo, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đi) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc quần áo, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc quần áo, đang đứng) - đang cầm - Bánh mì kẹp xúc xích",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường"
+]
+```
+
+frame_30:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang cầm) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang cầm) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang cầm) - đang cầm - Cà rốt",
+  "Người1 (trẻ con, mặc áo hồng, đang cầm) - cạnh - Bìa cứng",
+  "Cốc (màu hồng) - cạnh - Bìa cứng",
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang cầm) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc quần áo, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang cầm) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc quần áo, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc quần áo, đang đứng) - đang cầm - Bánh pizza",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc quần áo, đang đứng) - cạnh - Người1 (trẻ con, mặc áo hồng, đang cầm)"
+]
+```
+
+frame_31:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - cạnh - Bìa cứng",
+  "Cốc (màu hồng) - cạnh - Bìa cứng",
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - gần - Ghế (màu nâu)",
+  "Sàn nhà - trên - Sàn"
+]
+```
+
+frame_32:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - cạnh - Bìa cứng",
+  "Cốc (màu hồng) - cạnh - Bìa cứng",
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - gần - Ghế (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Pizza (nhiều màu) - trên - Ghế sofa (màu xanh dương)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - cạnh - Pizza (nhiều màu)"
+]
+```
+
+frame_33:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - cạnh - Bìa cứng",
+  "Cốc (màu hồng) - cạnh - Bìa cứng",
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu cam, đang cúi người) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu cam, đang cúi người) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu cam, đang cúi người) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu cam, đang cúi người) - gần - Ghế (màu xanh)",
+  "Sàn nhà - trên - Sàn",
+  "Pizza (nhiều màu) - trên - Ghế sofa (màu xanh dương)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu cam, đang cúi người) - cạnh - Pizza (nhiều màu)",
+  "Ghế sofa (màu xanh dương) - trên - Sàn"
+]
+```
+
+frame_34:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - cạnh - Bìa cứng",
+  "Cốc (màu hồng) - cạnh - Bìa cứng",
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - gần - Ghế sofa (màu xanh)",
+  "Sàn nhà - trên - Sàn",
+  "Pizza (nhiều màu) - trên - Ghế sofa (màu xanh dương)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - cạnh - Pizza (nhiều màu)",
+  "Ghế sofa (màu xanh dương) - trên - Sàn"
+]
+```
+
+frame_35:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - cạnh - Bìa cứng",
+  "Cốc (màu hồng) - cạnh - Bìa cứng",
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - gần - Ghế1 (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - gần - Ghế1 (màu nâu)",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - gần - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Ghế1 (màu nâu) - trên - Sàn"
+]
+```
+
+frame_36:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - cạnh - Bìa cứng",
+  "Cốc (màu hồng) - cạnh - Bìa cứng",
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang cúi người) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang với tay) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang với tay) - gần - Ghế1 (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang với tay) - gần - Ghế1 (màu nâu)",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang với tay) - gần - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Ghế1 (màu nâu) - trên - Sàn",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - gần - Ghế sô pha (màu xanh dương)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang với tay) - gần - Ghế sô pha (màu xanh dương)"
+]
+```
+
+frame_37:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - cạnh - Bìa cứng",
+  "Cốc (màu hồng) - cạnh - Bìa cứng",
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Ghế1 (màu nâu) - trên - Sàn",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - gần - Ghế sô pha (màu xanh dương)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế sô pha (màu xanh dương)"
+]
+```
+
+frame_38:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - cạnh - Bìa cứng",
+  "Cốc (màu hồng) - cạnh - Bìa cứng",
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Ghế1 (màu nâu) - trên - Sàn",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - gần - Ghế sô pha (màu xanh dương)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế sô pha (màu xanh dương)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn nhà"
+]
+```
+
+frame_39:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - cạnh - Bìa cứng",
+  "Cốc (màu hồng) - cạnh - Bìa cứng",
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Ghế1 (màu nâu) - trên - Sàn",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - gần - Ghế sô pha (màu xanh dương)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế sô pha (màu xanh dương)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trẻ con, mặc áo kẻ, đang đứng) - cạnh - Ghế1 (màu nâu)"
+]
+```
+
+frame_40:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - cạnh - Bìa cứng",
+  "Cốc (màu hồng) - cạnh - Bìa cứng",
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Ghế1 (màu nâu) - trên - Sàn",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - gần - Ghế sofa (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế sofa (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trẻ con, mặc áo kẻ, đang đứng) - cạnh - Ghế sofa (màu hồng)",
+  "Tường - trên - sàn nhà",
+  "Người3 (trẻ con, mặc áo kẻ, đang đứng) - trên - sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - sàn nhà",
+  "Ghế sofa (màu hồng) - gần - người3 (trẻ con, mặc áo kẻ, đang đứng)",
+  "Ghế sofa (màu hồng) - gần - người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng)"
+]
+```
+
+frame_41:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - cạnh - Bìa cứng",
+  "Cốc (màu hồng) - cạnh - Bìa cứng",
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Ghế1 (màu nâu) - trên - Sàn",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - gần - Ghế sofa (màu xanh)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế sofa (màu xanh)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trẻ con, mặc áo kẻ, đang đứng) - cạnh - Ghế sofa (màu xanh)",
+  "Tường - trên - s\u00e0n nh\u00e0",
+  "Ng\u01b0\u1eddi3 (tr\u1ebb con, m\u1eb7c \u00e1o k\u1ebb, \u0111ang \u0111\u1ee9ng) - tr\u00ean - s\u00e0n nh\u00e0",
+  "Ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o cho\u00e0ng t\u1eafm m\u00e0u h\u1ed3ng, \u0111ang \u0111\u1ee9ng) - tr\u00ean - s\u00e0n nh\u00e0",
+  "Gh\u1ebf sofa (m\u00e0u xanh) - g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb con, m\u1eb7c \u00e1o k\u1ebb, \u0111ang \u0111\u1ee9ng)",
+  "Gh\u1ebf sofa (m\u00e0u xanh) - g\u1ea7n - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c \u00e1o cho\u00e0ng t\u1eafm m\u00e0u h\u1ed3ng, \u0111ang \u0111\u1ee9ng)"
+]
+```
+
+frame_42:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn gỗ",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - cạnh - Bìa cứng",
+  "Cốc (màu hồng) - cạnh - Bìa cứng",
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Ghế1 (màu nâu) - trên - Sàn",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - gần - Ghế sofa (màu xanh)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế sofa (màu xanh)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - cạnh - Ghế sofa (màu cam)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu cam) - gần - Người3 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng)",
+  "Ghế sofa (màu cam) - gần - Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng)",
+  "Gấu bông (màu vàng) - trên - Ghế sofa (màu cam)",
+  "Ghế sofa (màu cam) - trên - Sàn",
+  "Bìa cứng - trên - Sàn",
+  "Tường - trên - sàn"
+]
+```
+
+frame_43:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Ghế1 (màu nâu) - trên - Sàn",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - gần - Ghế sofa (màu xanh)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế sofa (màu xanh)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - cạnh - Ghế sofa (màu cam)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu cam) - gần - Người3 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng)",
+  "Ghế sofa (màu cam) - gần - Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng)",
+  "Gấu bông (màu vàng) - trên - Ghế sofa (màu cam)",
+  "Ghế sofa (màu cam) - trên - Sàn",
+  "Bìa cứng - trên - Sàn",
+  "Tường - trên - s\u00e0n",
+  "Người3 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - cạnh - Ghế sofa (màu cam)",
+  "Ghế sofa (màu cam) - cạnh - Thảm (màu hồng)"
+]
+```
+
+frame_44:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Ghế1 (màu nâu) - trên - Sàn",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - gần - Ghế sofa (màu xanh)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế sofa (màu xanh)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo choàng tắm màu cam, đang đứng) - cạnh - Ghế sofa (màu cam)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo choàng tắm màu cam, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu cam) - gần - Người3 (trưởng thành, mặc áo choàng tắm màu cam, đang đứng)",
+  "Ghế sofa (màu cam) - gần - Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng)",
+  "Gấu bông (màu vàng) - trên - Ghế sofa (màu cam)",
+  "Ghế sofa (màu cam) - trên - Sàn",
+  "Bìa cứng - trên - Sàn",
+  "Tường - trên - sàn",
+  "Người3 (trưởng thành, mặc áo choàng tắm màu cam, đang đứng) - cạnh - Ghế sofa (màu cam)",
+  "Ghế sofa (màu cam) - cạnh - Thảm (màu hồng)"
+]
+```
+
+frame_45:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Ghế1 (màu nâu) - trên - Sàn",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - gần - Ghế sofa (màu xanh)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế sofa (màu xanh)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo choàng tắm màu cam, đang đứng) - cạnh - Ghế sofa (màu cam)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo choàng tắm màu cam, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu cam) - gần - Người3 (trưởng thành, mặc áo choàng tắm màu cam, đang đứng)",
+  "Ghế sofa (màu cam) - gần - Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng)",
+  "Gấu bông (màu vàng) - trên - Ghế sofa (màu cam)",
+  "Ghế sofa (màu cam) - trên - Sàn",
+  "Bìa cứng - trên - Sàn",
+  "Tường - trên - s\u00e0n",
+  "Người3 (trưởng thành, mặc áo choàng tắm màu cam, đang đứng) - cạnh - Ghế sofa (màu cam)",
+  "Ghế sofa (màu cam) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng",
+  "Sàn - trên - Sàn nhà"
+]
+```
+
+frame_46:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Ghế1 (màu nâu) - trên - Sàn",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - gần - Ghế sofa (màu cam)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế sofa (màu cam)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo choàng tắm màu cam, đang đứng) - cạnh - Ghế sofa (màu cam)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo choàng tắm màu cam, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu cam) - gần - Người3 (trưởng thành, mặc áo choàng tắm màu cam, đang đứng)",
+  "Ghế sofa (màu cam) - gần - Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng)",
+  "Gấu bông (màu vàng) - trên - Ghế sofa (màu cam)",
+  "Ghế sofa (màu cam) - trên - Sàn",
+  "Bìa cứng - trên - Sàn",
+  "Tường - trên - sàn",
+  "Người3 (trưởng thành, mặc áo choàng tắm màu cam, đang đứng) - cạnh - Ghế sofa (màu cam)",
+  "Ghế sofa (màu cam) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Bàn (màu trắng) - gần - Ghế sofa (màu cam)"
+]
+```
+
+frame_47:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - cạnh - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Người1 (trẻ con, mặc áo hồng, đang đứng)",
+  "Ghế1 (màu nâu) - trên - Sàn",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người1 (trẻ con, mặc áo hồng, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - gần - Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Bìa cứng - trên - Sàn",
+  "Tường - trên - sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế (màu nâu) - gần - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_48:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng)"
+]
+```
+
+frame_49:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_50:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn gỗ",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người2 (trưởng thành, mặc áo choàng tắm màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn gỗ",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_51:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_52:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn"
+]
+```
+
+frame_53:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà"
+]
+```
+
+frame_54:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà"
+]
+```
+
+frame_55:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Thảm (màu hồng)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà"
+]
+```
+
+frame_56:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Sàn (màu tím)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Đế cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà"
+]
+```
+
+frame_57:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Sàn (màu tím)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Đế cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - đế cứng"
+]
+```
+
+frame_58:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Sàn (màu tím)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Đế cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - đế cứng"
+]
+```
+
+frame_59:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Sàn (màu tím)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Đế cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - đế cứng",
+  "Người2 (trẻ, mặc áo trắng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_60:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Sàn (màu tím)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Đế cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - s\u00e0n nh\u00e0",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - đế cứng",
+  "Người2 (trẻ, mặc áo hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_61:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Sàn (màu tím)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Đế cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - s\u00e0n nh\u00e0",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - đế cứng",
+  "Người2 (trẻ, mặc áo hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_62:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Sàn (màu tím)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Đế cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - đế cứng",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_63:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Sàn (màu tím)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Đế cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - đế cứng",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_64:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Sàn (màu tím)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Đế cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - đế cứng",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn (màu tím) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn (màu tím)"
+]
+```
+
+frame_65:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Sàn (màu tím)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Sàn (màu tím)",
+  "Sàn nhà - trên - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Đế cứng - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Đế cứng",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Sàn (màu tím)",
+  "Sàn (màu tím) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - đế cứng",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn (màu tím) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Sàn - trên - Sàn (màu tím)"
+]
+```
+
+frame_66:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng (Epson) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - Bìa cứng (Epson)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Sàn - trên - Thảm (màu hồng)"
+]
+```
+
+frame_67:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng (Epson) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - Bìa cứng (Epson)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Sàn - trên - Thảm (màu hồng)"
+]
+```
+
+frame_68:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng (Epson) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - Bìa cứng (Epson)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Sàn - trên - Thảm (màu hồng)"
+]
+```
+
+frame_69:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng (Epson) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - Bìa cứng (Epson)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Sàn - trên - Thảm (màu hồng)"
+]
+```
+
+frame_70:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng (Epson) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - Bìa cứng (Epson)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Sàn - trên - Thảm (màu hồng)"
+]
+```
+
+frame_71:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng (Epson) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - s\u00e0n nh\u00e0",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - Bìa cứng (Epson)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - s\u00e0n nh\u00e0",
+  "Sàn - trên - Thảm (màu hồng)"
+]
+```
+
+frame_72:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Thảm (màu hồng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Bìa cứng (Epson) - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - Sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Sàn - trên - Bìa cứng (Epson)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Sàn - trên - Thảm (màu hồng)"
+]
+```
+
+frame_73:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - tr\u00ean - s\u00e0n nh\u00e0",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người1 (trẻ, mặc áo phông, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Người1 (trẻ, mặc áo phông, đang đứng)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_74:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người1 (trẻ, mặc áo phông, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Người1 (trẻ, mặc áo phông, đang đứng)",
+  "Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trưởng thành, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_75:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người1 (trẻ, mặc áo phông, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Người1 (trẻ, mặc áo phông, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_76:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_77:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_78:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_79:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_80:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_81:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_82:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang chỉ tay) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang chỉ tay)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_83:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_84:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang nhìn) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang nhìn)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_85:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_86:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_87:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_88:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_89:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_90:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_91:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà"
+]
+```
+
+frame_92:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang chơi)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)"
+]
+```
+
+frame_93:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang chơi)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_94:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_95:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - Người2 (trẻ, không rõ áo, đang nằm)",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)"
+]
+```
+
+frame_96:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - Người2 (trẻ, không rõ áo, đang nằm)",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)"
+]
+```
+
+frame_97:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang chạm vào ghế) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang chạm vào ghế)",
+  "Sàn nhà - trên - Bìa cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bìa cứng (Epson)",
+  "Bìa cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang chạm vào ghế) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang chạm vào ghế)"
+]
+```
+
+frame_98:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang ôm ghế) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang ôm ghế)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang ôm ghế) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang ôm ghế)"
+]
+```
+
+frame_99:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)"
+]
+```
+
+frame_100:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)"
+]
+```
+
+frame_101:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang ôm ghế) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang ôm ghế)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang ôm ghế) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang ôm ghế)"
+]
+```
+
+frame_102:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)"
+]
+```
+
+frame_103:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)"
+]
+```
+
+frame_104:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang lau sàn) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang lau sàn)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang lau sàn) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang lau sàn)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)"
+]
+```
+
+frame_105:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)"
+]
+```
+
+frame_106:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang ngồi) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang ngồi)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang ngồi) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang ngồi)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)"
+]
+```
+
+frame_107:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Túi xách (màu hồng) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - cầm - Túi xách (màu hồng)"
+]
+```
+
+frame_108:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Túi xách (màu hồng) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - cầm - Túi xách (màu hồng)"
+]
+```
+
+frame_109:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Túi xách (màu hồng) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - cầm - Túi xách (màu hồng)"
+]
+```
+
+frame_110:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Túi xách (màu hồng) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - cầm - Túi xách (màu hồng)",
+  "Ba lô (màu đen) - trên - Thảm (màu hồng)"
+]
+```
+
+frame_111:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Túi xách (màu hồng) - gần - Người3 (trẻ, mặc áo phông màu hồng, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng, đang đứng) - cầm - Túi xách (màu hồng)",
+  "Ba lô (màu đen) - trên - Thảm (màu hồng)"
+]
+```
+
+frame_112:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Túi xách (màu hồng) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - cầm - Túi xách (màu hồng)",
+  "Ba lô (màu đen) - trên - Thảm (màu hồng)"
+]
+```
+
+frame_113:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Sàn nhà - trên - Bề cứng (Epson)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Bề cứng (Epson)",
+  "Bề cứng (Epson) - trên - Sàn nhà",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Sàn nhà - gần - Đèn (màu trắng)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Ghế1 (màu nâu) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Túi xách (màu hồng) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - cầm - Túi xách (màu hồng)",
+  "Ba lô (màu đen) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)"
+]
+```
+
+frame_114:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_115:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_116:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Ghế1 (màu nâu)"
+]
+```
+
+frame_117:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Ghế1 (màu nâu)"
+]
+```
+
+frame_118:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người2 (trẻ, mặc quần áo màu nâu, đang ngồi)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người1 (trẻ, mặc quần áo màu cam, đang ngồi)"
+]
+```
+
+frame_119:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người2 (trẻ, mặc quần áo màu nâu, đang ngồi)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người1 (trẻ, mặc quần áo màu cam, đang ngồi)"
+]
+```
+
+frame_120:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người2 (trẻ, mặc quần áo màu nâu, đang ngồi)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người1 (trẻ, mặc quần áo màu cam, đang ngồi)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - gần - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)"
+]
+```
+
+frame_121:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người2 (trẻ, mặc quần áo màu nâu, đang ngồi)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người1 (trẻ, mặc quần áo màu cam, đang ngồi)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - gần - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - cạnh - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)"
+]
+```
+
+frame_122:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người2 (trẻ, mặc quần áo màu nâu, đang ngồi)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người1 (trẻ, mặc quần áo màu cam, đang ngồi)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - gần - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - cạnh - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)"
+]
+```
+
+frame_123:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người2 (trẻ, mặc quần áo màu nâu, đang ngồi)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người1 (trẻ, mặc quần áo màu cam, đang ngồi)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - gần - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - cạnh - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)"
+]
+```
+
+frame_124:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người2 (trẻ, mặc quần áo màu nâu, đang ngồi)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người1 (trẻ, mặc quần áo màu cam, đang ngồi)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - gần - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - cạnh - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)"
+]
+```
+
+frame_125:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người2 (trẻ, mặc quần áo màu nâu, đang ngồi)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người1 (trẻ, mặc quần áo màu cam, đang ngồi)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - gần - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - cạnh - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)",
+  "Tủ (màu xanh lá) - cạnh - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_126:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người2 (trẻ, mặc quần áo màu nâu, đang ngồi)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người1 (trẻ, mặc quần áo màu cam, đang ngồi)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - gần - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - cạnh - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)",
+  "Tủ (màu xanh lá) - cạnh - Ghế sofa (màu xanh da trời)"
+]
+```
+
+frame_127:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người2 (trẻ, mặc quần áo màu nâu, đang ngồi)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người1 (trẻ, mặc quần áo màu cam, đang ngồi)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - gần - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - cạnh - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng)",
+  "Tủ (màu xanh lá) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đứng) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Tường"
+]
+```
+
+frame_128:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Ghế sofa (màu xanh da trời) - gần - Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - gần - Ghế sofa (màu xanh da trời)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Ghế1 (màu nâu)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người2 (trẻ, mặc quần áo màu nâu, đang ngồi)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - đứng cạnh - Người1 (trẻ, mặc quần áo màu cam, đang ngồi)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đi) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Thảm (màu hồng) - gần - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đi)",
+  "Người3 (trẻ, mặc áo phông màu hồng nhạt, đang đứng) - cạnh - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đi)",
+  "Tủ (màu xanh lá) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đi) - đứng cạnh - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Tường",
+  "Nĩa (màu cam) - cạnh - Người1 (trẻ, mặc quần áo màu cam, đang ngồi)",
+  "Người5 (trẻ, mặc bộ đồ ngủ màu hồng, đang đi) - gần - Tường",
+  "Bìa cứng - gần - Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đi)"
+]
+```
+
+frame_129:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Thảm (màu hồng)",
+  "Thảm (màu hồng) - trên - Sàn nhà",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Rèm cửa (màu nâu) - cạnh - Tường",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Ghế sofa (màu xanh da trời) - trên - Thảm (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tường - trên - sàn nhà",
+  "Ghế sofa (màu xanh da trời) - cạnh - tường",
+  "Thảm (màu hồng) - trên - Sàn",
+  "Sàn - trên - Sàn nhà",
+  "Tủ (màu xanh lá) - gần - Thảm (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Thảm (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Ghế sofa (màu xanh da trời) - trên - sàn nhà",
+  "Tủ (màu xanh lá) - cạnh - Ghế sofa (màu xanh da trời)",
+  "Tường - trên - Ghế sofa (màu xanh da trời)",
+  "Sàn - trên - Thảm (màu hồng)",
+  "Ghế sofa (màu xanh da trời) - cạnh - Tường",
+  "Giường (màu hồng) - trên - Sàn nhà-gỗ",
+  "Sàn nhà-gỗ - trên - Thảm (màu hồng)",
+  "Cửa sổ (màu hồng) - trên - Rèm cửa (màu nâu)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang đi) - gần - Giường (màu hồng)"
+]
+```
+
+frame_130:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn nhà - trên - Sàn",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Giường (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Tủ (màu xanh lá) - gần - Giường (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Giường (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Giường (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Giường (màu hồng)",
+  "Tường - trên - Giường (màu hồng)",
+  "Giường (màu hồng) - trên - sàn nhà",
+  "Tủ (màu xanh lá) - cạnh - Giường (màu hồng)",
+  "Tường - trên - Giường (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Giường (màu hồng) - cạnh - Tường",
+  "Giường (màu hồng) - trên - Sàn nhà-gỗ",
+  "Sàn nhà-gỗ - trên - Sàn nhà",
+  "Cửa sổ (màu hồng) - trên - Rèm cửa (màu nâu)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang nhìn) - gần - Giường (màu hồng)",
+  "Sàn nhà - trên - giường",
+  "Giường - trên - giường",
+  "Cửa sổ (màu hồng) - trên - rèm cửa"
+]
+```
+
+frame_131:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Giường (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Tủ (màu xanh lá) - gần - Giường (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Giường (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Giường (màu hồng)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Giường (màu hồng)",
+  "Tường - trên - Giường (màu hồng)",
+  "Giường (màu hồng) - trên - sàn nhà",
+  "Tủ (màu xanh lá) - cạnh - Giường (màu hồng)",
+  "Tường - trên - Giường (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Giường (màu hồng) - cạnh - Tường",
+  "Giường (màu hồng) - trên - Sàn nhà-gỗ",
+  "Sàn nhà-gỗ - trên - Sàn nhà",
+  "Cửa sổ (màu hồng) - trên - Rèm cửa (màu nâu)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang nhìn) - gần - Giường (màu hồng)",
+  "Sàn nhà - trên - giường",
+  "Giường - trên - giường",
+  "Cửa sổ (màu hồng) - trên - rèm cửa",
+  "Cốc (màu hồng) - gần - Giường (màu hồng)",
+  "Bánh (màu trắng) - gần - Giường (màu hồng)",
+  "Cây thông (màu xanh) - trên - Giường (màu hồng)"
+]
+```
+
+frame_132:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Tường",
+  "Sàn - trên - Sàn nhà",
+  "Ghế1 (màu nâu) - gần - Giường (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Tủ (màu xanh lá) - gần - Giường (màu hồng)",
+  "Người2 (trẻ, mặc quần áo màu nâu, đang ngồi) - trên - Giường (màu hồng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Ghế1 (màu nâu)",
+  "Tủ (màu xanh lá) - cạnh - Đèn (màu trắng)",
+  "Đèn (màu trắng) - cạnh - Giường (màu hồng)",
+  "Tường - trên - Giường (màu hồng)",
+  "Giường (màu hồng) - trên - sàn nhà",
+  "Tủ (màu xanh lá) - cạnh - Giường (màu hồng)",
+  "Tường - trên - Giường (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Giường (màu hồng) - cạnh - Tường",
+  "Giường (màu hồng) - trên - Sàn nhà-gỗ",
+  "Sàn nhà-gỗ - trên - Sàn nhà",
+  "Cửa sổ (màu hồng) - trên - Rèm cửa (màu nâu)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang nhìn) - trên - bánh (màu trắng)",
+  "Sàn nhà - trên - giường",
+  "Giường - trên - giường",
+  "Cửa sổ (màu hồng) - trên - rèm cửa",
+  "Cốc (màu hồng) - gần - Giường (màu hồng)",
+  "Bánh (màu trắng) - gần - Giường (màu hồng)",
+  "Cây thông (màu xanh) - trên - Giường (màu hồng)",
+  "Người4 (trẻ, mặc bộ đồ ngủ màu hồng, đang nhìn) - trên - Sàn nhà"
+]
+```
+
+frame_133:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn - trên - Sàn nhà",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm",
+  "Sàn - trên - Sàn nhà",
+  "Cốc (màu hồng) - cạnh - Bánh rán (màu trắng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - gần - Cốc (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Cây thông (màu xanh) - trên - Sàn nhà",
+  "Cửa sổ (màu hồng) - trên - Rèm cửa",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Sàn nhà",
+  "Sàn nhà-gỗ - trên - Sàn nhà",
+  "Sàn - trên - Sàn nhà",
+  "Cốc (màu hồng) - gần - Cây thông (màu xanh)"
+]
+```
+
+frame_134:
+```json
+[
+  "Tường - trên - Sàn nhà",
+  "Sàn nhà - dưới - Tường",
+  "Tường - cạnh - Rèm cửa (màu nâu)",
+  "Sàn - trên - Sàn nhà",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Thảm",
+  "Sàn - trên - Sàn nhà",
+  "Cốc (màu hồng) - cạnh - Bánh rán (màu trắng)",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - gần - Cốc (màu hồng)",
+  "Sàn - trên - Sàn nhà",
+  "Cây thông (màu xanh) - trên - Sàn nhà",
+  "Cửa sổ (màu hồng) - trên - Rèm cửa",
+  "Người1 (trẻ, mặc quần áo màu cam, đang ngồi) - trên - Sàn nhà",
+  "Sàn nhà-gỗ - trên - Sàn nhà",
+  "Sàn - trên - Sàn nhà",
+  "Cốc (màu hồng) - gần - Cây thông (màu xanh)",
+  "Bánh ngọt (màu xanh) - trên - Sàn nhà",
+  "Người2 (không rõ, không mặc quần áo, không rõ) - trên - Sàn nhà"
+]
+```
+

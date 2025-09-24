@@ -1,0 +1,61 @@
+frame_0000.jpg: a man is standing in the yard with his hands on his hip
+frame_0001.jpg: a man is walking down the sidewalk in front of his house
+frame_0002.jpg: a man is standing in front of a house
+frame_0003.jpg: a man is walking down the sidewalk in front of his house
+frame_0004.jpg: a man and woman walking down a sidewalk
+frame_0005.jpg: a man and woman dancing in the street
+frame_0006.jpg: a man and woman dancing on the sidewalk
+frame_0007.jpg: a man and woman dancing on the sidewalk
+frame_0008.jpg: a man and woman dancing in the street
+frame_0009.jpg: a man and woman dancing on the sidewalk
+frame_0010.jpg: a man and woman are fighting in the street
+frame_0011.jpg: a man and woman are dancing on the sidewalk
+frame_0012.jpg: a man and woman dancing on the sidewalk
+frame_0013.jpg: a man and woman dancing on the sidewalk
+frame_0014.jpg: a man and woman are fighting in the street
+frame_0015.jpg: a man and woman dancing on the sidewalk
+frame_0016.jpg: a man and woman dancing on the sidewalk
+frame_0017.jpg: a man and woman dancing on the sidewalk
+frame_0018.jpg: a man and woman dancing on the sidewalk
+frame_0019.jpg: a man and woman dancing on the sidewalk
+frame_0020.jpg: a man and woman dancing on the sidewalk
+frame_0021.jpg: a man and woman dancing on the sidewalk
+frame_0022.jpg: a man and woman dancing on the sidewalk
+frame_0023.jpg: a man and woman dancing on the sidewalk
+frame_0024.jpg: a man and woman are standing on the sidewalk
+frame_0025.jpg: a man and woman dancing on the sidewalk
+frame_0026.jpg: a man and woman dancing on the sidewalk
+frame_0027.jpg: a man and woman dancing on the sidewalk
+frame_0028.jpg: a man and woman dancing on the sidewalk
+frame_0029.jpg: a man and woman dancing on the sidewalk
+frame_0030.jpg: a man and woman are dancing on the sidewalk
+frame_0031.jpg: a man and woman are standing on the sidewalk
+frame_0032.jpg: a man and woman dancing on the sidewalk
+frame_0033.jpg: a man and woman are dancing on the sidewalk
+frame_0034.jpg: a man and woman dancing on the sidewalk
+frame_0035.jpg: two people dancing on the sidewalk
+frame_0036.jpg: a man and woman dancing on the sidewalk
+frame_0037.jpg: two people are standing on the sidewalk in front of a house
+frame_0038.jpg: a man and woman dancing on the sidewalk
+frame_0039.jpg: a man and woman dancing on the sidewalk
+frame_0040.jpg: two people are playing with a ball on the sidewalk
+frame_0041.jpg: two people are dancing on the sidewalk
+frame_0042.jpg: a woman is dancing on the sidewalk
+frame_0043.jpg: a man and woman dancing on the sidewalk
+frame_0044.jpg: a man and woman are fighting in the street
+frame_0045.jpg: a man and woman dancing on the sidewalk
+frame_0046.jpg: a woman is dancing on the sidewalk in front of her house
+frame_0047.jpg: a woman is dancing on the sidewalk
+frame_0048.jpg: a woman is dancing on the sidewalk with her friend
+frame_0049.jpg: a man and woman are dancing on the sidewalk
+frame_0050.jpg: a woman is dancing on the sidewalk in front of her house
+frame_0051.jpg: a woman is dancing on the sidewalk in front of her house
+frame_0052.jpg: a man and woman dancing on the sidewalk
+frame_0053.jpg: a woman is walking down the sidewalk in front of her house
+frame_0054.jpg: a woman is walking down the sidewalk in front of her house
+frame_0055.jpg: a woman and a man are walking down the sidewalk
+frame_0056.jpg: two girls dancing in the street
+frame_0057.jpg: a man and woman dancing on the sidewalk
+frame_0058.jpg: a couple dancing in the street
+frame_0059.jpg: a man and woman dancing on the sidewalk
+frame_0060.jpg: a man and woman are dancing in the street

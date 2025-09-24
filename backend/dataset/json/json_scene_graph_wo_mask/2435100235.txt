@@ -1,0 +1,1122 @@
+frame_0:
+```json
+[
+  "xe kéo1 (mái đỏ) - ở trong - đường",
+  "xe kéo2 (mái đỏ) - ở trong - đường",
+  "xe kéo3 (mái đỏ) - ở trong - đường",
+  "xe tải (trắng) - ở trong - đường",
+  "xe kéo4 (mái đỏ) - ở trong - đường",
+  "xe đạp - ở trong - đường",
+  "người1 (không rõ - không rõ, mặc quần áo tối màu, lái xe kéo, không rõ) - ngồi trong - xe kéo2 (mái đỏ)",
+  "nhà - ở trên - đường"
+]
+```
+
+frame_1:
+```json
+[
+  "xe kéo1 (mái đỏ) - ở trong - đường",
+  "xe kéo2 (mái đỏ) - ở trong - đường",
+  "xe kéo3 (mái đỏ) - ở trong - đường",
+  "xe tải (trắng) - ở trong - đường",
+  "xe kéo4 (mái đỏ) - ở trong - đường",
+  "xe đạp - ở trong - đường",
+  "người1 (không rõ - không rõ, mặc quần áo tối màu, lùi xe, không rõ) - ngồi trong - xe kéo2 (mái đỏ)",
+  "nhà - ở trên - đường",
+  "người2 (trung niên - nam, mặc áo sơ mi trắng và áo khoác be, đang cầm đồ, trung bình) - đứng cạnh - xe đạp"
+]
+```
+
+frame_2:
+```json
+[
+  "xe kéo1 (mái đỏ) - ở trong - đường",
+  "xe kéo2 (mái đỏ) - ở trong - đường",
+  "xe kéo3 (mái đỏ) - ở trong - đường",
+  "xe tải (trắng) - ở trong - đường",
+  "xe kéo4 (mái đỏ) - ở trong - đường",
+  "xe đạp - ở trong - đường",
+  "người1 (không rõ - không rõ, mặc quần áo tối màu, lùi xe, không rõ) - ngồi trong - xe kéo2 (mái đỏ)",
+  "nhà - ở trên - đường",
+  "người2 (trung niên - nam, mặc áo sơ mi trắng và áo khoác be, đang lái xe đạp, trung bình) - lái - xe đạp"
+]
+```
+
+frame_3:
+```json
+[
+  "xe k\u00e9o1 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o2 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o3 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe t\u1ea3i (tr\u1eafng) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o4 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe \u0111\u1ea1p - \u1edf trong - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi1 (kh\u00f4ng r\u00f5 - kh\u00f4ng r\u00f5, m\u1eb7c qu\u1ea7n \u00e1o t\u1ed1i m\u00e0u, l\u00f9i xe, kh\u00f4ng r\u00f5) - ng\u1ed3i trong - xe k\u00e9o2 (m\u00e1i \u0111\u1ecf)",
+  "nh\u00e0 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi2 (trung ni\u00ean - nam, m\u1eb7c \u00e1o s\u01a1 mi tr\u1eafng v\u00e0 \u00e1o kho\u00e1c be, \u0111ang l\u00e1i xe \u0111\u1ea1p, trung b\u00ecnh) - l\u00e1i - xe \u0111\u1ea1p"
+]
+```
+
+frame_4:
+```json
+[
+  "xe kéo1 (mái đỏ) - ở trong - đường",
+  "xe kéo2 (mái đỏ) - ở trong - đường",
+  "xe kéo3 (mái đỏ) - ở trong - đường",
+  "xe tải (trắng) - ở trong - đường",
+  "xe kéo4 (mái đỏ) - ở trong - đường",
+  "xe đạp - ở trong - đường",
+  "người1 (không rõ - không rõ, mặc quần áo tối màu, lùi xe, không rõ) - ngồi trong - xe kéo2 (mái đỏ)",
+  "nhà - ở trên - đường",
+  "người2 (trung niên - nam, mặc áo sơ mi trắng và áo khoác be, đang lái xe đạp, trung bình) - lái - xe đạp",
+  "người3 (trung niên - nam, mặc áo màu vàng, đang đứng, bình thường) - đứng cạnh - người2 (trung niên - nam, mặc áo sơ mi trắng và áo khoác be, đang lái xe đạp, trung bình)"
+]
+```
+
+frame_5:
+```json
+[
+  "xe k\u00e9o1 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o2 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o3 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe t\u1ea3i (tr\u1eafng) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o4 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe \u0111\u1ea1p - \u1edf trong - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi1 (kh\u00f4ng r\u00f5 - kh\u00f4ng r\u00f5, m\u1eb7c qu\u1ea7n \u00e1o t\u1ed1i m\u00e0u, l\u00f9i xe, kh\u00f4ng r\u00f5) - ng\u1ed3i trong - xe k\u00e9o2 (m\u00e1i \u0111\u1ecf)",
+  "nh\u00e0 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi2 (trung ni\u00ean - nam, m\u1eb7c \u00e1o s\u01a1 mi tr\u1eafng v\u00e0 \u00e1o kho\u00e1c be, \u0111ang l\u00e1i xe \u0111\u1ea1p, trung b\u00ecnh) - l\u00e1i - xe \u0111\u1ea1p",
+  "ng\u01b0\u1eddi3 (trung ni\u00ean - nam, m\u1eb7c \u00e1o m\u00e0u v\u00e0ng, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi2 (trung ni\u00ean - nam, m\u1eb7c \u00e1o s\u01a1 mi tr\u1eafng v\u00e0 \u00e1o kho\u00e1c be, \u0111ang l\u00e1i xe \u0111\u1ea1p, trung b\u00ecnh)"
+]
+```
+
+frame_6:
+```json
+[
+  "xe kéo1 (mái đỏ) - ở trong - đường",
+  "xe kéo2 (mái đỏ) - ở trong - đường",
+  "xe kéo3 (mái đỏ) - ở trong - đường",
+  "xe tải (trắng) - ở trong - đường",
+  "xe kéo4 (mái đỏ) - ở trong - đường",
+  "xe đạp - ở trong - đường",
+  "người1 (không rõ - không rõ, mặc quần áo tối màu, lùi xe, không rõ) - ngồi trong - xe kéo2 (mái đỏ)",
+  "nhà - ở trên - đường",
+  "người2 (trung niên - nam, mặc áo sơ mi trắng và áo khoác be, đang lái xe đạp, trung bình) - lái - xe đạp",
+  "người3 (trung niên - nam, mặc áo màu vàng, đang đứng, bình thường) - đứng cạnh - người2 (trung niên - nam, mặc áo sơ mi trắng và áo khoác be, đang lái xe đạp, trung bình)",
+  "xe tải (trắng) - ở phía sau - người2 (trung niên - nam, mặc áo sơ mi trắng và áo khoác be, đang lái xe đạp, trung bình)"
+]
+```
+
+frame_7:
+```json
+[
+  "xe k\u00e9o1 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o2 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o3 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe t\u1ea3i (tr\u1eafng) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o4 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe \u0111\u1ea1p - \u1edf trong - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi1 (kh\u00f4ng r\u00f5 - kh\u00f4ng r\u00f5, m\u1eb7c qu\u1ea7n \u00e1o t\u1ed1i m\u00e0u, l\u00f9i xe, kh\u00f4ng r\u00f5) - ng\u1ed3i trong - xe k\u00e9o2 (m\u00e1i \u0111\u1ecf)",
+  "nh\u00e0 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi2 (trung ni\u00ean - nam, m\u1eb7c \u00e1o s\u01a1 mi tr\u1eafng v\u00e0 \u00e1o kho\u00e1c be, \u0111ang l\u00e1i xe \u0111\u1ea1p, trung b\u00ecnh) - l\u00e1i - xe \u0111\u1ea1p",
+  "ng\u01b0\u1eddi3 (trung ni\u00ean - nam, m\u1eb7c \u00e1o m\u00e0u v\u00e0ng, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi2 (trung ni\u00ean - nam, m\u1eb7c \u00e1o s\u01a1 mi tr\u1eafng v\u00e0 \u00e1o kho\u00e1c be, \u0111ang l\u00e1i xe \u0111\u1ea1p, trung b\u00ecnh)",
+  "xe t\u1ea3i (tr\u1eafng) - \u1edf ph\u00eda sau - ng\u01b0\u1eddi2 (trung ni\u00ean - nam, m\u1eb7c \u00e1o s\u01a1 mi tr\u1eafng v\u00e0 \u00e1o kho\u00e1c be, \u0111ang l\u00e1i xe \u0111\u1ea1p, trung b\u00ecnh)"
+]
+```
+
+frame_8:
+```json
+[
+  "xe kéo1 (mái đỏ) - ở trong - đường",
+  "xe kéo2 (mái đỏ) - ở trong - đường",
+  "xe kéo3 (mái đỏ) - ở trong - đường",
+  "xe tải (trắng) - ở trong - đường",
+  "xe kéo4 (mái đỏ) - ở trong - đường",
+  "xe đạp - ở trong - đường",
+  "người1 (không rõ - không rõ, mặc quần áo tối màu, lùi xe, không rõ) - ngồi trong - xe kéo2 (mái đỏ)",
+  "nhà - ở trên - đường",
+  "người2 (trung niên - nam, mặc áo sơ mi trắng và áo khoác be, đang lái xe đạp, trung bình) - lái - xe đạp",
+  "người3 (trung niên - nam, mặc áo màu vàng, đang đứng, bình thường) - đứng cạnh - người2 (trung niên - nam, mặc áo sơ mi trắng và áo khoác be, đang lái xe đạp, trung bình)",
+  "xe tải (trắng) - ở phía sau - người2 (trung niên - nam, mặc áo sơ mi trắng và áo khoác be, đang lái xe đạp, trung bình)"
+]
+```
+
+frame_9:
+```json
+[
+  "xe k\u00e9o1 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o2 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o3 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe t\u1ea3i (tr\u1eafng) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o4 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe \u0111\u1ea1p - \u1edf trong - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi1 (kh\u00f4ng r\u00f5 - kh\u00f4ng r\u00f5, m\u1eb7c qu\u1ea7n \u00e1o t\u1ed1i m\u00e0u, l\u00f9i xe, kh\u00f4ng r\u00f5) - ng\u1ed3i trong - xe k\u00e9o2 (m\u00e1i \u0111\u1ecf)",
+  "nh\u00e0 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi2 (trung ni\u00ean - nam, m\u1eb7c \u00e1o s\u01a1 mi tr\u1eafng v\u00e0 \u00e1o kho\u00e1c be, \u0111ang l\u00e1i xe \u0111\u1ea1p, trung b\u00ecnh) - l\u00e1i - xe \u0111\u1ea1p",
+  "ng\u01b0\u1eddi3 (trung ni\u00ean - nam, m\u1eb7c \u00e1o m\u00e0u v\u00e0ng, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi2 (trung ni\u00ean - nam, m\u1eb7c \u00e1o s\u01a1 mi tr\u1eafng v\u00e0 \u00e1o kho\u00e1c be, \u0111ang l\u00e1i xe \u0111\u1ea1p, trung b\u00ecnh)",
+  "xe t\u1ea3i (tr\u1eafng) - \u1edf ph\u00eda sau - ng\u01b0\u1eddi2 (trung ni\u00ean - nam, m\u1eb7c \u00e1o s\u01a1 mi tr\u1eafng v\u00e0 \u00e1o kho\u00e1c be, \u0111ang l\u00e1i xe \u0111\u1ea1p, trung b\u00ecnh)"
+]
+```
+
+frame_10:
+```json
+[
+  "xe kéo1 (mái đỏ) - ở trong - đường",
+  "xe kéo2 (mái đỏ) - ở trong - đường",
+  "xe kéo3 (mái đỏ) - ở trong - đường",
+  "xe tải (trắng) - ở trong - đường",
+  "xe kéo4 (mái đỏ) - ở trong - đường",
+  "xe đạp - ở trong - đường",
+  "người1 (không rõ - không rõ, mặc quần áo tối màu, lùi xe, không rõ) - ngồi trong - xe kéo2 (mái đỏ)",
+  "nhà - ở trên - đường",
+  "người2 (trung niên - nam, mặc áo sơ mi trắng và áo khoác be, đang lái xe đạp, trung bình) - lái - xe đạp",
+  "người3 (trung niên - nam, mặc áo màu vàng, đang đứng, bình thường) - đứng cạnh - người2 (trung niên - nam, mặc áo sơ mi trắng và áo khoác be, đang lái xe đạp, trung bình)",
+  "xe tải (trắng) - ở phía sau - người2 (trung niên - nam, mặc áo sơ mi trắng và áo khoác be, đang lái xe đạp, trung bình)"
+]
+```
+
+frame_11:
+```json
+[
+  "xe k\u00e9o1 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o2 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o3 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe t\u1ea3i (tr\u1eafng) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe k\u00e9o4 (m\u00e1i \u0111\u1ecf) - \u1edf trong - \u0111\u01b0\u1eddng",
+  "xe \u0111\u1ea1p - \u1edf trong - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi1 (kh\u00f4ng r\u00f5 - kh\u00f4ng r\u00f5, m\u1eb7c qu\u1ea7n \u00e1o t\u1ed1i m\u00e0u, l\u00f9i xe, kh\u00f4ng r\u00f5) - ng\u1ed3i trong - xe k\u00e9o2 (m\u00e1i \u0111\u1ecf)",
+  "nh\u00e0 - \u1edf tr\u00ean - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi2 (trung ni\u00ean - nam, m\u1eb7c \u00e1o s\u01a1 mi tr\u1eafng v\u00e0 \u00e1o kho\u00e1c be, \u0111ang l\u00e1i xe \u0111\u1ea1p, trung b\u00ecnh) - l\u00e1i - xe \u0111\u1ea1p",
+  "ng\u01b0\u1eddi3 (trung ni\u00ean - nam, m\u1eb7c \u00e1o m\u00e0u v\u00e0ng, \u0111ang \u0111\u1ee9ng, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi2 (trung ni\u00ean - nam, m\u1eb7c \u00e1o s\u01a1 mi tr\u1eafng v\u00e0 \u00e1o kho\u00e1c be, \u0111ang l\u00e1i xe \u0111\u1ea1p, trung b\u00ecnh)",
+  "xe t\u1ea3i (tr\u1eafng) - \u1edf ph\u00eda sau - ng\u01b0\u1eddi2 (trung ni\u00ean - nam, m\u1eb7c \u00e1o s\u01a1 mi tr\u1eafng v\u00e0 \u00e1o kho\u00e1c be, \u0111ang l\u00e1i xe \u0111\u1ea1p, trung b\u00ecnh)"
+]
+```
+
+frame_12:
+```json
+[
+  "tường - ở phía sau - người4 (trung niên - nam, mặc áo đỏ, đang cầm cờ trắng, không rõ)",
+  "người4 (trung niên - nam, mặc áo đỏ, đang cầm cờ trắng, không rõ) - cầm - cờ trắng"
+]
+```
+
+frame_13:
+```json
+["tường - ở phía sau - người4 (trung niên - nam, mặc áo đỏ, đang nhìn, không rõ)"]
+```
+
+frame_14:
+```json
+["người4 (trung niên - nam, mặc áo đỏ, đang nhìn, không rõ) - ở phía trước - tường"]
+```
+
+frame_15:
+```json
+[
+  "người4 (trung niên - nam, mặc áo đỏ, đang nhìn, không rõ) - ở phía trước - tường",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang làm việc, không rõ) - ở gần - người4 (trung niên - nam, mặc áo đỏ, đang nhìn, không rõ)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo cam, đang làm việc, không rõ) - ở gần - người4 (trung niên - nam, mặc áo đỏ, đang nhìn, không rõ)",
+  "người3 (trẻ - chưa rõ giới tính, mặc áo cam, đang làm việc, không rõ) - ở gần - người4 (trung niên - nam, mặc áo đỏ, đang nhìn, không rõ)"
+]
+```
+
+frame_16:
+```json
+[
+  "người4 (trung niên - nam, mặc áo đỏ, đang nhìn, không rõ) - ở phía trước - tường",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang làm việc, không rõ) - ở gần - người4 (trung niên - nam, mặc áo đỏ, đang nhìn, không rõ)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo cam, đang làm việc, không rõ) - ở gần - người4 (trung niên - nam, mặc áo đỏ, đang nhìn, không rõ)",
+  "người3 (trẻ - chưa rõ giới tính, mặc áo cam, đang làm việc, không rõ) - ở gần - người4 (trung niên - nam, mặc áo đỏ, đang nhìn, không rõ)",
+  "người5 (trung niên - nam, mặc áo xanh lá cây, đang nhìn, bình thường) - ở phía trước - xe kéo (đen)"
+]
+```
+
+frame_17:
+```json
+[
+  "người4 (trung niên - nam, mặc áo đỏ, đang nhìn, không rõ) - ở phía trước - tường",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang làm việc, không rõ) - ở gần - người4 (trung niên - nam, mặc áo đỏ, đang nhìn, không rõ)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo cam, đang làm việc, không rõ) - ở gần - người4 (trung niên - nam, mặc áo đỏ, đang nhìn, không rõ)",
+  "người3 (trẻ - chưa rõ giới tính, mặc áo cam, đang làm việc, không rõ) - ở gần - người4 (trung niên - nam, mặc áo đỏ, đang nhìn, không rõ)",
+  "người5 (trung niên - nam, mặc áo xanh lá cây, đang nhìn, bình thường) - ở phía trước - xe kéo (đen)"
+]
+```
+
+frame_18:
+```json
+[
+  "người5 (trung niên - nam, mặc áo xanh lá cây, đang nói, bình thường) - ở phía trước - xe kéo (đen)"
+]
+```
+
+frame_19:
+```json
+[
+  "người5 (trung niên - nam, mặc áo xanh lá cây, đang nói, bình thường) - ở phía trước - xe kéo (đen)"
+]
+```
+
+frame_20:
+```json
+[
+  "người5 (trung niên - nam, mặc áo xanh lá cây, đang nói, bình thường) - ở phía trước - xe kéo (đen)"
+]
+```
+
+frame_21:
+```json
+[
+  "người5 (trung niên - nam, mặc áo xanh lá cây, đang nhìn, bình thường) - ở phía trước - xe kéo (đen)"
+]
+```
+
+frame_22:
+```json
+[
+  "người5 (trung niên - nam, mặc áo xanh lá cây, đang nhìn, bình thường) - ở phía trước - xe kéo (đen)"
+]
+```
+
+frame_23:
+```json
+[
+  "người5 (trung niên - nam, mặc áo xanh lá cây, đang nhìn, bình thường) - ở phía trước - xe kéo1 (đỏ)"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đạp xe, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đạp xe, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đạp xe, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đạp xe, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đạp xe, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi bộ, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_30:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi bộ, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_31:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi bộ, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_32:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi bộ, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - nói chuyện với - người3 (trung niên - nam, mặc áo trắng, đang chỉ tay, bình thường)"
+]
+```
+
+frame_33:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi bộ, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - nói chuyện với - người3 (trung niên - nam, mặc áo trắng, đang chỉ tay, bình thường)"
+]
+```
+
+frame_34:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi bộ, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - nói chuyện với - người3 (trung niên - nam, mặc áo trắng, đang chỉ tay, bình thường)"
+]
+```
+
+frame_35:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_36:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_37:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_38:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_39:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_40:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_41:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_42:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_43:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_44:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_45:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_46:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_47:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)"
+]
+```
+
+frame_48:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đứng, bình thường) - phía sau - người2 (trung niên - không xác định, mặc áo vàng, đang đứng, bình thường)"
+]
+```
+
+frame_49:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_50:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_51:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_52:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_53:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_54:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_55:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_56:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1"
+]
+```
+
+frame_57:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1"
+]
+```
+
+frame_58:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1"
+]
+```
+
+frame_59:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1"
+]
+```
+
+frame_60:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1"
+]
+```
+
+frame_61:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1"
+]
+```
+
+frame_62:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1"
+]
+```
+
+frame_63:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1"
+]
+```
+
+frame_64:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1"
+]
+```
+
+frame_65:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1"
+]
+```
+
+frame_66:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1"
+]
+```
+
+frame_67:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người4 (trung niên - nữ, mặc áo xám, đang ngồi, bình thường) - ở trong - xe kéo1"
+]
+```
+
+frame_68:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người4 (trung niên - nữ, mặc áo xám, đang ngồi, bình thường) - ở trong - xe kéo1"
+]
+```
+
+frame_69:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người4 (trung niên - nữ, mặc áo xám, đang ngồi, bình thường) - ở trong - xe kéo1"
+]
+```
+
+frame_70:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người4 (trung niên - nữ, mặc áo xám, đang ngồi, bình thường) - ở trong - xe kéo1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_71:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi xe đạp, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người4 (trung niên - nữ, mặc áo xám, đang ngồi, bình thường) - ở trong - xe kéo1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_72:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người4 (trung niên - nữ, mặc áo xám, đang ngồi, bình thường) - ở trong - xe kéo1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_73:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người4 (trung niên - nữ, mặc áo xám, đang ngồi, bình thường) - ở trong - xe kéo1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_74:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_75:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_76:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_77:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_78:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_79:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_80:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_81:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_82:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_83:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_84:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_85:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_86:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_87:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_88:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_89:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_90:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_91:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_92:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_93:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_94:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_95:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_96:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_97:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_98:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_99:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+
+frame_100:
+```json
+[
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở phía trước - thùng1 (đỏ)",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - phía sau - người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường)",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - ở trên - xe đạp1",
+  "người2 (trung niên - nam, mặc áo vàng, đang đi xe đạp, bình thường) - ở trên - xe kéo1",
+  "người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường) - lái - xe đạp1",
+  "người3 (trung niên - nam, mặc áo xanh, đang đi bộ, bình thường) - ở phía trước - người1 (trung niên - nam, mặc áo trắng, đang đi xe đạp, bình thường)"
+]
+```
+

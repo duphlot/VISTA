@@ -1,0 +1,760 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo không rõ, đang đứng, không rõ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo không rõ, đang đứng, không rõ) - đối diện - người2 (trẻ - không rõ, mặc áo đỏ, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo không rõ, đang đứng, không rõ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo không rõ, đang đứng, không rõ) - đối diện - người2 (trẻ - không rõ, mặc áo đỏ, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo không rõ, đang đứng, không rõ)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo không rõ, đang ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo không rõ, đang ăn, vui vẻ) - đối diện - người2 (trẻ - không rõ, mặc áo đỏ, đang ngồi, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo không rõ, đang ăn, vui vẻ)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo không rõ, đang nói, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo không rõ, đang nói, vui vẻ) - đối diện - người2 (trẻ - không rõ, mặc áo đỏ, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo không rõ, đang nói, vui vẻ)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo không rõ, đang nói, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo không rõ, đang nói, vui vẻ) - đối diện - người2 (trẻ - không rõ, mặc áo đỏ, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo không rõ, đang nói, vui vẻ)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo không rõ, đang nói, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo không rõ, đang nói, vui vẻ) - đối diện - người2 (trẻ - không rõ, mặc áo đỏ, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo không rõ, đang ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - ở trước - đàn piano1"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - đối diện - người2 (trẻ - không rõ, mặc áo đỏ, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - ở trước - đàn piano1"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - đối diện - người2 (trẻ - nữ, mặc áo đỏ, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - ở trước - đàn piano1"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - đối diện - người2 (trẻ - nữ, mặc áo đỏ, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - ở trước - đàn piano1"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - đối diện - người2 (trẻ - nữ, mặc áo đỏ, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - ở trước - đàn piano1"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - đối diện - người2 (trẻ - nữ, mặc áo đỏ, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - ở trước - đàn piano1"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - đối diện - người2 (trẻ - nữ, mặc áo đỏ, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị đồ ăn, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đen, đang gắp thức ăn, vui vẻ) - gần - bàn1"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang gắp thức ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đen, đang gắp thức ăn, vui vẻ) - đối diện - người2 (trẻ - nữ, mặc áo đỏ, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đen, đang gắp thức ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang gắp thức ăn, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đen, đang gắp thức ăn, vui vẻ) - gần - bàn1"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - đối diện - người2 (trẻ - nữ, mặc áo đỏ, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - tượng1"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - đối diện - người2 (trẻ - nữ, mặc áo đỏ, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - tượng1"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - tượng1"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - tượng1"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - tượng1"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - tượng1"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đen, đang chuẩn bị thức ăn, vui vẻ) - gần - tượng1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ) - gần - tượng1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang chuẩn bị đồ ăn, vui vẻ) - gần - tượng1"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - gần - tượng1"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - gần - tượng1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - gần - tượng1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang nhìn, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang nhìn, vui vẻ)"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang giúp đỡ, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang giúp đỡ, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang sắp xếp đồ, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang giúp đỡ, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang giúp đỡ, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang giúp đỡ, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang giúp đỡ, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang giúp đỡ, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang giúp đỡ, vui vẻ) - gần - tượng1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang sắp xếp đồ, vui vẻ)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang sắp xếp đồ, vui vẻ) - gần - ghế1 (màu cam)"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ) - gần - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang đứng, buồn bã)"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ) - gần - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang đứng, buồn bã)"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang nói chuyện điện thoại, lo lắng) - gần - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện điện thoại, lo lắng) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang đứng, buồn bã)"
+]
+```
+
+frame_30:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang nói chuyện điện thoại, lo lắng) - gần - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang nói chuyện điện thoại, lo lắng) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang đứng, buồn bã)"
+]
+```
+
+frame_31:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang nhìn, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang nhìn, bình tĩnh)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang nhìn, bình tĩnh) - gần - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang đứng, buồn bã)"
+]
+```
+
+frame_32:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang nhìn, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang nhìn, bình tĩnh)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang nhìn, bình tĩnh) - gần - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn, buồn bã)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn, buồn bã) - đứng cạnh - ghế1 (màu cam)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn, buồn bã) - gần - bàn1"
+]
+```
+
+frame_33:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang nhìn, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang nhìn, bình tĩnh)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang nhìn, bình tĩnh) - gần - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - ghế1 (màu cam)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - gần - bàn1",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang nhìn, bình tĩnh) - đứng cạnh - ghế2 (màu cam)",
+  "ghế2 (màu cam) - gần - bàn1",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - gần - ghế3 (màu cam)"
+]
+```
+
+frame_34:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - gần - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - ghế1 (màu cam)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - gần - bàn1 ()",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế2 (màu cam)",
+  "ghế2 (màu cam) - gần - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - gần - ghế3 (màu cam)",
+  "ghế1 (màu cam) - ở - bàn1 ()",
+  "ghế3 (màu cam) - ở - bàn1 ()"
+]
+```
+
+frame_35:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - ghế1 (màu cam)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - gần - bàn1 ()",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế2 (màu cam)",
+  "ghế2 (màu cam) - gần - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - gần - ghế3 (màu cam)",
+  "ghế1 (màu cam) - ở - bàn1 ()",
+  "ghế3 (màu cam) - ở - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - đối diện - người6 (trung niên - nam, mặc áo xanh lá, đang nhìn, thờ ơ)"
+]
+```
+
+frame_36:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - ghế1 (màu cam)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - gần - bàn1 ()",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế2 (màu cam)",
+  "ghế2 (màu cam) - gần - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - gần - ghế3 (màu cam)",
+  "ghế1 (màu cam) - ở - bàn1 ()",
+  "ghế3 (màu cam) - ở - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - đối diện - người6 (trung niên - nam, mặc áo xanh lá, đang nhìn, thờ ơ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)"
+]
+```
+
+frame_37:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - ghế1 (màu cam)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - gần - bàn1 ()",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế2 (màu cam)",
+  "ghế2 (màu cam) - gần - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - gần - ghế3 (màu cam)",
+  "ghế1 (màu cam) - ở - bàn1 ()",
+  "ghế3 (màu cam) - ở - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - đối diện - người6 (trung niên - nam, mặc áo xanh lá, đang nhìn, thờ ơ)"
+]
+```
+
+frame_38:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - ghế1 (màu cam)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - gần - bàn1 ()",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế2 (màu cam)",
+  "ghế2 (màu cam) - gần - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - gần - ghế3 (màu cam)",
+  "ghế1 (màu cam) - ở - bàn1 ()",
+  "ghế3 (màu cam) - ở - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - đối diện - người6 (trung niên - nam, mặc áo xanh lá, đang nhìn, thờ ơ)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)"
+]
+```
+
+frame_39:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - ghế1 (màu cam)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - gần - bàn1 ()",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế2 (màu cam)",
+  "ghế2 (màu cam) - gần - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - gần - ghế3 (màu cam)",
+  "ghế1 (màu cam) - ở - bàn1 ()",
+  "ghế3 (màu cam) - ở - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - đối diện - người6 (trung niên - nam, mặc áo xanh lá, đang nhìn, thờ ơ)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - nhìn - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)"
+]
+```
+
+frame_40:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - ghế1 (màu cam)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - gần - bàn1 ()",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế2 (màu cam)",
+  "ghế2 (màu cam) - gần - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - gần - ghế3 (màu cam)",
+  "ghế1 (màu cam) - ở - bàn1 ()",
+  "ghế3 (màu cam) - ở - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - đối diện - người6 (trung niên - nam, mặc áo xanh lá, đang nhìn, thờ ơ)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - nhìn - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - nhìn - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)"
+]
+```
+
+frame_41:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - ghế1 (màu cam)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - gần - bàn1 ()",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế2 (màu cam)",
+  "ghế2 (màu cam) - gần - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - gần - ghế3 (màu cam)",
+  "ghế1 (màu cam) - ở - bàn1 ()",
+  "ghế3 (màu cam) - ở - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - đối diện - người6 (trung niên - nam, mặc áo xanh lá, đang nhìn, thờ ơ)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã) - đứng cạnh - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - nhìn - người4 (trung niên - nữ, mặc áo đỏ, đang nhìn xuống, buồn bã)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - nhìn - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ)"
+]
+```
+
+frame_42:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - cửa sổ1 (trắng)",
+  "cửa sổ1 (trắng) - trên - tường1 (đỏ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - đèn chùm1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đối diện - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng sau - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - ở trước - đàn piano1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - bàn1 ()",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - gần - tượng1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đứng cạnh - bàn1 ()",
+  "người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ) - đối diện - người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế1 (màu cam)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - đứng cạnh - ghế1 (màu cam)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - gần - bàn1 ()",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - đứng cạnh - người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - đứng cạnh - ghế2 (màu cam)",
+  "ghế2 (màu cam) - gần - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - gần - ghế3 (màu cam)",
+  "ghế1 (màu cam) - ở - bàn1 ()",
+  "ghế3 (màu cam) - ở - bàn1 ()",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - đối diện - người6 (trung niên - nam, mặc áo xanh lá, đang nhìn, thờ ơ)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - đứng cạnh - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ)",
+  "người4 (trung niên - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ) - đứng cạnh - người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ)",
+  "người5 (trung niên - nữ, mặc áo đen, đang nhìn xuống, lo lắng) - nhìn - người4 (trung niên - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ)",
+  "người2 (trung niên - nữ, mặc áo xanh, đang đứng, bình tĩnh) - nhìn - người3 (trẻ - nam, mặc áo trắng, đang đứng, không rõ)",
+  "người1 (trẻ - nữ, mặc áo đỏ, đang đứng, vui vẻ) - đứng cạnh - người4 (trung niên - nữ, mặc áo đỏ, đang nói chuyện, vui vẻ)"
+]
+```
+

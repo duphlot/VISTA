@@ -1,0 +1,863 @@
+frame_0:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "người3 (trưởng thành - không xác định, mặc áo khoác hồng, đứng, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "xe1 (màu xanh dương) - trên - sân chơi",
+  "cây - trên - sân chơi",
+  "người4 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "người3 (trưởng thành - không xác định, mặc áo khoác hồng, đứng, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "xe1 (màu xanh dương) - trên - sân chơi",
+  "cây - trên - sân chơi",
+  "người4 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "xe2 (màu xanh dương) - trên - sân chơi"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - cỏ",
+  "cỏ - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - cỏ",
+  "người3 (trưởng thành - không xác định, mặc áo khoác hồng, đứng, không cảm xúc) - trên - cỏ",
+  "nhà - trên - trời",
+  "xe1 (màu xanh dương) - trên - cỏ",
+  "cây - trên - cỏ",
+  "người4 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - cỏ",
+  "xe2 (màu xanh dương) - trên - cỏ",
+  "nhà - phía sau - người1",
+  "cây - phía sau - người3"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "người3 (trưởng thành - không xác định, mặc áo khoác hồng, đứng, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "xe1 (màu xanh dương) - trên - sân chơi",
+  "cây - trên - sân chơi",
+  "người4 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "xe2 (màu xanh dương) - trên - sân chơi",
+  "nhà - phía sau - người1",
+  "cây - phía sau - người3"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "người3 (trưởng thành - không xác định, mặc áo khoác hồng, đứng, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "xe1 (màu xanh dương) - trên - sân chơi",
+  "cây - trên - sân chơi",
+  "người4 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "xe2 (màu xanh dương) - trên - sân chơi",
+  "nhà - phía sau - người1",
+  "cây - phía sau - người3",
+  "xe3 (màu xanh dương) - trên - sân chơi"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "xe1 (màu xanh dương) - trên - sân chơi",
+  "cây - trên - sân chơi",
+  "nhà - phía sau - người1",
+  "người2 - trên - sân chơi"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "nhà - phía sau - người1",
+  "người2 - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "nhà - phía sau - người1",
+  "người2 - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "ghế1 (màu cam) - gần - cỏ",
+  "ghế2 (màu cam) - gần - cỏ",
+  "ghế3 (màu cam) - gần - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu trắng) - gần - nhà"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "nhà - phía sau - người1",
+  "người2 - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "ghế1 (màu cam) - gần - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu trắng) - gần - nhà"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "nhà - phía sau - người1",
+  "người2 - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "nhà - phía sau - người1",
+  "người2 - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "nhà - phía sau - người1",
+  "người2 - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang ngồi, không cảm xúc) - trên - sân chơi",
+  "người3 - gần - người2"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "nhà - phía sau - người1",
+  "người2 - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đi bộ, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang ngồi, không cảm xúc) - trên - sân chơi",
+  "người3 - gần - người2",
+  "cừu1 (màu xanh lá cây) - gần - người1"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "nhà - phía sau - người1",
+  "người2 - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, ngồi trên ghế, không cảm xúc) - trên - sân chơi",
+  "người3 - gần - người2",
+  "ghế1 (màu đỏ) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - gần - người2"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "nhà - phía sau - người1",
+  "người2 - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, ngồi trên ghế, không cảm xúc) - trên - sân chơi",
+  "người3 - gần - người2",
+  "ghế1 (màu đỏ) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - gần - người2",
+  "ghế2 (màu đen) - trên - cỏ"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - sân chơi",
+  "sân chơi - thuộc về - trời",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, không cảm xúc) - trên - sân chơi",
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "nhà - phía sau - người1",
+  "người2 - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, ngồi trên ghế, không cảm xúc) - trên - sân chơi",
+  "người3 - gần - người2",
+  "ghế1 (màu đỏ) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - gần - người2",
+  "ghế2 (màu đen) - trên - cỏ",
+  "người4 (trưởng thành - không xác định, mặc đồ cam, đứng, không cảm xúc) - gần - ghế1",
+  "người4 - trên - cỏ",
+  "vali (màu xanh) - gần - ghế1"
+]
+```
+
+frame_16:
+```json
+[
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà",
+  "ghế1 (màu đỏ) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - gần - người2",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "vali (màu xanh) - gần - ghế2",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - gần - ghế3",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, không cảm xúc) - đối diện - người1",
+  "sân chơi - thuộc về - trời"
+]
+```
+
+frame_17:
+```json
+[
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, kh\u00f4ng c\u1ea3m x\u00fac) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, kh\u00f4ng c\u1ea3m x\u00fac) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà",
+  "ghế1 (màu đỏ) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, kh\u00f4ng c\u1ea3m x\u00fac) - gần - người2",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "vali (màu xanh) - gần - ghế2",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, kh\u00f4ng c\u1ea3m x\u00fac) - gần - ghế3",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, kh\u00f4ng c\u1ea3m x\u00fac) - đối diện - người1",
+  "sân chơi - thuộc về - trời"
+]
+```
+
+frame_18:
+```json
+[
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà",
+  "ghế1 (màu đỏ) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - gần - người2",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "vali (màu xanh) - gần - ghế2",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - gần - ghế3",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, không cảm xúc) - đối diện - người1",
+  "sân chơi - thuộc về - trời",
+  "cỏ - gần - người2",
+  "ghế3 - gần - cỏ",
+  "vali - gần - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - vali"
+]
+```
+
+frame_19:
+```json
+[
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà",
+  "ghế1 (màu đỏ) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - gần - người2",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "vali (màu xanh) - gần - ghế2",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - gần - ghế3",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, không cảm xúc) - đối diện - người1",
+  "sân chơi - thuộc về - trời",
+  "cỏ - gần - người2",
+  "ghế3 - gần - cỏ",
+  "vali - gần - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - vali",
+  "tường - trên - nhà",
+  "cỏ - thuộc về - sân chơi"
+]
+```
+
+frame_20:
+```json
+[
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà",
+  "ghế1 (màu đỏ) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - gần - người2",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "vali (màu xanh) - gần - ghế2",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - gần - ghế3",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đứng thẳng, không cảm xúc) - đối diện - người1",
+  "sân chơi - thuộc về - trời",
+  "cỏ - gần - người2",
+  "ghế3 - gần - cỏ",
+  "vali - gần - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, cúi người, không cảm xúc) - trên - vali",
+  "tường - trên - nhà",
+  "cỏ - thuộc về - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - trên - ghế2",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - trên - ghế2"
+]
+```
+
+frame_21:
+```json
+[
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà",
+  "ghế1 (màu đỏ) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - gần - người2",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "vali (màu xanh) - gần - ghế2",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - gần - ghế3",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - đối diện - người1",
+  "sân chơi - thuộc về - trời",
+  "cỏ - gần - người2",
+  "ghế3 - gần - cỏ",
+  "vali - gần - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - trên - vali",
+  "tường - trên - nhà",
+  "cỏ - thuộc về - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - trên - ghế2",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - trên - ghế2",
+  "ván lướt sóng1 (màu đen) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - trên - ván lướt sóng1",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - gần - ván lướt sóng1"
+]
+```
+
+frame_22:
+```json
+[
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà",
+  "ghế1 (màu đỏ) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - gần - người2",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "vali (màu xanh) - gần - ghế2",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - gần - ghế3",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - đối diện - người1",
+  "sân chơi - thuộc về - trời",
+  "cỏ - gần - người2",
+  "ghế3 - gần - cỏ",
+  "vali - gần - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - trên - vali",
+  "tường - trên - nhà",
+  "cỏ - thuộc về - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - trên - ghế2",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - trên - ghế2",
+  "ván lướt sóng1 (màu đen) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang leo trèo, không cảm xúc) - trên - ván lướt sóng1",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục, đang chạy, lo lắng) - gần - ván lướt sóng1",
+  "điều khiển từ xa (màu xanh) - trên - sân chơi"
+]
+```
+
+frame_23:
+```json
+[
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà",
+  "ghế1 (màu đỏ) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - gần - người2",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "vali (màu xanh) - gần - ghế2",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - gần - ghế3",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - đối diện - người1",
+  "sân chơi - thuộc về - trời",
+  "cỏ - gần - người2",
+  "ghế3 - gần - cỏ",
+  "vali - gần - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - trên - vali",
+  "tường - trên - nhà",
+  "cỏ - thuộc về - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - trên - ghế2",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - trên - ghế2",
+  "ván lướt sóng1 (màu đen) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - trên - ván lướt sóng1",
+  "người3 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu cam, đang quỳ, không cảm xúc) - gần - ván lướt sóng1",
+  "điều khiển từ xa (màu xanh) - trên - sân chơi"
+]
+```
+
+frame_24:
+```json
+[
+  "nhà - trên - trời",
+  "cây - trên - sân chơi",
+  "cỏ - trên - sân chơi",
+  "hàng rào - trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - trên - cỏ",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "hàng rào - trên - cỏ",
+  "xe hơi1 (màu xanh dương) - sau - hàng rào",
+  "xe hơi2 (màu xanh dương) - gần - nhà",
+  "ghế1 (màu đỏ) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - gần - người2",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "vali (màu hồng) - gần - ghế2",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - gần - ghế3",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - đối diện - người1",
+  "sân chơi - thuộc về - trời",
+  "cỏ - gần - người2",
+  "ghế3 - gần - cỏ",
+  "vali - gần - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - trên - vali",
+  "tường - trên - nhà",
+  "cỏ - thuộc về - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - trên - ghế2",
+  "người2 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - trên - ghế2",
+  "ván lướt sóng1 (màu đen) - trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - trên - ván lướt sóng1",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ván lướt sóng1",
+  "điều khiển từ xa (màu xanh) - trên - sân chơi",
+  "người4 (trưởng thành - không xác định, mặc đồ bóng bầu dục màu hồng, đang đứng, không cảm xúc) - trên - cỏ",
+  "bóng thể thao (màu xanh) - trên - cỏ",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - ghế2",
+  "cỏ - gần - người1",
+  "cỏ - gần - người5",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - người5",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - người2",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ghế1"
+]
+```
+
+frame_25:
+```json
+[
+  "cỏ - trên - sân chơi",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ghế3",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - ghế2",
+  "ván lướt sóng1 (màu đen) - trên - cỏ",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ván lướt sóng1",
+  "bóng thể thao (màu xanh) - trên - cỏ",
+  "chó1 - gần - bóng thể thao",
+  "chó2 - gần - ghế2",
+  "chó2 - gần - ván lướt sóng1",
+  "chó1 - gần - ván lướt sóng1"
+]
+```
+
+frame_26:
+```json
+[
+  "cỏ - trên - sân chơi",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ghế3",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - ghế2",
+  "ván lướt sóng1 (màu đen) - trên - cỏ",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ván lướt sóng1",
+  "bóng thể thao (màu xanh) - trên - cỏ",
+  "chó1 - gần - bóng thể thao",
+  "chó2 - gần - ghế2",
+  "chó2 - gần - ván lướt sóng1",
+  "chó1 - gần - ván lướt sóng1",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - ghế2",
+  "ghế2 (màu đen) - gần - bóng thể thao"
+]
+```
+
+frame_27:
+```json
+[
+  "cỏ - trên - sân chơi",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ghế3",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - ghế2",
+  "ván lướt sóng1 (màu đen) - trên - cỏ",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ván lướt sóng1",
+  "bóng thể thao (màu xanh) - trên - cỏ",
+  "chó1 - gần - bóng thể thao",
+  "chó2 - gần - ghế2",
+  "chó2 - gần - ván lướt sóng1",
+  "chó1 - gần - ván lướt sóng1",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - trên - ghế2",
+  "ghế2 (màu đen) - gần - bóng thể thao",
+  "xe đạp1 (màu trắng) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "găng tay bóng chày (màu xanh) - gần - người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ)"
+]
+```
+
+frame_28:
+```json
+[
+  "cỏ - trên - sân chơi",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ghế3",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - ghế2",
+  "ván lướt sóng1 (màu đen) - trên - cỏ",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ván lướt sóng1",
+  "bóng thể thao (màu xanh) - trên - cỏ",
+  "chó1 - gần - bóng thể thao",
+  "chó2 - gần - ghế2",
+  "chó2 - gần - ván lướt sóng1",
+  "chó1 - gần - ván lướt sóng1",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - trên - ghế2",
+  "ghế2 (màu đen) - gần - bóng thể thao",
+  "xe đạp1 (màu trắng) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "găng tay bóng chày (màu xanh) - gần - người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ)",
+  "người4 (trưởng thành - nam, mặc áo đỏ, đang đội mũ bảo hiểm, nghiêm túc) - gần - ghế2 (màu đen)"
+]
+```
+
+frame_29:
+```json
+[
+  "cỏ - trên - sân chơi",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ghế3",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - ghế2",
+  "ván lướt sóng1 (màu đen) - trên - cỏ",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ván lướt sóng1",
+  "bóng thể thao (màu xanh) - trên - cỏ",
+  "chó1 - gần - bóng thể thao",
+  "chó2 - gần - ghế2",
+  "chó2 - gần - ván lướt sóng1",
+  "chó1 - gần - ván lướt sóng1",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - trên - ghế2",
+  "ghế2 (màu đen) - gần - bóng thể thao",
+  "xe đạp1 (màu trắng) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "găng tay bóng chày (màu xanh) - gần - người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ)",
+  "người4 (trưởng thành - nam, mặc áo đỏ, đang đội mũ bảo hiểm, nghiêm túc) - gần - ghế2 (màu đen)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ) - trên - sân chơi",
+  "điều khiển từ xa (màu tím) - trên - sân chơi",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - trên - sân chơi",
+  "người4 (trưởng thành - nam, mặc áo đỏ, đang đội mũ bảo hiểm, nghiêm túc) - trên - sân chơi"
+]
+```
+
+frame_30:
+```json
+[
+  "cỏ - trên - sân chơi",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ghế3",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - ghế2",
+  "ván lướt sóng1 (màu đen) - trên - cỏ",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ván lướt sóng1",
+  "bóng thể thao (màu xanh) - trên - cỏ",
+  "chó1 - gần - bóng thể thao",
+  "chó2 - gần - ghế2",
+  "chó2 - gần - ván lướt sóng1",
+  "chó1 - gần - ván lướt sóng1",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - trên - ghế2",
+  "ghế2 (màu đen) - gần - bóng thể thao",
+  "xe đạp1 (màu trắng) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "găng tay bóng chày (màu xanh) - gần - người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ)",
+  "người4 (trưởng thành - nam, mặc áo đỏ, đang đội mũ bảo hiểm, nghiêm túc) - gần - ghế2 (màu đen)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ) - trên - sân chơi",
+  "điều khiển từ xa (màu tím) - trên - sân chơi",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - trên - sân chơi",
+  "người4 (trưởng thành - nam, mặc áo đỏ, đang đội mũ bảo hiểm, nghiêm túc) - trên - sân chơi",
+  "cây - trên - cỏ",
+  "vợt tennis (màu trắng) - trên - cỏ",
+  "ván trượt (màu tím) - trên - cỏ",
+  "chó1 - trên - cỏ"
+]
+```
+
+frame_31:
+```json
+[
+  "cỏ - trên - sân chơi",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ghế3",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - ghế2",
+  "ván lướt sóng1 (màu đen) - trên - cỏ",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ván lướt sóng1",
+  "bóng thể thao (màu xanh) - trên - cỏ",
+  "chó1 - gần - bóng thể thao",
+  "chó2 - gần - ghế2",
+  "chó2 - gần - ván lướt sóng1",
+  "chó1 - gần - ván lướt sóng1",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - trên - ghế2",
+  "ghế2 (màu đen) - gần - bóng thể thao",
+  "xe đạp1 (màu trắng) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "găng tay bóng chày (màu xanh) - gần - người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ)",
+  "người4 (trưởng thành - nam, mặc áo đỏ, đang đội mũ bảo hiểm, nghiêm túc) - gần - ghế2 (màu đen)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ) - trên - sân chơi",
+  "điều khiển từ xa (màu tím) - trên - sân chơi",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - trên - sân chơi",
+  "người4 (trưởng thành - nam, mặc áo đỏ, đang đội mũ bảo hiểm, nghiêm túc) - trên - sân chơi",
+  "cây - trên - cỏ",
+  "vợt tennis (màu trắng) - trên - cỏ",
+  "ván trượt (màu tím) - trên - cỏ",
+  "chó1 - trên - cỏ",
+  "người5 (trẻ - không xác định, không mặc áo, đang khom người, không cảm xúc) - trên - cỏ",
+  "đường - trên - cỏ"
+]
+```
+
+frame_32:
+```json
+[
+  "cỏ - trên - sân chơi",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - cỏ",
+  "sân chơi - trên - cỏ",
+  "ghế2 (màu đen) - trên - cỏ",
+  "ghế3 (màu vàng) - trên - ghế2",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ghế3",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - trên - ghế2",
+  "ván lướt sóng1 (màu đen) - trên - cỏ",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - ván lướt sóng1",
+  "bóng thể thao (màu xanh) - trên - cỏ",
+  "chó1 - gần - bóng thể thao",
+  "chó2 - gần - ghế2",
+  "chó2 - gần - ván lướt sóng1",
+  "chó1 - gần - ván lướt sóng1",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - trên - ghế2",
+  "ghế2 (màu đen) - gần - bóng thể thao",
+  "xe đạp1 (màu trắng) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc)",
+  "găng tay bóng chày (màu xanh) - gần - người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ)",
+  "người4 (trưởng thành - nam, mặc áo đỏ, đang đội mũ bảo hiểm, nghiêm túc) - gần - ghế2 (màu đen)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang cầm găng tay, vui vẻ) - trên - sân chơi",
+  "điều khiển từ xa (màu tím) - trên - sân chơi",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, không cảm xúc) - trên - sân chơi",
+  "người4 (trưởng thành - nam, mặc áo đỏ, đang đội mũ bảo hiểm, nghiêm túc) - trên - sân chơi",
+  "cây - trên - cỏ",
+  "vợt tennis (màu trắng) - trên - cỏ",
+  "ván trượt (màu tím) - trên - cỏ",
+  "chó1 - trên - cỏ",
+  "người5 (trẻ - không xác định, không mặc áo, đang khom người, không cảm xúc) - trên - cỏ",
+  "đường - trên - cỏ",
+  "người5 (trẻ - không xác định, không mặc áo, đang khom người, không cảm xúc) - gần - bóng thể thao",
+  "người5 (trẻ - không xác định, không mặc áo, đang khom người, không cảm xúc) - gần - chó1",
+  "người5 (trẻ - không xác định, không mặc áo, đang khom người, không cảm xúc) - gần - ván trượt",
+  "người6 (trưởng thành - không xác định, mặc áo cam, đang đứng, không cảm xúc) - trên - cỏ",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đứng, không cảm xúc) - gần - người6 (trưởng thành - không xác định, mặc áo cam, đang đứng, không cảm xúc)",
+  "nhà - trên - cỏ",
+  "xe hơi1 (màu xanh) - trên - cỏ",
+  "tòa nhà - trên - cỏ"
+]
+```
+

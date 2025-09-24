@@ -1,0 +1,443 @@
+frame_0:
+```json
+[
+  "giường1 (màu tím) - nằm trên - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường)",
+  "người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang bế, bình thường) - bế - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường)"
+]
+```
+
+frame_1:
+```json
+[
+  "giường1 (màu tím) - nằm trên - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang há miệng, bình thường)",
+  "người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang bế, bình thường) - bế - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang há miệng, bình thường)"
+]
+```
+
+frame_2:
+```json
+[
+  "giường1 (màu tím) - nằm trên - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang há miệng, bình thường)",
+  "người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang bế, bình thường) - bế - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang há miệng, bình thường)"
+]
+```
+
+frame_3:
+```json
+[
+  "giường1 (màu tím) - nằm trên - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang há miệng, bình thường)",
+  "người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang bế, bình thường) - bế - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang há miệng, bình thường)"
+]
+```
+
+frame_4:
+```json
+[
+  "giường1 (màu tím) - nằm trên - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang há miệng, bình thường)",
+  "người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang bế, bình thường) - ở trên - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang há miệng, bình thường)"
+]
+```
+
+frame_5:
+```json
+[
+  "giường1 (màu tím) - nằm trên - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang ngậm tay, bình thường)",
+  "người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang nằm, bình thường) - ở trên - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang ngậm tay, bình thường)",
+  "chó1 (màu xanh da trời) - ở trên - giường1 (màu tím)",
+  "chó1 (màu xanh da trời) - ở trên - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang ngậm tay, bình thường)",
+  "người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang nằm, bình thường) - ở trên - chó1 (màu xanh da trời)"
+]
+```
+
+frame_6:
+```json
+[
+  "tường1 - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang nhìn, bình thường)",
+  "rèm1 - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang nhìn, bình thường)",
+  "người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang nhìn, bình thường) - ở trên - cỏ1",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang ngồi, bình thường) - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang nhìn, bình thường)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang nhìn, bình thường)"
+]
+```
+
+frame_7:
+```json
+[
+  "tường1 - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "rèm1 - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường) - ở trên - cỏ1",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang ngồi, bình thường) - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)"
+]
+```
+
+frame_8:
+```json
+[
+  "tường1 - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "rèm1 - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường) - ở trên - cờ1",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang ngồi, bình thường) - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nhìn, bình thường) - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "kệ1 - ở trong - phòng",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang ngồi, bình thường) - ở trong - phòng",
+  "đồ đạc1 - ở trong - phòng",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nhìn, bình thường) - ở trong - phòng",
+  "tường1 - ở trong - phòng",
+  "bàn ăn1 (màu xanh) - ở trong - phòng"
+]
+```
+
+frame_9:
+```json
+[
+  "tủ1 (màu xanh lá cây) - ở trên - người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang ngồi, bình thường)",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang ngồi, bình thường) - ở trên - thảm1 (màu tím)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nhìn, bình thường) - gần - tường1",
+  "tường1 - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "rèm1 - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường) - ở trên - cổ",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang ngồi, bình thường) - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nhìn, bình thường) - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "kệ1 - ở trong - phòng",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang ngồi, bình thường) - ở trong - phòng",
+  "đồ đạc1 - ở trong - phòng",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nhìn, bình thường) - ở trong - phòng",
+  "tường1 - ở trong - phòng",
+  "bàn ăn1 (màu xanh) - ở trong - phòng"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - ở trên - tường1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - giường1",
+  "rèm1 - ở trên - tường1",
+  "tường1 - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "rèm1 - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường) - ở trên - cổ",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "kệ - ở trong - phòng",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - ở trong - phòng",
+  "đồ đạc1 - ở trong - phòng",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trong - phòng",
+  "tường1 - ở trong - phòng",
+  "bàn ăn1 (màu xanh) - ở trong - phòng"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - ở trên - tường1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - giường1",
+  "rèm1 - ở trên - tường1",
+  "tường1 - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "rèm1 - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường) - ở trên - cổ",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "kệ - ở trong - phòng",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - ở trong - phòng",
+  "đồ đạc1 - ở trong - phòng",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trong - phòng",
+  "tường1 - ở trong - phòng",
+  "bàn ăn1 (màu xanh) - ở trong - phòng",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - che khuất - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - che khuất - người3 (trưởng thành - chưa rõ giới tính, mặc áo xanh dương, đang đứng, bình thường)"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - ở trên - giường1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - giường1",
+  "tường1 - ở trên - giường1"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - ở trên - giường1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - giường1",
+  "tường1 - ở trên - giường1",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - ở trên - giường1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - giường1"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - ở trên - giường1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - giường1"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - ở trên - giường1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - giường1"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - ở trên - giường1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - giường1",
+  "điều khiển (màu đen) - ở trên - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường)",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - che phủ - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường)"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - ở trên - giường1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - giường1",
+  "điều khiển (màu đen) - ở trên - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường)",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - che phủ - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường)"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - ở trên - giường1",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - giường1",
+  "người1 (trưởng thành - chưa rõ giới tính, mặc áo đỏ, đang nằm, bình thường) - che phủ - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường)"
+]
+```
+
+frame_19:
+```json
+[
+  "giường1 - chứa - người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng, đang nằm, bình thường) - ở trên - giường1"
+]
+```
+
+frame_20:
+```json
+[
+  "giường1 - chứa - người2 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường) - ở trên - giường1"
+]
+```
+
+frame_21:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)"
+]
+```
+
+frame_22:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngắm nhìn, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngắm nhìn, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngắm nhìn, bình thường) - ở trên - chăn1 (màu xanh)"
+]
+```
+
+frame_23:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người2 (trẻ - chưa rõ giới tính, đang đắp chăn, đang ngủ, bình thường) - ở trên - người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường)",
+  "người2 (trẻ - chưa rõ giới tính, đang đắp chăn, đang ngủ, bình thường) - ở trên - chăn2"
+]
+```
+
+frame_24:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường) - ở trên - người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngủ, bình thường) - ở trên - chăn2"
+]
+```
+
+frame_25:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - ở trên - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - ở trên - chăn2"
+]
+```
+
+frame_26:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - ở trên - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - ở trên - chăn2"
+]
+```
+
+frame_27:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người2 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - chăn2"
+]
+```
+
+frame_28:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)"
+]
+```
+
+frame_29:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - ở trên - chăn1 (màu xanh)"
+]
+```
+
+frame_30:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - gần - giấy1"
+]
+```
+
+frame_31:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - giấy1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - mèo1",
+  "người2 (trưởng thành - chưa rõ giới tính, không mặc gì, đang ở trên giường, bình thường) - ở trên - chăn1 (màu xanh)"
+]
+```
+
+frame_32:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - giấy1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - mèo1",
+  "người2 (trưởng thành - chưa rõ giới tính, không mặc gì, đang ở trên giường, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người2 (trưởng thành - chưa rõ giới tính, không mặc gì, đang ở trên giường, bình thường) - che - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)"
+]
+```
+
+frame_33:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - giấy1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - mèo1",
+  "người2 (trưởng thành - chưa rõ giới tính, không mặc gì, đang nằm, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - che - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)"
+]
+```
+
+frame_34:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - giấy1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - mèo1",
+  "người2 (trưởng thành - chưa rõ giới tính, không mặc gì, đang nằm, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo trắng có hình, đang nằm, bình thường) - che - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)"
+]
+```
+
+frame_35:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - giấy1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - mèo1",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - che - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)"
+]
+```
+
+frame_36:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - giấy1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - mèo1",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo xanh, đang nằm, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo xanh, đang nằm, bình thường) - che - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)"
+]
+```
+
+frame_37:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - giấy1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - mèo1",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo xanh, đang nằm, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo xanh, đang nằm, bình thường) - che - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo xanh, đang nằm, bình thường) - gần - cỏ1",
+  "cỏ1 (màu xanh lá cây) - trên - chăn2 (màu xanh dương)"
+]
+```
+
+frame_38:
+```json
+[
+  "giường1 - chứa - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - giường1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - giấy1",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường) - gần - mèo1",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo xanh, đang nằm, bình thường) - ở trên - chăn1 (màu xanh)",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo xanh, đang nằm, bình thường) - che - người1 (trẻ - chưa rõ giới tính, mặc áo trắng có hình, đang ngủ, bình thường)",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc áo xanh, đang nằm, bình thường) - gần - cỏ1",
+  "cỏ1 (màu xanh lá cây) - trên - chăn2 (màu xanh dương)"
+]
+```
+

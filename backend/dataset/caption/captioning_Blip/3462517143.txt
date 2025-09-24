@@ -1,0 +1,37 @@
+frame_0000.jpg: two dogs playing with a green bowl
+frame_0001.jpg: two dogs playing with a green bowl
+frame_0002.jpg: two dogs playing with a green bowl in the yard
+frame_0003.jpg: two dogs playing with a green bowl
+frame_0004.jpg: two dogs playing with a green bowl in the yard
+frame_0005.jpg: a dog drinking water out of a green bowl
+frame_0006.jpg: a dog drinking water out of a green bowl
+frame_0007.jpg: a dog drinking water from a green bowl
+frame_0008.jpg: a dog is standing in a green bowl
+frame_0009.jpg: a dog drinking water out of a green bowl
+frame_0010.jpg: a dog is standing in a green bowl
+frame_0011.jpg: a dog drinking water out of a green bowl
+frame_0012.jpg: a pig drinking water from a green bowl
+frame_0013.jpg: a dog standing on top of a green bowl
+frame_0014.jpg: a dog drinking water from a green bowl
+frame_0015.jpg: a dog is standing in a green bowl
+frame_0016.jpg: a dog drinking water from a green bowl
+frame_0017.jpg: two dogs playing in a green bowl
+frame_0018.jpg: two dogs playing in a green bowl
+frame_0019.jpg: a dog is playing with a toy in the yard
+frame_0020.jpg: a dog drinking water out of a green bowl
+frame_0021.jpg: a brown dog standing in the grass with a green bowl
+frame_0022.jpg: a dog drinking water out of a green bowl
+frame_0023.jpg: a dog is playing with a green bowl
+frame_0024.jpg: a dog is standing next to a green bowl
+frame_0025.jpg: a dog is standing in the grass next to a green bowl
+frame_0026.jpg: a dog is standing next to a green bowl
+frame_0027.jpg: a dog is standing next to a green bowl
+frame_0028.jpg: a dog is playing with a green bowl
+frame_0029.jpg: a dog is playing with a green bowl
+frame_0030.jpg: a dog is playing with a green bowl
+frame_0031.jpg: a dog is playing with a green bowl
+frame_0032.jpg: a dog is playing with a green bowl
+frame_0033.jpg: a dog is playing with a green bowl
+frame_0034.jpg: a dog is playing with a green bowl
+frame_0035.jpg: a dog is playing with a green bowl
+frame_0036.jpg: a dog is playing with a green bowl

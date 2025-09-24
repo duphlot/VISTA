@@ -1,0 +1,560 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - bóng đá",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đẩy xe, vui vẻ) - đứng trên - cỏ",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đẩy xe, vui vẻ) - ở gần - bóng thể thao",
+  "hàng rào - bao quanh - cỏ"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - bóng đá",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đẩy xe, vui vẻ) - đứng trên - cỏ",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đẩy xe, vui vẻ) - ở gần - bóng thể thao",
+  "hàng rào - bao quanh - cỏ",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "cỏ - ở gần - cây"
+]
+```
+
+frame_2:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "frisbee (màu trắng) - ở trên - cỏ",
+  "cỏ - ở gần - frisbee (màu trắng)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ) - đứng trước - khung thành"
+]
+```
+
+frame_3:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đá bóng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang chạy về phía quả bóng, hào hứng) - ở gần - cỏ",
+  "frisbee (màu trắng) - ở trên - cỏ",
+  "cỏ - ở gần - frisbee (màu trắng)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang chạy về phía quả bóng, hào hứng) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang chạy về phía quả bóng, hào hứng) - ở gần - xe đạp (màu tím)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đá bóng, trung lập) - ở gần - bóng thể thao"
+]
+```
+
+frame_4:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đá bóng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "frisbee (màu trắng) - ở trên - cỏ",
+  "cỏ - ở gần - frisbee (màu trắng)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - xe đạp (màu tím)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đá bóng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - đứng cạnh - khung thành"
+]
+```
+
+frame_5:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đá bóng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "frisbee (màu trắng) - ở trên - cỏ",
+  "cỏ - ở gần - frisbee (màu trắng)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - xe đạp (màu tím)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đá bóng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - đứng cạnh - khung thành"
+]
+```
+
+frame_6:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đá bóng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đá bóng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "frisbee (màu trắng) - ở trên - cỏ",
+  "cỏ - ở gần - frisbee (màu trắng)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - xe đạp (màu tím)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đá bóng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - đứng cạnh - khung thành"
+]
+```
+
+frame_7:
+```json
+[
+  "h\u00e0ng r\u00e0o - \u1edf ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u01a1 mi v\u00e0ng, \u0111ang \u0111\u00e1 b\u00f3ng, trung l\u1eadp)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u01a1 mi v\u00e0ng, \u0111ang \u0111\u00e1 b\u00f3ng, trung l\u1eadp) - \u0111\u1ee9ng tr\u01b0\u1edbc - khung th\u00e0nh",
+  "khung th\u00e0nh - ch\u1ee9a - ng\u01b0\u1eddi2 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o xanh, \u0111ang \u0111\u1ee9ng, vui v\u1ebb)",
+  "c\u1ecf - \u1edf ph\u00eda sau - h\u00e0ng r\u00e0o",
+  "h\u00e0ng r\u00e0o - bao quanh - c\u00e2y",
+  "c\u1ecf - \u1edf g\u1ea7n - c\u00e2y",
+  "c\u1ecf - \u1edf g\u1ea7n - xe t\u1ea3i2 (m\u00e0u t\u00edm)",
+  "c\u1ecf - \u1edf g\u1ea7n - xe t\u1ea3i1 (m\u00e0u v\u00e0ng)",
+  "xe t\u1ea3i1 (m\u00e0u v\u00e0ng) - tr\u00ean - m\u1eb7t \u0111\u1ea5t",
+  "xe t\u1ea3i2 (m\u00e0u t\u00edm) - tr\u00ean - c\u1ecf",
+  "t\u01b0\u1eddng - \u1edf tr\u00ean - xe h\u01a1i (m\u00e0u xanh)",
+  "xe h\u01a1i (m\u00e0u xanh) - \u1edf tr\u00ean - m\u1eb7t \u0111\u1ea5t",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u0111\u1ed3 n\u00e2u, \u0111ang \u0111\u1ee9ng, trung l\u1eadp) - \u1edf g\u1ea7n - c\u1ecf",
+  "frisbee (m\u00e0u tr\u1eafng) - \u1edf tr\u00ean - c\u1ecf",
+  "c\u1ecf - \u1edf g\u1ea7n - frisbee (m\u00e0u tr\u1eafng)",
+  "ng\u01b0\u1eddi2 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o xanh, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - \u0111\u1ee9ng tr\u01b0\u1edbc - khung th\u00e0nh",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u0111\u1ed3 n\u00e2u, \u0111ang \u0111\u1ee9ng, trung l\u1eadp) - \u1edf g\u1ea7n - b\u00f3ng th\u1ec3 thao",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u0111\u1ed3 n\u00e2u, \u0111ang \u0111\u1ee9ng, trung l\u1eadp) - \u1edf g\u1ea7n - xe \u0111\u1ea1p (m\u00e0u t\u00edm)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - nam, m\u1eb7c \u00e1o s\u01a1 mi v\u00e0ng, \u0111ang \u0111\u00e1 b\u00f3ng, trung l\u1eadp) - \u1edf g\u1ea7n - b\u00f3ng th\u1ec3 thao",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u0111\u1ed3 n\u00e2u, \u0111ang \u0111\u1ee9ng, trung l\u1eadp) - \u0111\u1ee9ng c\u1ea1nh - khung th\u00e0nh"
+]
+```
+
+frame_8:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "frisbee (màu trắng) - ở trên - cỏ",
+  "cỏ - ở gần - frisbee (màu trắng)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - xe đạp (màu tím)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - đứng cạnh - khung thành",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "bóng chày (màu cam) - ở trên - cỏ",
+  "xe đạp (màu đỏ) - ở trên - cỏ"
+]
+```
+
+frame_9:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "frisbee (màu trắng) - ở trên - cỏ",
+  "cỏ - ở gần - frisbee (màu trắng)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - xe đạp (màu tím)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - đứng cạnh - khung thành",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "bóng chày (màu cam) - ở trên - cỏ",
+  "xe đạp (màu đỏ) - ở trên - cỏ"
+]
+```
+
+frame_10:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "frisbee (màu trắng) - ở trên - cỏ",
+  "cỏ - ở gần - frisbee (màu trắng)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - xe đạp (màu đỏ)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - đứng cạnh - khung thành",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "bóng chày (màu cam) - ở trên - cỏ",
+  "xe đạp (màu đỏ) - ở trên - cỏ"
+]
+```
+
+frame_11:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "frisbee (màu trắng) - ở trên - cỏ",
+  "cỏ - ở gần - frisbee (màu trắng)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - xe đạp (màu đỏ)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "bóng chày (màu cam) - ở trên - cỏ",
+  "xe đạp (màu đỏ) - ở trên - cỏ",
+  "cây - ở phía sau - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)"
+]
+```
+
+frame_12:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "bóng thể thao (màu cam) - ở trên - cỏ",
+  "cỏ - ở gần - bóng thể thao (màu cam)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - xe đạp (màu đỏ)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "bóng chày (màu cam) - ở trên - cỏ",
+  "xe đạp (màu đỏ) - ở trên - cỏ",
+  "cây - ở phía sau - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "tường - ở gần - vỉa hè"
+]
+```
+
+frame_13:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "bóng thể thao (màu cam) - ở trên - cỏ",
+  "cỏ - ở gần - bóng thể thao (màu cam)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - xe đạp (màu đỏ)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "bóng chày (màu cam) - ở trên - cỏ",
+  "xe đạp (màu đỏ) - ở trên - cỏ",
+  "cây - ở phía sau - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "tường - ở gần - vỉa hè",
+  "chai (trong suốt) - ở trên - bàn",
+  "xe tải1 (màu vàng) - ở trên - mặt đất",
+  "xe tải2 (màu tím) - ở trên - mặt đất",
+  "đĩa bay (màu trắng) - ở trên - cỏ"
+]
+```
+
+frame_14:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "bóng thể thao (màu cam) - ở trên - cỏ",
+  "cỏ - ở gần - bóng thể thao (màu cam)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - xe đạp (màu đỏ)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "bóng chày (màu cam) - ở trên - cỏ",
+  "xe đạp (màu đỏ) - ở trên - cỏ",
+  "cây - ở phía sau - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "tường - ở gần - vỉa hè",
+  "chai (trong suốt) - ở trên - bàn",
+  "xe tải1 (màu vàng) - ở trên - mặt đất",
+  "xe tải2 (màu tím) - ở trên - mặt đất",
+  "đĩa bay (màu trắng) - ở trên - cỏ",
+  "cừu - ở gần - cây"
+]
+```
+
+frame_15:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "bóng thể thao (màu cam) - ở trên - cỏ",
+  "cỏ - ở gần - bóng thể thao (màu cam)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - xe đạp (màu đỏ)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "bóng chày (màu cam) - ở trên - cỏ",
+  "xe đạp (màu đỏ) - ở trên - cỏ",
+  "cây - ở phía sau - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "tường - ở gần - vỉa hè",
+  "chai (trong suốt) - ở trên - bàn",
+  "xe tải1 (màu vàng) - ở trên - mặt đất",
+  "xe tải2 (màu tím) - ở trên - mặt đất",
+  "đĩa bay (màu trắng) - ở trên - cỏ",
+  "cây - ở gần - cây",
+  "người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ) - ở gần - bóng thể thao (màu xanh)",
+  "bóng thể thao (màu xanh) - ở trên - cỏ"
+]
+```
+
+frame_16:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "bóng thể thao (màu cam) - ở trên - cỏ",
+  "cỏ - ở gần - bóng thể thao (màu cam)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - xe đạp (màu đỏ)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "bóng chày (màu cam) - ở trên - cỏ",
+  "xe đạp (màu đỏ) - ở trên - cỏ",
+  "cây - ở phía sau - người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ)",
+  "tường - ở gần - vỉa hè",
+  "chai (trong suốt) - ở trên - bàn",
+  "xe tải1 (màu vàng) - ở trên - mặt đất",
+  "xe tải2 (màu tím) - ở trên - mặt đất",
+  "đĩa bay (màu trắng) - ở trên - cỏ",
+  "cây - ở gần - cây",
+  "người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ) - ở gần - bóng thể thao (màu xanh)",
+  "bóng thể thao (màu xanh) - ở trên - cỏ",
+  "người4 (trẻ - không rõ giới tính, mặc đồ hồng, đang đứng, trung lập) - ở gần - khung thành",
+  "người5 (trẻ - không rõ giới tính, mặc đồ hồng đậm, đang đứng, trung lập) - ở gần - khung thành",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - người4 (trẻ - không rõ giới tính, mặc đồ hồng, đang đứng, trung lập)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập)",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - người5 (trẻ - không rõ giới tính, mặc đồ hồng đậm, đang đứng, trung lập)",
+  "xe đạp (màu đỏ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập)",
+  "người4 (trẻ - không rõ giới tính, mặc đồ hồng, đang đứng, trung lập) - ở gần - người5 (trẻ - không rõ giới tính, mặc đồ hồng đậm, đang đứng, trung lập)"
+]
+```
+
+frame_17:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang đứng, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "bóng thể thao (màu cam) - ở trên - cỏ",
+  "cỏ - ở gần - bóng thể thao (màu cam)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - xe đạp (màu đỏ)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ)",
+  "bóng chày (màu cam) - ở trên - cỏ",
+  "xe đạp (màu đỏ) - ở trên - cỏ",
+  "cây - ở phía sau - người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ)",
+  "tường - ở gần - vỉa hè",
+  "chai (trong suốt) - ở trên - bàn",
+  "xe tải1 (màu vàng) - ở trên - mặt đất",
+  "xe tải2 (màu tím) - ở trên - mặt đất",
+  "đĩa bay (màu trắng) - ở trên - cỏ",
+  "cây - ở gần - cây",
+  "người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ) - ở gần - bóng thể thao (màu xanh)",
+  "bóng thể thao (màu xanh) - ở trên - cỏ",
+  "người4 (trẻ - không rõ giới tính, mặc đồ hồng, đang đứng, trung lập) - ở gần - khung thành",
+  "người5 (trẻ - không rõ giới tính, mặc đồ hồng đậm, đang đứng, trung lập) - ở gần - khung thành",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - người4 (trẻ - không rõ giới tính, mặc đồ hồng, đang đứng, trung lập)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập)",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - người5 (trẻ - không rõ giới tính, mặc đồ hồng đậm, đang đứng, trung lập)",
+  "xe đạp (màu đỏ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập)",
+  "người4 (trẻ - không rõ giới tính, mặc đồ hồng, đang đứng, trung lập) - ở gần - người5 (trẻ - không rõ giới tính, mặc đồ hồng đậm, đang đứng, trung lập)"
+]
+```
+
+frame_18:
+```json
+[
+  "hàng rào - ở phía sau - người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - đứng trước - khung thành",
+  "khung thành - chứa - người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ)",
+  "cỏ - ở phía sau - hàng rào",
+  "hàng rào - bao quanh - cây",
+  "cỏ - ở gần - cây",
+  "cỏ - ở gần - xe tải2 (màu tím)",
+  "cỏ - ở gần - xe tải1 (màu vàng)",
+  "xe tải1 (màu vàng) - trên - mặt đất",
+  "xe tải2 (màu tím) - trên - cỏ",
+  "tường - ở trên - xe hơi (màu xanh)",
+  "xe hơi (màu xanh) - ở trên - mặt đất",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - cỏ",
+  "bóng thể thao (màu cam) - ở trên - cỏ",
+  "cỏ - ở gần - bóng thể thao (màu cam)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ) - đứng trước - khung thành",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - bóng thể thao",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - xe đạp (màu đỏ)",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ)",
+  "bóng chày (màu cam) - ở trên - cỏ",
+  "xe đạp (màu đỏ) - ở trên - cỏ",
+  "cây - ở phía sau - người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ)",
+  "tường - ở gần - vỉa hè",
+  "chai (trong suốt) - ở trên - bàn",
+  "xe tải1 (màu vàng) - ở trên - mặt đất",
+  "xe tải2 (màu tím) - ở trên - mặt đất",
+  "đĩa bay (màu trắng) - ở trên - cỏ",
+  "cây - ở gần - cây",
+  "người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ) - ở gần - bóng thể thao (màu xanh)",
+  "bóng thể thao (màu xanh) - ở trên - cỏ",
+  "người4 (trẻ - không rõ giới tính, mặc đồ hồng, đang đứng, trung lập) - ở gần - khung thành",
+  "người5 (trẻ - không rõ giới tính, mặc đồ hồng đậm, đang đứng, trung lập) - ở gần - khung thành",
+  "người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập) - ở gần - người4 (trẻ - không rõ giới tính, mặc đồ hồng, đang đứng, trung lập)",
+  "người2 (trẻ - nữ, mặc áo xanh, đang chơi, vui vẻ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập)",
+  "người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập) - ở gần - người5 (trẻ - không rõ giới tính, mặc đồ hồng đậm, đang đứng, trung lập)",
+  "xe đạp (màu đỏ) - ở gần - người3 (trưởng thành - không rõ giới tính, mặc đồ nâu, đang đứng, trung lập)",
+  "người4 (trẻ - không rõ giới tính, mặc đồ hồng, đang đứng, trung lập) - ở gần - người5 (trẻ - không rõ giới tính, mặc đồ hồng đậm, đang đứng, trung lập)",
+  "người4 (trẻ - không rõ giới tính, mặc đồ hồng, đang đứng, trung lập) - ở gần - ghế (màu đỏ)",
+  "ghế (màu đỏ) - ở trên - cỏ",
+  "cỏ - ở gần - ghế (màu đỏ)"
+]
+```
+

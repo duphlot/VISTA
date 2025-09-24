@@ -1,0 +1,1393 @@
+frame_0:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trưởng thành - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, vui v\u1ebb)",
+  "người2 (trẻ - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, vui v\u1ebb) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "cây (màu xanh lá cây) - chứa - táo (màu xanh lá cây)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "cây (màu xanh lá cây) - chứa - táo (màu xanh lá cây)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "cây (màu xanh lá cây) - chứa - táo (màu xanh lá cây)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "cây (màu xanh lá cây) - chứa - táo (màu xanh lá cây)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "cây (màu xanh lá cây) - chứa - táo (màu xanh lá cây)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "cây (màu xanh lá cây) - chứa - táo (màu xanh lá cây)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trẻ - nam, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "cây (màu xanh lá cây) - chứa - táo (màu xanh lá cây)",
+  "người3 (trẻ - nam, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - nam, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trẻ - nam, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "cây (màu xanh lá cây) - chứa - táo (màu xanh lá cây)",
+  "người3 (trẻ - nam, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - nam, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người4 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người3 (trẻ - nam, mặc áo cam, đang nhìn, vui vẻ)"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trẻ - nam, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "cây (màu xanh lá cây) - chứa - táo (màu xanh lá cây)",
+  "người3 (trẻ - nam, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - nam, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người4 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người3 (trẻ - nam, mặc áo cam, đang nhìn, vui vẻ)",
+  "người4 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)",
+  "hoa - ở trong - cây (màu xanh lá cây)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)",
+  "hoa - ở trong - cây (màu xanh lá cây)"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)",
+  "hoa - ở trong - cây (màu xanh lá cây)"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)",
+  "hoa - ở trong - cây (màu xanh lá cây)",
+  "người4 (trưởng thành - nam, mặc áo hồng, đang nhìn, bình thường) - đứng cạnh - người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường)",
+  "người4 (trưởng thành - nam, mặc áo hồng, đang nhìn, bình thường) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ)",
+  "hoa - ở trong - cây (màu xanh lá cây)",
+  "người4 (trưởng thành - nam, mặc áo hồng, đang nhìn, bình thường) - đứng cạnh - người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường)",
+  "người4 (trưởng thành - nam, mặc áo hồng, đang nhìn, bình thường) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_17:
+```json
+[
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - cây (màu xanh lá cây)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang đánh răng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang đánh răng, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường)",
+  "hoa - ở trong - cây (màu xanh lá cây)",
+  "bàn chải đánh răng - ở trong - người1 (trưởng thành - nam, mặc áo hồng, đang đánh răng, vui vẻ)"
+]
+```
+
+frame_18:
+```json
+[
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - cây (màu xanh lá cây)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang đánh răng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang đánh răng, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường)",
+  "hoa - ở trong - cây (màu xanh lá cây)",
+  "bàn chải đánh răng - ở trong - người1 (trưởng thành - nam, mặc áo hồng, đang đánh răng, vui vẻ)",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - nhìn - tường",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - nhìn - nước",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - nhìn - đá (màu xám)"
+]
+```
+
+frame_19:
+```json
+[
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - cây (màu xanh lá cây)",
+  "người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "bầu trời - ở trên - tường",
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang đánh răng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang đánh răng, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường)",
+  "hoa - ở trong - cây (màu xanh lá cây)",
+  "bàn chải đánh răng - ở trong - người1 (trưởng thành - nam, mặc áo hồng, đang đánh răng, vui vẻ)",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - nhìn - tường",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - nhìn - nước",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - nhìn - đá (màu xám)",
+  "chim1 (màu cam) - ở trên - cây (màu xanh lá cây)",
+  "chim2 (màu nâu) - ở trên - cây (màu xanh lá cây)",
+  "chim3 (màu hồng) - ở trên - đá (màu xám)"
+]
+```
+
+frame_20:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường)",
+  "hoa - ở trong - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - nhìn - tường",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - nhìn - nước",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - nhìn - đá (màu xám)",
+  "chim1 (màu cam) - ở trên - đá (màu xám)",
+  "chim2 (màu nâu) - ở trên - cây (màu xanh lá cây)",
+  "chim3 (màu hồng) - ở trên - đá (màu xám)",
+  "bầu trời - ở trên - tường"
+]
+```
+
+frame_21:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người3 (trưởng thành - nam, mặc áo trắng, đang nhìn, bình thường)",
+  "hoa - ở trong - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - nhìn - tường",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - nhìn - nước",
+  "người4 (trẻ - không xác định, không mặc áo, đang đứng, không xác định) - nhìn - đá (màu xám)",
+  "chim1 (màu cam) - ở trên - đá (màu xám)",
+  "chim2 (màu hồng) - ở trên - đá (màu xám)",
+  "chim3 (màu nâu) - ở trên - đá (màu xám)",
+  "bầu trời - ở trên - tường"
+]
+```
+
+frame_22:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - tường",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - nước",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá (màu xám)",
+  "chim1 (màu cam) - ở trên - đá (màu xám)",
+  "chim2 (màu hồng) - ở trên - đá (màu xám)",
+  "chim3 (màu nâu) - ở trên - đá (màu xám)",
+  "bầu trời - ở trên - tường"
+]
+```
+
+frame_23:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - tường",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - nước",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá (màu xám)",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo trắng, đang bế, hạnh phúc) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo trắng, đang bế, hạnh phúc) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo trắng, đang bế, hạnh phúc) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo trắng, đang bế, hạnh phúc) - bế - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người3 (trưởng thành - không xác định, đang đứng, vui vẻ) - ở trên - cây (màu xanh lá cây)",
+  "hoa (màu cam) - ở trên - cây (màu xanh lá cây)",
+  "đá (màu xám) - ở trên - cây (màu xanh lá cây)"
+]
+```
+
+frame_24:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - tường",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - nước",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá (màu xám)",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo trắng, đang bế, hạnh phúc) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo trắng, đang bế, hạnh phúc) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo trắng, đang bế, hạnh phúc) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo trắng, đang bế, hạnh phúc) - bế - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - ở trên - cây (màu xanh lá cây)",
+  "hoa (màu cam) - ở trên - cây (màu xanh lá cây)",
+  "đá (màu xám) - ở trên - cây (màu xanh lá cây)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo trắng, đang bế, hạnh phúc)"
+]
+```
+
+frame_25:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - tường",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - nước",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá (màu xám)",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo trắng, đang bế, hạnh phúc) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo trắng, đang bế, hạnh phúc) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo trắng, đang bế, hạnh phúc) - đứng cạnh - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - nam, mặc áo trắng, đang bế, hạnh phúc) - bế - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - ở trên - cây (màu xanh lá cây)",
+  "hoa (màu cam) - ở trên - cây (màu xanh lá cây)",
+  "đá (màu xám) - ở trên - cây (màu xanh lá cây)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo trắng, đang bế, hạnh phúc)"
+]
+```
+
+frame_26:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - tường",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá (màu xám)",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - cây (màu xanh lá cây)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - chứa - hoa (màu cam)",
+  "đá (màu xám) - ở trên - cây (màu xanh lá cây)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)"
+]
+```
+
+frame_27:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - tường",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá (màu xám)",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - cây (màu xanh lá cây)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - chứa - hoa (màu cam)",
+  "đá (màu xám) - ở trên - cây (màu xanh lá cây)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)"
+]
+```
+
+frame_28:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - tường",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá (màu xám)",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - cây (màu xanh lá cây)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - chứa - hoa (màu cam)",
+  "đá (màu xám) - ở trên - cây (màu xanh lá cây)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)"
+]
+```
+
+frame_29:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - tường",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá (màu xám)",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - cây (màu xanh lá cây)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - chứa - hoa (màu cam)",
+  "đá (màu xám) - ở trên - cây (màu xanh lá cây)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)"
+]
+```
+
+frame_30:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - tường",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá (màu xám)",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - cây (màu xanh lá cây)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - chứa - hoa (màu cam)",
+  "đá (màu xám) - ở trên - cây (màu xanh lá cây)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc)",
+  "người1 (trưởng thành - nam, mặc áo khoác tím, đang đứng, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người6 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người6 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường"
+]
+```
+
+frame_31:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - tường",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá (màu xám)",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - cây (màu xanh lá cây)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - chứa - hoa (màu cam)",
+  "đá (màu xám) - ở trên - cây (màu xanh lá cây)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người6 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người6 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường"
+]
+```
+
+frame_32:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - tường",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá (màu xám)",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - cây (màu xanh lá cây)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - chứa - hoa (màu cam)",
+  "đá (màu xám) - ở trên - cây (màu xanh lá cây)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người6 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người6 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "người7 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "tường - ở trên - cây (màu xanh lá cây)",
+  "tường - ở trên - đá (màu xám)",
+  "cây (màu xanh lá cây) - ở trên - tường",
+  "cây (màu xanh lá cây) - ở trên - trời",
+  "chim1 (màu vàng) - ở trên - đá (màu xám)",
+  "chim2 (màu vàng) - ở trên - đá (màu xám)",
+  "chim3 (màu hồng) - ở trên - đá (màu xám)"
+]
+```
+
+frame_33:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - tường",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá (màu xám)",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - cây (màu xanh lá cây)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - chứa - hoa (màu cam)",
+  "đá (màu xám) - ở trên - cây (màu xanh lá cây)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người6 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người6 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "người7 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "tường - ở trên - cây (màu xanh lá cây)",
+  "tường - ở trên - đá (màu xám)",
+  "cây (màu xanh lá cây) - ở trên - tường",
+  "cây (màu xanh lá cây) - ở trên - trời",
+  "chim1 (màu vàng) - ở trên - đá (màu xám)",
+  "chim2 (màu vàng) - ở trên - đá (màu xám)",
+  "chim3 (màu hồng) - ở trên - đá (màu xám)"
+]
+```
+
+frame_34:
+```json
+[
+  "tường - ở sau - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - ở trên - đá (màu xám)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - tường",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá (màu xám)",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - cây (màu xanh lá cây)",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "cây (màu xanh lá cây) - chứa - hoa (màu cam)",
+  "đá (màu xám) - ở trên - cây (màu xanh lá cây)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người6 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người6 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "người7 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây (màu xanh lá cây)",
+  "tường - ở trên - cây (màu xanh lá cây)",
+  "tường - ở trên - đá (màu xám)",
+  "cây (màu xanh lá cây) - ở trên - tường",
+  "cây (màu xanh lá cây) - ở trên - trời",
+  "chim1 (màu vàng) - ở trên - đá (màu xám)",
+  "chim2 (màu vàng) - ở trên - đá (màu xám)",
+  "chim3 (màu hồng) - ở trên - đá (màu xám)",
+  "người8 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên) - đứng cạnh - người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)"
+]
+```
+
+frame_35:
+```json
+[
+  "thuyền - ở trên - cây",
+  "cây - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - bầu trời",
+  "người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - thuyền",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - cây",
+  "người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "cây - chứa - hoa (màu cam)",
+  "đá - ở trên - cây",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc)",
+  "người1 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ)",
+  "người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người3 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người6 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người4 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người6 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - thuyền",
+  "người7 (trẻ - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "thuyền - ở trên - cây",
+  "thuyền - ở trên - đá",
+  "cây - ở trên - thuyền",
+  "cây - ở trên - trời",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người8 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên) - đứng cạnh - người5 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim3 (màu hồng) - ở gần - gấu bông",
+  "chim2 (màu vàng) - ở gần - chim3 (màu hồng)"
+]
+```
+
+frame_36:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc)",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "cây - ở trên - trời",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - cây"
+]
+```
+
+frame_37:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang nhìn, hạnh phúc)",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "cây - ở trên - trời",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - cây",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá"
+]
+```
+
+frame_38:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc)",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "cây - ở trên - trời",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - cây",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá"
+]
+```
+
+frame_39:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc)",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "cây - ở trên - trời",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - cây",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá"
+]
+```
+
+frame_40:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc)",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "cây - ở trên - trời",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - cây",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá"
+]
+```
+
+frame_41:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang đứng, hạnh phúc)",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "cây - ở trên - trời",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - cây",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá"
+]
+```
+
+frame_42:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "cây - ở trên - trời",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - cây",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - tường",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)"
+]
+```
+
+frame_43:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "cây - ở trên - trời",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - cây",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - tường",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - cây"
+]
+```
+
+frame_44:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "cây - ở trên - trời",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - cây",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - tường",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - cây"
+]
+```
+
+frame_45:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "cây - ở trên - trời",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - cây",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - tường",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - cây"
+]
+```
+
+frame_46:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "cây - ở trên - trời",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - cây",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - tường",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "cà rốt (màu hồng) - ở gần - cây"
+]
+```
+
+frame_47:
+```json
+[
+  "t\u01b0\u1eddng - \u1edf tr\u00ean - c\u00e2y",
+  "c\u00e2y - \u1edf tr\u00ean - \u0111\u00e1",
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - t\u01b0\u1eddng",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111ang \u00f4m, h\u1ea1nh ph\u00fac) - \u0111\u1ee9ng c\u1ea1nh - c\u00e2y",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, vui v\u1ebb) - \u1edf g\u1ea7n - c\u00e2y",
+  "\u0111\u00e1 - \u1edf tr\u00ean - c\u00e2y",
+  "chim1 (m\u00e0u v\u00e0ng) - \u1edf tr\u00ean - \u0111\u00e1",
+  "chim2 (m\u00e0u v\u00e0ng) - \u1edf tr\u00ean - \u0111\u00e1",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111ang \u00f4m, h\u1ea1nh ph\u00fac)",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi3 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, vui v\u1ebb)",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o xanh, \u0111ang nh\u00ecn, ng\u1ea1c nhi\u00ean) - nh\u00ecn - t\u01b0\u1eddng",
+  "c\u00e2y - \u1edf tr\u00ean - tr\u1eddi",
+  "g\u1ea5u b\u00f4ng - \u1edf tr\u00ean - \u0111\u00e1",
+  "c\u00e2y - \u1edf b\u00ean - \u0111\u00e1",
+  "chim1 (m\u00e0u v\u00e0ng) - \u1edf g\u1ea7n - c\u00e2y",
+  "chim2 (m\u00e0u v\u00e0ng) - \u1edf tr\u00ean - \u0111\u00e1",
+  "thuy\u1ec1n (m\u00e0u t\u00edm) - \u1edf tr\u00ean - c\u00e2y",
+  "chim3 (m\u00e0u h\u1ed3ng) - \u1edf tr\u00ean - \u0111\u00e1",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111ang \u00f4m, h\u1ea1nh ph\u00fac) - \u00f4m - ng\u01b0\u1eddi3 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - \u00f4m - ng\u01b0\u1eddi3 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - nam, m\u1eb7c \u00e1o cam, \u0111ang \u00f4m, h\u1ea1nh ph\u00fac)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - nh\u00ecn - b\u1ea7u tr\u1eddi",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - nh\u00ecn - \u0111\u00e1",
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - t\u01b0\u1eddng",
+  "ng\u01b0\u1eddi5 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o xanh, \u0111ang nh\u00ecn, ng\u1ea1c nhi\u00ean) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - \u0111\u1ee9ng c\u1ea1nh - c\u00e2y",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - \u0111\u1ee9ng c\u1ea1nh - c\u00e2y",
+  "c\u00e0 r\u1ed1t (m\u00e0u h\u1ed3ng) - \u1edf g\u1ea7n - c\u00e2y",
+  "ng\u01b0\u1eddi6 (tr\u1ebb - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, vui v\u1ebb) - \u0111\u1ee9ng c\u1ea1nh - c\u00e2y"
+]
+```
+
+frame_48:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - ở gần - cây",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "cây - ở trên - trời",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - tường",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "cà rốt (màu hồng) - ở gần - cây",
+  "người6 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "người7 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - cây"
+]
+```
+
+frame_49:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - đứng cạnh - cây",
+  "cây - ở trên - trời",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - tường",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "cà rốt (màu hồng) - ở gần - cây",
+  "người6 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "người7 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - cây"
+]
+```
+
+frame_50:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - đứng cạnh - cây",
+  "cây - ở trên - trời",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở trên - đá",
+  "chim2 (màu vàng) - ở trên - đá",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "gấu bông - ở trên - đá",
+  "cây - ở bên - đá",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - nhìn - đá",
+  "bầu trời - ở trên - tường",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo hồng, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "cà rốt (màu hồng) - ở gần - cây",
+  "người6 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "người7 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "táo (màu cam) - ở trên - cây"
+]
+```
+
+frame_51:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "cây - ở trên - trời",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người6 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "táo (màu cam) - ở trên - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "cà rốt (màu hồng) - ở gần - cây",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "gấu bông - ở trên - đá",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "bầu trời - ở trên - tường",
+  "cây - ở bên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "chim1 (màu hồng) - ở trên - đá",
+  "chim2 (màu hồng) - ở trên - đá",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - bầu trời"
+]
+```
+
+frame_52:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "cây - ở trên - trời",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người6 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "táo (màu cam) - ở trên - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "cà rốt (màu hồng) - ở gần - cây",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "gấu bông - ở trên - đá",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "bầu trời - ở trên - tường",
+  "cây - ở bên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "chim1 (màu hồng) - ở trên - đá",
+  "chim2 (màu hồng) - ở trên - đá",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - bầu trời",
+  "người7 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây"
+]
+```
+
+frame_53:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "cây - ở trên - trời",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người6 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "táo (màu cam) - ở trên - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "cà rốt (màu hồng) - ở gần - cây",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "gấu bông - ở trên - đá",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "bầu trời - ở trên - tường",
+  "cây - ở bên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "chim1 (màu hồng) - ở trên - đá",
+  "chim2 (màu hồng) - ở trên - đá",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - bầu trời",
+  "người7 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "người8 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người7 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_54:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "cây - ở trên - trời",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người6 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "táo (màu cam) - ở trên - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "cà rốt (màu hồng) - ở gần - cây",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "gấu bông - ở trên - đá",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "bầu trời - ở trên - tường",
+  "cây - ở bên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "chim1 (màu hồng) - ở trên - đá",
+  "chim2 (màu hồng) - ở trên - đá",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - bầu trời",
+  "người7 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "người8 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người7 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_55:
+```json
+[
+  "tường - ở trên - cây",
+  "cây - ở trên - đá",
+  "bầu trời - ở trên - tường",
+  "cây - ở trên - trời",
+  "đá - ở trên - cây",
+  "chim1 (màu vàng) - ở gần - cây",
+  "chim2 (màu vàng) - ở trên - đá",
+  "thuyền (màu tím) - ở trên - cây",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người6 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "táo (màu cam) - ở trên - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - cây",
+  "người4 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "cà rốt (màu hồng) - ở gần - cây",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - đứng cạnh - cây",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - nhìn - tường",
+  "gấu bông - ở trên - đá",
+  "người2 (trưởng thành - nam, mặc áo cam, đang ôm, hạnh phúc) - ôm - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "người5 (trẻ - nữ, mặc áo xanh, đang nhìn, ngạc nhiên) - đứng cạnh - người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ)",
+  "bầu trời - ở trên - tường",
+  "cây - ở bên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "chim1 (màu hồng) - ở trên - đá",
+  "chim2 (màu hồng) - ở trên - đá",
+  "chim3 (màu hồng) - ở trên - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - đá",
+  "người3 (trẻ - không xác định, mặc áo hồng, đang nhìn, vui vẻ) - nhìn - bầu trời",
+  "người7 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - đứng cạnh - cây",
+  "người8 (trẻ - không xác định, mặc áo cam, đang đứng, vui vẻ) - đứng cạnh - người7 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ)",
+  "người7 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - nhìn - cây",
+  "người7 (trẻ - không xác định, mặc áo cam, đang nhìn, vui vẻ) - nhìn - đá"
+]
+```
+

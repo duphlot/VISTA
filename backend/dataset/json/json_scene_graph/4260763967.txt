@@ -1,0 +1,1428 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "tủ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - tủ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "tủ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - tủ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ, mặc áo xanh dương, đang cầm đồ chơi) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang cầm đồ chơi) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "tủ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - tủ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang ngồi) - ở trên - thảm (nhiều màu)"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ, mặc áo xanh dương, đang cầm đồ chơi) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang cầm đồ chơi) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "tủ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - tủ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang cầm đồ chơi) - ở trên - thảm (nhiều màu)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "tủ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - tủ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang cầm đồ chơi) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo hồng, đang cầm đồ chơi) - ở trên - thảm (nhiều màu)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "tủ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - tủ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang cầm đồ chơi) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo hồng, đang cầm đồ chơi) - ở trên - thảm (nhiều màu)"
+]
+```
+
+frame_6:
+```json
+[
+  "người2 (trẻ, mặc áo cam, đang chơi) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang chơi) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "tủ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - tủ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - trước - giường (màu tím)",
+  "người3 (trẻ, mặc áo hồng, đang chơi) - ở trên - thảm (nhiều màu)",
+  "sách - ở trên - bàn",
+  "tủ - ở trên - thảm (màu tím)"
+]
+```
+
+frame_7:
+```json
+[
+  "người2 (trẻ, mặc áo cam, đang chơi) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang chơi) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "tủ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - tủ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu tím)"
+]
+```
+
+frame_8:
+```json
+[
+  "người2 (trẻ, mặc áo cam, đang cầm đồ vật) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang cầm đồ vật) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "tủ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - tủ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu tím)"
+]
+```
+
+frame_9:
+```json
+[
+  "người2 (trẻ, mặc áo cam, đang cầm đồ vật) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang cầm đồ vật) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "tủ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - tủ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu tím)"
+]
+```
+
+frame_10:
+```json
+[
+  "người2 (trẻ, mặc áo cam, đang cầm đồ vật) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang cầm đồ vật) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "tủ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - tủ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu tím)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - ở trên - thảm (màu hồng)",
+  "tủ - ở trên - thảm (màu hồng)"
+]
+```
+
+frame_11:
+```json
+[
+  "người2 (trẻ, mặc áo cam, đang cầm đồ vật) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang cầm đồ vật) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "tủ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - tủ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu tím)",
+  "người1 (trẻ, mặc áo xanh dương, đang chơi) - ở trên - thảm (màu hồng)",
+  "tủ - ở trên - thảm (màu hồng)"
+]
+```
+
+frame_12:
+```json
+[
+  "người2 (trẻ, mặc áo cam, đang cầm đồ vật) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang cầm đồ vật) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "người1 (trẻ, mặc áo xanh dương, đang nhìn xuống) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nhìn xuống) - trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu tím)",
+  "người1 (trẻ, mặc áo xanh dương, đang nhìn xuống) - ở trên - thảm (màu hồng)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "ghế dài (màu nâu) - ở gần - người2 (trẻ, mặc áo cam, đang cầm đồ vật)",
+  "người1 (trẻ, mặc áo xanh dương, đang nhìn xuống) - ở gần - ghế dài (màu nâu)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)"
+]
+```
+
+frame_13:
+```json
+[
+  "người2 (trẻ, mặc áo cam, đang cầm đồ vật) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang cầm đồ vật) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "người1 (trẻ, mặc áo xanh dương, đang nhìn xuống) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nhìn xuống) - trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu tím)",
+  "người1 (trẻ, mặc áo xanh dương, đang nhìn xuống) - ở trên - thảm (màu hồng)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "ghế dài (màu nâu) - ở gần - người2 (trẻ, mặc áo cam, đang cầm đồ vật)",
+  "người1 (trẻ, mặc áo xanh dương, đang nhìn xuống) - ở gần - ghế dài (màu nâu)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)"
+]
+```
+
+frame_14:
+```json
+[
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "ghế dài (màu nâu) - ở gần - người2 (trẻ, mặc áo cam, đang nghịch đồ)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở gần - ghế dài (màu nâu)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)"
+]
+```
+
+frame_15:
+```json
+[
+  "người2 (trẻ, mặc áo cam, đang nhìn xuống) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nhìn xuống) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "ghế dài (màu nâu) - ở gần - người2 (trẻ, mặc áo cam, đang nhìn xuống)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở gần - ghế dài (màu nâu)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nhìn xuống) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nhìn xuống) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nhìn xuống) - gần - ghế dài (màu nâu)"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang chơi bóng) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang chơi bóng) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang chơi bóng) - gần - ghế dài (màu nâu)",
+  "bóng thể thao (màu xanh lá cây) - bên cạnh - người2 (trẻ, mặc áo cam, đang chơi bóng)"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - trước - giường (màu tím)",
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)"
+]
+```
+
+frame_19:
+```json
+[
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)"
+]
+```
+
+frame_20:
+```json
+[
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo trắng, đang nghịch đồ) - ở trên - thảm (nhiều màu)"
+]
+```
+
+frame_21:
+```json
+[
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo trắng, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)"
+]
+```
+
+frame_22:
+```json
+[
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo trắng, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "ghế dài2 (màu xanh da trời) - gần - thảm (màu hồng)",
+  "ghế dài2 (màu xanh da trời) - gần - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)"
+]
+```
+
+frame_23:
+```json
+[
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo trắng, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "ghế dài2 (màu xanh da trời) - gần - thảm (màu hồng)",
+  "ghế dài2 (màu xanh da trời) - gần - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "thảm (màu tím) - bên cạnh - người3 (trẻ, mặc áo trắng, đang nghịch đồ)"
+]
+```
+
+frame_24:
+```json
+[
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo trắng, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "ghế dài2 (màu xanh da trời) - gần - thảm (màu hồng)",
+  "ghế dài2 (màu xanh da trời) - gần - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "thảm (màu tím) - bên cạnh - người3 (trẻ, mặc áo trắng, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo trắng, đang nghịch đồ) - đang nghịch - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo trắng, đang nghịch đồ) - đang nghịch - ván trượt tuyết (nhiều màu)"
+]
+```
+
+frame_25:
+```json
+[
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "ghế dài2 (màu xanh da trời) - gần - thảm (màu hồng)",
+  "ghế dài2 (màu xanh da trời) - gần - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "thảm (màu tím) - bên cạnh - người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ) - đang nghịch - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ) - đang nghịch - ván trượt tuyết (nhiều màu)"
+]
+```
+
+frame_26:
+```json
+[
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "ghế dài2 (màu xanh da trời) - gần - thảm (màu hồng)",
+  "ghế dài2 (màu xanh da trời) - gần - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "thảm (màu tím) - bên cạnh - người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ) - đang nghịch - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ) - đang nghịch - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ) - ở trên - thảm (màu hồng)"
+]
+```
+
+frame_27:
+```json
+[
+  "tường - phía sau - giường (màu tím)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "ghế dài2 (màu xanh da trời) - gần - thảm (màu hồng)",
+  "ghế dài2 (màu xanh da trời) - gần - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "thảm (màu tím) - bên cạnh - người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ) - đang nghịch - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ) - đang nghịch - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ) - ở trên - thảm (màu hồng)"
+]
+```
+
+frame_28:
+```json
+[
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "ghế dài2 (màu xanh da trời) - gần - thảm (màu hồng)",
+  "ghế dài2 (màu xanh da trời) - gần - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "thảm (màu tím) - bên cạnh - người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - đang cầm - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - đang cầm - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)"
+]
+```
+
+frame_29:
+```json
+[
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "ghế dài2 (màu xanh da trời) - gần - thảm (màu hồng)",
+  "ghế dài2 (màu xanh da trời) - gần - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "thảm (màu tím) - bên cạnh - người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - đang cầm - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - đang cầm - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)"
+]
+```
+
+frame_30:
+```json
+[
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "ghế dài2 (màu xanh da trời) - gần - thảm (màu hồng)",
+  "ghế dài2 (màu xanh da trời) - gần - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "thảm (màu tím) - bên cạnh - người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - đang cầm - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - đang cầm - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)"
+]
+```
+
+frame_31:
+```json
+[
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "ghế dài2 (màu xanh da trời) - gần - thảm (màu hồng)",
+  "ghế dài2 (màu xanh da trời) - gần - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "thảm (màu tím) - bên cạnh - người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - đang cầm - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - đang cầm - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)"
+]
+```
+
+frame_32:
+```json
+[
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "ghế dài2 (màu xanh da trời) - gần - thảm (màu hồng)",
+  "ghế dài2 (màu xanh da trời) - gần - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "thảm (màu tím) - bên cạnh - người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - đang cầm - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - đang cầm - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)"
+]
+```
+
+frame_33:
+```json
+[
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "ghế dài2 (màu xanh da trời) - gần - thảm (màu hồng)",
+  "ghế dài2 (màu xanh da trời) - gần - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "thảm (màu tím) - bên cạnh - người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - đang cầm - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - đang cầm - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang cầm đồ vật) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)"
+]
+```
+
+frame_34:
+```json
+[
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "ghế dài2 (màu xanh da trời) - gần - thảm (màu hồng)",
+  "ghế dài2 (màu xanh da trời) - gần - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "thảm (màu tím) - bên cạnh - người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - đang cầm - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - đang cầm - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)"
+]
+```
+
+frame_35:
+```json
+[
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (màu hồng)",
+  "kệ (màu nâu) - ở bên cạnh - tường",
+  "bàn - gần - kệ (màu nâu)",
+  "rèm - ở bên cạnh - tường",
+  "thảm (nhiều màu) - bên dưới - giường (màu tím)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - ghế dài (màu nâu)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - gần - bàn",
+  "tường - phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (nhiều màu)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "sách - ở trên - bàn",
+  "người2 (trẻ, mặc áo cam, đang nghịch đồ) - ở trên - thảm (màu tím)",
+  "ghế dài (màu nâu) - gần - ghế dài2 (màu xanh da trời)",
+  "ghế dài (màu nâu) - ở trên - thảm (màu tím)",
+  "ghế dài2 (màu xanh da trời) - gần - thảm (màu hồng)",
+  "ghế dài2 (màu xanh da trời) - gần - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "thảm (màu tím) - bên cạnh - người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - đang cầm - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - đang cầm - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - gần - thảm (màu hồng)"
+]
+```
+
+frame_36:
+```json
+[
+  "tường - ở phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - đang cầm - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - đang cầm - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - gần - thảm (màu hồng)",
+  "tường - ở trên - thảm (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (màu tím)",
+  "sàn - ở dưới - tủ (màu xanh lá cây)",
+  "tường - ở trên - sàn",
+  "tủ (màu xanh lá cây) - ở trên - sàn"
+]
+```
+
+frame_37:
+```json
+[
+  "tường - ở phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - đang cầm - người1 (trẻ, mặc áo xanh dương, đang nghịch đồ)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - đang nghịch - đồ vật",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - gần - thảm (màu hồng)",
+  "tường - ở trên - thảm (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (màu tím)",
+  "sàn - ở dưới - tủ (màu xanh lá cây)",
+  "tường - ở trên - sàn",
+  "tủ (màu xanh lá cây) - ở trên - sàn"
+]
+```
+
+frame_38:
+```json
+[
+  "tường - ở phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người1 (trẻ, mặc áo xanh dương, đang nghịch đồ) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - đang nghịch - đồ vật",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - gần - thảm (màu hồng)",
+  "tường - ở trên - thảm (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (màu tím)",
+  "sàn - ở dưới - tủ (màu xanh lá cây)",
+  "tường - ở trên - sàn",
+  "tủ (màu xanh lá cây) - ở trên - sàn",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (nhiều màu)"
+]
+```
+
+frame_39:
+```json
+[
+  "tường - ở phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - đang nghịch - đồ vật",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (màu tím)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - gần - thảm (màu hồng)",
+  "tường - ở trên - thảm (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch đồ vật) - ở trên - thảm (màu tím)",
+  "sàn - ở dưới - tủ (màu xanh lá cây)",
+  "tường - ở trên - sàn",
+  "tủ (màu xanh lá cây) - ở trên - sàn",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (nhiều màu)",
+  "rèm cửa - ở trên - tủ",
+  "kệ - ở trên - tủ",
+  "gấu bông (màu nâu) - ở trên - bàn",
+  "bàn - ở trên - tường"
+]
+```
+
+frame_40:
+```json
+[
+  "tường - ở phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi) - đang nghịch - đồ vật",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi) - ở trên - thảm (màu tím)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi) - gần - thảm (màu hồng)",
+  "tường - ở trên - thảm (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi) - ở trên - thảm (màu tím)",
+  "sàn - ở dưới - tủ (màu xanh lá cây)",
+  "tường - ở trên - sàn",
+  "tủ (màu xanh lá cây) - ở trên - sàn",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (nhiều màu)",
+  "rèm cửa - ở trên - tủ",
+  "kệ - ở trên - tủ",
+  "gấu bông (màu nâu) - ở trên - bàn",
+  "bàn - ở trên - tường"
+]
+```
+
+frame_41:
+```json
+[
+  "tường - ở phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - đang nghịch - đồ vật",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - thảm (màu tím)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - gần - thảm (màu hồng)",
+  "tường - ở trên - thảm (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - thảm (màu tím)",
+  "sàn - ở dưới - tủ (màu xanh lá cây)",
+  "tường - ở trên - sàn",
+  "tủ (màu xanh lá cây) - ở trên - sàn",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (nhiều màu)",
+  "rèm cửa - ở trên - tủ",
+  "kệ - ở trên - tủ",
+  "gấu bông (màu nâu) - ở trên - bàn",
+  "bàn - ở trên - tường"
+]
+```
+
+frame_42:
+```json
+[
+  "tường - ở phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - đang nghịch - đồ vật",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - thảm (màu tím)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - gần - thảm (màu hồng)",
+  "tường - ở trên - thảm (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - thảm (màu tím)",
+  "sàn - ở dưới - tủ (màu xanh lá cây)",
+  "tường - ở trên - sàn",
+  "tủ (màu xanh lá cây) - ở trên - sàn",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (nhiều màu)",
+  "rèm cửa - ở trên - tủ",
+  "kệ - ở trên - tủ",
+  "gấu bông (màu nâu) - ở trên - bàn",
+  "bàn - ở trên - tường"
+]
+```
+
+frame_43:
+```json
+[
+  "tường - ở phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - đang nghịch - đồ vật",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - thảm (màu tím)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - gần - thảm (màu hồng)",
+  "tường - ở trên - thảm (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nghịch) - ở trên - thảm (màu tím)",
+  "sàn - ở dưới - tủ (màu xanh lá cây)",
+  "tường - ở trên - sàn",
+  "tủ (màu xanh lá cây) - ở trên - sàn",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (nhiều màu)",
+  "rèm cửa - ở trên - tủ",
+  "kệ - ở trên - tủ",
+  "gấu bông (màu nâu) - ở trên - bàn",
+  "bàn - ở trên - tường"
+]
+```
+
+frame_44:
+```json
+[
+  "tường - ở phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - đang chơi - đồ vật",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu tím)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - gần - thảm (màu hồng)",
+  "tường - ở trên - thảm (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu tím)",
+  "sàn - ở dưới - tủ (màu xanh lá cây)",
+  "tường - ở trên - sàn",
+  "tủ (màu xanh lá cây) - ở trên - sàn",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (nhiều màu)",
+  "rèm cửa - ở trên - tủ",
+  "kệ - ở trên - tủ",
+  "gấu bông (màu nâu) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu hồng)"
+]
+```
+
+frame_45:
+```json
+[
+  "tường - ở phía sau - tủ (màu xanh lá cây)",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - đang chơi - đồ vật",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu tím)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - gần - thảm (màu hồng)",
+  "tường - ở trên - thảm (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu tím)",
+  "sàn - ở dưới - tủ (màu xanh lá cây)",
+  "tường - ở trên - sàn",
+  "tủ (màu xanh lá cây) - ở trên - sàn",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (nhiều màu)",
+  "rèm cửa - ở trên - tủ",
+  "kệ - ở trên - tủ",
+  "gấu bông (màu nâu) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - đang chơi - đồ chơi"
+]
+```
+
+frame_46:
+```json
+[
+  "rèm cửa - ở trên - tủ",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - đang chơi - đồ chơi",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "tường - ở phía sau - tủ (màu xanh lá cây)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - đang chơi - đồ vật",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu tím)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - gần - thảm (màu hồng)",
+  "tường - ở trên - thảm (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu tím)",
+  "sàn - ở dưới - tủ (màu xanh lá cây)",
+  "tường - ở trên - sàn",
+  "tủ (màu xanh lá cây) - ở trên - sàn",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (nhiều màu)",
+  "kệ - ở trên - tủ",
+  "gấu bông (màu nâu) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (nhiều màu)",
+  "tường - ở phía sau - ghế dài2 (màu xanh da trời)"
+]
+```
+
+frame_47:
+```json
+[
+  "rèm cửa - ở trên - tủ",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - đang chơi - đồ chơi",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "tường - ở phía sau - tủ (màu xanh lá cây)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - đang chơi - đồ vật",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu tím)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - gần - thảm (màu hồng)",
+  "tường - ở trên - thảm (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu tím)",
+  "sàn - ở dưới - tủ (màu xanh lá cây)",
+  "tường - ở trên - sàn",
+  "tủ (màu xanh lá cây) - ở trên - sàn",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (nhiều màu)",
+  "kệ - ở trên - tủ",
+  "gấu bông (màu nâu) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)"
+]
+```
+
+frame_48:
+```json
+[
+  "rèm cửa - ở trên - tủ",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - đang chơi - đồ chơi",
+  "thảm (màu hồng) - bên cạnh - tủ (màu xanh lá cây)",
+  "tường - ở phía sau - tủ (màu xanh lá cây)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - ván trượt tuyết (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - phía trước - giường (màu tím)",
+  "tủ - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu hồng)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu tím)",
+  "giường (màu tím) - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - đang chơi - đồ vật",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu tím)",
+  "ghế dài1 (màu tím) - ở trên - thảm (màu hồng)",
+  "tường - phía sau - ghế dài1 (màu tím)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - gần - thảm (màu hồng)",
+  "tường - ở trên - thảm (màu hồng)",
+  "tủ (màu xanh lá cây) - ở trên - thảm (màu hồng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi đồ chơi) - ở trên - thảm (màu tím)",
+  "sàn - ở dưới - tủ (màu xanh lá cây)",
+  "tường - ở trên - sàn",
+  "tủ (màu xanh lá cây) - ở trên - sàn",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (nhiều màu)",
+  "kệ - ở trên - tủ",
+  "gấu bông (màu nâu) - ở trên - bàn",
+  "bàn - ở trên - tường",
+  "ghế dài2 (màu xanh da trời) - ở trên - thảm (nhiều màu)",
+  "tường - phía sau - ghế dài2 (màu xanh da trời)",
+  "chai1 - trên - bàn",
+  "chai2 - trên - bàn",
+  "người3 (trẻ, mặc áo kẻ sọc, đang chơi) - ở trên - thảm (màu hồng)"
+]
+```
+
+frame_49:
+```json
+[
+  "tường - ở phía sau - kệ",
+  "kệ - ở trên - tường",
+  "người3 (trẻ, mặc áo kẻ sọc, đang đứng) - ở trên - sàn",
+  "người3 (trẻ, mặc áo kẻ sọc, đang đứng) - ở trên - thảm (màu hồng)",
+  "sàn - ở dưới - người3 (trẻ, mặc áo kẻ sọc, đang đứng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang đứng) - ở trên - thảm (nhiều màu)",
+  "thảm (màu hồng) - bên cạnh - kệ",
+  "người3 (trẻ, mặc áo kẻ sọc, đang đứng) - gần - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang đứng) - gần - sàn"
+]
+```
+
+frame_50:
+```json
+[
+  "tường - ở phía sau - tủ",
+  "tủ - ở trên - tường",
+  "người3 (trẻ, mặc áo kẻ sọc, đang đứng) - ở trên - sàn",
+  "người3 (trẻ, mặc áo kẻ sọc, đang đứng) - ở trên - thảm (màu hồng)",
+  "sàn - ở dưới - người3 (trẻ, mặc áo kẻ sọc, đang đứng)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang đứng) - ở trên - thảm (nhiều màu)",
+  "thảm (màu hồng) - bên cạnh - tủ",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nhìn) - gần - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo kẻ sọc, đang nhìn) - gần - sàn",
+  "giường - ở trên - thảm (màu hồng)",
+  "rèm - ở trên - giường",
+  "bàn - ở trên - thảm (màu hồng)",
+  "tủ - ở trên - thảm (màu hồng)"
+]
+```
+

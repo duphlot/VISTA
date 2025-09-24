@@ -1,0 +1,42 @@
+frame_0000.jpg: a group of people standing around a table
+frame_0001.jpg: a group of people standing around a table
+frame_0002.jpg: a group of people standing around a table
+frame_0003.jpg: a group of people standing around a table
+frame_0004.jpg: a group of people standing around a table
+frame_0005.jpg: a group of men standing around a table
+frame_0006.jpg: two men standing in a room with flowers
+frame_0007.jpg: a group of people standing around a table
+frame_0008.jpg: a group of people standing around a table
+frame_0009.jpg: a group of people standing around a table
+frame_0010.jpg: a group of people in a room with a table
+frame_0011.jpg: a group of men working on a table
+frame_0012.jpg: a group of men working on a table
+frame_0013.jpg: a group of people are working on a table
+frame_0014.jpg: a group of men working on a table
+frame_0015.jpg: a group of men are working on a table
+frame_0016.jpg: a group of people standing around a table
+frame_0017.jpg: a group of men are working on a table
+frame_0018.jpg: a group of men standing around a table
+frame_0019.jpg: a group of people standing around a table
+frame_0020.jpg: a group of people standing around a table
+frame_0021.jpg: a group of people standing around a table
+frame_0022.jpg: a group of people in a room with a bed
+frame_0023.jpg: a group of people standing around a table
+frame_0024.jpg: a group of people standing around a table
+frame_0025.jpg: two men are standing in a room with many items
+frame_0026.jpg: two men are standing in a room with a table
+frame_0027.jpg: a group of people standing around a table
+frame_0028.jpg: a group of people standing around a table
+frame_0029.jpg: a group of people standing around a table
+frame_0030.jpg: a group of people standing around a table
+frame_0031.jpg: a group of men standing around a table
+frame_0032.jpg: a group of men standing around a table
+frame_0033.jpg: a group of people standing around a table
+frame_0034.jpg: a group of people standing around a table
+frame_0035.jpg: a group of people standing around a table
+frame_0036.jpg: a group of people standing around a table
+frame_0037.jpg: a group of people standing around a table
+frame_0038.jpg: a group of people standing around a table
+frame_0039.jpg: a group of people standing around a table
+frame_0040.jpg: two men are standing in a room with a table
+frame_0041.jpg: a group of men standing around a table

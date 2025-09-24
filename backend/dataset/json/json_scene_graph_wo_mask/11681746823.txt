@@ -1,0 +1,248 @@
+frame_0:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, ngạc nhiên) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, vui vẻ)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, vui vẻ) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_1:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, ngạc nhiên) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, vui vẻ)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, vui vẻ) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_2:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, ngạc nhiên) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, vui vẻ)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, vui vẻ) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_3:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, ngạc nhiên) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, vui vẻ)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, vui vẻ) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_4:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang la hét, ngạc nhiên) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, vui vẻ)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, vui vẻ) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_5:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang la hét, ngạc nhiên) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, vui vẻ)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, vui vẻ) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_6:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang la hét, ngạc nhiên) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, vui vẻ)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, vui vẻ) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_7:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang la hét, ngạc nhiên) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang cười, vui vẻ)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang cười, vui vẻ) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_8:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang la hét, ngạc nhiên) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang cười, vui vẻ)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang cười, vui vẻ) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_9:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nói chuyện, ngạc nhiên) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang há miệng, ngạc nhiên)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang há miệng, ngạc nhiên) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_10:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang lè lưỡi, ngạc nhiên) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang há miệng, ngạc nhiên)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang há miệng, ngạc nhiên) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_11:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nói, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang há miệng, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang há miệng, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_12:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nói, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang há miệng, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang há miệng, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_13:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nói, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang cười, vui vẻ)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang cười, vui vẻ) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_14:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang cười, vui vẻ)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang cười, vui vẻ) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_15:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang cười, vui vẻ)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang cười, vui vẻ) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_16:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang cười, vui vẻ)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang cười, vui vẻ) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_17:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang cười, vui vẻ)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang cười, vui vẻ) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_18:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_19:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_20:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_21:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nói, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_22:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nói chuyện, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_23:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nói chuyện, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_24:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nói chuyện, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_25:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_26:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_27:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_28:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_29:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+
+frame_30:
+```json
+[
+  "phụ nữ1 (trưởng thành - nữ, mặc áo sọc, đang nhìn, bình thường) - đang giữ - em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường)",
+  "em bé1 (trẻ sơ sinh - nữ, mặc áo trắng có hình kem, đang nhìn, bình thường) - đang dựa vào - ghế sofa1 (màu nâu)"
+]
+```
+

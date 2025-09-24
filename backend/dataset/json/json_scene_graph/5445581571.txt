@@ -1,0 +1,1104 @@
+frame_0:
+```json
+[
+  "Tường - ở - Chai",
+  "Chai - trên - Sàn nhà",
+  "Mèo - cạnh - Chó",
+  "Chó - trên - Sàn nhà",
+  "Điều khiển từ xa - trên - Sàn nhà"
+]
+```
+
+frame_1:
+```json
+[
+  "Tường - ở - Chai",
+  "Chai - trên - Sàn nhà",
+  "Mèo - cạnh - Chó",
+  "Chó - trên - Sàn nhà",
+  "Điều khiển từ xa - trên - Sàn nhà"
+]
+```
+
+frame_2:
+```json
+[
+  "Tường - ở - Cốc",
+  "Cốc - trên - Sàn nhà",
+  "Mèo - cạnh - Chó",
+  "Chó - trên - Sàn nhà",
+  "Điều khiển từ xa - trên - Sàn nhà",
+  "Mèo - trên - Sàn nhà",
+  "Kệ - trên - Sàn nhà"
+]
+```
+
+frame_3:
+```json
+[
+  "Tường - ở - Cốc",
+  "Cốc - trên - Sàn nhà",
+  "Mèo - cạnh - Chó",
+  "Chó - trên - Sàn nhà",
+  "Chai - trên - Sàn nhà",
+  "Mèo - trên - Sàn nhà",
+  "Kệ - trên - Sàn nhà"
+]
+```
+
+frame_4:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Chai2",
+  "Chai1 - trên - Sàn nhà",
+  "Chai2 - trên - Sàn nhà",
+  "Mèo - cạnh - Chó",
+  "Chó - trên - Sàn nhà",
+  "Mèo - trên - Sàn nhà",
+  "Ghế - bên cạnh - Chó"
+]
+```
+
+frame_5:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Chai2",
+  "Chai1 - trên - Sàn nhà",
+  "Chai2 - trên - Sàn nhà",
+  "Mèo - cạnh - Chó",
+  "Chó - trên - Sàn nhà",
+  "Mèo - trên - Sàn nhà",
+  "Ghế - bên cạnh - Chó",
+  "Cốc - trên - Sàn nhà",
+  "Điều khiển - trên - Ghế"
+]
+```
+
+frame_6:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Chai2",
+  "Chai1 - trên - Sàn nhà",
+  "Chai2 - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Chó2 - trên - Sàn nhà",
+  "Chai3 (trong suốt) - trên - Sàn nhà"
+]
+```
+
+frame_7:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Chai2",
+  "Chai1 - trên - Sàn nhà",
+  "Chai2 - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Chó2 - trên - Sàn nhà",
+  "Chai3 (trong suốt) - trên - Sàn nhà"
+]
+```
+
+frame_8:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Bình hoa1",
+  "Chai1 - trên - Sàn nhà",
+  "Bình hoa1 - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 - trên - Sàn nhà",
+  "Chuột1 - trên - Ghế bành1",
+  "Điều khiển từ xa1 - trên - Ghế bành1"
+]
+```
+
+frame_9:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Bình hoa1",
+  "Chai1 - trên - Sàn nhà",
+  "Bình hoa1 - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Chó2 - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Chó2 - ở - Sàn nhà"
+]
+```
+
+frame_10:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Chuột (màu hồng)",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ"
+]
+```
+
+frame_11:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Chuột (màu hồng)",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà"
+]
+```
+
+frame_12:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Chuột (màu hồng)",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1"
+]
+```
+
+frame_13:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Chuột (màu hồng)",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1"
+]
+```
+
+frame_14:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Chuột (màu hồng)",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2",
+  "Chó1 - cạnh - Mèo1 (màu hồng)"
+]
+```
+
+frame_15:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Chuột (màu hồng)",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2",
+  "Chó1 - cạnh - Mèo1 (màu hồng)"
+]
+```
+
+frame_16:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2",
+  "Chó1 - cạnh - Mèo1 (màu hồng)"
+]
+```
+
+frame_17:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)"
+]
+```
+
+frame_18:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà"
+]
+```
+
+frame_19:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà"
+]
+```
+
+frame_20:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà"
+]
+```
+
+frame_21:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà"
+]
+```
+
+frame_22:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2"
+]
+```
+
+frame_23:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2"
+]
+```
+
+frame_24:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2"
+]
+```
+
+frame_25:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2",
+  "Tường - ở - Bình2"
+]
+```
+
+frame_26:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2",
+  "Tường - ở - Bình2"
+]
+```
+
+frame_27:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2",
+  "Tường - ở - Bình2",
+  "Chó1 - cạnh - Mèo1 (màu hồng)"
+]
+```
+
+frame_28:
+```json
+[
+  "Tường - ở - Chai1",
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2",
+  "Tường - ở - Bình2",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Tường - ở - Chai3"
+]
+```
+
+frame_29:
+```json
+[
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2",
+  "Tường - ở - Bình2"
+]
+```
+
+frame_30:
+```json
+[
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2",
+  "Tường - ở - Bình2"
+]
+```
+
+frame_31:
+```json
+[
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2"
+]
+```
+
+frame_32:
+```json
+[
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2",
+  "Sàn nhà - ở - Mèo1 (màu hồng)"
+]
+```
+
+frame_33:
+```json
+[
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2",
+  "Sàn nhà - ở - Mèo1 (màu hồng)"
+]
+```
+
+frame_34:
+```json
+[
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2",
+  "Sàn nhà - ở - Mèo1 (màu hồng)",
+  "Tường - ở - Chai1"
+]
+```
+
+frame_35:
+```json
+[
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2",
+  "Sàn nhà - ở - Mèo1 (màu hồng)",
+  "Tường - ở - Chai1"
+]
+```
+
+frame_36:
+```json
+[
+  "Tường - ở - Cốc1 (màu xanh lá cây)",
+  "Chai1 - trên - Sàn nhà",
+  "Cốc1 (màu xanh lá cây) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chó2 - trên - Sàn nhà",
+  "Chó2 - ở - Sàn nhà",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Bình1 (màu đỏ) - trên - Sàn nhà",
+  "Bàn - cạnh - Điều khiển từ xa1",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Chó2",
+  "Sàn nhà - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Tường - ở - Bình2",
+  "Bình2 - trên - Sàn nhà",
+  "Tường - ở - Chai3",
+  "Chai3 - trên - Sàn nhà",
+  "Chó1 - cạnh - Chó2",
+  "Sàn nhà - ở - Mèo1 (màu hồng)",
+  "Tường - ở - Chai1",
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Tường - ở - Sàn nhà",
+  "Thảm - trên - Tường",
+  "Chó1 - trên - Sàn nhà",
+  "Bình1 (màu đỏ) - trên - Tường",
+  "Chó2 - trên - Sàn nhà",
+  "Sách1 - trên - Tường"
+]
+```
+
+frame_37:
+```json
+[
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chuột1 (màu tím) - trên - Kệ",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Mèo1 (màu hồng)",
+  "Tường - ở - Bàn",
+  "Bàn - ở - Sàn nhà",
+  "Ghế1 (màu cam) - ở - Sàn nhà",
+  "Sàn nhà - ở - Ghế1 (màu cam)"
+]
+```
+
+frame_38:
+```json
+[
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chuột1 (màu tím) - trên - Kệ",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Mèo1 (màu hồng)",
+  "Tường - ở - Bàn",
+  "Bàn - ở - Sàn nhà",
+  "Ghế1 (màu cam) - ở - Sàn nhà",
+  "Sàn nhà - ở - Ghế1 (màu cam)",
+  "Tường - ở - Chai1"
+]
+```
+
+frame_39:
+```json
+[
+  "Tường - ở - Bình1 (màu đỏ)",
+  "Chai2 (trong suốt) - trên - Sàn nhà",
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Kệ - trên - Điều khiển từ xa1",
+  "Chó1 - ở - Sàn nhà",
+  "Mèo1 (màu hồng) - ở - Sàn nhà",
+  "Sách1 - trên - Kệ",
+  "Chuột1 (màu tím) - trên - Kệ",
+  "Tường - ở - Chai2 (trong suốt)",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Mèo1 (màu hồng)",
+  "Tường - ở - Bàn",
+  "Bàn - ở - Sàn nhà",
+  "Ghế1 (màu cam) - ở - Sàn nhà",
+  "Sàn nhà - ở - Ghế1 (màu cam)",
+  "Tường - ở - Chai1",
+  "Chó2 - ở - Sàn nhà",
+  "Sàn nhà - ở - Chó2"
+]
+```
+
+frame_40:
+```json
+[
+  "Chó1 - trên - Sàn nhà",
+  "Mèo1 (màu hồng) - trên - Sàn nhà",
+  "Chó1 - cạnh - Mèo1 (màu hồng)",
+  "Sàn nhà - ở - Chó1",
+  "Sàn nhà - ở - Mèo1 (màu hồng)",
+  "Ghế1 (màu xanh) - ở - Sàn nhà",
+  "Sàn nhà - ở - Ghế1 (màu xanh)"
+]
+```
+
+frame_41:
+```json
+[
+  "Chó1 - trên - Sàn nhà",
+  "Sàn nhà - ở - Chó1",
+  "Ghế1 (màu xanh) - ở - Sàn nhà",
+  "Sàn nhà - ở - Ghế1 (màu xanh)",
+  "Chai1 (màu trắng) - trên - Sàn nhà",
+  "Điều khiển1 - trên - Ghế1 (màu xanh)"
+]
+```
+
+frame_42:
+```json
+[
+  "Chó1 - trên - Sàn nhà",
+  "Sàn nhà - ở - Chó1",
+  "Ghế1 (màu xanh) - ở - Sàn nhà",
+  "Sàn nhà - ở - Ghế1 (màu xanh)",
+  "Tường1 - ở - Sàn nhà"
+]
+```
+
+frame_43:
+```json
+[
+  "Chó1 - trên - Sàn nhà",
+  "Sàn nhà - ở - Chó1",
+  "Ghế1 (màu xanh) - ở - Sàn nhà",
+  "Sàn nhà - ở - Ghế1 (màu xanh)",
+  "Tường1 - ở - Sàn nhà",
+  "Chai1 (màu trắng) - trên - Tường1",
+  "Chai2 (màu trắng) - trên - Tường1",
+  "Cốc1 (màu nâu) - trên - Tường1"
+]
+```
+
+frame_44:
+```json
+[
+  "Chó1 - trên - Sàn nhà",
+  "Sàn nhà - ở - Chó1",
+  "Ghế1 (màu xanh) - ở - Sàn nhà",
+  "Sàn nhà - ở - Ghế1 (màu xanh)",
+  "Tường1 - ở - Sàn nhà",
+  "Chai1 (màu trắng) - trên - Tường1",
+  "Chai2 (màu trắng) - trên - Tường1",
+  "Cốc1 (màu nâu) - trên - Tường1"
+]
+```
+
+frame_45:
+```json
+[
+  "Chó1 - trên - Sàn nhà",
+  "Sàn nhà - ở - Chó1",
+  "Ghế1 (màu xanh) - ở - Sàn nhà",
+  "Sàn nhà - ở - Ghế1 (màu xanh)",
+  "Vỉa hè1 - trên - Sàn nhà",
+  "Va li1 (màu xanh lam) - ở - Vỉa hè1"
+]
+```
+
+frame_46:
+```json
+[
+  "Chó1 - trên - Sàn nhà",
+  "Sàn nhà - ở - Chó1",
+  "Ghế1 (màu xanh) - ở - Sàn nhà",
+  "Sàn nhà - ở - Ghế1 (màu xanh)",
+  "Tường1 - trên - Sàn nhà",
+  "Chén1 (màu xám) - trên - Sàn nhà"
+]
+```
+
+frame_47:
+```json
+[
+  "Chó1 - trên - Sàn nhà",
+  "Sàn nhà - ở - Chó1",
+  "Ghế1 (màu xanh) - ở - Sàn nhà",
+  "Sàn nhà - ở - Ghế1 (màu xanh)",
+  "Điều khiển từ xa1 - trên - Ghế1 (màu xanh)",
+  "Chén1 (màu xám) - trên - Sàn nhà"
+]
+```
+
+frame_48:
+```json
+[
+  "Mèo1 - trên - Sàn nhà",
+  "Sàn nhà - ở - Mèo1",
+  "Chó1 - trên - Sàn nhà",
+  "Sàn nhà - ở - Chó1",
+  "Ghế1 (màu xanh) - ở - Sàn nhà",
+  "Sàn nhà - ở - Ghế1 (màu xanh)",
+  "Điều khiển từ xa1 - trên - Ghế1 (màu xanh)",
+  "Chén1 (màu xám) - trên - Sàn nhà",
+  "Chai1 - trên - Sàn nhà"
+]
+```
+

@@ -1,0 +1,378 @@
+frame_0:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang leo núi, mệt mỏi) - ở trên - tuyết",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang leo núi, mệt mỏi) - ở trên - đá",
+  "tuyết - bao quanh - đá",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, trung bình) - ở trên - tuyết",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, trung bình) - ở trên - đá",
+  "nước - gần - đá",
+  "bụi bẩn - bao quanh - đá"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang leo núi, mệt mỏi) - ở trên - tuyết",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang leo núi, mệt mỏi) - ở trên - đá",
+  "tuyết - bao quanh - đá",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, trung bình) - ở trên - tuyết",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, trung bình) - ở trên - đá",
+  "nước - gần - đá",
+  "bụi bẩn - bao quanh - đá"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang trượt tuyết, mệt mỏi) - ở trên - ván trượt tuyết (màu hồng)",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang trượt tuyết, mệt mỏi) - ở trên - đá",
+  "tuyết - bao quanh - đá",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang trượt tuyết, trung bình) - ở trên - tuyết",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang trượt tuyết, trung bình) - ở trên - đá",
+  "nước - gần - đá",
+  "bụi bẩn - bao quanh - đá",
+  "đá - gần - bụi bẩn",
+  "đá - gần - nước"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang trượt ván, mệt mỏi) - ở trên - ván trượt tuyết (màu hồng)",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang trượt ván, mệt mỏi) - ở trên - đá",
+  "tuyết - bao quanh - đá",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang trượt ván, trung bình) - ở trên - tuyết",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang trượt ván, trung bình) - ở trên - đá",
+  "nước - gần - đá",
+  "bụi bẩn - bao quanh - đá",
+  "đá - gần - bụi bẩn",
+  "đá - gần - nước",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang trượt ván, trung bình) - mang - ba lô (màu trắng)",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang trượt ván, mệt mỏi) - ở gần - đá"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang trượt ván, mệt mỏi) - ở trên - đá",
+  "tuyết - bao quanh - đá",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang trượt ván, trung bình) - ở trên - tuyết",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang trượt ván, trung bình) - ở trên - đá",
+  "nước - gần - đá",
+  "bụi bẩn - bao quanh - đá",
+  "đá - gần - bụi bẩn",
+  "đá - gần - nước",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang trượt ván, trung bình) - mang - ba lô (màu trắng)",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang trượt ván, mệt mỏi) - ở gần - đá",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang trượt ván, mệt mỏi) - ở gần - người2 (trung niên - nam, mặc áo khoác xám, đang trượt ván, trung bình)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang đi bộ, mệt mỏi) - ở trên - đá",
+  "tuyết - bao quanh - đá",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang ngồi, trung bình) - ở trên - tuyết",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang ngồi, trung bình) - ở trên - đá",
+  "nước - gần - đá",
+  "bụi bẩn - bao quanh - đá",
+  "đá - gần - bụi bẩn",
+  "đá - gần - nước",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang ngồi, trung bình) - mang - ba lô (màu trắng)",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang đi bộ, mệt mỏi) - ở gần - đá",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang đi bộ, mệt mỏi) - ở gần - người2 (trung niên - nam, mặc áo khoác xám, đang ngồi, trung bình)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang đi bộ, mệt mỏi) - ở trên - đá",
+  "tuyết - bao quanh - đá",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo, bình thường) - ở trên - tuyết",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo, bình thường) - ở trên - đá",
+  "nước - gần - đá",
+  "bụi bẩn - bao quanh - đá",
+  "đá - gần - bụi bẩn",
+  "đá - gần - nước",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo, bình thường) - mang - ba lô (màu trắng)",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang đi bộ, mệt mỏi) - ở gần - đá",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang đi bộ, mệt mỏi) - ở gần - người2 (trung niên - nam, mặc áo khoác xám, đang leo, bình thường)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang đi bộ, mệt mỏi) - ở trên - đá",
+  "tuyết - bao quanh - đá",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang trèo, bình thường) - ở trên - tuyết",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang trèo, bình thường) - ở trên - đá",
+  "nước - gần - đá",
+  "bụi bẩn - bao quanh - đá",
+  "đá - gần - bụi bẩn",
+  "đá - gần - nước",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang trèo, bình thường) - mang - ba lô (màu trắng)",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang đi bộ, mệt mỏi) - ở gần - đá",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang đi bộ, mệt mỏi) - ở gần - người2 (trung niên - nam, mặc áo khoác xám, đang trèo, bình thường)"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang leo núi, mệt mỏi) - ở trên - đá",
+  "tuyết - bao quanh - đá",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường) - ở trên - tuyết",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường) - ở trên - đá",
+  "nước - gần - đá",
+  "bụi bẩn - bao quanh - đá",
+  "đá - gần - bụi bẩn",
+  "đá - gần - nước",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường) - mang - ba lô (màu trắng)",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang leo núi, mệt mỏi) - ở gần - đá",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang leo núi, mệt mỏi) - ở gần - người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường)",
+  "đá - ở gần - người1 (trung niên - nam, mặc áo khoác xanh, đang leo núi, mệt mỏi)"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang leo núi, mệt mỏi) - ở trên - đá",
+  "tuyết - bao quanh - đá",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường) - ở trên - tuyết",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường) - ở trên - đá",
+  "nước - gần - đá",
+  "bụi bẩn - bao quanh - đá",
+  "đá - gần - bụi bẩn",
+  "đá - gần - nước",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường) - mang - ba lô (màu trắng)",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang leo núi, mệt mỏi) - ở gần - đá",
+  "người1 (trung niên - nam, mặc áo khoác xanh, đang leo núi, mệt mỏi) - ở gần - người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường)",
+  "đá - ở gần - người1 (trung niên - nam, mặc áo khoác xanh, đang leo núi, mệt mỏi)"
+]
+```
+
+frame_10:
+```json
+[
+  "chó (màu xanh, không rõ chất liệu, không rõ kiểu dáng) - ở trên - đá",
+  "đá - gần - người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường)",
+  "đá - gần - chó (màu xanh, không rõ chất liệu, không rõ kiểu dáng)",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường) - ở trên - đá"
+]
+```
+
+frame_11:
+```json
+[
+  "đá - gần - người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường)",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường) - ở trên - đá",
+  "đá - gần - chó (màu xanh, không rõ chất liệu, không rõ kiểu dáng)",
+  "chó (màu xanh, không rõ chất liệu, không rõ kiểu dáng) - ở trên - đá"
+]
+```
+
+frame_12:
+```json
+[
+  "đá - gần - người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường)",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường) - ở trên - đá",
+  "đá - gần - chó (màu xanh, không rõ chất liệu, không rõ kiểu dáng)",
+  "chó (màu xanh, không rõ chất liệu, không rõ kiểu dáng) - ở trên - đá"
+]
+```
+
+frame_13:
+```json
+[
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường) - ở trên - đá",
+  "đá - gần - người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường)",
+  "đá - gần - đá",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường) - gần - đá"
+]
+```
+
+frame_14:
+```json
+[
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường) - ở trên - đá",
+  "đá - gần - người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường)",
+  "đá - gần - đá",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang leo núi, bình thường) - gần - đá"
+]
+```
+
+frame_15:
+```json
+[
+  "người2 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường) - ở trên - đá",
+  "đá - gần - người2 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường)",
+  "đá - gần - đá",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường) - gần - đá"
+]
+```
+
+frame_16:
+```json
+[
+  "người2 (trung niên - nam, mặc áo khoác xám, đang ngồi, bình thường) - ở trên - đá",
+  "đá - gần - người2 (trung niên - nam, mặc áo khoác xám, đang ngồi, bình thường)",
+  "đá - gần - đá",
+  "người2 (trung niên - nam, mặc áo khoác xám, đang ngồi, bình thường) - gần - đá"
+]
+```
+
+frame_17:
+```json
+[
+  "người2 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường) - ở trên - đá",
+  "đá - gần - người2 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường)"
+]
+```
+
+frame_18:
+```json
+[
+  "người2 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường) - ở trên - đá",
+  "đá - gần - người2 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường)"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường) - ở trên - đá",
+  "đá - gần - người1 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường)"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường) - ở trên - đá",
+  "đá - gần - người1 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường)"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường) - ở trên - đá",
+  "đá - gần - người1 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường)",
+  "người2 (trung niên - chưa rõ giới tính, mặc áo khoác màu cam, đang trượt tuyết, bình thường) - trên - ván trượt tuyết (màu tím)",
+  "ba lô (màu trắng) - trên - người2 (trung niên - chưa rõ giới tính, mặc áo khoác màu cam, đang trượt tuyết, bình thường)"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường) - ở trên - đá",
+  "đá - gần - người1 (trung niên - nam, mặc áo khoác xám, đang đứng, bình thường)",
+  "người2 (trung niên - chưa rõ giới tính, mặc áo khoác màu cam, đang đứng, bình thường) - trên - tuyết (màu trắng)",
+  "ba lô (màu trắng) - trên - người2 (trung niên - chưa rõ giới tính, mặc áo khoác màu cam, đang đứng, bình thường)",
+  "nước (màu tím) - gần - đá",
+  "đá - gần - nước (màu tím)"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trung niên - nam, mặc áo khoác xám, đang đi, bình thường) - ở trên - đá",
+  "đá - gần - người1 (trung niên - nam, mặc áo khoác xám, đang đi, bình thường)",
+  "người2 (trung niên - chưa rõ giới tính, mặc áo khoác màu cam, đang leo, bình thường) - trên - đá",
+  "ba lô (màu trắng) - trên - người2 (trung niên - chưa rõ giới tính, mặc áo khoác màu cam, đang leo, bình thường)",
+  "nước (màu tím) - gần - đá",
+  "đá - gần - nước (màu tím)"
+]
+```
+
+frame_24:
+```json
+[
+  "voi (95%) - \u1edf tr\u00ean - n\u01b0\u1edbc (m\u00e0u t\u00edm)",
+  "n\u01b0\u1edbc (m\u00e0u t\u00edm) - g\u1ea7n - s\u00f4ng",
+  "s\u00f4ng - g\u1ea7n - \u0111\u00e1",
+  "ng\u01b0\u1eddi1 (trung ni\u00ean - nam, m\u1eb7c \u00e1o kho\u00e1c x\u00e1m, \u0111ang \u0111i, b\u00ecnh th\u01b0\u1eddng) - \u1edf tr\u00ean - \u0111\u00e1",
+  "\u0111\u00e1 - g\u1ea7n - ng\u01b0\u1eddi1 (trung ni\u00ean - nam, m\u1eb7c \u00e1o kho\u00e1c x\u00e1m, \u0111ang \u0111i, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi2 (trung ni\u00ean - ch\u01b0a r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o kho\u00e1c m\u00e0u cam, \u0111ang leo, b\u00ecnh th\u01b0\u1eddng) - tr\u00ean - \u0111\u00e1",
+  "ba l\u00f4 (m\u00e0u tr\u1eafng) - tr\u00ean - ng\u01b0\u1eddi2 (trung ni\u00ean - ch\u01b0a r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o kho\u00e1c m\u00e0u cam, \u0111ang leo, b\u00ecnh th\u01b0\u1eddng)",
+  "n\u01b0\u1edbc (m\u00e0u t\u00edm) - g\u1ea7n - \u0111\u00e1",
+  "\u0111\u00e1 - g\u1ea7n - n\u01b0\u1edbc (m\u00e0u t\u00edm)"
+]
+```
+
+frame_25:
+```json
+[
+  "sông - gần - đá",
+  "nước (màu tím) - gần - đá",
+  "đá - gần - nước (màu tím)",
+  "người1 (trung niên - nam, mặc áo khoác xám, đang đi, bình thường) - trên - đá",
+  "đá - gần - người1 (trung niên - nam, mặc áo khoác xám, đang đi, bình thường)",
+  "người2 (trung niên - chưa rõ giới tính, mặc áo khoác màu cam, đang leo, bình thường) - trên - đá",
+  "ba lô (màu trắng) - trên - người2 (trung niên - chưa rõ giới tính, mặc áo khoác màu cam, đang leo, bình thường)",
+  "người1 (trung niên - nam, mặc áo khoác xám, đang đi, bình thường) - trên - nước (màu tím)",
+  "nước (màu tím) - gần - người1 (trung niên - nam, mặc áo khoác xám, đang đi, bình thường)",
+  "voi (95%) - ở trên - nước (màu tím)"
+]
+```
+
+frame_26:
+```json
+[
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - \u0111\u00e1",
+  "\u0111\u00e1 - g\u1ea7n - ng\u01b0\u1eddi2 (trung ni\u00ean - ch\u01b0a r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o kho\u00e1c m\u00e0u cam, \u0111ang \u0111i, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi2 (trung ni\u00ean - ch\u01b0a r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o kho\u00e1c m\u00e0u cam, \u0111ang \u0111i, b\u00ecnh th\u01b0\u1eddng) - \u1edf tr\u00ean - \u0111\u00e1"
+]
+```
+
+frame_27:
+```json
+[
+  "bầu trời - ở trên - đá",
+  "đá - gần - người2 (trung niên - chưa rõ giới tính, mặc áo khoác màu cam, đang đi, bình thường)",
+  "người2 (trung niên - chưa rõ giới tính, mặc áo khoác màu cam, đang đi, bình thường) - ở trên - đá",
+  "đá - gần - đá"
+]
+```
+
+frame_28:
+```json
+[
+  "bầu trời - ở trên - đá",
+  "đá - gần - người2 (trung niên - chưa rõ giới tính, mặc áo khoác màu cam, đang đi bộ, bình thường)",
+  "người2 (trung niên - chưa rõ giới tính, mặc áo khoác màu cam, đang đi bộ, bình thường) - ở trên - đá",
+  "đá - gần - đá"
+]
+```
+
+frame_29:
+```json
+[
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - \u0111\u00e1",
+  "\u0111\u00e1 - g\u1ea7n - ng\u01b0\u1eddi2 (trung ni\u00ean - ch\u01b0a r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o kho\u00e1c m\u00e0u cam, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi2 (trung ni\u00ean - ch\u01b0a r\u00f5 gi\u1edbi t\u00ednh, m\u1eb7c \u00e1o kho\u00e1c m\u00e0u cam, \u0111ang \u0111i b\u1ed9, b\u00ecnh th\u01b0\u1eddng) - \u1edf tr\u00ean - \u0111\u00e1",
+  "\u0111\u00e1 - g\u1ea7n - \u0111\u00e1"
+]
+```
+
+frame_30:
+```json
+[
+  "nước - ở trên - đá",
+  "đá - gần - người2 (trung niên - chưa rõ giới tính, mặc áo khoác màu cam, đang đi bộ, bình thường)",
+  "người2 (trung niên - chưa rõ giới tính, mặc áo khoác màu cam, đang đi bộ, bình thường) - ở trên - đá",
+  "đá - gần - đá"
+]
+```
+

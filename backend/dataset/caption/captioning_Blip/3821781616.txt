@@ -1,0 +1,38 @@
+frame_0000.jpg: a man drinking a drink
+frame_0001.jpg: a man is holding a red apple in his hand
+frame_0002.jpg: a man drinking a glass of water in a restaurant
+frame_0003.jpg: a man holding a can of soda
+frame_0004.jpg: a man in a black shirt is standing in front of a counter
+frame_0005.jpg: a man in a black shirt is holding a cell
+frame_0006.jpg: a man holding a small bird in his hands
+frame_0007.jpg: a man in a black shirt is holding a knife
+frame_0008.jpg: a man in a black shirt is talking to someone
+frame_0009.jpg: a man in a black shirt
+frame_0010.jpg: a man sitting in a room with a television
+frame_0011.jpg: a man sitting in a room with a computer
+frame_0012.jpg: a man sitting in a room with a television
+frame_0013.jpg: a man sitting in front of a computer
+frame_0014.jpg: a man in a black shirt is holding a knife
+frame_0015.jpg: a man sitting in a chair with a laptop
+frame_0016.jpg: a man sitting in a chair with a laptop
+frame_0017.jpg: a man sitting in a room with a laptop
+frame_0018.jpg: a man sitting in a room with a laptop
+frame_0019.jpg: a man sitting in front of a computer
+frame_0020.jpg: a man sitting in front of a computer
+frame_0021.jpg: a man sitting in a room with a laptop
+frame_0022.jpg: a man sitting in a room with a computer
+frame_0023.jpg: a man sitting in a chair with a laptop
+frame_0024.jpg: a man sitting in a room with a laptop
+frame_0025.jpg: a man sitting in a room with a computer
+frame_0026.jpg: a man sitting in a room with a computer
+frame_0027.jpg: a man sitting in a cubic room with a computer
+frame_0028.jpg: a man sitting in an office with a computer
+frame_0029.jpg: a man sitting in an office with a computer
+frame_0030.jpg: a man in a black shirt
+frame_0031.jpg: a man in a black shirt is sitting down
+frame_0032.jpg: a man sitting at a desk with a computer
+frame_0033.jpg: a man sitting in a chair
+frame_0034.jpg: a man sitting in a chair with a laptop
+frame_0035.jpg: a man sitting in a room with a computer
+frame_0036.jpg: a man sitting in a cubic room
+frame_0037.jpg: a man sitting in front of a computer

@@ -1,0 +1,29 @@
+frame_0000.jpg: two people walking down a hill with a dirt road
+frame_0001.jpg: two people walking down a hill with a car in the background
+frame_0002.jpg: two people are walking down a hill
+frame_0003.jpg: two people walking down a dirt road
+frame_0004.jpg: two people walking down a hill with steam coming from the ground
+frame_0005.jpg: two people walking down a dirt road with smoke coming from the ground
+frame_0006.jpg: two people walking down a dirt road with smoke coming from the ground
+frame_0007.jpg: a group of people walking down a dirt road
+frame_0008.jpg: a man is walking down a dirt road
+frame_0009.jpg: a man is walking down a dirt road
+frame_0010.jpg: a car is driving down a dirt road
+frame_0011.jpg: a car is driving down a dirt road
+frame_0012.jpg: a car driving down a dirt road in the desert
+frame_0013.jpg: a white truck driving down a dirt road
+frame_0014.jpg: a car is driving through a dirt field
+frame_0015.jpg: a car is driving through the desert
+frame_0016.jpg: a car is driving through the desert
+frame_0017.jpg: a car is driving down a dirt road
+frame_0018.jpg: a car is driving down a dirt road
+frame_0019.jpg: a car is driving down a hill with dust
+frame_0020.jpg: a car is driving down a hill with dust coming off it
+frame_0021.jpg: a group of people are watching a train crash
+frame_0022.jpg: a car is driving down a hill with dust coming from it
+frame_0023.jpg: a truck is driving down a hill with people watching
+frame_0024.jpg: a car is on the side of a hill
+frame_0025.jpg: a car is driving down a hill with dust coming out
+frame_0026.jpg: a car is driving down a hill with dust coming off it
+frame_0027.jpg: a car is driving down a hill with dust coming out of it
+frame_0028.jpg: a group of people are standing on a hill

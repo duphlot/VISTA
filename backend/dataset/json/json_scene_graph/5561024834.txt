@@ -1,0 +1,552 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc áo xanh, đang ngồi) - trên - cà rốt1 (màu nâu)",
+  "tường1 - bên cạnh - người1 (trẻ, mặc áo xanh, đang ngồi)",
+  "sàn nhà1 - bên cạnh - người1 (trẻ, mặc áo xanh, đang ngồi)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc áo xanh, đang ngồi) - bên cạnh - tường1",
+  "người1 (trẻ, mặc áo xanh, đang ngồi) - bên cạnh - sàn nhà1",
+  "tường1 - trên - người1 (trẻ, mặc áo xanh, đang ngồi)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang đứng) - bên cạnh - tường1",
+  "người1 (trẻ, mặc áo trắng, đang đứng) - bên cạnh - sàn nhà1",
+  "tường1 - trên - người1 (trẻ, mặc áo trắng, đang đứng)",
+  "chai1 (màu trắng) - trên - sàn nhà1",
+  "tường1 - bên cạnh - sàn nhà1"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang đứng) - bên cạnh - tường1",
+  "người1 (trẻ, mặc áo trắng, đang đứng) - bên cạnh - sàn nhà1",
+  "tường1 - trên - người1 (trẻ, mặc áo trắng, đang đứng)",
+  "chai1 (màu trắng) - trên - sàn nhà1",
+  "tường1 - bên cạnh - sàn nhà1"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang đứng) - bên cạnh - tường1",
+  "người1 (trẻ, mặc áo trắng, đang đứng) - bên cạnh - sàn nhà1",
+  "tường1 - trên - người1 (trẻ, mặc áo trắng, đang đứng)",
+  "chai1 (màu trắng) - trên - sàn nhà1",
+  "tường1 - bên cạnh - sàn nhà1"
+]
+```
+
+frame_5:
+```json
+[
+  "tường1 - bên cạnh - người1 (trẻ, mặc áo trắng, đang đứng)",
+  "người1 (trẻ, mặc áo trắng, đang đứng) - bên cạnh - tường1",
+  "người1 (trẻ, mặc áo trắng, đang đứng) - bên cạnh - sàn nhà1",
+  "chai1 (màu trắng) - trên - sàn nhà1"
+]
+```
+
+frame_6:
+```json
+[
+  "tường1 - bên cạnh - người1 (trẻ, mặc áo trắng, đang đứng)",
+  "người1 (trẻ, mặc áo trắng, đang đứng) - bên cạnh - tường1",
+  "người1 (trẻ, mặc áo trắng, đang đứng) - bên cạnh - sàn nhà1",
+  "chai1 (màu trắng) - trên - sàn nhà1"
+]
+```
+
+frame_7:
+```json
+[
+  "tường1 - bên cạnh - gấu bông1",
+  "tường1 - bên cạnh - cốc1",
+  "tường1 - bên cạnh - giường1",
+  "gấu bông1 - bên cạnh - tường1",
+  "gấu bông1 - bên cạnh - giường1",
+  "cốc1 - bên cạnh - tường1",
+  "cốc1 - bên cạnh - giường1",
+  "giường1 - bên cạnh - tường1",
+  "giường1 - bên cạnh - gấu bông1",
+  "giường1 - bên cạnh - cốc1",
+  "giường1 - chứa - cà rốt1",
+  "giường1 - chứa - cà rốt2"
+]
+```
+
+frame_8:
+```json
+[
+  "tường1 - bên cạnh - giường1",
+  "tường1 - bên cạnh - gấu bông1",
+  "giường1 - bên cạnh - tường1",
+  "giường1 - chứa - người1 (trẻ, mặc đồ ngủ, đang nằm)",
+  "giường1 - bên cạnh - gấu bông1",
+  "gấu bông1 - bên cạnh - tường1",
+  "gấu bông1 - bên cạnh - giường1",
+  "gấu bông2 (màu cam) - bên cạnh - giường1"
+]
+```
+
+frame_9:
+```json
+[
+  "tường1 - bên cạnh - giường1",
+  "tường1 - bên cạnh - gấu bông1",
+  "giường1 - bên cạnh - tường1",
+  "giường1 - chứa - gấu bông2 (màu cam)",
+  "giường1 - bên cạnh - gấu bông1",
+  "gấu bông1 - bên cạnh - tường1",
+  "gấu bông1 - bên cạnh - giường1",
+  "gấu bông2 (màu cam) - bên cạnh - giường1"
+]
+```
+
+frame_10:
+```json
+[
+  "tường1 - bên cạnh - giường1",
+  "tường1 - bên cạnh - gấu bông1",
+  "giường1 - bên cạnh - tường1",
+  "giường1 - chứa - gấu bông2 (màu cam)",
+  "giường1 - bên cạnh - gấu bông1",
+  "gấu bông1 - bên cạnh - tường1",
+  "gấu bông1 - bên cạnh - giường1",
+  "gấu bông2 (màu cam) - bên cạnh - giường1",
+  "người1 (trẻ, mặc áo, đang nằm) - trên - giường1",
+  "gấu bông1 - bên cạnh - người1"
+]
+```
+
+frame_11:
+```json
+[
+  "tường1 - bên cạnh - giường1",
+  "tường1 - bên cạnh - gấu bông1",
+  "giường1 - bên cạnh - tường1",
+  "giường1 - chứa - gấu bông2",
+  "giường1 - bên cạnh - gấu bông1",
+  "gấu bông1 - bên cạnh - tường1",
+  "gấu bông1 - bên cạnh - giường1",
+  "gấu bông2 - bên cạnh - giường1",
+  "người1 (trẻ, mặc áo, đang nằm) - trên - giường1",
+  "gấu bông1 - bên cạnh - người1",
+  "gấu bông1 - bên cạnh - gấu bông2"
+]
+```
+
+frame_12:
+```json
+[
+  "tường1 - bên cạnh - giường1",
+  "tường1 - bên cạnh - gấu bông1",
+  "giường1 - bên cạnh - tường1",
+  "giường1 - chứa - gấu bông2",
+  "giường1 - bên cạnh - gấu bông1",
+  "gấu bông1 - bên cạnh - tường1",
+  "gấu bông1 - bên cạnh - giường1",
+  "gấu bông2 - bên cạnh - giường1",
+  "người1 (trẻ, mặc áo, đang nằm) - trên - giường1",
+  "gấu bông1 - bên cạnh - người1",
+  "gấu bông1 - bên cạnh - gấu bông2"
+]
+```
+
+frame_13:
+```json
+[
+  "tường1 - bên cạnh - giường1",
+  "tường1 - bên cạnh - gấu bông1",
+  "giường1 - bên cạnh - tường1",
+  "giường1 - chứa - gấu bông2",
+  "giường1 - bên cạnh - gấu bông1",
+  "gấu bông1 - bên cạnh - tường1",
+  "gấu bông1 - bên cạnh - giường1",
+  "gấu bông2 - bên cạnh - giường1",
+  "người1 (trẻ, mặc áo, đang nằm) - trên - giường1",
+  "gấu bông1 - bên cạnh - người1",
+  "gấu bông1 - bên cạnh - gấu bông2",
+  "gấu bông3 (màu vàng) - bên cạnh - gấu bông2",
+  "gấu bông3 (màu vàng) - bên cạnh - người1",
+  "gấu bông3 (màu vàng) - bên cạnh - giường1"
+]
+```
+
+frame_14:
+```json
+[
+  "rèm1 - ở trên - tường1",
+  "tường1 - ở trên - rèm1",
+  "người1 (trẻ, mặc áo, đang đứng) - ở bên cạnh - cam1 (màu cam)",
+  "cam1 (màu cam) - ở bên cạnh - người1 (trẻ, mặc áo, đang đứng)"
+]
+```
+
+frame_15:
+```json
+[
+  "rèm1 - ở trên - tường1",
+  "tường1 - ở trên - rèm1",
+  "người1 (trẻ, mặc áo, đang đứng) - ở bên cạnh - cà rốt1",
+  "cà rốt1 - ở bên cạnh - người1 (trẻ, mặc áo, đang đứng)",
+  "hàng rào1 - ở trên - cà rốt1",
+  "nước1 - ở trên - cà rốt1",
+  "tuyết1 - ở trên - cà rốt1"
+]
+```
+
+frame_16:
+```json
+[
+  "thảm1 - ở trên - sàn nhà1",
+  "sàn nhà1 - ở trên - thảm1",
+  "cát1 - ở trên - sàn nhà1"
+]
+```
+
+frame_17:
+```json
+[
+  "cát1 - ở trên - tuyết1",
+  "cát1 - ở trên - sàn nhà1",
+  "tuyết1 - ở trên - cỏ1",
+  "cỏ1 - ở trên - cát1",
+  "người1 (trẻ, mặc đồ nhiều màu, không rõ hành động) - ở trên - tuyết1"
+]
+```
+
+frame_18:
+```json
+[
+  "sàn nhà1 - ở trên - sàn nhà",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - sàn nhà1",
+  "tường - ở trên - sàn nhà",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - tường"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - tường",
+  "tường - ở trên - sàn nhà",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - sàn nhà"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - tường",
+  "tường - ở trên - sàn nhà",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - sàn nhà",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - đứng cạnh - kệ",
+  "kệ - chứa - sách"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - tường",
+  "tường - ở trên - sàn nhà",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - sàn nhà",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - đứng cạnh - kệ",
+  "kệ - chứa - sách",
+  "kệ - ở trên - sàn nhà",
+  "kệ - ở trên - tường"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - tường",
+  "tường - ở trên - sàn nhà",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - sàn nhà",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - đứng cạnh - kệ",
+  "kệ - chứa - sách",
+  "kệ - ở trên - sàn nhà",
+  "kệ - ở trên - tường"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - tường",
+  "tường - ở trên - sàn nhà",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - sàn nhà",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - đứng cạnh - sàn nhà",
+  "nước - ở trên - vỉa hè",
+  "nước - ở trên - sàn nhà",
+  "cà rốt - ở trên - sàn nhà"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - giường (đỏ, có họa tiết)",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - đứng cạnh - giường (đỏ, có họa tiết)",
+  "giường (đỏ, có họa tiết) - ở trên - sàn nhà"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - giường (đỏ, có họa tiết)",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - đứng cạnh - giường (đỏ, có họa tiết)",
+  "giường (đỏ, có họa tiết) - ở trên - chăn (nhiều màu)",
+  "tường - ở trên - giường (đỏ, có họa tiết)",
+  "tường - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang đứng)",
+  "gấu bông1 (vàng) - ở trên - giường (đỏ, có họa tiết)",
+  "gấu bông2 (vàng) - ở trên - giường (đỏ, có họa tiết)",
+  "gấu bông3 (vàng) - ở trên - giường (đỏ, có họa tiết)"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - giường (đỏ, có họa tiết)",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - đứng cạnh - giường (đỏ, có họa tiết)",
+  "giường (đỏ, có họa tiết) - ở trên - chăn (nhiều màu)",
+  "tường - ở trên - giường (đỏ, có họa tiết)",
+  "tường - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang đứng)",
+  "gấu bông1 (vàng) - ở trên - giường (đỏ, có họa tiết)",
+  "gấu bông2 (vàng) - ở trên - giường (đỏ, có họa tiết)",
+  "gấu bông3 (vàng) - ở trên - giường (đỏ, có họa tiết)",
+  "gấu bông4 (nâu) - ở trên - giường (đỏ, có họa tiết)",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - giường (đỏ, có họa tiết)",
+  "cà rốt (tím) - ở dưới - người1 (trẻ, mặc đồ nhiều màu, đang đứng)"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang bò) - ở trên - giường (đỏ, có họa tiết)",
+  "tường - ở trên - giường (đỏ, có họa tiết)"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang bò) - ở trên - giường (đỏ, có họa tiết)",
+  "tường - ở trên - giường (đỏ, có họa tiết)"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang nằm) - ở trên - giường (đỏ, có họa tiết)",
+  "tường - ở trên - giường (đỏ, có họa tiết)"
+]
+```
+
+frame_30:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang bò) - ở trên - giường (đỏ, có họa tiết)",
+  "tường - ở trên - giường (đỏ, có họa tiết)"
+]
+```
+
+frame_31:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang nằm) - ở trên - giường (đỏ, có họa tiết)",
+  "tường - ở trên - giường (đỏ, có họa tiết)"
+]
+```
+
+frame_32:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang nằm) - ở trên - giường (đỏ, có họa tiết)",
+  "tường - ở trên - giường (đỏ, có họa tiết)",
+  "tường-gỗ - ở trên - giường (đỏ, có họa tiết)"
+]
+```
+
+frame_33:
+```json
+[
+  "người1 (trẻ, mặc đồ nhiều màu, đang ngồi) - ở trên - giường (đỏ, có họa tiết)",
+  "tường - ở trên - giường (đỏ, có họa tiết)",
+  "tường-gỗ - ở trên - giường (đỏ, có họa tiết)",
+  "người1 (trẻ, mặc đồ nhiều màu, đang ngồi) - ở trên - giường1"
+]
+```
+
+frame_34:
+```json
+[
+  "giường - ở - người1 (trẻ, mặc đồ nhiều màu, đang đứng)",
+  "tường - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang đứng)",
+  "tường-gỗ - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang đứng)",
+  "người1 (trẻ, mặc đồ nhiều màu, đang đứng) - ở trên - giường"
+]
+```
+
+frame_35:
+```json
+[
+  "giường - ở - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "tường - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "tường-gỗ - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "người1 (trẻ, mặc đồ nhiều màu, đang ngủ) - ở trên - giường",
+  "bàn (màu xanh lá cây) - ở cạnh - giường",
+  "tường - ở trên - bàn (màu xanh lá cây)"
+]
+```
+
+frame_36:
+```json
+[
+  "giường - ở - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "tường - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "tường-gỗ - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "người1 (trẻ, mặc đồ nhiều màu, đang ngủ) - ở trên - giường",
+  "bàn (màu xanh lá cây) - ở cạnh - giường",
+  "tường - ở trên - bàn (màu xanh lá cây)"
+]
+```
+
+frame_37:
+```json
+[
+  "giường - ở - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "tường - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "tường-gỗ - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "người1 (trẻ, mặc đồ nhiều màu, đang ngủ) - ở trên - giường",
+  "bàn (màu xanh lá cây) - ở cạnh - giường",
+  "tường - ở trên - bàn (màu xanh lá cây)"
+]
+```
+
+frame_38:
+```json
+[
+  "tường - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "tường-gỗ - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "người1 (trẻ, mặc đồ nhiều màu, đang ngủ) - ở trên - giường",
+  "giường - ở - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "tường - ở trên - giường",
+  "gấu bông (màu vàng) - ở trên - giường"
+]
+```
+
+frame_39:
+```json
+[
+  "tường - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "tường-gỗ - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "người1 (trẻ, mặc đồ nhiều màu, đang ngủ) - ở trên - giường",
+  "giường - ở - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "tường - ở trên - giường",
+  "gấu bông (màu vàng) - ở trên - giường"
+]
+```
+
+frame_40:
+```json
+[
+  "tường - ở trên - giường",
+  "tường - ở trên - gấu bông (màu vàng)",
+  "tường - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "giường - ở - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "gấu bông (màu vàng) - ở trên - giường",
+  "người1 (trẻ, mặc đồ nhiều màu, đang ngủ) - ở trên - giường"
+]
+```
+
+frame_41:
+```json
+[
+  "tường - ở trên - giường",
+  "tường - ở trên - gấu bông (màu vàng)",
+  "tường - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "giường - ở - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "gấu bông (màu vàng) - ở trên - giường",
+  "người1 (trẻ, mặc đồ nhiều màu, đang ngủ) - ở trên - giường"
+]
+```
+
+frame_42:
+```json
+[
+  "tường - ở trên - giường",
+  "tường - ở trên - gấu bông (màu vàng)",
+  "tường - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "giường - ở - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "gấu bông (màu vàng) - ở trên - giường",
+  "người1 (trẻ, mặc đồ nhiều màu, đang ngủ) - ở trên - giường"
+]
+```
+
+frame_43:
+```json
+[
+  "tường - ở trên - giường",
+  "tường - ở trên - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)",
+  "giường - ở - người1 (trẻ, mặc đồ nhiều màu, đang ngủ)"
+]
+```
+
+frame_44:
+```json
+[
+  "tường - ở trên - giường",
+  "tường - ở trên - tường-gỗ",
+  "giường - ở - tường-gỗ"
+]
+```
+
+frame_45:
+```json
+[
+  "tường - ở trên - giường",
+  "tường - ở trên - tường-gỗ",
+  "giường (95%) - ở - tường-gỗ"
+]
+```
+
+frame_46:
+```json
+[
+  "tường - ở trên - giường",
+  "tường - ở trên - bình",
+  "giường (97%) - ở - tường"
+]
+```
+
+frame_47:
+```json
+[
+  "tường - ở trên - giường",
+  "tường - ở trên - bình",
+  "giường (93%) - ở - tường",
+  "người1 (trẻ, mặc áo sáng màu, đang ngồi trên giường) - ở trên - giường",
+  "tường - ở trên - tường-gỗ",
+  "tường - ở trên - tủ"
+]
+```
+

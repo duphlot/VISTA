@@ -1,0 +1,1427 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn nhà",
+  "gậy bóng chày1 (màu vàng) - gần - người1 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - gần - vỉa hè",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - gần - gậy bóng chày1 (màu vàng)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn nhà",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - gần - tường"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn nhà",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - gần - sàn nhà"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn nhà",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - gần - sàn nhà",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - gần - voi (màu xanh lá cây)",
+  "voi (màu xanh lá cây) - trên - sàn nhà",
+  "giấy - trên - sàn nhà",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - gần - giấy"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn nhà",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn nhà",
+  "sàn nhà - phía trên - người2 (trẻ, mặc quần áo tối màu, đang đứng)"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn nhà",
+  "sàn nhà - bên cạnh - người1 (trẻ, mặc quần áo tối màu, đang đứng)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - vỉa hè",
+  "vỉa hè - bên cạnh - tường",
+  "người2 (trẻ, mặc quần áo tối màu, đang đi) - trên - vỉa hè",
+  "tường - trên - vỉa hè",
+  "tuyết - trên - vỉa hè",
+  "người3 (trẻ, mặc quần áo tối màu, đang đứng) - trên - vỉa hè"
+]
+```
+
+frame_7:
+```json
+["người1 (trẻ, mặc quần áo tối màu, đang đứng) - bên cạnh - người2 (trẻ, mặc quần áo tối màu, đang đi)", "người1 (trẻ, mặc quần áo tối màu, đang đứng) - bên cạnh - người3 (trẻ, mặc quần áo tối màu, đang đứng)", "người2 (trẻ, mặc quần áo tối màu, đang đi) - bên cạnh - người3 (trẻ, mặc quần áo tối màu, đang đứng)"]
+```
+
+frame_8:
+```json
+["người1 (trẻ, mặc quần áo tối màu, đang đứng) - bên cạnh - người2 (trẻ, mặc quần áo tối màu, đang đứng)", "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)", "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)", "tường (màu xám) - bên cạnh - người1 (trẻ, mặc quần áo tối màu, đang đứng)"]
+```
+
+frame_9:
+```json
+["người1 (trẻ, mặc quần áo tối màu, đang đứng) - bên cạnh - người2 (trẻ, mặc quần áo tối màu, đang đứng)", "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)", "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)"]
+```
+
+frame_10:
+```json
+["gấu bông (màu cam) - trên - sàn (màu tím)", "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)", "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)"]
+```
+
+frame_11:
+```json
+["chó (màu xanh lam) - trên - sàn (màu tím)", "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)", "gấu bông (màu cam) - trên - sàn (màu tím)", "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)"]
+```
+
+frame_12:
+```json
+["chó (màu xanh lam) - trên - sàn (màu tím)", "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)", "gấu bông (màu cam) - trên - sàn (màu tím)", "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)", "donut (màu hồng) - trên - sàn (màu tím)"]
+```
+
+frame_13:
+```json
+["chó (màu xanh lam) - trên - sàn (màu tím)", "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)", "gấu bông (màu cam) - trên - sàn (màu tím)"]
+```
+
+frame_14:
+```json
+["chó (màu xanh lam) - trên - sàn (màu tím)", "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)", "gấu bông (màu cam) - trên - sàn (màu tím)", "chó (màu xanh lam) - cạnh - người1 (trẻ, mặc quần áo tối màu, đang đứng)"]
+```
+
+frame_15:
+```json
+["chó (màu xanh lam) - trên - sàn (màu tím)", "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)", "gấu bông (màu cam) - trên - sàn (màu tím)", "chó (màu xanh lam) - cạnh - người1 (trẻ, mặc quần áo tối màu, đang đứng)"]
+```
+
+frame_16:
+```json
+["chó (màu xanh lam) - trên - sàn (màu tím)", "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)", "gấu bông (màu cam) - trên - sàn (màu tím)", "chó (màu xanh lam) - cạnh - người1 (trẻ, mặc quần áo tối màu, đang đứng)"]
+```
+
+frame_17:
+```json
+["chó (màu xanh lam) - trên - sàn (màu tím)", "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)", "gấu bông (màu cam) - trên - sàn (màu tím)", "chó (màu xanh lam) - cạnh - người1 (trẻ, mặc quần áo tối màu, đang đứng)"]
+```
+
+frame_18:
+```json
+[
+  "chó (màu xanh lam) - trên - sàn (màu tím)",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "chó (màu xanh lam) - cạnh - người1 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "chó (màu xanh lam) - cạnh - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "gậy bóng chày - bên cạnh - chó (màu xanh lam)"
+]
+```
+
+frame_19:
+```json
+[
+  "mèo (màu hồng) - trên - sàn (màu tím)",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "mèo (màu hồng) - cạnh - người1 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "mèo (màu hồng) - cạnh - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)"
+]
+```
+
+frame_20:
+```json
+[
+  "s\u00e0n (m\u00e0u t\u00edm) - tr\u00ean - ng\u01b0\u1eddi2 (tr\u1ebb, m\u1eb7c qu\u1ea7n \u00e1o t\u1ed1i m\u00e0u, \u0111ang ng\u1ed3i)",
+  "s\u00e0n (m\u00e0u t\u00edm) - tr\u00ean - ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c qu\u1ea7n \u00e1o t\u1ed1i m\u00e0u, \u0111ang n\u1eb1m)",
+  "g\u1eady b\u00f3ng ch\u00e0y (m\u00e0u tr\u1eafng) - c\u1ea1nh - ch\u00f3 (m\u00e0u xanh)",
+  "ch\u00f3 (m\u00e0u xanh) - tr\u00ean - s\u00e0n (m\u00e0u t\u00edm)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u1eb7c qu\u1ea7n \u00e1o t\u1ed1i m\u00e0u, \u0111ang n\u1eb1m) - tr\u00ean - s\u00e0n (m\u00e0u t\u00edm)"
+]
+```
+
+frame_21:
+```json
+[
+  "sàn (màu tím) - trên - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "gậy bóng chày (màu trắng) - cạnh - chó (màu xanh)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "người1 (trẻ, mặc quần áo tối màu, đang nằm) - trên - sàn (màu tím)"
+]
+```
+
+frame_22:
+```json
+[
+  "gậy bóng chày (màu trắng) - cạnh - chó (màu xanh)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "người1 (trẻ, mặc quần áo tối màu, đang nằm) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người3 (trẻ, mặc quần áo tối màu, đang đứng)"
+]
+```
+
+frame_23:
+```json
+[
+  "chó (màu xanh) - cạnh - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "người1 (trẻ, mặc quần áo tối màu, đang nằm) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người3 (trẻ, mặc quần áo tối màu, đang đứng)"
+]
+```
+
+frame_24:
+```json
+[
+  "chó (màu xanh) - cạnh - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "người1 (trẻ, mặc quần áo tối màu, đang nằm) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người3 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - cạnh - chó (màu xanh)",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)"
+]
+```
+
+frame_25:
+```json
+[
+  "chó (màu xanh) - cạnh - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "người1 (trẻ, mặc quần áo tối màu, đang nằm) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người3 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - cạnh - chó (màu xanh)",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "tường (màu trắng) - trên - sàn (màu tím)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)"
+]
+```
+
+frame_26:
+```json
+[
+  "chó (màu xanh) - cạnh - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "người1 (trẻ, mặc quần áo tối màu, đang nằm) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người3 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - cạnh - chó (màu xanh)",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "tường (màu trắng) - trên - sàn (màu tím)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)"
+]
+```
+
+frame_27:
+```json
+[
+  "chó (màu xanh) - cạnh - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "người1 (trẻ, mặc quần áo tối màu, đang nằm) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người3 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - cạnh - chó (màu xanh)",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "tường (màu trắng) - trên - sàn (màu tím)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)"
+]
+```
+
+frame_28:
+```json
+[
+  "chó (màu xanh) - cạnh - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "người1 (trẻ, mặc quần áo tối màu, đang nằm) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người3 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - cạnh - chó (màu xanh)",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)"
+]
+```
+
+frame_29:
+```json
+[
+  "gậy bóng chày (màu trắng) - cạnh - chó (màu xanh)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người4 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "người1 (trẻ, mặc quần áo tối màu, đang nằm) - trên - sàn (màu tím)",
+  "chó (màu xanh) - cạnh - gậy bóng chày (màu trắng)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)"
+]
+```
+
+frame_30:
+```json
+[
+  "gậy bóng chày (màu trắng) - cạnh - chó (màu xanh)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "người1 (trẻ, mặc quần áo tối màu, đang nằm) - trên - sàn (màu tím)",
+  "chó (màu xanh) - cạnh - gậy bóng chày (màu trắng)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người4 (trẻ, mặc quần áo tối màu, đang đứng)"
+]
+```
+
+frame_31:
+```json
+[
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "ghế (màu vàng) - trên - sàn (màu tím)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người4 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "chó (màu xanh) - trên - ghế (màu vàng)"
+]
+```
+
+frame_32:
+```json
+[
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "ghế (màu vàng) - trên - sàn (màu tím)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người4 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "chó (màu xanh) - trên - ghế (màu vàng)"
+]
+```
+
+frame_33:
+```json
+[
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người4 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "gậy bóng chày (màu trắng) - gần - chó (màu xanh)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)"
+]
+```
+
+frame_34:
+```json
+[
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người4 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "gậy bóng chày (màu trắng) - gần - chó (màu xanh)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)"
+]
+```
+
+frame_35:
+```json
+[
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người4 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "gậy bóng chày (màu trắng) - gần - chó (màu xanh)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - gậy bóng chày (màu trắng)"
+]
+```
+
+frame_36:
+```json
+[
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người1 (trẻ, mặc quần áo tối màu, đang nằm)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - người4 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "gậy bóng chày (màu trắng) - gần - chó (màu xanh)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - gậy bóng chày (màu trắng)"
+]
+```
+
+frame_37:
+```json
+[
+  "người1 (trẻ, mặc quần áo tối màu, đang nằm) - trên - sàn (màu tím)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "gậy bóng chày (màu trắng) - gần - chó (màu xanh)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - gậy bóng chày (màu trắng)"
+]
+```
+
+frame_38:
+```json
+[
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "gậy bóng chày (màu trắng) - gần - chó (màu xanh)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - gậy bóng chày (màu trắng)"
+]
+```
+
+frame_39:
+```json
+[
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "gậy bóng chày (màu trắng) - gần - chó (màu xanh)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "sàn (màu tím) - trên - gậy bóng chày (màu trắng)"
+]
+```
+
+frame_40:
+```json
+[
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "chó (màu xanh) - trên - sàn (màu tím)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "gấu bông (màu cam) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - gần - chó (màu xanh)"
+]
+```
+
+frame_41:
+```json
+[
+  "mèo1 (màu hồng) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "sàn (màu tím) - bên cạnh - tường (màu trắng)"
+]
+```
+
+frame_42:
+```json
+[
+  "mèo1 (màu hồng) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "sàn (màu tím) - bên cạnh - tường (màu trắng)",
+  "chó1 (màu xanh) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - bên cạnh - chó1 (màu xanh)"
+]
+```
+
+frame_43:
+```json
+[
+  "mèo1 (màu hồng) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "sàn (màu tím) - bên cạnh - tường (màu trắng)",
+  "chó1 (màu xanh) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - bên cạnh - chó1 (màu xanh)"
+]
+```
+
+frame_44:
+```json
+[
+  "mèo1 (màu hồng) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "sàn (màu tím) - bên cạnh - tường (màu trắng)",
+  "chó1 (màu xanh) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - bên cạnh - chó1 (màu xanh)"
+]
+```
+
+frame_45:
+```json
+[
+  "mèo1 (màu hồng) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "sàn (màu tím) - bên cạnh - tường (màu trắng)",
+  "chó1 (màu xanh) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - bên cạnh - chó1 (màu xanh)",
+  "gấu bông1 (màu cam) - trên - sàn (màu tím)"
+]
+```
+
+frame_46:
+```json
+[
+  "chó1 (màu xanh) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "sàn (màu tím) - bên cạnh - tường (màu trắng)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - bên cạnh - chó1 (màu xanh)",
+  "gấu bông1 (màu cam) - trên - sàn (màu tím)",
+  "mèo1 (màu hồng) - trên - sàn (màu tím)",
+  "cừu1 (màu xanh lá cây) - trên - sàn (màu tím)",
+  "người5 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "cừu1 (màu xanh lá cây) - bên cạnh - người5 (trẻ, mặc quần áo tối màu, đang đứng)"
+]
+```
+
+frame_47:
+```json
+[
+  "cừu1 (màu xanh lá cây) - trên - sàn (màu tím)",
+  "người5 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "sàn (màu tím) - bên cạnh - tường (màu trắng)",
+  "gấu bông1 (màu cam) - trên - sàn (màu tím)",
+  "mèo1 (màu hồng) - trên - sàn (màu tím)",
+  "chó1 (màu xanh) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "cừu1 (màu xanh lá cây) - bên cạnh - người5 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "người5 (trẻ, mặc quần áo tối màu, đang đứng) - bên cạnh - mèo1 (màu hồng)"
+]
+```
+
+frame_48:
+```json
+[
+  "sàn (màu tím) - bên cạnh - tường (màu trắng)",
+  "gấu bông1 (màu cam) - trên - sàn (màu tím)",
+  "mèo1 (màu hồng) - trên - sàn (màu tím)",
+  "chó1 (màu xanh) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "người5 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "cừu1 (màu xanh lá cây) - bên cạnh - người5 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "người5 (trẻ, mặc quần áo tối màu, đang đứng) - bên cạnh - mèo1 (màu hồng)"
+]
+```
+
+frame_49:
+```json
+[
+  "sàn (màu tím) - bên cạnh - tường (màu trắng)",
+  "gấu bông1 (màu cam) - trên - sàn (màu tím)",
+  "mèo1 (màu hồng) - trên - sàn (màu tím)",
+  "chó1 (màu xanh) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "người5 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "cừu1 (màu xanh lá cây) - bên cạnh - người5 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "người5 (trẻ, mặc quần áo tối màu, đang đứng) - bên cạnh - mèo1 (màu hồng)"
+]
+```
+
+frame_50:
+```json
+[
+  "sàn (màu tím) - bên cạnh - tường (màu trắng)",
+  "gấu bông1 (màu cam) - trên - sàn (màu tím)",
+  "mèo1 (màu hồng) - trên - sàn (màu tím)",
+  "chó1 (màu xanh) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "người5 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)"
+]
+```
+
+frame_51:
+```json
+[
+  "sàn (màu tím) - bên cạnh - tường (màu trắng)",
+  "gấu bông1 (màu cam) - trên - sàn (màu tím)",
+  "mèo1 (màu hồng) - trên - sàn (màu tím)",
+  "chó1 (màu xanh) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "người5 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)"
+]
+```
+
+frame_52:
+```json
+[
+  "ghế1 (màu vàng) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "sàn (màu tím) - bên cạnh - ghế1 (màu vàng)",
+  "gấu bông1 (màu cam) - trên - sàn (màu tím)"
+]
+```
+
+frame_53:
+```json
+[
+  "ghế1 (màu vàng) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn (màu tím)",
+  "sàn (màu tím) - bên cạnh - ghế1 (màu vàng)",
+  "gấu bông1 (màu cam) - trên - sàn (màu tím)",
+  "người4 (trẻ, mặc quần áo tối màu, đang đứng) - bên cạnh - gấu bông1 (màu cam)",
+  "chó1 (màu xanh lam) - trên - sàn (màu tím)",
+  "gấu bông1 (màu cam) - trên - sàn (màu tím)"
+]
+```
+
+frame_54:
+```json
+[
+  "tường (màu trắng) - trên - sàn (màu tím)",
+  "sàn (màu tím) - bên cạnh - người4 (trẻ, mặc quần áo tối màu, đang đứng)"
+]
+```
+
+frame_55:
+```json
+[
+  "tường (màu trắng) - trên - sàn (màu tím)",
+  "chó1 - trên - sàn (màu tím)",
+  "chó2 - trên - sàn (màu tím)"
+]
+```
+
+frame_56:
+```json
+[
+  "sàn (màu tím) - trên - tường (màu trắng)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)",
+  "gấu bông1 (màu cam) - bên cạnh - người1 (trẻ, mặc quần áo màu hồng, đang đứng)"
+]
+```
+
+frame_57:
+```json
+[
+  "sàn (màu tím) - trên - tường (màu trắng)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)",
+  "gấu bông1 (màu cam) - bên cạnh - người1 (trẻ, mặc quần áo màu hồng, đang đứng)",
+  "gấu bông2 (màu vàng) - trên - sàn (màu tím)"
+]
+```
+
+frame_58:
+```json
+[
+  "sàn (màu tím) - trên - tường (màu trắng)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)",
+  "gấu bông1 (màu cam) - bên cạnh - người1 (trẻ, mặc quần áo màu hồng, đang đứng)",
+  "gấu bông2 (màu vàng) - trên - sàn (màu tím)",
+  "gấu bông1 (màu cam) - trên - sàn (màu tím)"
+]
+```
+
+frame_59:
+```json
+[
+  "sàn (màu tím) - trên - tường (màu trắng)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)",
+  "gấu bông1 (màu cam) - trên - sàn (màu tím)",
+  "gấu bông2 (màu vàng) - trên - sàn (màu tím)",
+  "gấu bông3 (màu trắng) - trên - sàn (màu tím)",
+  "vết bẩn (màu đen) - trên - sàn (màu tím)"
+]
+```
+
+frame_60:
+```json
+[
+  "sàn (màu tím) - trên - tường (màu trắng)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang ngồi) - trên - gấu bông1 (màu cam)",
+  "gấu bông1 (màu cam) - trên - sàn (màu tím)",
+  "gấu bông2 (màu vàng) - trên - sàn (màu tím)",
+  "gấu bông3 (màu trắng) - trên - sàn (màu tím)",
+  "vết bẩn (màu đen) - trên - sàn (màu tím)"
+]
+```
+
+frame_61:
+```json
+[
+  "sàn (màu tím) - trên - tường (màu trắng)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang ngồi) - trên - gấu bông1 (màu cam)",
+  "gấu bông1 (màu cam) - trên - sàn (màu tím)",
+  "gấu bông2 (màu vàng) - trên - sàn (màu tím)",
+  "gấu bông3 (màu trắng) - trên - sàn (màu tím)",
+  "vết bẩn (màu đen) - trên - sàn (màu tím)"
+]
+```
+
+frame_62:
+```json
+[
+  "người1 (trẻ, mặc quần áo màu hồng, đang ngồi) - trên - sàn (màu tím)"
+]
+```
+
+frame_63:
+```json
+[
+  "người2 (không rõ tuổi, mặc quần áo màu cam, không rõ hành động) - trên - sàn (màu tím)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang ngồi) - trên - sàn (màu tím)",
+  "sàn (màu tím) - chứa - vỉa hè"
+]
+```
+
+frame_64:
+```json
+[
+  "người2 (không rõ tuổi, mặc quần áo màu cam, không rõ hành động) - trên - sàn (màu tím)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang ngồi) - trên - sàn (màu tím)",
+  "sàn (màu tím) - chứa - vỉa hè",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - trên - sàn (màu tím)"
+]
+```
+
+frame_65:
+```json
+[
+  "người2 (không rõ tuổi, mặc quần áo màu cam, không rõ hành động) - trên - sàn (màu tím)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang ngồi) - trên - sàn (màu tím)",
+  "sàn (màu tím) - chứa - vỉa hè",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - trên - sàn (màu tím)"
+]
+```
+
+frame_66:
+```json
+[
+  "người2 (không rõ tuổi, mặc quần áo màu cam, không rõ hành động) - trên - sàn (màu tím)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang ngồi) - trên - sàn (màu tím)",
+  "sàn (màu tím) - chứa - vỉa hè",
+  "người3 (không rõ tuổi, mặc quần áo màu hồng, không rõ hành động) - trên - sàn (màu tím)"
+]
+```
+
+frame_67:
+```json
+[
+  "người2 (không rõ tuổi, mặc quần áo màu cam, không rõ hành động) - trên - sàn (màu tím)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang ngồi) - trên - sàn (màu tím)",
+  "sàn (màu tím) - chứa - vỉa hè",
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)"
+]
+```
+
+frame_68:
+```json
+[
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - chó (màu xanh)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)",
+  "chó (màu xanh) - trên - sàn (màu tím)"
+]
+```
+
+frame_69:
+```json
+[
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - gần - mèo (màu hồng)",
+  "sàn (màu tím) - gần - mèo (màu hồng)"
+]
+```
+
+frame_70:
+```json
+[
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - vỉa hè",
+  "người2 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)"
+]
+```
+
+frame_71:
+```json
+[
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - gấu bông (màu vàng)",
+  "người2 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)"
+]
+```
+
+frame_72:
+```json
+[
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - vỉa hè",
+  "người2 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)",
+  "người2 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - vỉa hè"
+]
+```
+
+frame_73:
+```json
+[
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - vỉa hè",
+  "người2 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)",
+  "người2 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - vỉa hè",
+  "người3 (trẻ, mặc quần áo màu cam, đang đứng) - trên - vỉa hè"
+]
+```
+
+frame_74:
+```json
+[
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)",
+  "người1 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - vỉa hè",
+  "người2 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - sàn (màu tím)",
+  "người2 (trẻ, mặc quần áo màu hồng, đang đứng) - trên - vỉa hè",
+  "người3 (trẻ, mặc quần áo màu cam, đang đứng) - trên - vỉa hè",
+  "người4 (trẻ, mặc quần áo màu đỏ, đang đứng) - trên - sàn (màu tím)"
+]
+```
+
+frame_75:
+```json
+[
+  "người1 (trẻ, mặc quần áo màu hồng, đang đi) - trên - vỉa hè",
+  "người2 (trẻ, mặc quần áo màu hồng, đang đi) - trên - vỉa hè"
+]
+```
+
+frame_76:
+```json
+[
+  "chó1 - trên - sàn nhà",
+  "tường - phía sau - chó1"
+]
+```
+
+frame_77:
+```json
+[
+  "chó1 - trên - sàn nhà",
+  "tường - phía sau - chó1",
+  "chim1 - bên cạnh - chó1"
+]
+```
+
+frame_78:
+```json
+[
+  "chó1 - trên - sàn nhà",
+  "sàn nhà - bên cạnh - chó1"
+]
+```
+
+frame_79:
+```json
+[
+  "chim1 (màu đỏ) - trên - sàn nhà",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn nhà",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - gần - chim1 (màu đỏ)"
+]
+```
+
+frame_80:
+```json
+[
+  "chim1 (màu đỏ) - trên - sàn nhà",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn nhà",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - gần - chim1 (màu đỏ)",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn nhà",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - gần - người1 (trẻ, mặc quần áo tối màu, đang đứng)"
+]
+```
+
+frame_81:
+```json
+[
+  "chim1 (màu đỏ) - trên - sàn nhà",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn nhà",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - gần - chim1 (màu đỏ)",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - trên - sàn nhà",
+  "người2 (trẻ, mặc quần áo tối màu, đang đứng) - gần - người1 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - gần - người2 (trẻ, mặc quần áo tối màu, đang đứng)",
+  "sàn nhà - một phần của - vỉa hè",
+  "người1 (trẻ, mặc quần áo tối màu, đang đứng) - trên - vỉa hè"
+]
+```
+
+frame_82:
+```json
+[
+  "chim1 (màu đỏ) - trên - sàn nhà",
+  "chó1 (màu xanh dương) - trên - sàn nhà",
+  "ly rượu1 (màu vàng) - trên - sàn nhà",
+  "chim1 (màu đỏ) - gần - chó1 (màu xanh dương)"
+]
+```
+
+frame_83:
+```json
+[
+  "sàn nhà - trên - chim1 (màu đỏ)",
+  "sàn nhà - trên - chó1 (màu xanh dương)",
+  "sàn nhà - trên - ly rượu1 (màu vàng)",
+  "người1 (không rõ tuổi, không rõ quần áo, không rõ hành động) - trên - sàn nhà",
+  "chim1 (màu đỏ) - gần - người1 (không rõ tuổi, không rõ quần áo, không rõ hành động)"
+]
+```
+
+frame_84:
+```json
+[
+  "sàn nhà - trên - chim1 (màu đỏ)",
+  "sàn nhà - trên - chó1 (màu xanh dương)",
+  "sàn nhà - trên - ly rượu1 (màu vàng)",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn nhà",
+  "chim1 (màu đỏ) - gần - người1 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "sàn nhà - trên - giấy1 (màu be)"
+]
+```
+
+frame_85:
+```json
+[
+  "sàn nhà - trên - chim1 (màu đỏ)",
+  "sàn nhà - trên - chó1 (màu xanh dương)",
+  "sàn nhà - trên - ly rượu1 (màu vàng)",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn nhà",
+  "chim1 (màu đỏ) - gần - người1 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "sàn nhà - trên - giấy1 (màu be)"
+]
+```
+
+frame_86:
+```json
+[
+  "sàn nhà - trên - chim1 (màu đỏ)",
+  "sàn nhà - trên - chó1 (màu xanh dương)",
+  "sàn nhà - trên - ly rượu1 (màu vàng)",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn nhà",
+  "chim1 (màu đỏ) - gần - người1 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "sàn nhà - trên - giấy1 (màu be)",
+  "sàn nhà - trên - chó2 (màu trắng)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - vỉa hè"
+]
+```
+
+frame_87:
+```json
+[
+  "sàn nhà - trên - chim1 (màu đỏ)",
+  "sàn nhà - trên - chó1 (màu xanh dương)",
+  "sàn nhà - trên - ly rượu1 (màu vàng)",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn nhà",
+  "chim1 (màu đỏ) - gần - người1 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "sàn nhà - trên - giấy1 (màu be)",
+  "sàn nhà - trên - chó2 (màu trắng)",
+  "người1 (không rõ tuổi, không rõ quần áo, đang nhìn) - gần - chó2 (màu trắng)",
+  "tường - trên - sàn nhà"
+]
+```
+
+frame_88:
+```json
+[
+  "sàn nhà - trên - chó1 (màu xanh dương)",
+  "sàn nhà - trên - người1 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "chó1 (màu xanh dương) - gần - người1 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "tường - trên - sàn nhà"
+]
+```
+
+frame_89:
+```json
+[
+  "sàn nhà - trên - chó1 (màu xanh dương)",
+  "sàn nhà - trên - người1 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "chó1 (màu xanh dương) - gần - người1 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "tường - trên - sàn nhà",
+  "người2 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn nhà",
+  "người3 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn nhà",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - gần - người2 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "chó1 (màu xanh dương) - gần - người3 (không rõ tuổi, không rõ quần áo, đang đứng)"
+]
+```
+
+frame_90:
+```json
+[
+  "tuyết - xung quanh - người1 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "nước - xung quanh - người1 (không rõ tuổi, không rõ quần áo, đang đứng)"
+]
+```
+
+frame_91:
+```json
+[
+  "tường - gần - người2 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "sàn - gần - người3 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn"
+]
+```
+
+frame_92:
+```json
+[
+  "tường - gần - người2 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "sàn - gần - người3 (không rõ tuổi, không rõ quần áo, đang nhìn)",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn"
+]
+```
+
+frame_93:
+```json
+[
+  "chim1 - tr\u00ean - s\u00e0n",
+  "ng\u01b0\u1eddi1 (kh\u00f4ng r\u00f5 tu\u1ed5i, kh\u00f4ng r\u00f5 qu\u1ea7n \u00e1o, \u0111ang \u0111\u1ee9ng) - tr\u00ean - gi\u01b0\u1eddng"
+]
+```
+
+frame_94:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn",
+  "sàn - ở - người1 (không rõ tuổi, không rõ quần áo, đang đứng)"
+]
+```
+
+frame_95:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn",
+  "sàn - ở - người1 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn",
+  "người3 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn"
+]
+```
+
+frame_96:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - người2 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - người3 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "ghế1 (màu hồng) - gần - chó1 (màu xanh lam)",
+  "chó1 (màu xanh lam) - trên - sàn",
+  "sàn - ở - chó1 (màu xanh lam)",
+  "người3 (không rõ tuổi, không rõ quần áo, đang đứng) - gần - ghế1 (màu hồng)",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn"
+]
+```
+
+frame_97:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - bò1 (màu tím nhạt)",
+  "bò1 (màu tím nhạt) - trên - sàn",
+  "sàn - trên - vỉa hè"
+]
+```
+
+frame_98:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - người2 (không rõ tuổi, không rõ quần áo, không rõ đang làm gì)",
+  "người2 (không rõ tuổi, không rõ quần áo, không rõ đang làm gì) - trên - chó (màu xanh lam)",
+  "chó (màu xanh lam) - trên - vỉa hè"
+]
+```
+
+frame_99:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - người2 (không rõ tuổi, không rõ quần áo, không rõ đang làm gì)",
+  "người2 (không rõ tuổi, không rõ quần áo, không rõ đang làm gì) - trên - sàn"
+]
+```
+
+frame_100:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - người2 (không rõ tuổi, không rõ quần áo, không rõ đang làm gì)",
+  "người2 (không rõ tuổi, không rõ quần áo, không rõ đang làm gì) - trên - sàn",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - gần - tường",
+  "người2 (không rõ tuổi, không rõ quần áo, không rõ đang làm gì) - trên - sàn"
+]
+```
+
+frame_101:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn",
+  "sàn - một phần của - vỉa hè"
+]
+```
+
+frame_102:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn",
+  "người2 (không rõ tuổi, không rõ quần áo, không rõ hành động) - trên - vỉa hè",
+  "tường - ở trong - người1 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "vỉa hè - một phần của - sàn"
+]
+```
+
+frame_103:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn",
+  "người2 (không rõ tuổi, không rõ quần áo, không rõ hành động) - trên - sàn",
+  "tường - ở trong - người1 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "sàn - ở trên - chó (xanh lam)",
+  "người2 (không rõ tuổi, không rõ quần áo, không rõ hành động) - ở trên - chó (xanh lam)"
+]
+```
+
+frame_104:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn",
+  "người2 (không rõ tuổi, không rõ quần áo, không rõ hành động) - trên - sàn",
+  "tường - ở trong - người1 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "sàn - ở trên - chó (xanh lam)",
+  "người2 (không rõ tuổi, không rõ quần áo, không rõ hành động) - ở trên - chó (xanh lam)",
+  "ghế (màu nâu) - ở trên - tường",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - ở trên - chó (xanh lam)"
+]
+```
+
+frame_105:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - trên - sàn",
+  "người2 (không rõ tuổi, không rõ quần áo, không rõ hành động) - trên - sàn",
+  "tường - ở trong - người1 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "sàn - ở trên - chó (xanh lam)",
+  "người2 (không rõ tuổi, không rõ quần áo, không rõ hành động) - ở trên - chó (xanh lam)",
+  "ghế (màu nâu) - ở trên - tường",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - ở trên - chó (xanh lam)"
+]
+```
+
+frame_106:
+```json
+[
+  "người1 (kh\u00f4ng r\u00f5 tu\u1ed5i, kh\u00f4ng r\u00f5 qu\u1ea7n \u00e1o, \u0111ang ng\u1ed3i) - tr\u00ean - s\u00e0n",
+  "ng\u01b0\u1eddi2 (kh\u00f4ng r\u00f5 tu\u1ed5i, kh\u00f4ng r\u00f5 qu\u1ea7n \u00e1o, kh\u00f4ng r\u00f5 h\u00e0nh \u0111\u1ed9ng) - tr\u00ean - s\u00e0n",
+  "t\u01b0\u1eddng - \u1edf trong - ng\u01b0\u1eddi1 (kh\u00f4ng r\u00f5 tu\u1ed5i, kh\u00f4ng r\u00f5 qu\u1ea7n \u00e1o, \u0111ang ng\u1ed3i)",
+  "s\u00e0n - \u1edf tr\u00ean - m\u00e8o (m\u00e0u h\u1ed3ng)",
+  "ng\u01b0\u1eddi2 (kh\u00f4ng r\u00f5 tu\u1ed5i, kh\u00f4ng r\u00f5 qu\u1ea7n \u00e1o, kh\u00f4ng r\u00f5 h\u00e0nh \u0111\u1ed9ng) - \u1edf tr\u00ean - m\u00e8o (m\u00e0u h\u1ed3ng)",
+  "m\u00e8o (m\u00e0u h\u1ed3ng) - \u1edf tr\u00ean - ng\u01b0\u1eddi1 (kh\u00f4ng r\u00f5 tu\u1ed5i, kh\u00f4ng r\u00f5 qu\u1ea7n \u00e1o, \u0111ang ng\u1ed3i)"
+]
+```
+
+frame_107:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - trên - sàn",
+  "người2 (không rõ tuổi, không rõ quần áo, đang bế) - trên - sàn",
+  "tường - ở trong - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "sàn - ở trên - mèo (màu hồng)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang bế) - ở trên - mèo (màu hồng)",
+  "mèo (màu hồng) - ở trên - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_108:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - trên - sàn",
+  "người2 (không rõ tuổi, không rõ quần áo, đang bế) - trên - sàn",
+  "tường - ở trong - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "sàn - ở trên - chó (màu xanh)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang bế) - ở trên - chó (màu xanh)",
+  "chó (màu xanh) - ở trên - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_109:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - trên - sàn",
+  "người2 (không rõ tuổi, không rõ quần áo, đang bế) - trên - sàn",
+  "tường - ở trong - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "sàn - ở trên - chó (màu xanh)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang bế) - ở trên - chó (màu xanh)",
+  "chó (màu xanh) - ở trên - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_110:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - trên - sàn",
+  "tường - ở trong - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "sàn - ở trên - chó (màu xanh)",
+  "chó (màu xanh) - ở trên - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_111:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - trên - sàn",
+  "tường - ở trong - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "sàn - ở trên - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_112:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - trên - sàn",
+  "sàn - ở trên - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_113:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - ở trên - sàn",
+  "chó1 (xanh lam) - cạnh - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - cạnh - chó1 (xanh lam)",
+  "sàn - ở trên - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_114:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - ở trên - sàn",
+  "điều khiển1 (màu xanh lam) - cạnh - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - cạnh - điều khiển1 (màu xanh lam)",
+  "sàn - ở trên - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_115:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - bên cạnh - chó1 (màu xanh lam)",
+  "chó1 (màu xanh lam) - bên cạnh - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang ngồi) - bên cạnh - chó1 (màu xanh lam)",
+  "chó1 (màu xanh lam) - bên cạnh - người2 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "sàn - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "sàn - ở dưới - chó1 (màu xanh lam)",
+  "sàn - ở dưới - người2 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "tường - ở trên - người2 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_116:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - bên cạnh - chó1 (màu xanh lam)",
+  "chó1 (màu xanh lam) - bên cạnh - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "sàn - ở dưới - chó1 (màu xanh lam)",
+  "tường - ở trên - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "vỉa hè - ở dưới - chó1 (màu xanh lam)"
+]
+```
+
+frame_117:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - bên cạnh - chó1 (màu xanh lam)",
+  "chó1 (màu xanh lam) - bên cạnh - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "sàn - ở dưới - chó1 (màu xanh lam)",
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - ở trên - sàn"
+]
+```
+
+frame_118:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang nằm) - ở bên cạnh - chó1 (màu xanh lam)",
+  "chó1 (màu xanh lam) - ở bên cạnh - người1 (không rõ tuổi, không rõ quần áo, đang nằm)",
+  "sàn - ở dưới - chó1 (màu xanh lam)",
+  "người1 (không rõ tuổi, không rõ quần áo, đang nằm) - ở trên - sàn"
+]
+```
+
+frame_119:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang nằm) - ở bên cạnh - chó1 (màu xanh lam)",
+  "chó1 (màu xanh lam) - ở bên cạnh - người1 (không rõ tuổi, không rõ quần áo, đang nằm)",
+  "sàn - ở dưới - chó1 (màu xanh lam)",
+  "người1 (không rõ tuổi, không rõ quần áo, đang nằm) - ở trên - sàn",
+  "người1 (không rõ tuổi, không rõ quần áo, đang nằm) - cầm - cốc1 ()",
+  "vỉa hè - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang nằm)"
+]
+```
+
+frame_120:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang bò) - ở bên cạnh - người2 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang đứng) - ở trên - sàn",
+  "sàn - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang bò)"
+]
+```
+
+frame_121:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang bò) - ở bên cạnh - người2 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang đứng) - ở trên - sàn",
+  "sàn - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang bò)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang đứng) - ở trên - chó (không rõ)",
+  "chó (không rõ) - ở trên - sàn"
+]
+```
+
+frame_122:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang bò) - ở bên cạnh - người2 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang đứng) - ở trên - sàn",
+  "sàn - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang bò)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang đứng) - ở trên - chó (không rõ)",
+  "chó (không rõ) - ở trên - sàn"
+]
+```
+
+frame_123:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang nằm) - ở bên cạnh - người2 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang đứng) - ở trên - sàn",
+  "sàn - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang nằm)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang đứng) - ở trên - chó (không rõ)",
+  "chó (không rõ) - ở trên - sàn"
+]
+```
+
+frame_124:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang nằm) - ở bên cạnh - người2 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang cúi người) - ở trên - sàn",
+  "sàn - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang nằm)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang cúi người) - ở trên - chó (không rõ)",
+  "chó (không rõ) - ở trên - sàn"
+]
+```
+
+frame_125:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang nằm) - ở bên cạnh - người2 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang cúi người) - ở trên - sàn",
+  "sàn - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang nằm)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang cúi người) - ở trên - chó (không rõ)",
+  "chó (không rõ) - ở trên - sàn"
+]
+```
+
+frame_126:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - ở bên cạnh - người2 (không rõ tuổi, không rõ quần áo, đang đứng)",
+  "người2 (không rõ tuổi, không rõ quần áo, đang đứng) - ở trên - sàn",
+  "sàn - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_127:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - ở bên cạnh - chó (màu xanh)",
+  "chó (màu xanh) - ở trên - sàn",
+  "sàn - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_128:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - ở bên cạnh - chó (màu xanh)",
+  "chó (màu xanh) - ở trên - sàn",
+  "sàn - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_129:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - ở bên cạnh - chó (màu xanh)",
+  "chó (màu xanh) - ở trên - sàn",
+  "sàn - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_130:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - ở bên cạnh - người2 (không rõ tuổi, không rõ quần áo, không rõ hành động)",
+  "người2 (không rõ tuổi, không rõ quần áo, không rõ hành động) - ở trên - sàn",
+  "sàn - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_131:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - ở bên cạnh - người2 (không rõ tuổi, mặc áo đỏ, không rõ hành động)",
+  "người2 (không rõ tuổi, mặc áo đỏ, không rõ hành động) - ở trên - sàn",
+  "sàn - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)"
+]
+```
+
+frame_132:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - ở bên cạnh - người2 (không rõ tuổi, mặc áo đỏ, đang ngồi)",
+  "người2 (không rõ tuổi, mặc áo đỏ, đang ngồi) - ở trên - sàn",
+  "sàn - ở dưới - người1 (không rõ tuổi, không rõ quần áo, đang ngồi)",
+  "người2 (không rõ tuổi, mặc áo đỏ, đang ngồi) - giữ - gấu bông (màu hồng)",
+  "người2 (không rõ tuổi, mặc áo đỏ, đang ngồi) - ở trước - tường",
+  "gấu bông (màu hồng) - ở trên - sàn"
+]
+```
+
+frame_133:
+```json
+[
+  "người1 (kh\u00f4ng r\u00f5 tu\u1ed5i, kh\u00f4ng r\u00f5 qu\u1ea7n \u00e1o, \u0111ang \u0111\u1ee9ng) - \u1edf b\u00ean c\u1ea1nh - ng\u01b0\u1eddi2 (kh\u00f4ng r\u00f5 tu\u1ed5i, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111\u1ee9ng)",
+  "ng\u01b0\u1eddi2 (kh\u00f4ng r\u00f5 tu\u1ed5i, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u00ean - s\u00e0n",
+  "s\u00e0n - \u1edf d\u01b0\u1edbi - ng\u01b0\u1eddi1 (kh\u00f4ng r\u00f5 tu\u1ed5i, kh\u00f4ng r\u00f5 qu\u1ea7n \u00e1o, \u0111ang \u0111\u1ee9ng)",
+  "ng\u01b0\u1eddi2 (kh\u00f4ng r\u00f5 tu\u1ed5i, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111\u1ee9ng) - gi\u1eef - g\u1ea5u b\u00f4ng (m\u00e0u h\u1ed3ng)",
+  "ng\u01b0\u1eddi2 (kh\u00f4ng r\u00f5 tu\u1ed5i, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111\u1ee9ng) - \u1edf tr\u01b0\u1edbc - t\u01b0\u1eddng",
+  "g\u1ea5u b\u00f4ng (m\u00e0u h\u1ed3ng) - \u1edf tr\u00ean - s\u00e0n"
+]
+```
+
+frame_134:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - ở trên - sàn",
+  "người2 (không rõ tuổi, mặc áo đỏ, đang ngồi) - ở trên - sàn",
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - ở trước - tường",
+  "người2 (không rõ tuổi, mặc áo đỏ, đang ngồi) - giữ - gấu bông (màu hồng)"
+]
+```
+
+frame_135:
+```json
+[
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - ở trên - sàn",
+  "người2 (không rõ tuổi, mặc áo đỏ, đang ngồi) - ở trên - sàn",
+  "người1 (không rõ tuổi, không rõ quần áo, đang ngồi) - ở trước - tường",
+  "người2 (không rõ tuổi, mặc áo đỏ, đang ngồi) - ở trên - ghế (màu đỏ)"
+]
+```
+

@@ -1,0 +1,443 @@
+frame_0:
+```json
+[
+  "Người1 (trẻ - nữ, mặc váy hồng, đang bò, tò mò) - nằm trên - Sàn gỗ",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang bò, tò mò) - ở cạnh - Sách",
+  "Sách - ở trên - Sàn gỗ"
+]
+```
+
+frame_1:
+```json
+[
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, tò mò) - ở cạnh - Sách"
+]
+```
+
+frame_2:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, tò mò)",
+  "Mèo - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, tò mò)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, tò mò) - ở cạnh - Sách"
+]
+```
+
+frame_3:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang nằm, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang nằm, vui vẻ) - ở cạnh - Sách",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang nằm, vui vẻ) - ở cạnh - Quả bóng (màu vàng)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang nằm, vui vẻ) - ở trên - Sàn gỗ"
+]
+```
+
+frame_4:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang nằm, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang nằm, vui vẻ) - ở cạnh - Sách",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang nằm, vui vẻ) - ở cạnh - Quả bóng (màu vàng)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang nằm, vui vẻ) - ở trên - Sàn gỗ"
+]
+```
+
+frame_5:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ) - ở cạnh - Sách1",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ) - ở cạnh - Quả bóng (màu vàng)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ) - ở trên - Sàn gỗ",
+  "Sách1 - ở cạnh - Sách2"
+]
+```
+
+frame_6:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang bò, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang bò, vui vẻ) - ở trên - Sàn gỗ"
+]
+```
+
+frame_7:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ) - ở trên - Sàn gỗ",
+  "Mèo1 (màu tím) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ)"
+]
+```
+
+frame_8:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang bò, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang bò, vui vẻ) - ở trên - Sàn gỗ",
+  "Sách1 (màu xanh lá cây) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang bò, vui vẻ)"
+]
+```
+
+frame_9:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang bò, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang bò, vui vẻ) - ở trên - Sàn gỗ",
+  "Sách1 (màu xanh lá cây) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang bò, vui vẻ)",
+  "Mèo1 - ở cạnh - Sàn gỗ",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang bò, vui vẻ) - ở cạnh - Mèo1"
+]
+```
+
+frame_10:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ) - ở trên - Sàn gỗ",
+  "Sách1 (màu xanh lá cây) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ)",
+  "Mèo1 - ở cạnh - Sàn gỗ",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ) - ở cạnh - Mèo1"
+]
+```
+
+frame_11:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ) - ở trên - Sàn gỗ",
+  "Sách1 (màu xanh lá cây) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ)"
+]
+```
+
+frame_12:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ) - ở trên - Sàn gỗ",
+  "Xe tải1 (màu xanh) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ) - ở cạnh - Xe tải1 (màu xanh)"
+]
+```
+
+frame_13:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ) - ở trên - Sàn gỗ",
+  "Xe tải1 (màu xanh) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, vui vẻ) - ở cạnh - Xe tải1 (màu xanh)"
+]
+```
+
+frame_14:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang nhìn, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang nhìn, vui vẻ) - ở trên - Sàn gỗ",
+  "Xe tải1 (màu xanh) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang nhìn, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang nhìn, vui vẻ) - ở cạnh - Xe tải1 (màu xanh)",
+  "Táo1 - ở gần - Người1 (trẻ - nữ, mặc váy hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_15:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang nhìn, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang nhìn, vui vẻ) - ở trên - Sàn gỗ",
+  "Xe tải1 (màu xanh) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang nhìn, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang nhìn, vui vẻ) - ở cạnh - Xe tải1 (màu xanh)",
+  "Táo1 - ở gần - Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ)"
+]
+```
+
+frame_16:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ) - ở trên - Sàn gỗ",
+  "Xe tải1 (màu xanh) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ) - ở cạnh - Xe tải1 (màu xanh)",
+  "Táo1 - ở gần - Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ)"
+]
+```
+
+frame_17:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ) - ở trên - Sàn gỗ",
+  "Xe tải1 (màu xanh) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ) - ở cạnh - Xe tải1 (màu xanh)",
+  "Táo1 - ở gần - Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ)",
+  "Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang cầm đồ vật, bình thường) - ở cạnh - Xe tải1 (màu xanh)"
+]
+```
+
+frame_18:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ) - ở trên - Sàn gỗ",
+  "Xe tải1 (màu xanh) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ) - ở cạnh - Xe tải1 (màu xanh)",
+  "Táo1 - ở gần - Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ)",
+  "Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang cầm đồ vật, bình thường) - ở cạnh - Xe tải1 (màu xanh)",
+  "Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang cầm đồ vật, bình thường) - ở gần - Táo1",
+  "Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang cầm đồ vật, bình thường) - ở gần - Người1 (trẻ - nữ, mặc váy hồng, đang với lấy, vui vẻ)"
+]
+```
+
+frame_19:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, vui vẻ) - ở trên - Sàn gỗ",
+  "Xe tải1 (màu xanh) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, vui vẻ)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, vui vẻ) - ở cạnh - Xe tải1 (màu xanh)",
+  "Táo1 - ở gần - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, vui vẻ)",
+  "Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang đứng, bình thường) - ở cạnh - Xe tải1 (màu xanh)",
+  "Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang đứng, bình thường) - ở gần - Táo1",
+  "Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang đứng, bình thường) - ở gần - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, vui vẻ)"
+]
+```
+
+frame_20:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang đứng, bình thường)",
+  "Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang đứng, bình thường) - ở trên - Sàn gỗ",
+  "Xe tải1 (màu xanh) - ở cạnh - Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang đứng, bình thường)",
+  "Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang đứng, bình thường) - ở cạnh - Xe tải1 (màu xanh)",
+  "Táo1 - ở gần - Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang đứng, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, vui vẻ) - ở gần - Táo1",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, vui vẻ) - ở gần - Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang đứng, bình thường)"
+]
+```
+
+frame_21:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)",
+  "Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang đứng, bình thường) - ở gần - Xe tải1 (màu xanh)",
+  "Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang đứng, bình thường) - ở gần - Sàn gỗ",
+  "Xe tải1 (màu xanh) - ở cạnh - Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang đứng, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở cạnh - Người2 (trung niên - chưa rõ giới tính, mặc áo cam, đang đứng, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở trên - Sàn gỗ"
+]
+```
+
+frame_22:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở cạnh - Táo1 (màu xanh lá cây)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở gần - Xe tải1 (màu xanh)",
+  "Táo1 (màu xanh lá cây) - ở trên - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)",
+  "Xe tải1 (màu xanh) - ở gần - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)"
+]
+```
+
+frame_23:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường) - ở cạnh - Táo1 (màu xanh lá cây)",
+  "Táo1 (màu xanh lá cây) - ở trên - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường)"
+]
+```
+
+frame_24:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường) - ở cạnh - Táo1 (màu xanh lá cây)",
+  "Táo1 (màu xanh lá cây) - ở trên - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường) - ở cạnh - Xe tải (màu xanh lá cây)",
+  "Xe tải (màu xanh lá cây) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường)"
+]
+```
+
+frame_25:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở cạnh - Táo1 (màu vàng)",
+  "Táo1 (màu vàng) - ở trên - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở cạnh - Xe tải (màu xanh dương)",
+  "Xe tải (màu xanh dương) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)"
+]
+```
+
+frame_26:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở cạnh - Táo1 (màu vàng)",
+  "Táo1 (màu vàng) - ở trên - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở cạnh - Xe tải (màu xanh dương)",
+  "Xe tải (màu xanh dương) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)"
+]
+```
+
+frame_27:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở cạnh - Táo1 (màu vàng)",
+  "Táo1 (màu vàng) - ở trên - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở cạnh - Xe tải (màu xanh dương)",
+  "Xe tải (màu xanh dương) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)"
+]
+```
+
+frame_28:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở cạnh - Táo1 (màu vàng)",
+  "Táo1 (màu vàng) - ở trên - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở cạnh - Xe tải (màu xanh dương)",
+  "Xe tải (màu xanh dương) - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)",
+  "Mèo1 - ở trên - Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang đứng, bình thường) - ở cạnh - Mèo1"
+]
+```
+
+frame_29:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường) - ở cạnh - Táo1 (màu vàng)",
+  "Táo1 (màu vàng) - ở trên - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường)"
+]
+```
+
+frame_30:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường)",
+  "Người1 (trẻ - nữ, mặc váy hồng, đang ngồi, bình thường) - ở trên - Sàn gỗ"
+]
+```
+
+frame_31:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường)",
+  "Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ở cạnh - Tường gỗ",
+  "Sách - ở trên - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường)"
+]
+```
+
+frame_32:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang nhìn, bình thường)",
+  "Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang nhìn, bình thường) - ở cạnh - Tường gỗ",
+  "Sách - ở trên - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang nhìn, bình thường)",
+  "Tường - ở trên - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang nhìn, bình thường)"
+]
+```
+
+frame_33:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường)",
+  "Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ở cạnh - Tường gỗ",
+  "Sách - ở trên - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường)",
+  "Tường - ở trên - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường)"
+]
+```
+
+frame_34:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường)",
+  "Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ở cạnh - Tường gỗ",
+  "Sách - ở trên - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường)",
+  "Tường - ở trên - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường)",
+  "Tường - ở trên - Tường gỗ"
+]
+```
+
+frame_35:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường)",
+  "Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ở cạnh - Tường gỗ",
+  "Sách - ở trên - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang xem, bình thường)",
+  "Tường - ở trên - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang xem, bình thường)",
+  "Tường - ở trên - Tường gỗ"
+]
+```
+
+frame_36:
+```json
+[
+  "Sàn gỗ - ở cạnh - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường)",
+  "Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ở trên - Sàn gỗ",
+  "Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang ngồi, bình thường) - ở cạnh - Tường gỗ",
+  "Sách - ở trên - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang nhìn, bình thường)",
+  "Tường - ở trên - Người1 (trẻ - chưa rõ giới tính, mặc áo hồng, đang nhìn, bình thường)",
+  "Tường - ở trên - Tường gỗ"
+]
+```
+
+frame_37:
+```json
+[
+  "Sàn gỗ - ở cạnh - Mèo (màu tím)",
+  "Mèo (màu tím) - ở trên - Sàn gỗ",
+  "Mèo (màu tím) - ở cạnh - Tường gỗ",
+  "Sách - ở trên - Mèo (màu tím)",
+  "Tường - ở trên - Mèo (màu tím)",
+  "Tường - ở trên - Tường gỗ"
+]
+```
+
+frame_38:
+```json
+[
+  "Người1 (không rõ - không rõ, không rõ, không rõ, không rõ) - ở cạnh - Tường gỗ",
+  "Người1 (không rõ - không rõ, không rõ, không rõ, không rõ) - ở cạnh - Sàn gỗ",
+  "Sách - ở trên - Người1 (không rõ - không rõ, không rõ, không rõ, không rõ)",
+  "Sàn gỗ - ở cạnh - Tường gỗ"
+]
+```
+
+frame_39:
+```json
+[
+  "Người1 (không rõ - không rõ, không rõ, không rõ, không rõ) - ở cạnh - Tường gỗ",
+  "Người1 (không rõ - không rõ, không rõ, không rõ, không rõ) - ở cạnh - Sàn gỗ",
+  "Sách - ở trên - Người1 (không rõ - không rõ, không rõ, không rõ, không rõ)",
+  "Sàn gỗ - ở cạnh - Tường gỗ"
+]
+```
+
+frame_40:
+```json
+[
+  "Người1 (không rõ - không rõ, không rõ, đang giơ tay, không rõ) - ở cạnh - Sàn gỗ",
+  "Người1 (không rõ - không rõ, không rõ, đang giơ tay, không rõ) - ở cạnh - Sách",
+  "Sách - ở trên - Sàn gỗ",
+  "Sách - ở trên - Người1 (không rõ - không rõ, không rõ, đang giơ tay, không rõ)"
+]
+```
+

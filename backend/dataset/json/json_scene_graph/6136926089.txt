@@ -1,0 +1,1176 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc áo hoa xanh tím, đang chơi) - giữ - ghế1 (màu xanh lá cây)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang chơi) - đứng trên - thảm (nhiều màu)",
+  "ghế1 (màu xanh lá cây) - ở trên - thảm (nhiều màu)",
+  "xe tải1 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao1 (màu xanh lam) - ở trên - sàn nhà (màu tím)",
+  "giấy1 - ở trên - tường1",
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "ghế đẩu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "gấu bông1 - ở trên - sàn nhà (màu tím)"
+]
+```
+
+frame_1:
+```json
+[
+  "hàng rào1 - ở phía trên - sàn nhà (màu tím)",
+  "cầu thang1 - ở phía trên - sàn nhà (màu tím)",
+  "xe hơi1 (màu xanh lam) - ở phía trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang đứng) - ở trên - thảm (nhiều màu)",
+  "tường1 - ở phía trên - sàn nhà (màu tím)",
+  "ghế đẩu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "gấu bông1 - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1"
+]
+```
+
+frame_2:
+```json
+[
+  "hàng rào1 - ở phía trên - sàn nhà (màu tím)",
+  "cầu thang1 - ở phía trên - sàn nhà (màu tím)",
+  "xe hơi1 (màu xanh lam) - ở phía trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang đứng) - ở trên - thảm (nhiều màu)",
+  "tường1 - ở phía trên - sàn nhà (màu tím)",
+  "ghế dài1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "ghế đẩu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "gấu bông1 - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "bóng thể thao1 - bên cạnh - người1 (trẻ, mặc áo hoa xanh tím, đang đứng)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)"
+]
+```
+
+frame_3:
+```json
+[
+  "hàng rào1 - ở phía trên - sàn nhà (màu tím)",
+  "cầu thang1 - ở phía trên - sàn nhà (màu tím)",
+  "xe hơi1 (màu xanh lam) - ở phía trên - thảm (nhiều màu)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang ngồi) - ở trên - thảm (nhiều màu)",
+  "tường1 - ở phía trên - sàn nhà (màu tím)",
+  "ghế dài1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "ghế đẩu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "gấu bông1 - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "bóng thể thao1 - bên cạnh - người1 (trẻ, mặc áo hoa xanh tím, đang ngồi)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ, mặc áo hoa xanh tím, đang ngồi) - ở trên - thảm (nhiều màu)",
+  "tường1 - ở phía trên - sàn nhà (màu tím)",
+  "ghế dài1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "ghế đẩu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "người2 (trẻ, mặc áo hồng, đang đứng) - đối diện - hoa1 (màu cam)",
+  "vợt tennis1 - ở trên - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "người2 (trẻ, mặc áo hồng, đang đứng) - ở trên - sàn nhà (màu tím)",
+  "người3 (trẻ, mặc áo hồng, đang đứng) - ở trên - cây1",
+  "cây1 - ở trên - sàn nhà (màu tím)",
+  "hoa1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - đường1",
+  "đường1 - ở trên - sàn nhà (màu tím)"
+]
+```
+
+frame_5:
+```json
+[
+  "trần nhà - ở trên - tường1",
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "ghế dài1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "ghế đậu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "người2 (trẻ, mặc áo hồng, đang đứng) - đối diện - hoa1 (màu cam)",
+  "vợt tennis1 - ở trên - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "người2 (trẻ, mặc áo hồng, đang đứng) - ở trên - sàn nhà (màu tím)",
+  "hoa1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - đường1",
+  "đường1 - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao1 - ở trên - sàn nhà (màu tím)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang ngồi) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "người3 (trẻ, mặc áo hồng, đang đứng) - ở trên - thảm (nhiều màu)"
+]
+```
+
+frame_6:
+```json
+[
+  "trần nhà - ở trên - tường1",
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "ghế dài1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "ghế đậu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "người2 (trẻ, mặc áo hồng, đang đứng) - đối diện - hoa1 (màu cam)",
+  "vợt tennis1 - ở trên - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "người2 (trẻ, mặc áo hồng, đang đứng) - ở trên - sàn nhà (màu tím)",
+  "hoa1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - đường1",
+  "đường1 - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao1 - ở trên - sàn nhà (màu tím)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang ngồi) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "người3 (trẻ, mặc áo hồng, đang đứng) - ở trên - thảm (nhiều màu)"
+]
+```
+
+frame_7:
+```json
+[
+  "trần nhà - ở trên - tường1",
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "ghế dài1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "ghế đậu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "người2 (trẻ, mặc áo hồng, đang đứng) - đối diện - hoa1 (màu cam)",
+  "vợt tennis1 - ở trên - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "người2 (trẻ, mặc áo hồng, đang đứng) - ở trên - sàn nhà (màu tím)",
+  "hoa1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - đường1",
+  "đường1 - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao1 - ở trên - sàn nhà (màu tím)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang ngồi) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "người3 (trẻ, mặc áo hồng, đang đứng) - ở trên - vỉa hè",
+  "tường2 - ở trên - tường1",
+  "hàng rào1 - ở trên - vỉa hè",
+  "ghế dài2 (màu hồng) - ở trên - vỉa hè",
+  "cây1 - ở trên - vỉa hè",
+  "đường2 - ở trên - vỉa hè",
+  "xe kéo1 - ở gần - người3 (trẻ, mặc áo hồng, đang đứng)",
+  "người3 (trẻ, mặc áo hồng, đang đứng) - cầm - xe kéo1",
+  "xe1 (màu trắng) - ở trên - đường2"
+]
+```
+
+frame_8:
+```json
+[
+  "trần nhà - ở trên - tường1",
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "ghế dài1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "ghế đậu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "người2 (trẻ, mặc áo hồng, đang đứng) - đối diện - hoa1 (màu cam)",
+  "vợt tennis1 - ở trên - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "người2 (trẻ, mặc áo hồng, đang đứng) - ở trên - sàn nhà (màu tím)",
+  "hoa1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - đường1",
+  "đường1 - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao1 - ở trên - sàn nhà (màu tím)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang ngồi) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "tường2 - ở trên - tường1",
+  "hàng rào1 - ở trên - vỉa hè",
+  "ghế dài2 (màu hồng) - ở trên - vỉa hè",
+  "cây1 - ở trên - vỉa hè",
+  "đường2 - ở trên - vỉa hè",
+  "xe kẹo1 - ở gần - người3 (trẻ, mặc áo hồng, đang đứng)",
+  "người3 (trẻ, mặc áo hồng, đang đứng) - cầm - xe kẹo1",
+  "người3 (trẻ, mặc áo hồng, đang đứng) - ở trên - vỉa hè",
+  "xe1 (màu trắng) - ở trên - đường2",
+  "ghế1 (màu vàng) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - đường1",
+  "cầu thang1 - ở trên - vỉa hè",
+  "va li1 (màu xanh lá cây) - ở trên - vỉa hè",
+  "chim1 - ở gần - người3 (trẻ, mặc áo hồng, đang đứng)"
+]
+```
+
+frame_9:
+```json
+[
+  "trần nhà - ở trên - tường1",
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "ghế dài1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "ghế đậu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "người2 (trẻ, mặc áo hồng, đang đứng) - đối diện - hoa1 (màu cam)",
+  "vợt tennis1 - ở trên - người2 (trẻ, mặc áo hồng, đang đứng)",
+  "người2 (trẻ, mặc áo hồng, đang đứng) - ở trên - sàn nhà (màu tím)",
+  "hoa1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - đường1",
+  "đường1 - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao1 - ở trên - sàn nhà (màu tím)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang ngồi) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "tường2 - ở trên - tường1",
+  "hàng rào1 - ở trên - vỉa hè",
+  "ghế dài2 (màu hồng) - ở trên - vỉa hè",
+  "cây1 - ở trên - vỉa hè",
+  "đường2 - ở trên - vỉa hè",
+  "xe kẹo1 - ở gần - người3 (trẻ, mặc áo hồng, đang đẩy xe)",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - cầm - xe kẹo1",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - ở trên - vỉa hè",
+  "xe1 (màu trắng) - ở trên - đường2",
+  "ghế1 (màu vàng) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - đường1",
+  "cầu thang1 - ở trên - vỉa hè",
+  "va li1 (màu xanh lá cây) - ở trên - vỉa hè",
+  "chim1 - ở gần - người3 (trẻ, mặc áo hồng, đang đẩy xe)",
+  "chuối1 (màu vàng) - ở trên - thảm (nhiều màu)",
+  "ghế2 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "tường3 - ở trên - hàng rào1",
+  "bóng thể thao2 - ở trên - thảm (nhiều màu)"
+]
+```
+
+frame_10:
+```json
+[
+  "trần nhà - ở trên - tường1",
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "ghế dài1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "ghế đậu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "người2 (trẻ, mặc áo hồng, đang đẩy xe) - đối diện - chuối1 (màu vàng)",
+  "vợt tennis1 - ở trên - người2 (trẻ, mặc áo hồng, đang đẩy xe)",
+  "người2 (trẻ, mặc áo hồng, đang đẩy xe) - ở trên - sàn nhà (màu tím)",
+  "chuối1 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - đường1",
+  "đường1 - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao1 - ở trên - sàn nhà (màu tím)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang ngồi) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "tường2 - ở trên - tường1",
+  "hàng rào1 - ở trên - vỉa hè",
+  "ghế dài2 (màu hồng) - ở trên - vỉa hè",
+  "cây1 - ở trên - vỉa hè",
+  "đường2 - ở trên - vỉa hè",
+  "xe kéo1 - ở gần - người3 (trẻ, mặc áo hồng, đang đẩy xe)",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - cầm - xe kéo1",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - ở trên - vỉa hè",
+  "xe1 (màu trắng) - ở trên - đường2",
+  "ghế1 (màu vàng) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - đường1",
+  "cầu thang1 - ở trên - vỉa hè",
+  "va li1 (màu xanh lá cây) - ở trên - vỉa hè",
+  "chim1 - ở gần - người3 (trẻ, mặc áo hồng, đang đẩy xe)",
+  "chuối1 (màu vàng) - ở trên - thảm (nhiều màu)",
+  "ghế2 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "tường3 - ở trên - hàng rào1",
+  "bóng thể thao2 - ở trên - thảm (nhiều màu)",
+  "mèo1 (màu hồng) - ở trên - thảm (nhiều màu)"
+]
+```
+
+frame_11:
+```json
+[
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "ghế dài1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "ghế đậu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "người2 (trẻ, mặc áo hồng, đang đi bộ) - đối diện - chuối1 (màu vàng)",
+  "vợt tennis1 - ở trên - người2 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người2 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - sàn nhà (màu tím)",
+  "chuối1 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - đường1",
+  "đường1 - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao1 - ở trên - sàn nhà (màu tím)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang ngồi) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "tường2 - ở trên - tường1",
+  "hàng rào1 - ở trên - vỉa hè",
+  "ghế dài2 (màu hồng) - ở trên - vỉa hè",
+  "cây1 - ở trên - vỉa hè",
+  "đường2 - ở trên - vỉa hè",
+  "xe kéo1 - ở gần - người3 (trẻ, mặc áo hồng, đang đẩy xe)",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - cầm - xe kéo1",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - ở trên - vỉa hè",
+  "xe1 (màu trắng) - ở trên - đường2",
+  "ghế1 (màu vàng) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - đường1",
+  "cầu thang1 - ở trên - vỉa hè",
+  "va li1 (màu xanh lá cây) - ở trên - vỉa hè",
+  "chuối1 (màu vàng) - ở trên - thảm (nhiều màu)",
+  "ghế2 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "tường3 - ở trên - hàng rào1",
+  "bóng thể thao2 - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - thảm (nhiều màu)",
+  "chuối1 (màu xanh lá cây) - ở trên - tay (màu trắng)",
+  "tay (màu trắng) - ở trên - thảm (nhiều màu)"
+]
+```
+
+frame_12:
+```json
+[
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "ghế dài1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "ghế đậu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "vợt tennis1 - ở trên - người2 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người2 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - sàn nhà (màu tím)",
+  "chuối1 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - đường1",
+  "đường1 - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao1 - ở trên - sàn nhà (màu tím)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang ngồi) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "tường2 - ở trên - tường1",
+  "hàng rào1 - ở trên - vỉa hè",
+  "ghế dài2 (màu hồng) - ở trên - vỉa hè",
+  "cây1 - ở trên - vỉa hè",
+  "đường2 - ở trên - vỉa hè",
+  "xe kéo1 - ở gần - người3 (trẻ, mặc áo hồng, đang đẩy xe)",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - cầm - xe kéo1",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - ở trên - vỉa hè",
+  "xe1 (màu trắng) - ở trên - đường2",
+  "ghế1 (màu vàng) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - đường1",
+  "cầu thang1 - ở trên - vỉa hè",
+  "va li1 (màu xanh lá cây) - ở trên - vỉa hè",
+  "chuối1 (màu vàng) - ở trên - thảm (nhiều màu)",
+  "ghế2 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "tường3 - ở trên - hàng rào1",
+  "bóng thể thao2 - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - ở trên - thảm (nhiều màu)",
+  "chuối1 (màu xanh lá cây) - ở trên - tay (màu trắng)",
+  "tay (màu trắng) - ở trên - thảm (nhiều màu)",
+  "người4 (trẻ, mặc đồ đỏ, đang đứng) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao3 (màu xanh dương) - ở gần - người4 (trẻ, mặc đồ đỏ, đang đứng)",
+  "ghế đậu1 (màu cam) - ở gần - người4 (trẻ, mặc đồ đỏ, đang đứng)",
+  "ghế dài1 (màu hồng) - ở gần - ghế đậu1 (màu cam)"
+]
+```
+
+frame_13:
+```json
+[
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "ghế dài1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "ghế đậu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "vợt tennis1 - ở trên - người2 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người2 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - sàn nhà (màu tím)",
+  "chuối1 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - đường1",
+  "đường1 - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao1 - ở trên - sàn nhà (màu tím)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang ngồi) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "tường2 - ở trên - tường1",
+  "hàng rào1 - ở trên - vỉa hè",
+  "ghế dài2 (màu hồng) - ở trên - vỉa hè",
+  "cây1 - ở trên - vỉa hè",
+  "đường2 - ở trên - vỉa hè",
+  "xe kéo1 - ở gần - người3 (trẻ, mặc áo hồng, đang đẩy xe)",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - cầm - xe kéo1",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - ở trên - vỉa hè",
+  "xe1 (màu trắng) - ở trên - đường2",
+  "ghế1 (màu vàng) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - đường1",
+  "cầu thang1 - ở trên - vỉa hè",
+  "va li1 (màu xanh lá cây) - ở trên - vỉa hè",
+  "chuối1 (màu vàng) - ở trên - thảm (nhiều màu)",
+  "ghế2 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "tường3 - ở trên - hàng rào1",
+  "bóng thể thao2 - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - ở trên - thảm (nhiều màu)",
+  "chuối1 (màu xanh lá cây) - ở trên - tay (màu trắng)",
+  "tay (màu trắng) - ở trên - thảm (nhiều màu)",
+  "người4 (trẻ, mặc đồ đỏ, đang đứng) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao3 (màu xanh dương) - ở gần - người4 (trẻ, mặc đồ đỏ, đang đứng)",
+  "ghế đậu1 (màu cam) - ở gần - người4 (trẻ, mặc đồ đỏ, đang đứng)",
+  "ghế dài1 (màu hồng) - ở gần - ghế đậu1 (màu cam)"
+]
+```
+
+frame_14:
+```json
+[
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "ghế dài1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "ghế đậu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "vợt tennis1 - ở trên - người2 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người2 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - sàn nhà (màu tím)",
+  "chuối1 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - đường1",
+  "đường1 - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao1 - ở trên - sàn nhà (màu tím)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang ngồi) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "tường2 - ở trên - tường1",
+  "hàng rào1 - ở trên - vỉa hè",
+  "ghế dài2 (màu hồng) - ở trên - vỉa hè",
+  "cây1 - ở trên - vỉa hè",
+  "đường2 - ở trên - vỉa hè",
+  "xe kéo1 - ở gần - người3 (trẻ, mặc áo hồng, đang đẩy xe)",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - cầm - xe kéo1",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - ở trên - vỉa hè",
+  "xe1 (màu trắng) - ở trên - đường2",
+  "ghế1 (màu vàng) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - đường1",
+  "cầu thang1 - ở trên - vỉa hè",
+  "va li1 (màu xanh lá cây) - ở trên - vỉa hè",
+  "chuối1 (màu vàng) - ở trên - thảm (nhiều màu)",
+  "ghế2 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "tường3 - ở trên - hàng rào1",
+  "bóng thể thao2 - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - ở trên - thảm (nhiều màu)",
+  "chuối1 (màu xanh lá cây) - ở trên - tay (màu trắng)",
+  "tay (màu trắng) - ở trên - thảm (nhiều màu)",
+  "người4 (trẻ, mặc đồ đỏ, đang đứng) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao3 (màu xanh dương) - ở gần - người4 (trẻ, mặc đồ đỏ, đang đứng)",
+  "ghế đậu1 (màu cam) - ở gần - người4 (trẻ, mặc đồ đỏ, đang đứng)",
+  "ghế dài1 (màu hồng) - ở gần - ghế đậu1 (màu cam)",
+  "người3 (trẻ, mặc áo hồng, đang chơi bóng) - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao3 (màu xanh dương) - ở gần - sàn nhà (màu tím)",
+  "thảm (nhiều màu) - ở gần - người4 (trẻ, mặc đồ đỏ, đang đứng)",
+  "người4 (trẻ, mặc đồ đỏ, đang đứng) - ở trên - thảm (nhiều màu)"
+]
+```
+
+frame_15:
+```json
+[
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "ghế dài1 (màu hồng) - ở trên - sàn nhà (màu tím)",
+  "ghế đậu1 (màu cam) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "vợt tennis1 - ở trên - người2 (trẻ, mặc áo hồng, đang đi bộ)",
+  "người2 (trẻ, mặc áo hồng, đang đi bộ) - ở trên - sàn nhà (màu tím)",
+  "chuối1 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - đường1",
+  "đường1 - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao1 - ở trên - sàn nhà (màu tím)",
+  "người1 (trẻ, mặc áo hoa xanh tím, đang ngồi) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "tường2 - ở trên - tường1",
+  "hàng rào1 - ở trên - vỉa hè",
+  "ghế dài2 (màu hồng) - ở trên - vỉa hè",
+  "cây1 - ở trên - vỉa hè",
+  "đường2 - ở trên - vỉa hè",
+  "xe kéo1 - ở gần - người3 (trẻ, mặc áo hồng, đang đẩy xe)",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - cầm - xe kéo1",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - ở trên - vỉa hè",
+  "xe1 (màu trắng) - ở trên - đường2",
+  "ghế1 (màu vàng) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - đường1",
+  "cầu thang1 - ở trên - vỉa hè",
+  "va li1 (màu xanh lá cây) - ở trên - vỉa hè",
+  "chuối1 (màu vàng) - ở trên - thảm (nhiều màu)",
+  "ghế2 (màu vàng) - ở trên - sàn nhà (màu tím)",
+  "tường3 - ở trên - hàng rào1",
+  "bóng thể thao2 - ở trên - thảm (nhiều màu)",
+  "người3 (trẻ, mặc áo hồng, đang đẩy xe) - ở trên - thảm (nhiều màu)",
+  "chuối1 (màu xanh lá cây) - ở trên - tay (màu trắng)",
+  "tay (màu trắng) - ở trên - thảm (nhiều màu)",
+  "người4 (trẻ, mặc đồ đỏ, đang đứng) - ở trên - thảm (nhiều màu)",
+  "thảm (nhiều màu) - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao3 (màu xanh dương) - ở gần - người4 (trẻ, mặc đồ đỏ, đang đứng)",
+  "ghế đậu1 (màu cam) - ở gần - người4 (trẻ, mặc đồ đỏ, đang đứng)",
+  "ghế dài1 (màu hồng) - ở gần - ghế đậu1 (màu cam)",
+  "người3 (trẻ, mặc áo hồng, đang chơi bóng) - ở trên - sàn nhà (màu tím)",
+  "bóng thể thao3 (màu xanh dương) - ở gần - sàn nhà (màu tím)",
+  "thảm (nhiều màu) - ở gần - người4 (trẻ, mặc đồ đỏ, đang đứng)",
+  "người4 (trẻ, mặc đồ đỏ, đang đứng) - ở trên - thảm (nhiều màu)",
+  "người2 (trẻ, mặc áo hồng, đang đứng) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - sàn nhà (màu tím)"
+]
+```
+
+frame_16:
+```json
+[
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "người2 (trẻ, mặc áo hồng, đang đứng) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "tường1 - ở trên - đường1",
+  "đường1 - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "gương - vật ở trong - đồ vật gương",
+  "gậy bóng chày1 (màu trắng) - ở trên - tường1",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - sàn nhà (màu tím)"
+]
+```
+
+frame_17:
+```json
+[
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - sàn nhà (màu tím)",
+  "sàn nhà (màu tím) - là - đường1",
+  "tường1 - ở trên - đường1",
+  "đường1 - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - sàn nhà (màu tím)",
+  "gương - vật ở trong - đồ vật gương",
+  "gậy bóng chày1 (màu trắng) - ở trên - tường1",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - người5 (trẻ, mặc áo hồng, đang đứng)",
+  "người5 (trẻ, mặc áo hồng, đang đứng) - ở trên - sàn nhà (màu tím)",
+  "tường1 - ở trên - người5 (trẻ, mặc áo hồng, đang nhìn lên)"
+]
+```
+
+frame_18:
+```json
+[
+  "c\u1ea7u tr\u01b0\u1ee3t (m\u00e0u v\u00e0ng) - \u1edf ph\u00eda sau - ng\u01b0\u1eddi5 (tr\u1ebb, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang ng\u1ed3i)"
+]
+```
+
+frame_19:
+```json
+["người1 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - cầu trượt (màu vàng)", "người1 (trẻ, mặc áo hồng, đang đứng) - ở - sàn nhà"]
+```
+
+frame_20:
+```json
+["người1 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - cầu trượt (màu vàng)", "người1 (trẻ, mặc áo hồng, đang đứng) - ở - sàn nhà"]
+```
+
+frame_21:
+```json
+["người1 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - cầu trượt (màu vàng)", "người1 (trẻ, mặc áo hồng, đang đứng) - ở - sàn nhà", "ô (màu xanh lá cây) - trên - cầu trượt (màu vàng)"]
+```
+
+frame_22:
+```json
+["người1 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - cầu trượt (màu vàng)", "người1 (trẻ, mặc áo hồng, đang đứng) - ở - sàn nhà", "tường - ở trên - cầu trượt (màu vàng)"]
+```
+
+frame_23:
+```json
+["người1 (trẻ, mặc áo hồng, đang trèo) - bên cạnh - cầu trượt (màu vàng)", "người1 (trẻ, mặc áo hồng, đang trèo) - ở - sàn nhà", "tường - ở trên - cầu trượt (màu vàng)"]
+```
+
+frame_24:
+```json
+["người1 (trẻ, mặc áo hồng, đang trượt) - bên cạnh - cầu trượt (màu vàng)", "người1 (trẻ, mặc áo hồng, đang trượt) - ở - sàn nhà", "tường - ở trên - cầu trượt (màu vàng)", "sàn nhà - ở dưới - cầu trượt (màu vàng)"]
+```
+
+frame_25:
+```json
+["chuối (85%) - ở trên - sàn nhà", "chuối (85%) - ở trên - tường"]
+```
+
+frame_26:
+```json
+["người1 (trẻ, không mặc áo, đang chơi) - ở trên - sàn nhà", "tường - là - trần nhà", "cửa sổ - ở trên - tường", "sàn nhà - ở trên - người1 (trẻ, không mặc áo, đang chơi)"]
+```
+
+frame_27:
+```json
+["người1 (trẻ, mặc áo xanh, đang chơi) - ở trên - cầu trượt", "tàu hỏa - ở gần - tường", "tường - là - tường", "sàn nhà - ở trên - người1 (trẻ, mặc áo xanh, đang chơi)"]
+```
+
+frame_28:
+```json
+["chó (màu xanh lam) - ở trên - cầu trượt", "sàn nhà - ở gần - chó (màu xanh lam)", "tường - ở trên - sàn nhà"]
+```
+
+frame_29:
+```json
+["người1 (trẻ con, không xác định, đang trượt cầu trượt) - trên - cầu trượt"]
+```
+
+frame_30:
+```json
+[
+  "người1 (trẻ con, không xác định, đang trượt cầu trượt) - trên - cầu trượt",
+  "người1 (trẻ con, không xác định, đang trượt cầu trượt) - gần - tuyết",
+  "người1 (trẻ con, không xác định, đang trượt cầu trượt) - gần - cầu thang",
+  "người1 (trẻ con, không xác định, đang trượt cầu trượt) - gần - nước",
+  "người1 (trẻ con, không xác định, đang trượt cầu trượt) - gần - cát",
+  "cầu trượt - gần - nước",
+  "cầu trượt - gần - cát",
+  "cầu trượt - gần - sàn nhà"
+]
+```
+
+frame_31:
+```json
+[
+  "người1 (trẻ con, không xác định, đang leo lên) - trên - cầu trượt",
+  "người1 (trẻ con, không xác định, đang leo lên) - gần - sàn nhà",
+  "người1 (trẻ con, không xác định, đang leo lên) - gần - tường",
+  "người1 (trẻ con, không xác định, đang leo lên) - gần - thảm",
+  "cầu trượt - gần - sàn nhà"
+]
+```
+
+frame_32:
+```json
+[
+  "người1 (trẻ con, không xác định, đang ngồi) - trên - cầu trượt",
+  "người1 (trẻ con, không xác định, đang ngồi) - gần - sàn nhà",
+  "người1 (trẻ con, không xác định, đang ngồi) - gần - tường",
+  "người1 (trẻ con, không xác định, đang ngồi) - gần - thảm",
+  "cầu trượt - gần - sàn nhà"
+]
+```
+
+frame_33:
+```json
+[
+  "người1 (trẻ con, không xác định, đang ngồi) - trên - giường (màu hồng)",
+  "người1 (trẻ con, không xác định, đang ngồi) - gần - sàn nhà",
+  "người1 (trẻ con, không xác định, đang ngồi) - gần - tường",
+  "ghế (màu vàng) - gần - tường",
+  "xe máy (màu tím) - trên - thảm",
+  "người1 (trẻ con, không xác định, đang ngồi) - gần - xe máy (màu tím)",
+  "giường (màu hồng) - gần - sàn nhà"
+]
+```
+
+frame_34:
+```json
+[
+  "người1 (trẻ con, không xác định, đang đứng) - gần - thảm",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - ghế (màu cam)",
+  "ghế (màu cam) - gần - sàn nhà",
+  "tường - trên - thảm",
+  "tường - trên - điều khiển từ xa",
+  "xe máy (màu tím) - trên - thảm",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - tường",
+  "sàn nhà - dưới - tường",
+  "sàn nhà - trên - thảm"
+]
+```
+
+frame_35:
+```json
+[
+  "người1 (trẻ con, không xác định, đang đứng) - gần - thảm",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - ghế (màu cam)",
+  "ghế (màu cam) - gần - sàn nhà",
+  "tường - trên - thảm",
+  "tường - trên - điều khiển từ xa",
+  "xe máy (màu tím) - trên - thảm",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - tường",
+  "sàn nhà - dưới - tường",
+  "sàn nhà - trên - thảm",
+  "xe hơi (màu xanh dương) - trên - thảm",
+  "giấy - trên - vỉa hè",
+  "người1 (trẻ con, không xác định, đang cúi xuống) - trên - ghế (màu cam)",
+  "cỏ - bên cạnh - giấy",
+  "sàn nhà - trên - vỉa hè",
+  "thảm - trên - sàn nhà"
+]
+```
+
+frame_36:
+```json
+[
+  "người1 (trẻ con, không xác định, đang đứng) - gần - thảm",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - ghế (màu cam)",
+  "ghế (màu cam) - gần - sàn nhà",
+  "tường - trên - thảm",
+  "tường - trên - điều khiển từ xa",
+  "xe máy (màu tím) - trên - thảm",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - tường",
+  "sàn nhà - dưới - tường",
+  "sàn nhà - trên - thảm",
+  "xe hơi (màu xanh dương) - trên - thảm",
+  "giấy - trên - vỉa hè",
+  "người1 (trẻ con, không xác định, đang cúi xuống) - trên - ghế (màu cam)",
+  "cỏ - bên cạnh - giấy",
+  "sàn nhà - trên - vỉa hè",
+  "thảm - trên - sàn nhà",
+  "giấy - trên - bìa cứng",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - sàn nhà"
+]
+```
+
+frame_37:
+```json
+[
+  "người1 (trẻ con, không xác định, đang đứng) - gần - thảm",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - ghế (màu cam)",
+  "ghế (màu cam) - gần - sàn nhà",
+  "tường - trên - thảm",
+  "tường - trên - điều khiển từ xa",
+  "xe máy (màu tím) - trên - thảm",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - tường",
+  "sàn nhà - dưới - tường",
+  "sàn nhà - trên - thảm",
+  "xe hơi (màu xanh dương) - trên - thảm",
+  "giấy - trên - vỉa hè",
+  "người1 (trẻ con, không xác định, đang đứng) - trên - ghế (màu cam)",
+  "cỏ - bên cạnh - giấy",
+  "sàn nhà - trên - vỉa hè",
+  "thảm - trên - sàn nhà",
+  "giấy - trên - bìa cứng",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - sàn nhà"
+]
+```
+
+frame_38:
+```json
+[
+  "tường - trên - thảm",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - thảm",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - sàn nhà",
+  "sàn nhà - trên - thảm",
+  "sàn nhà - dưới - tường",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - tường",
+  "sàn nhà - gần - hoa",
+  "sàn nhà - trên - hoa"
+]
+```
+
+frame_39:
+```json
+[
+  "sàn nhà - trên - vỉa hè",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - sàn nhà",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - người2 (không xác định, không xác định, không xác định)",
+  "người2 (không xác định, không xác định, không xác định) - gần - sàn nhà",
+  "người3 (không xác định, không xác định, không xác định) - gần - vỉa hè",
+  "người3 (không xác định, không xác định, không xác định) - gần - sàn nhà",
+  "người2 (không xác định, không xác định, không xác định) - gần - người3 (không xác định, không xác định, không xác định)"
+]
+```
+
+frame_40:
+```json
+[
+  "sàn nhà - trên - vỉa hè",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - sàn nhà",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - người2 (không xác định, không xác định, không xác định)",
+  "người2 (không xác định, không xác định, không xác định) - gần - sàn nhà",
+  "người3 (không xác định, không xác định, không xác định) - gần - vỉa hè",
+  "người3 (không xác định, không xác định, không xác định) - gần - sàn nhà",
+  "người2 (không xác định, không xác định, không xác định) - gần - người3 (không xác định, không xác định, không xác định)"
+]
+```
+
+frame_41:
+```json
+[
+  "sàn nhà - trên - vỉa hè",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - sàn nhà",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - người2 (không xác định, không xác định, không xác định)",
+  "người2 (không xác định, không xác định, không xác định) - gần - sàn nhà",
+  "người3 (không xác định, không xác định, không xác định) - gần - vỉa hè",
+  "người3 (không xác định, không xác định, không xác định) - gần - sàn nhà",
+  "người2 (không xác định, không xác định, không xác định) - gần - người3 (không xác định, không xác định, không xác định)",
+  "người3 (trẻ con, không xác định, đang đứng) - gần - vỉa hè"
+]
+```
+
+frame_42:
+```json
+[
+  "sàn nhà - trên - vỉa hè",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - sàn nhà",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - người2 (không xác định, không xác định, không xác định)",
+  "người2 (không xác định, không xác định, không xác định) - gần - sàn nhà",
+  "người3 (trẻ con, không xác định, đang đứng) - gần - vỉa hè",
+  "người3 (trẻ con, không xác định, đang đứng) - gần - sàn nhà",
+  "người2 (không xác định, không xác định, không xác định) - gần - người3 (trẻ con, không xác định, đang đứng)",
+  "người3 (trẻ con, không xác định, đang đứng) - gần - vỉa hè",
+  "hàng rào (màu trắng) - gần - người1 (trẻ con, không xác định, đang đứng)",
+  "người1 (trẻ con, không xác định, đang đi) - trên - vỉa hè"
+]
+```
+
+frame_43:
+```json
+[
+  "s\u00e0n nh\u00e0 - tr\u00ean - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi1 (tr\u1ebb con, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, \u0111ang \u0111\u1ee9ng) - g\u1ea7n - s\u00e0n nh\u00e0",
+  "ng\u01b0\u1eddi1 (tr\u1ebb con, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, \u0111ang \u0111\u1ee9ng) - g\u1ea7n - ng\u01b0\u1eddi2 (kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng x\u00e1c \u0111\u1ecbnh)",
+  "ng\u01b0\u1eddi2 (kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng x\u00e1c \u0111\u1ecbnh) - g\u1ea7n - s\u00e0n nh\u00e0",
+  "ng\u01b0\u1eddi3 (tr\u1ebb con, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, \u0111ang \u0111\u1ee9ng) - g\u1ea7n - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi3 (tr\u1ebb con, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, \u0111ang \u0111\u1ee9ng) - g\u1ea7n - s\u00e0n nh\u00e0",
+  "ng\u01b0\u1eddi2 (kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng x\u00e1c \u0111\u1ecbnh) - g\u1ea7n - ng\u01b0\u1eddi3 (tr\u1ebb con, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, \u0111ang \u0111\u1ee9ng)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb con, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, \u0111ang \u0111\u1ee9ng) - g\u1ea7n - v\u1ec9a h\u00e8",
+  "h\u00e0ng r\u00e0o (m\u00e0u tr\u1eafng) - g\u1ea7n - ng\u01b0\u1eddi1 (tr\u1ebb con, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, \u0111ang \u0111\u1ee9ng)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb con, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, \u0111ang \u0111i) - tr\u00ean - v\u1ec9a h\u00e8"
+]
+```
+
+frame_44:
+```json
+[
+  "sàn nhà - trên - vỉa hè",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - sàn nhà",
+  "người1 (trẻ con, không xác định, đang đứng) - gần - người2 (không xác định, không xác định, không xác định)",
+  "người2 (không xác định, không xác định, không xác định) - gần - sàn nhà",
+  "người3 (trẻ con, không xác định, đang đứng) - gần - vỉa hè",
+  "người3 (trẻ con, không xác định, đang đứng) - gần - sàn nhà",
+  "người2 (không xác định, không xác định, không xác định) - gần - người3 (trẻ con, không xác định, đang đứng)",
+  "người3 (trẻ con, không xác định, đang đứng) - gần - vỉa hè",
+  "hàng rào (màu trắng) - gần - người1 (trẻ con, không xác định, đang đứng)",
+  "người1 (trẻ con, không xác định, đang đi) - trên - vỉa hè",
+  "người3 (trẻ con, không xác định, đang đi) - trên - vỉa hè"
+]
+```
+
+frame_45:
+```json
+[
+  "sàn nhà - trên - vỉa hè",
+  "người1 (trẻ con, không xác định, đang đi) - gần - sàn nhà",
+  "người1 (trẻ con, không xác định, đang đi) - gần - người2 (không xác định, không xác định, không xác định)",
+  "người2 (không xác định, không xác định, không xác định) - gần - sàn nhà",
+  "người3 (trẻ con, không xác định, đang đi) - gần - vỉa hè",
+  "người3 (trẻ con, không xác định, đang đi) - gần - sàn nhà",
+  "người2 (không xác định, không xác định, không xác định) - gần - người3 (trẻ con, không xác định, đang đi)",
+  "người3 (trẻ con, không xác định, đang đi) - gần - vỉa hè",
+  "hàng rào (màu trắng) - gần - người1 (trẻ con, không xác định, đang đi)",
+  "người1 (trẻ con, không xác định, đang đi) - trên - vỉa hè",
+  "người3 (trẻ con, không xác định, đang đi) - trên - vỉa hè",
+  "tường-gạch - gần - hàng rào (màu trắng)",
+  "tường - gần - hàng rào (màu trắng)"
+]
+```
+
+frame_46:
+```json
+[
+  "tường - gần - hàng rào (màu trắng)",
+  "cây - gần - hàng rào (màu trắng)",
+  "tường - gần - hàng rào (màu trắng)",
+  "hàng rào (màu trắng) - gần - cây",
+  "người1 (trẻ con, không xác định, đang đi) - gần - hàng rào (màu trắng)",
+  "người2 (không xác định, không xác định, không xác định) - gần - hàng rào (màu trắng)",
+  "người3 (trẻ con, không xác định, đang đi) - gần - hàng rào (màu trắng)"
+]
+```
+
+frame_47:
+```json
+[
+  "trời - gần - hàng rào (màu trắng)",
+  "người1 (trẻ con, không xác định, đang đi) - gần - hàng rào (màu trắng)",
+  "người2 (không xác định, không xác định, không xác định) - gần - hàng rào (màu trắng)",
+  "người3 (trẻ con, không xác định, đang đi) - gần - hàng rào (màu trắng)",
+  "người4 (không xác định, không xác định, không xác định) - gần - hàng rào (màu trắng)"
+]
+```
+
+frame_48:
+```json
+[
+  "tivi (87%) - \u1edf tr\u00ean - c\u1ecf",
+  "tr\u1eddi - \u1edf tr\u00ean - c\u00e2y",
+  "ng\u01b0\u1eddi1 (tr\u1ebb con, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, \u0111ang \u0111i) - \u0111\u1ee9ng c\u1ea1nh - tivi (87%)",
+  "ng\u01b0\u1eddi2 (kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng x\u00e1c \u0111\u1ecbnh) - \u0111\u1ee9ng c\u1ea1nh - tivi (87%)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb con, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, \u0111ang \u0111i) - \u0111\u1ee9ng c\u1ea1nh - \u0111\u01b0\u1eddng",
+  "ng\u01b0\u1eddi4 (kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng x\u00e1c \u0111\u1ecbnh) - \u0111\u1ee9ng c\u1ea1nh - \u0111\u01b0\u1eddng"
+]
+```
+
+frame_49:
+```json
+[
+  "công trình - là một phần của - cầu",
+  "cầu - là một phần của - hàng rào",
+  "cầu - là một phần của - nước",
+  "tòa nhà - là một phần của - vỉa hè"
+]
+```
+
+frame_50:
+```json
+[
+  "ng\u01b0\u1eddi1 (trung ni\u00ean, \u0111ang m\u1eb7c \u00e1o, \u0111ang \u1ee9ng v\u1edbi m\u1ee9c \u0111\u1ed9 ch\u1eafc ch\u1eafn 51%) - \u1ee9ng v\u1edbi - h\u00e0ng r\u00e0o",
+  "t\u01b0\u1eddng - l\u00e0 m\u1ed9t ph\u1ea7n c\u1ee7a - h\u00e0ng r\u00e0o"
+]
+```
+
+frame_51:
+```json
+[
+  "người1 (trẻ, đang mặc áo, đang leo trèo) - đang ở trên - hàng rào",
+  "tường - là một phần của - hàng rào",
+  "sàn nhà - ở gần - hàng rào",
+  "gấu bông - gần - người1"
+]
+```
+
+frame_52:
+```json
+[
+  "người1 (trẻ, đang mặc áo, đang leo trèo) - đang ở trên - hàng rào",
+  "tường - là một phần của - hàng rào",
+  "sàn nhà - ở gần - hàng rào"
+]
+```
+
+frame_53:
+```json
+[
+  "người1 (trẻ, đang mặc áo, đang leo trèo) - đang ở trên - hàng rào",
+  "tường - là một phần của - hàng rào",
+  "sàn nhà - ở gần - hàng rào"
+]
+```
+
+frame_54:
+```json
+[
+  "người1 (trẻ, đang mặc áo, đang leo trèo) - đang ở trên - hàng rào",
+  "tường - là một phần của - hàng rào",
+  "sàn nhà - ở gần - hàng rào",
+  "người1 (trẻ, đang mặc áo, đang leo trèo) - gần - người2 (trẻ, mặc đồ màu hồng, không rõ)",
+  "người1 (trẻ, đang mặc áo, đang leo trèo) - gần - tường",
+  "người1 (trẻ, đang mặc áo, đang leo trèo) - gần - hoa",
+  "người1 (trẻ, đang mặc áo, đang leo trèo) - gần - cầu thang",
+  "cầu thang - ở trên - sàn nhà"
+]
+```
+
+frame_55:
+```json
+[
+  "ánh sáng - là một phần của - tường",
+  "bầu trời - ở gần - tường",
+  "người1 (trẻ, đang mặc áo, đang đứng) - gần - người2 (trẻ, mặc đồ màu hồng, không rõ)",
+  "cây - bao quanh - người2 (trẻ, mặc đồ màu hồng, không rõ)"
+]
+```
+
+frame_56:
+```json
+[
+  "ánh sáng - là một phần của - tường",
+  "bầu trời - ở gần - tường",
+  "người1 (trẻ, đang mặc áo, đang đứng) - gần - người2 (trẻ, mặc đồ màu hồng, không rõ)",
+  "cây - bao quanh - người2 (trẻ, mặc đồ màu hồng, không rõ)",
+  "cỏ - ở gần - cây"
+]
+```
+
+frame_57:
+```json
+[
+  "tường - là một phần của - tường",
+  "bầu trời - ở gần - tường",
+  "người1 (trẻ, đang mặc áo, đang đứng) - gần - người2 (trẻ, mặc đồ màu hồng, không rõ)",
+  "cây - bao quanh - người2 (trẻ, mặc đồ màu hồng, không rõ)",
+  "cỏ - ở gần - cây",
+  "tường - gần - công trình"
+]
+```
+
+frame_58:
+```json
+[
+  "cỏ - ở gần - người1 (trẻ, đang mặc áo, đang nhìn)",
+  "vỉa hè - ở gần - người1 (trẻ, đang mặc áo, đang nhìn)",
+  "cát - ở gần - người1 (trẻ, đang mặc áo, đang nhìn)"
+]
+```
+
+frame_59:
+```json
+[
+  "nước - ở gần - người1 (trẻ, đang mặc áo, đang nhìn)",
+  "tuyết - ở gần - người1 (trẻ, đang mặc áo, đang nhìn)",
+  "bầu trời - ở gần - người1 (trẻ, đang mặc áo, đang nhìn)"
+]
+```
+
+frame_60:
+```json
+[
+  "nước - ở gần - người1 (trẻ, đang mặc áo, đang nhìn)",
+  "tuyết - ở gần - người1 (trẻ, đang mặc áo, đang nhìn)",
+  "bầu trời - ở gần - người1 (trẻ, đang mặc áo, đang nhìn)",
+  "tường - ở trên - vỉa hè",
+  "cửa sổ - ở trên - vỉa hè",
+  "tòa nhà - ở trên - vỉa hè"
+]
+```
+
+frame_61:
+```json
+[
+  "cây - ở trên - tường",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - ở trước - tường",
+  "cửa sổ - ở trên - đồ vật cửa",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - ở trước - cửa sổ"
+]
+```
+
+frame_62:
+```json
+[
+  "cây - ở trên - tường",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - ở trước - tường",
+  "cửa sổ - ở trên - đồ vật cửa",
+  "người1 (không rõ tuổi, không rõ quần áo, đang đứng) - ở trước - cửa sổ"
+]
+```
+
+frame_63:
+Không có đối tượng nào được tìm thấy trong ảnh này.
+
+frame_64:
+Trời - ở trên - Nước
+
+frame_65:
+```json
+[
+  "người1 (không rõ tuổi, màu cam, không rõ hành động) - đối diện - rèm cửa1",
+  "người1 (không rõ tuổi, màu cam, không rõ hành động) - đối diện - tường1",
+  "rèm cửa1 - ở bên cạnh - tường1"
+]
+```
+
+frame_66:
+```json
+[
+  "người1 (trẻ, màu cam, không rõ hành động) - đối diện - rèm cửa1",
+  "người1 (trẻ, màu cam, không rõ hành động) - đối diện - tường1",
+  "rèm cửa1 - ở bên cạnh - tường1"
+]
+```
+
+frame_67:
+```json
+[
+  "người1 (trẻ, màu cam, đang đứng) - đối diện - rèm cửa1",
+  "người1 (trẻ, màu cam, đang đứng) - đối diện - tường1",
+  "rèm cửa1 - ở bên cạnh - tường1",
+  "người1 (trẻ, màu cam, đang đứng) - che khuất - ván lướt sóng1 (màu trắng)",
+  "người1 (trẻ, màu cam, đang đứng) - che khuất - giường1 (màu tím)",
+  "ván lướt sóng1 (màu trắng) - che khuất - giường1 (màu tím)"
+]
+```
+
+frame_68:
+```json
+[
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u00e0u cam, \u0111ang ng\u1ed3i) - \u0111\u1ed1i di\u1ec7n - r\u00e8m c\u1eeda1",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u00e0u cam, \u0111ang ng\u1ed3i) - \u0111\u1ed1i di\u1ec7n - t\u01b0\u1eddng1",
+  "r\u00e8m c\u1eeda1 - \u1edf b\u00ean c\u1ea1nh - t\u01b0\u1eddng1",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u00e0u cam, \u0111ang ng\u1ed3i) - che khu\u1ea5t - v\u00e1n l\u01b0\u1edbt s\u00f3ng1 (m\u00e0u tr\u1eafng)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb, m\u00e0u cam, \u0111ang ng\u1ed3i) - che khu\u1ea5t - gi\u01b0\u1eddng1 (m\u00e0u t\u00edm)"
+]
+```
+
+frame_69:
+```json
+[
+  "người1 (trẻ, màu cam, đang ngồi) - đối diện - tường1",
+  "người1 (trẻ, màu cam, đang ngồi) - che khuất - ván lướt sóng1 (màu trắng)",
+  "người1 (trẻ, màu cam, đang ngồi) - che khuất - sàn1",
+  "tường1 - ở bên cạnh - ván lướt sóng1 (màu trắng)"
+]
+```
+
+frame_70:
+```json
+[
+  "người1 (trẻ, màu cam, đang đứng) - đối diện - tường1",
+  "người1 (trẻ, màu cam, đang đứng) - che khuất - ván lướt sóng1 (màu trắng)",
+  "người1 (trẻ, màu cam, đang đứng) - che khuất - ghế1",
+  "tường1 - ở bên cạnh - ván lướt sóng1 (màu trắng)"
+]
+```
+
+frame_71:
+```json
+[
+  "người1 (trẻ, màu cam, đang đứng) - đối diện - tường1",
+  "người1 (trẻ, màu cam, đang đứng) - che khuất - biểu ngữ1",
+  "tường1 - ở bên cạnh - biểu ngữ1"
+]
+```
+
+frame_72:
+```json
+[
+  "người1 (trẻ, màu cam, đang đứng) - đối diện - tường1",
+  "người1 (trẻ, màu cam, đang đứng) - che khuất - biểu ngữ1",
+  "tường1 - ở bên cạnh - biểu ngữ1"
+]
+```
+
+frame_73:
+```json
+[
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - đối diện - tường1",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - che khuất - biểu ngữ1",
+  "tường1 - ở bên cạnh - biểu ngữ1",
+  "tường1 - ở bên cạnh - rèm1",
+  "tường1 - ở bên cạnh - tường2",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - đứng cạnh - tường2",
+  "thảm1 - ở bên cạnh - tường2"
+]
+```
+
+frame_74:
+```json
+[
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - đối diện - tường1",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - che khuất - biểu ngữ1",
+  "tường1 - ở bên cạnh - biểu ngữ1",
+  "tường1 - ở bên cạnh - rèm1",
+  "tường1 - ở bên cạnh - tường2",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - đứng cạnh - tường2",
+  "sàn nhà1 - ở bên cạnh - tường2"
+]
+```
+
+frame_75:
+```json
+[
+  "tường gạch1 - ở bên cạnh - tường1",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - ở bên cạnh - tường gạch1",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - che khuất - biểu ngữ1",
+  "tường1 - ở bên cạnh - biểu ngữ1",
+  "tường1 - ở bên cạnh - rèm1",
+  "tường1 - ở bên cạnh - tường2",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - đứng cạnh - tường2",
+  "sàn nhà1 - ở bên cạnh - tường2",
+  "chim1 - trên - biểu ngữ1"
+]
+```
+
+frame_76:
+```json
+[
+  "tường gạch1 - ở bên cạnh - tường1",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - ở bên cạnh - tường gạch1",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - che khuất - biểu ngữ1",
+  "tường1 - ở bên cạnh - biểu ngữ1",
+  "tường1 - ở bên cạnh - rèm1",
+  "tường1 - ở bên cạnh - tường2",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - đứng cạnh - tường2",
+  "sàn nhà1 - ở bên cạnh - tường2",
+  "chim1 - trên - biểu ngữ1",
+  "người1 (trẻ, mặc áo hoa, đang đứng) - che khuất - ống trụ1 (màu trắng)",
+  "người1 (trẻ, mặc áo hoa, đang đứng) - đứng cạnh - tường1"
+]
+```
+
+frame_77:
+```json
+[
+  "tường gạch1 - ở bên cạnh - tường1",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - ở bên cạnh - tường gạch1",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - che khuất - biểu ngữ1",
+  "tường1 - ở bên cạnh - biểu ngữ1",
+  "tường1 - ở bên cạnh - rèm1",
+  "tường1 - ở bên cạnh - tường2",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - đứng cạnh - tường2",
+  "sàn nhà1 - ở bên cạnh - tường2",
+  "chim1 - trên - biểu ngữ1",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - che khuất - ống trụ1 (màu trắng)",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - đứng cạnh - tường1",
+  "người1 (trẻ, mặc áo màu cam, đang đứng) - ở trên - sàn nhà1"
+]
+```
+

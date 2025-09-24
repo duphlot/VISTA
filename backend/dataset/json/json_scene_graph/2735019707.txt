@@ -1,0 +1,958 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - bàn (nâu)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "bàn (nâu) - bên cạnh - bánh (trắng)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - trên - bánh (trắng)",
+  "cà rốt (cam) - trên - bánh (trắng)",
+  "bánh (trắng) - bên cạnh - bánh (xanh)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - bàn (nâu)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "bàn (nâu) - bên cạnh - bánh (trắng)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - trên - bánh (trắng)",
+  "cà rốt (cam) - trên - bánh (trắng)",
+  "bánh (trắng) - bên cạnh - bát (xanh)"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - bàn (nâu)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "bàn (nâu) - bên cạnh - bánh (trắng)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - trên - bánh (trắng)",
+  "cà rốt (cam) - trên - bánh (trắng)",
+  "bánh (trắng) - bên cạnh - bát (xanh)",
+  "tường - bên cạnh - tivi (tím)",
+  "tivi (tím) - bên cạnh - bát (xanh)",
+  "bát (xanh) - trên - bàn ăn (xanh da trời)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - bàn ăn (xanh da trời)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - trên - bánh (trắng)",
+  "bàn (nâu) - một phần của - thức ăn",
+  "kệ - phía sau - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - phía trước - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - trên - bàn ăn (xanh da trời)"
+]
+```
+
+frame_3:
+```json
+[
+  "tường - bên cạnh - bát (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - bàn ăn (xanh da trời)",
+  "bát (xanh) - trên - bàn ăn (xanh da trời)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - trên - bàn ăn (xanh da trời)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - trên - bánh (trắng)",
+  "bàn (nâu) - bên cạnh - bánh (trắng)",
+  "cà rốt (cam) - trên - bánh (trắng)",
+  "bánh (trắng) - bên cạnh - bát (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - bánh (trắng)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "kệ - phía sau - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "bàn (nâu) - một phần của - thức ăn",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - phía trước - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)"
+]
+```
+
+frame_4:
+```json
+[
+  "tường - bên cạnh - bát1 (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - bàn ăn (xanh da trời)",
+  "bát1 (xanh) - trên - bàn ăn (xanh da trời)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - trên - bàn ăn (xanh da trời)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - trên - bánh (trắng)",
+  "bàn (nâu) - bên cạnh - bánh (trắng)",
+  "cà rốt (cam) - trên - bánh (trắng)",
+  "bánh (trắng) - bên cạnh - bát1 (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - bánh (trắng)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "kệ - phía sau - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "bàn (nâu) - một phần của - thức ăn",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - phía trước - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - bên cạnh - tường",
+  "bát2 (màu be) - trên - bàn (nâu)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - phía trước - người4 (trưởng thành, không mặc áo, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)"
+]
+```
+
+frame_5:
+```json
+[
+  "tường - bên cạnh - bát1 (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - bàn ăn (xanh da trời)",
+  "bát1 (xanh) - trên - bàn ăn (xanh da trời)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - trên - bàn ăn (xanh da trời)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - trên - bánh (trắng)",
+  "bàn (nâu) - bên cạnh - bánh (trắng)",
+  "cà rốt (cam) - trên - bánh (trắng)",
+  "bánh (trắng) - bên cạnh - bát1 (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - bánh (trắng)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "kệ - phía sau - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "bàn (nâu) - một phần của - thức ăn",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - phía trước - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - bên cạnh - tường",
+  "bát2 (màu be) - trên - bàn (nâu)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - phía trước - người4 (trưởng thành, không mặc áo, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "tường - bên cạnh - người5 (trẻ, mặc áo hồng, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "bát2 (màu be) - bên cạnh - bánh (trắng)",
+  "bát2 (màu be) - bên cạnh - bát3 (xanh lá cây)",
+  "bát3 (xanh lá cây) - trên - bàn (nâu)",
+  "bánh (trắng) - trên - bàn (nâu)"
+]
+```
+
+frame_6:
+```json
+[
+  "tường - bên cạnh - bát1 (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - bàn ăn (xanh da trời)",
+  "bát1 (xanh) - trên - bàn ăn (xanh da trời)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - trên - bàn ăn (xanh da trời)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - trên - bánh (trắng)",
+  "bàn (nâu) - bên cạnh - bánh (trắng)",
+  "cà rốt (cam) - trên - bánh (trắng)",
+  "bánh (trắng) - bên cạnh - bát1 (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - bánh (trắng)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - trên - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "kệ - phía sau - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "bàn (nâu) - một phần của - thức ăn",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - phía trước - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - bên cạnh - tường",
+  "bát2 (màu be) - trên - bàn (nâu)",
+  "người1 (trẻ, mặc áo hồng, đang chơi nhạc) - phía trước - người4 (trưởng thành, không mặc áo, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "tường - bên cạnh - người5 (trẻ, mặc áo hồng, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "bát2 (màu be) - bên cạnh - bánh (trắng)",
+  "bát2 (màu be) - bên cạnh - bát3 (xanh lá cây)",
+  "bát3 (xanh lá cây) - trên - bàn (nâu)",
+  "bánh (trắng) - trên - bàn (nâu)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)"
+]
+```
+
+frame_7:
+```json
+[
+  "tường - bên cạnh - bát1 (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - bàn ăn (xanh da trời)",
+  "bát1 (xanh) - trên - bàn ăn (xanh da trời)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - trên - bàn ăn (xanh da trời)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - trên - bánh (trắng)",
+  "bàn (nâu) - bên cạnh - bánh (trắng)",
+  "cà rốt (cam) - trên - bánh (trắng)",
+  "bánh (trắng) - bên cạnh - bát1 (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - bánh (trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "kệ - phía sau - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "bàn (nâu) - một phần của - thức ăn",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - phía trước - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - bên cạnh - tường",
+  "bát2 (màu be) - trên - bàn (nâu)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - phía trước - người4 (trưởng thành, không mặc áo, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "tường - bên cạnh - người5 (trẻ, mặc áo hồng, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "bát2 (màu be) - bên cạnh - bánh (trắng)",
+  "bát2 (màu be) - bên cạnh - bát3 (xanh lá cây)",
+  "bát3 (xanh lá cây) - trên - bàn (nâu)",
+  "bánh (trắng) - trên - bàn (nâu)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - phía trước - người1 (trẻ, mặc áo hồng, đang ăn)"
+]
+```
+
+frame_8:
+```json
+[
+  "tường - bên cạnh - bát1 (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - bàn (nâu)",
+  "bát1 (xanh) - trên - bàn (nâu)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - trên - bánh (trắng)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - trên - bánh (trắng)",
+  "bàn (nâu) - bên cạnh - bánh (trắng)",
+  "cà rốt (cam) - trên - bánh (trắng)",
+  "bánh (trắng) - bên cạnh - bát1 (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - bánh (trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "kệ - phía sau - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "bàn (nâu) - một phần của - thức ăn",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - phía trước - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - bên cạnh - tường",
+  "bát2 (màu be) - trên - bàn (nâu)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - phía trước - người4 (trưởng thành, không mặc áo, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "tường - bên cạnh - người5 (trẻ, mặc áo hồng, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "bát2 (màu be) - bên cạnh - bánh (trắng)",
+  "bát2 (màu be) - bên cạnh - bát1 (xanh)",
+  "bát1 (xanh) - trên - bàn (nâu)",
+  "bánh (trắng) - trên - bàn (nâu)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - phía trước - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "kệ - bên cạnh - thức ăn",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - bên cạnh - kệ",
+  "bàn (nâu) - bên cạnh - bánh sandwich (trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - bàn (nâu)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - trên - bánh sandwich (trắng)"
+]
+```
+
+frame_9:
+```json
+[
+  "tường - bên cạnh - bát1 (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - bàn (nâu)",
+  "bát1 (xanh) - trên - bàn (nâu)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - trên - bánh (trắng)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - trên - bánh (trắng)",
+  "bàn (nâu) - bên cạnh - bánh (trắng)",
+  "cà rốt (cam) - trên - bánh (trắng)",
+  "bánh (trắng) - bên cạnh - bát1 (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - bánh (trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "kệ - phía sau - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "bàn (nâu) - một phần của - thức ăn",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - phía trước - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - bên cạnh - tường",
+  "bát2 (màu be) - trên - bàn (nâu)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - phía trước - người4 (trưởng thành, không mặc áo, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "tường - bên cạnh - người5 (trẻ, mặc áo hồng, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "bát2 (màu be) - bên cạnh - bánh (trắng)",
+  "bát2 (màu be) - bên cạnh - bát1 (xanh)",
+  "bát1 (xanh) - trên - bàn (nâu)",
+  "bánh (trắng) - trên - bàn (nâu)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - phía trước - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "kệ - bên cạnh - thức ăn",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - bên cạnh - kệ",
+  "bàn (nâu) - bên cạnh - bánh sandwich (trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - bàn (nâu)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - trên - bánh sandwich (trắng)",
+  "người6 (trẻ, mặc áo trắng, đang chơi) - trên - bàn (nâu)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - phía trước - người6 (trẻ, mặc áo trắng, đang chơi)",
+  "tường - bên cạnh - cửa sổ",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - phía sau - người6 (trẻ, mặc áo trắng, đang chơi)"
+]
+```
+
+frame_10:
+```json
+[
+  "kệ - phía sau - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - trên - bánh (trắng)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - trên - bánh (trắng)",
+  "bàn (nâu) - bên cạnh - bánh (trắng)",
+  "cà rốt (cam) - trên - bánh (trắng)",
+  "bánh (trắng) - bên cạnh - bát1 (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - bánh (trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "bàn (nâu) - một phần của - thức ăn",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - phía trước - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - bên cạnh - tường",
+  "bát2 (màu be) - trên - bàn (nâu)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - phía trước - người4 (trưởng thành, không mặc áo, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "tường - bên cạnh - người5 (trẻ, mặc áo hồng, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "bát2 (màu be) - bên cạnh - bánh (trắng)",
+  "bát2 (màu be) - bên cạnh - bát1 (xanh)",
+  "bát1 (xanh) - trên - bàn (nâu)",
+  "bánh (trắng) - trên - bàn (nâu)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - phía trước - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "kệ - bên cạnh - thức ăn",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - bên cạnh - kệ",
+  "bàn (nâu) - bên cạnh - bánh sandwich (trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - bàn (nâu)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - trên - bánh sandwich (trắng)",
+  "người6 (trẻ, mặc áo trắng, đang chơi) - trên - bàn (nâu)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - phía trước - người6 (trẻ, mặc áo trắng, đang chơi)",
+  "tường - bên cạnh - cửa sổ",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - phía sau - người6 (trẻ, mặc áo trắng, đang chơi)",
+  "tường - bên cạnh - bát1 (xanh)",
+  "bát1 (xanh) - trên - bàn (nâu)",
+  "người6 (trẻ, mặc áo trắng, đang chơi) - đang nhìn - người7 (trẻ, không mặc áo, đang chơi)",
+  "bàn (nâu) - trên - người7 (trẻ, không mặc áo, đang chơi)",
+  "cà rốt (cam) - trên - bàn (nâu)",
+  "người7 (trẻ, không mặc áo, đang chơi) - phía trước - người6 (trẻ, mặc áo trắng, đang chơi)",
+  "cửa sổ - bên cạnh - người7 (trẻ, không mặc áo, đang chơi)",
+  "người7 (trẻ, không mặc áo, đang chơi) - đang nhìn - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người7 (trẻ, không mặc áo, đang chơi) - trên - bánh sandwich (trắng)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - đang nhìn - người6 (trẻ, mặc áo trắng, đang chơi)",
+  "người7 (trẻ, không mặc áo, đang chơi) - phía trước - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "người7 (trẻ, không mặc áo, đang chơi) - phía trước - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "người7 (trẻ, không mặc áo, đang chơi) - bên cạnh - người5 (trẻ, mặc áo hồng, đang nhìn)",
+  "người7 (trẻ, không mặc áo, đang chơi) - đang nhìn - người4 (trưởng thành, không mặc áo, đang nhìn)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - người7 (trẻ, không mặc áo, đang chơi)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - phía trước - người7 (trẻ, không mặc áo, đang chơi)"
+]
+```
+
+frame_11:
+```json
+[
+  "kệ - phía sau - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - trên - bánh (trắng)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - trên - bánh (trắng)",
+  "bàn (nâu) - bên cạnh - bánh (trắng)",
+  "cà rốt1 (cam) - trên - bánh (trắng)",
+  "bánh (trắng) - bên cạnh - bát1 (xanh)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - bánh (trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "bàn (nâu) - một phần của - thức ăn",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - phía trước - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - bên cạnh - tường",
+  "bát2 (màu be) - trên - bàn (nâu)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - phía trước - người4 (trưởng thành, không mặc áo, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "tường - bên cạnh - người5 (trẻ, mặc áo hồng, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "bát2 (màu be) - bên cạnh - bánh (trắng)",
+  "bát2 (màu be) - bên cạnh - bát1 (xanh)",
+  "bát1 (xanh) - trên - bàn (nâu)",
+  "bánh (trắng) - trên - bàn (nâu)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - phía trước - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "kệ - bên cạnh - thức ăn",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - bên cạnh - kệ",
+  "bàn (nâu) - bên cạnh - bánh sandwich (trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - bàn (nâu)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - trên - bánh sandwich (trắng)",
+  "người6 (trẻ, mặc áo trắng, đang chơi) - trên - bàn (nâu)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - phía trước - người6 (trẻ, mặc áo trắng, đang chơi)",
+  "tường - bên cạnh - cửa sổ",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - phía sau - người6 (trẻ, mặc áo trắng, đang chơi)",
+  "tường - bên cạnh - bát1 (xanh)",
+  "bát1 (xanh) - trên - bàn (nâu)",
+  "người6 (trẻ, mặc áo trắng, đang chơi) - đang nhìn - người7 (trẻ, không mặc áo, đang chơi)",
+  "bàn (nâu) - trên - người7 (trẻ, không mặc áo, đang chơi)",
+  "cà rốt1 (cam) - trên - bàn (nâu)",
+  "người7 (trẻ, không mặc áo, đang chơi) - phía trước - người6 (trẻ, mặc áo trắng, đang chơi)",
+  "cửa sổ - bên cạnh - người7 (trẻ, không mặc áo, đang chơi)",
+  "người7 (trẻ, không mặc áo, đang chơi) - đang nhìn - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người7 (trẻ, không mặc áo, đang chơi) - trên - bánh sandwich (trắng)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - đang nhìn - người6 (trẻ, mặc áo trắng, đang chơi)",
+  "người7 (trẻ, không mặc áo, đang chơi) - phía trước - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "người7 (trẻ, không mặc áo, đang chơi) - phía trước - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "người7 (trẻ, không mặc áo, đang chơi) - bên cạnh - người5 (trẻ, mặc áo hồng, đang nhìn)",
+  "người7 (trẻ, không mặc áo, đang chơi) - đang nhìn - người4 (trưởng thành, không mặc áo, đang nhìn)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - người7 (trẻ, không mặc áo, đang chơi)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - phía trước - người7 (trẻ, không mặc áo, đang chơi)",
+  "người8 (trẻ, mặc áo đỏ, đang đứng) - phía trước - bánh (trắng)",
+  "người8 (trẻ, mặc áo đỏ, đang đứng) - bên cạnh - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "người9 (trưởng thành, mặc áo hồng, đang đứng) - bên cạnh - người7 (trẻ, không mặc áo, đang chơi)",
+  "cà rốt2 (tím) - trên - bàn (nâu)",
+  "người8 (trẻ, mặc áo đỏ, đang đứng) - bên cạnh - cà rốt2 (tím)",
+  "cửa sổ - bên cạnh - tường"
+]
+```
+
+frame_12:
+```json
+[
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - phía trước - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - trên - bánh (trắng)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - trên - bánh (trắng)",
+  "bát2 (màu be) - trên - bàn (nâu)",
+  "người6 (trẻ, mặc áo trắng, đang chơi) - trên - bàn (nâu)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - phía trước - người6 (trẻ, mặc áo trắng, đang chơi)",
+  "tường - bên cạnh - cửa sổ",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - phía sau - người6 (trẻ, mặc áo trắng, đang chơi)",
+  "tường - bên cạnh - bát1 (xanh)",
+  "bát1 (xanh) - trên - bàn (nâu)",
+  "người6 (trẻ, mặc áo trắng, đang chơi) - đang nhìn - người7 (trẻ, không mặc áo, đang chơi)",
+  "bàn (nâu) - trên - người7 (trẻ, không mặc áo, đang chơi)",
+  "người7 (trẻ, không mặc áo, đang chơi) - phía trước - người6 (trẻ, mặc áo trắng, đang chơi)",
+  "cửa sổ - bên cạnh - người7 (trẻ, không mặc áo, đang chơi)",
+  "người7 (trẻ, không mặc áo, đang chơi) - đang nhìn - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người7 (trẻ, không mặc áo, đang chơi) - trên - bánh sandwich (trắng)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - đang nhìn - người6 (trẻ, mặc áo trắng, đang chơi)",
+  "người7 (trẻ, không mặc áo, đang chơi) - phía trước - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "người7 (trẻ, không mặc áo, đang chơi) - phía trước - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "người7 (trẻ, không mặc áo, đang chơi) - bên cạnh - người5 (trẻ, mặc áo hồng, đang nhìn)",
+  "người7 (trẻ, không mặc áo, đang chơi) - đang nhìn - người4 (trưởng thành, không mặc áo, đang nhìn)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - trên - người7 (trẻ, không mặc áo, đang chơi)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - phía trước - người7 (trẻ, không mặc áo, đang chơi)",
+  "người8 (trẻ, mặc áo đỏ, đang đứng) - phía trước - bánh (trắng)",
+  "người8 (trẻ, mặc áo đỏ, đang đứng) - bên cạnh - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "người9 (trưởng thành, mặc áo hồng, đang đứng) - bên cạnh - người7 (trẻ, không mặc áo, đang chơi)",
+  "cà rốt2 (tím) - trên - bàn (nâu)",
+  "người8 (trẻ, mặc áo đỏ, đang đứng) - bên cạnh - cà rốt2 (tím)",
+  "cửa sổ - bên cạnh - tường",
+  "người10 (trẻ, mặc áo hồng, đang ăn) - trên - người9 (trưởng thành, mặc áo hồng, đang đứng)",
+  "tường - phía sau - kệ",
+  "người11 (trẻ, mặc áo hồng, đang nhìn) - trên - người6 (trẻ, mặc áo trắng, đang chơi)",
+  "bát3 (màu xanh lá cây) - trên - sách (màu trắng)",
+  "sách (màu trắng) - trên - bàn ăn (màu xanh lam)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - phía trước - người10 (trẻ, mặc áo hồng, đang ăn)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang ăn) - bên cạnh - bàn (màu xanh lá cây)",
+  "người2 (trẻ, mặc áo đỏ, đang chơi nhạc) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người3 (trưởng thành, mặc áo cam, đang chơi nhạc) - phía trước - cửa sổ",
+  "tường - bên cạnh - cửa sổ",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "người6 (trẻ, mặc áo trắng, đang chơi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi nhạc)",
+  "bàn (màu nâu) - phía dưới - người2 (trẻ, mặc áo đỏ, đang chơi nhạc)",
+  "kệ - bên cạnh - cửa sổ"
+]
+```
+
+frame_14:
+```json
+[
+  "tường - bên cạnh - kệ",
+  "người1 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - bàn (màu xanh lá cây)",
+  "người2 (trẻ, mặc áo đỏ, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang nhìn)",
+  "người6 (trẻ, mặc áo trắng, đang chơi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "bàn (màu nâu) - phía dưới - người2 (trẻ, mặc áo đỏ, đang nhìn)",
+  "kệ - bên cạnh - tường",
+  "người7 (trẻ, mặc áo cam, đang nhìn) - bên cạnh - bàn (màu xanh lá cây)",
+  "bát (màu xanh lá cây) - trên - bàn (màu xanh lá cây)",
+  "cà rốt (màu hồng) - trên - bàn (màu nâu)",
+  "bánh (màu xanh) - trên - bàn (màu nâu)",
+  "bánh (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)"
+]
+```
+
+frame_15:
+```json
+[
+  "tường - bên cạnh - kệ",
+  "người1 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - bát (màu xanh lá cây)",
+  "người2 (trẻ, mặc áo đỏ, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang nhìn)",
+  "người6 (trẻ, mặc áo trắng, đang chơi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "bàn (màu nâu) - phía dưới - người2 (trẻ, mặc áo đỏ, đang nhìn)",
+  "kệ - bên cạnh - tường",
+  "người7 (trẻ, mặc áo cam, đang nhìn) - bên cạnh - bát (màu xanh lá cây)",
+  "bát (màu xanh lá cây) - trên - bàn (màu xanh lá cây)",
+  "bánh (màu xanh) - trên - bàn (màu nâu)",
+  "bánh (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người1 (trẻ, mặc áo hồng, đang chơi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bát1 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh) - trên - bàn (màu nâu)"
+]
+```
+
+frame_16:
+```json
+[
+  "tường - bên cạnh - kệ",
+  "người1 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - bát1 (màu xanh lá cây)",
+  "người2 (trẻ, mặc áo đỏ, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang nhìn)",
+  "người6 (trẻ, mặc áo trắng, đang chơi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "bàn (màu nâu) - phía dưới - người2 (trẻ, mặc áo đỏ, đang nhìn)",
+  "kệ - bên cạnh - tường",
+  "người7 (trẻ, mặc áo cam, đang nhìn) - bên cạnh - bát1 (màu xanh lá cây)",
+  "bát1 (màu xanh lá cây) - trên - bàn (màu xanh lá cây)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người1 (trẻ, mặc áo hồng, đang chơi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bát2 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh3 (màu xanh) - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh1 (màu xanh)",
+  "bát3 (màu xanh lá) - bên cạnh - bánh2 (màu xanh dương)"
+]
+```
+
+frame_17:
+```json
+[
+  "tường - bên cạnh - kệ",
+  "người1 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - bát1 (màu xanh lá cây)",
+  "người2 (trẻ, mặc áo đỏ, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người5 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang nhìn)",
+  "người6 (trẻ, mặc áo trắng, đang chơi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "bàn (màu nâu) - phía dưới - người2 (trẻ, mặc áo đỏ, đang nhìn)",
+  "kệ - bên cạnh - tường",
+  "người7 (trẻ, mặc áo cam, đang nhìn) - bên cạnh - bát1 (màu xanh lá cây)",
+  "bát1 (màu xanh lá cây) - trên - bàn (màu xanh lá cây)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người1 (trẻ, mặc áo hồng, đang chơi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang chơi)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bát2 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh3 (màu xanh) - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh1 (màu xanh)",
+  "bát3 (màu xanh lá) - bên cạnh - bánh2 (màu xanh dương)",
+  "người2 (trẻ, mặc áo đỏ, đang nhìn) - bên cạnh - người1 (trẻ, mặc áo hồng, đang nhìn)",
+  "bánh4 (màu xanh) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang nhìn)"
+]
+```
+
+frame_18:
+```json
+[
+  "tường - bên cạnh - kệ",
+  "người1 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - bát1 (màu xanh lá cây)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người3 (trưởng thành, mặc áo cam, đang ngồi) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người5 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "bàn (màu nâu) - phía dưới - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "kệ - bên cạnh - tường",
+  "người7 (trẻ, mặc áo cam, đang nhìn) - bên cạnh - bát1 (màu xanh lá cây)",
+  "bát1 (màu xanh lá cây) - trên - bàn (màu xanh lá cây)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người1 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bát2 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh3 (màu xanh) - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh1 (màu xanh)",
+  "bát3 (màu xanh lá) - bên cạnh - bánh2 (màu xanh dương)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người1 (trẻ, mặc áo hồng, đang ngồi)",
+  "bánh4 (màu xanh) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "cửa sổ - phía trên - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - bánh5 (màu trắng)"
+]
+```
+
+frame_19:
+```json
+[
+  "tường - bên cạnh - kệ",
+  "người1 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - bát1 (màu xanh lá cây)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người3 (trưởng thành, mặc áo cam, đang ngồi) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người5 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "bàn (màu nâu) - phía dưới - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "kệ - bên cạnh - tường",
+  "người7 (trẻ, mặc áo cam, đang nhìn) - bên cạnh - bát1 (màu xanh lá cây)",
+  "bát1 (màu xanh lá cây) - trên - bàn (màu xanh lá cây)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người1 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bát2 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh3 (màu xanh) - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh1 (màu xanh)",
+  "bát3 (màu xanh lá) - bên cạnh - bánh2 (màu xanh dương)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người1 (trẻ, mặc áo hồng, đang ngồi)",
+  "bánh4 (màu xanh) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "cửa sổ - phía trên - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - bàn (màu nâu)"
+]
+```
+
+frame_20:
+```json
+[
+  "tường - bên cạnh - kệ",
+  "người1 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - bát1 (màu xanh lá cây)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người3 (trưởng thành, mặc áo cam, đang ngồi) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người5 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "bàn (màu nâu) - phía dưới - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "kệ - bên cạnh - tường",
+  "người7 (trẻ, mặc áo cam, đang nhìn) - bên cạnh - bát1 (màu xanh lá cây)",
+  "bát1 (màu xanh lá cây) - trên - bàn (màu xanh lá cây)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người1 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bát2 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh3 (màu xanh) - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh1 (màu xanh)",
+  "bát3 (màu xanh lá) - bên cạnh - bánh2 (màu xanh dương)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người1 (trẻ, mặc áo hồng, đang ngồi)",
+  "bánh4 (màu xanh) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "cửa sổ - phía trên - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - bàn (màu nâu)",
+  "tivi - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)"
+]
+```
+
+frame_21:
+```json
+[
+  "tường - bên cạnh - kệ",
+  "người1 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - bát1 (màu xanh lá cây)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người3 (trưởng thành, mặc áo cam, đang ngồi) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người1 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "bàn (màu nâu) - phía dưới - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "kệ - bên cạnh - tường",
+  "người7 (trẻ, mặc áo cam, đang nhìn) - bên cạnh - bát1 (màu xanh lá cây)",
+  "bát1 (màu xanh lá cây) - trên - bàn (màu xanh lá cây)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người1 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bát2 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh3 (màu xanh) - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh1 (màu xanh)",
+  "bát3 (màu xanh lá) - bên cạnh - bánh2 (màu xanh dương)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người1 (trẻ, mặc áo hồng, đang ngồi)",
+  "bánh4 (màu xanh) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "cửa sổ - phía trên - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - bàn (màu nâu)",
+  "tivi - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ngồi)",
+  "giấy - trên - tường",
+  "chai1 (màu trắng) - bên cạnh - cửa sổ"
+]
+```
+
+frame_22:
+```json
+[
+  "tường - bên cạnh - kệ",
+  "người1 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - bát1 (màu xanh lá cây)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người3 (trưởng thành, mặc áo cam, đang xem tivi) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người1 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "bàn (màu nâu) - phía dưới - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "kệ - bên cạnh - tường",
+  "người7 (trẻ, mặc áo cam, đang nhìn) - bên cạnh - bát1 (màu xanh lá cây)",
+  "bát1 (màu xanh lá cây) - trên - bàn (màu xanh lá cây)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người1 (trẻ, mặc áo hồng, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bát2 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh3 (màu xanh) - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh1 (màu xanh)",
+  "bát3 (màu xanh lá) - bên cạnh - bánh2 (màu xanh dương)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người1 (trẻ, mặc áo hồng, đang ngồi)",
+  "bánh4 (màu xanh) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "cửa sổ - phía trên - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang nhìn) - bên cạnh - bàn (màu nâu)",
+  "tivi - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "giấy - trên - tường",
+  "chai1 (màu trắng) - bên cạnh - cửa sổ",
+  "người5 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - bát1 (màu trắng)",
+  "tường - bên cạnh - kệ",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người7 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người3 (trưởng thành, mặc áo cam, đang xem tivi) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bát1 (màu trắng)",
+  "bát1 (màu trắng) - trên - bàn (màu xanh lá cây)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bát2 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh3 (màu xanh) - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh1 (màu xanh)",
+  "bát3 (màu xanh lá) - bên cạnh - bánh2 (màu xanh dương)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người1 (trẻ, mặc áo hồng, đang đứng)",
+  "bánh4 (màu xanh) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "cửa sổ - phía trên - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - bàn (màu nâu)",
+  "tivi - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "giấy - trên - tường",
+  "chai1 (màu trắng) - bên cạnh - cửa sổ",
+  "người5 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người3 (trưởng thành, mặc áo cam, đang xem tivi) - đang ôm - người7 (trẻ, mặc áo trắng, đang nhìn)"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - cốc1 (màu trắng)",
+  "tường - bên cạnh - kệ",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người7 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người3 (trưởng thành, mặc áo cam, đang xem tivi) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bát1 (màu trắng)",
+  "bát1 (màu trắng) - trên - bàn (màu xanh lá cây)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bát2 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh3 (màu xanh) - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh1 (màu xanh)",
+  "bát3 (màu xanh lá) - bên cạnh - bánh2 (màu xanh dương)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người1 (trẻ, mặc áo hồng, đang đứng)",
+  "bánh4 (màu xanh) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "cửa sổ - phía trên - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - bàn (màu nâu)",
+  "tivi - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "giấy - trên - tường",
+  "chai1 (màu trắng) - bên cạnh - cửa sổ",
+  "người5 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người3 (trưởng thành, mặc áo cam, đang xem tivi) - đang ôm - người7 (trẻ, mặc áo trắng, đang nhìn)",
+  "ghế1 - phía sau - người3 (trưởng thành, mặc áo cam, đang xem tivi)"
+]
+```
+
+frame_25:
+```json
+[
+  "cửa sổ - phía trên - kệ",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - bát1 (màu trắng)",
+  "tường - bên cạnh - kệ",
+  "người3 (trưởng thành, mặc áo cam, đang xem tivi) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "bát1 (màu trắng) - trên - bàn (màu xanh lá cây)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bát2 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh3 (màu xanh) - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh1 (màu xanh)",
+  "bát3 (màu xanh lá) - bên cạnh - bánh2 (màu xanh dương)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người1 (trẻ, mặc áo hồng, đang đứng)",
+  "bánh4 (màu xanh) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "cửa sổ - phía trên - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang đứng) - bên cạnh - bàn (màu nâu)",
+  "tivi - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "giấy - trên - tường",
+  "chai1 (màu trắng) - bên cạnh - cửa sổ",
+  "người5 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người3 (trưởng thành, mặc áo cam, đang xem tivi) - đang ôm - người7 (trẻ, mặc áo trắng, đang nhìn)",
+  "ghế1 - phía sau - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người7 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang xem tivi)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bát1 (màu trắng)"
+]
+```
+
+frame_26:
+```json
+[
+  "cửa sổ - phía trên - kệ",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - phía trước - kệ",
+  "tường - bên cạnh - kệ",
+  "người4 (trưởng thành, không mặc áo, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "bát1 (màu trắng) - trên - bàn (màu xanh lá cây)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bát2 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh3 (màu xanh) - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh1 (màu xanh)",
+  "bát3 (màu xanh lá) - bên cạnh - bánh2 (màu xanh dương)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "bánh4 (màu xanh) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "cửa sổ - phía trên - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - bên cạnh - bàn (màu nâu)",
+  "tivi - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "giấy - trên - tường",
+  "chai1 (màu trắng) - bên cạnh - cửa sổ",
+  "người5 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - đang ôm - người7 (trẻ, mặc áo trắng, đang nhìn)",
+  "ghế1 - phía sau - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người7 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bát1 (màu trắng)",
+  "người3 (trưởng thành, mặc áo cam, đang ăn) - đang cầm - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - ngồi trên - ghế2",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh3 (màu xanh)",
+  "cam - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh2 (màu xanh dương)"
+]
+```
+
+frame_27:
+```json
+[
+  "tường - bên cạnh - kệ",
+  "người3 (trưởng thành, mặc áo cam, đang ăn) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ăn)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ăn)",
+  "bát1 (màu trắng) - trên - bàn (màu xanh lá cây)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ăn)",
+  "bát2 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh3 (màu xanh) - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh1 (màu xanh)",
+  "bát3 (màu xanh lá) - bên cạnh - bánh2 (màu xanh dương)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "bánh4 (màu xanh) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang ngồi)",
+  "cửa sổ - phía trên - người3 (trưởng thành, mặc áo cam, đang ăn)",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - bên cạnh - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - bên cạnh - bàn (màu nâu)",
+  "tivi - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ăn)",
+  "giấy - trên - tường",
+  "chai1 (màu trắng) - bên cạnh - cửa sổ",
+  "người5 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ăn)",
+  "người3 (trưởng thành, mặc áo cam, đang ăn) - đang ôm - người7 (trẻ, mặc áo trắng, đang nhìn)",
+  "ghế1 - phía sau - người3 (trưởng thành, mặc áo cam, đang ăn)",
+  "người7 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ăn)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang ăn)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bát1 (màu trắng)",
+  "người3 (trưởng thành, mặc áo cam, đang ăn) - đang cầm - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - ngồi trên - ghế2",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh3 (màu xanh)",
+  "cam - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh2 (màu xanh dương)",
+  "cửa sổ - phía trên - kệ",
+  "người3 (trưởng thành, mặc áo cam, đang ăn) - đang chạm - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "kệ - trên - người3 (trưởng thành, mặc áo cam, đang ăn)",
+  "kệ - trên - tivi",
+  "kệ - trên - tường",
+  "bánh6 (màu trắng) - trên - bàn (màu nâu)"
+]
+```
+
+frame_28:
+```json
+[
+  "tường - bên cạnh - kệ",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người2 (trẻ, mặc áo đỏ, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "bát1 (màu trắng) - trên - bàn (màu xanh lá cây)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "bát2 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh3 (màu xanh) - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh1 (màu xanh)",
+  "bát3 (màu xanh lá) - bên cạnh - bánh2 (màu xanh dương)",
+  "người2 (trẻ, mặc áo đỏ, đang nhìn) - bên cạnh - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "bánh4 (màu xanh) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang nhìn)",
+  "cửa sổ - phía trên - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người2 (trẻ, mặc áo đỏ, đang nhìn) - bên cạnh - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - bên cạnh - bàn (màu nâu)",
+  "tivi - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "giấy - trên - tường",
+  "chai1 (màu trắng) - bên cạnh - cửa sổ",
+  "người5 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - đang ôm - người7 (trẻ, mặc áo trắng, đang nhìn)",
+  "ghế1 - phía sau - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người7 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bát1 (màu trắng)",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - đang cầm - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - ngồi trên - ghế2",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh3 (màu xanh)",
+  "cam - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh2 (màu xanh dương)",
+  "cửa sổ - phía trên - kệ",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - đang chạm - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "kệ - trên - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "kệ - trên - tivi",
+  "kệ - trên - tường",
+  "bánh6 (màu trắng) - trên - bàn (màu nâu)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - đang chạm - cà rốt",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - đang nhìn - bánh6 (màu trắng)"
+]
+```
+
+frame_29:
+```json
+[
+  "tường - bên cạnh - kệ",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - phía trước - kệ",
+  "người4 (trưởng thành, không mặc áo, đang ngồi) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người2 (trẻ, mặc áo đỏ, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "bát1 (màu trắng) - trên - bàn (màu xanh lá cây)",
+  "bánh1 (màu xanh) - trên - bàn (màu nâu)",
+  "bánh2 (màu xanh dương) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "bát2 (màu nâu) - trên - bàn (màu nâu)",
+  "thức ăn - trên - bàn (màu nâu)",
+  "bánh3 (màu xanh) - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh1 (màu xanh)",
+  "bát3 (màu xanh lá) - bên cạnh - bánh2 (màu xanh dương)",
+  "người2 (trẻ, mặc áo đỏ, đang nhìn) - bên cạnh - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "bánh4 (màu xanh) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang nhìn)",
+  "cửa sổ - phía trên - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người2 (trẻ, mặc áo đỏ, đang nhìn) - bên cạnh - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - bên cạnh - bàn (màu nâu)",
+  "tivi - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "giấy - trên - tường",
+  "chai1 (màu trắng) - bên cạnh - cửa sổ",
+  "người5 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - đang ôm - người7 (trẻ, mặc áo trắng, đang nhìn)",
+  "ghế1 - phía sau - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người7 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bát1 (màu trắng)",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - đang cầm - bánh5 (màu trắng)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - ngồi trên - ghế2",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh3 (màu xanh)",
+  "cam - trên - bàn (màu nâu)",
+  "người6 (trẻ, mặc áo trắng, đang nhìn) - bên cạnh - bánh2 (màu xanh dương)",
+  "cửa sổ - phía trên - kệ",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - đang chạm - người1 (trẻ, mặc áo hồng, đang ăn)",
+  "kệ - trên - người3 (trưởng thành, mặc áo cam, đang nhìn)",
+  "kệ - trên - tivi",
+  "kệ - trên - tường",
+  "bánh6 (màu trắng) - trên - bàn (màu nâu)",
+  "người1 (trẻ, mặc áo hồng, đang ăn) - đang chạm - cà rốt",
+  "người3 (trưởng thành, mặc áo cam, đang nhìn) - đang nhìn - bánh6 (màu trắng)",
+  "bát3 (màu xanh lá) - bên cạnh - người2 (trẻ, mặc áo đỏ, đang nhìn)",
+  "bánh7 (màu trắng) - trên - bàn (màu nâu)"
+]
+```
+

@@ -1,0 +1,604 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang bơi) - ở trong - nước",
+  "ghế1 (màu trắng) - ở trong - nhà",
+  "người2 (trẻ, mặc quần áo trắng, đang đứng) - ở trong - nhà"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang bơi) - ở trong - nước",
+  "người2 (trẻ, mặc quần áo trắng, đang đứng) - ở trong - tường"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang bơi) - ở trong - nước",
+  "người2 (trẻ, mặc quần áo trắng, đang đứng) - ở trong - nước"
+]
+```
+
+frame_3:
+```json
+[
+  "ghế1 (màu hồng) - ở trên - nước",
+  "người1 (trẻ, mặc áo trắng, đang ngồi) - ở trên - ghế1 (màu hồng)",
+  "người1 (trẻ, mặc áo trắng, đang ngồi) - ở trong - nước",
+  "sàn - ở dưới - nước"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang bơi) - ở trong - nước",
+  "chó1 - ở trong - nước",
+  "tường - ở trên - nước"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang bơi) - ở trong - nước",
+  "chó1 - ở trong - nước"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang bơi) - ở trong - nước",
+  "chó1 - ở trong - nước",
+  "người2 (ngồi, mặc áo đỏ) - ở trên - sàn"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ, mặc áo trắng, đang bơi) - ở trong - nước",
+  "chó1 - ở trong - nước",
+  "người2 (ngồi, mặc áo đỏ, đang bơi) - ở trong - nước"
+]
+```
+
+frame_8:
+```json
+[
+  "người2 (ngồi, mặc áo đỏ, đang bơi) - ở trong - nước"
+]
+```
+
+frame_9:
+```json
+[
+  "người2 (trẻ, mặc áo đỏ, đang bơi) - ở trong - nước",
+  "người2 (trẻ, mặc áo đỏ, đang bơi) - ở trong - sàn",
+  "người2 (trẻ, mặc áo đỏ, đang bơi) - gần - bồn rửa (màu xanh lá cây)"
+]
+```
+
+frame_10:
+```json
+[
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - ở trong - nước",
+  "người1 (trẻ, mặc áo đỏ, đang ngồi) - ở trong - nước"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ, mặc áo đỏ, đang ngồi) - ở trong - nước",
+  "người2 (trẻ, mặc áo đỏ, đang ngồi) - ở trong - nước",
+  "tường - ở trên - nước"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ, mặc áo đỏ, đang ở trong nước) - ở trong - nước",
+  "tường - ở trên - nước"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ, mặc áo đỏ, đang ngồi) - ở trong - nước",
+  "người2 (trẻ, mặc đồ bơi hồng, đang ngồi) - ở trong - nước",
+  "người3 (trẻ, mặc áo hồng, đang ở trong nước) - ở trong - nước"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ, mặc áo đỏ, đang ngồi) - ở trong - nước",
+  "người2 (trẻ, mặc đồ bơi hồng, đang ngồi) - ở trong - nước"
+]
+```
+
+frame_15:
+```json
+[
+  "người2 (trẻ, mặc đồ bơi hồng, đang ngồi) - trên - xe máy (màu xanh)",
+  "người2 (trẻ, mặc đồ bơi hồng, đang ngồi) - ở trong - nước",
+  "xe máy (màu xanh) - ở trong - nước",
+  "tường - ở trong - nước",
+  "sàn - ở trong - nước"
+]
+```
+
+frame_16:
+```json
+[
+  "người2 (trẻ, mặc đồ bơi hồng, đang bơi) - ở trong - nước",
+  "người1 (trẻ, mặc đồ bơi, đang bơi) - ở trong - nước",
+  "chim (màu nâu) - ở trong - nước",
+  "sàn - ở trong - nước",
+  "tường - ở trong - nước"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trẻ, mặc đồ bơi, đang bơi) - ở trong - nước",
+  "người2 (trẻ, mặc đồ bơi hồng, đang bơi) - ở trong - nước"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ, mặc đồ bơi, đang bơi) - ở trong - nước",
+  "người2 (trẻ, mặc đồ bơi hồng, đang bơi) - ở trong - nước"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ, mặc đồ bơi, đang bơi) - ở trong - nước",
+  "người2 (trẻ, mặc đồ bơi hồng, đang bơi) - ở trong - nước"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ, mặc đồ bơi, đang bơi) - ở trong - nước"
+]
+```
+
+frame_21:
+```json
+[
+  "người2 (trẻ, mặc áo bơi, đang bơi) - ở trong - nước",
+  "người2 (trẻ, mặc áo bơi, đang bơi) - ở gần - ghế1 (màu vàng)",
+  "người2 (trẻ, mặc áo bơi, đang bơi) - ở gần - ghế2 (màu xanh lá cây)",
+  "người1 (trẻ, mặc đồ bơi, đang bơi) - ở trong - nước",
+  "sàn - ở trong - nước"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trẻ, mặc đồ bơi, đang bơi) - ở trong - nước",
+  "người2 (trẻ, mặc áo bơi, đang bơi) - ở trong - nước",
+  "xe hơi1 (màu xanh lá cây) - ở trong - nước"
+]
+```
+
+frame_23:
+```json
+[
+  "nước - chứa - chó",
+  "tường - ở trên - nước",
+  "người1 (trẻ, mặc đồ bơi, đang bơi) - ở trong - nước",
+  "người2 (trẻ, mặc áo bơi, đang bơi) - ở trong - nước",
+  "xe hơi1 (màu xanh lá cây) - ở trong - nước"
+]
+```
+
+frame_24:
+```json
+[
+  "nước - chứa - xe hơi1 (màu xanh lá cây)",
+  "tường - ở trên - nước",
+  "người1 (trẻ, mặc đồ bơi, đang bơi) - ở trong - nước",
+  "người2 (trẻ, mặc áo bơi, đang bơi) - ở trong - nước",
+  "xe hơi1 (màu xanh lá cây) - ở trong - nước"
+]
+```
+
+frame_25:
+```json
+["người1 (trẻ, mặc đồ bơi, đang bơi) - ở trong - nước", "người2 (trẻ, mặc áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_26:
+```json
+["người1 (trẻ, mặc đồ bơi, đang bơi) - ở trong - nước", "người2 (trẻ, mặc áo bơi, đang bơi) - ở trong - nước", "người3 (trẻ, mặc quần áo bơi, đang đứng) - gần - tường"]
+```
+
+frame_27:
+```json
+["người1 (trẻ, mặc đồ bơi, đang bơi) - ở trong - nước", "người2 (trẻ, mặc áo bơi, đang bơi) - ở trong - nước", "người3 (trẻ, mặc quần áo bơi, đang đứng) - gần - tường", "thuyền (xanh) - ở trong - nước", "người3 (trẻ, mặc quần áo bơi, đang đứng) - gần - sàn"]
+```
+
+frame_28:
+```json
+["người3 (trẻ, mặc quần áo bơi, đang đứng) - ở trong - nước"]
+```
+
+frame_29:
+```json
+[
+  "chó1 (không xác định, không xác định, không xác định) - ở trong - nước",
+  "thuyền1 (màu xanh dương) - ở trong - nước",
+  "người3 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"
+]
+```
+
+frame_30:
+```json
+["người3 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_31:
+```json
+["người3 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_32:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_33:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_34:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước", "chó1 (màu trắng) - ở trong - nước", "người1 (trẻ, mặc quần áo bơi, đang bơi) - đứng cạnh - chó1 (màu trắng)"]
+```
+
+frame_35:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước", "chó1 (màu trắng) - ở trong - nước", "người1 (trẻ, mặc quần áo bơi, đang bơi) - đứng cạnh - chó1 (màu trắng)", "người2 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_36:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước", "chó1 (màu trắng) - ở trong - nước", "người1 (trẻ, mặc quần áo bơi, đang bơi) - đứng cạnh - chó1 (màu trắng)", "người2 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_37:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước", "chim1 (màu đỏ) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_38:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_39:
+```json
+[
+  "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở gần - chó (màu xanh)",
+  "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước",
+  "chó (màu xanh) - ở trong - nước",
+  "bồn rửa (màu vàng) - ở trong - nước"
+]
+```
+
+frame_40:
+```json
+[
+  "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở gần - chó (màu xanh)",
+  "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước",
+  "chó (màu xanh) - ở trong - nước"
+]
+```
+
+frame_41:
+```json
+[
+  "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở gần - người2 (trẻ, mặc quần áo bơi, đang bơi)",
+  "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước",
+  "bàn phím (màu hồng) - ở - nước"
+]
+```
+
+frame_42:
+```json
+[
+  "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở gần - người2 (trẻ, mặc quần áo bơi, đang bơi)",
+  "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước",
+  "bàn phím (màu hồng) - ở - nước"
+]
+```
+
+frame_43:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước"]
+```
+
+frame_44:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước"]
+```
+
+frame_45:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước"]
+```
+
+frame_46:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước", "ô tô1 (màu xanh) - ở - nước"]
+```
+
+frame_47:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước", "người2 (trẻ, mặc áo khoác, đang bơi) - ở - nước"]
+```
+
+frame_48:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước"]
+```
+
+frame_49:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước"]
+```
+
+frame_50:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước"]
+```
+
+frame_51:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước"]
+```
+
+frame_52:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước"]
+```
+
+frame_53:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước"]
+```
+
+frame_54:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước", "cốc1 (màu xanh lá cây) - ở - nước"]
+```
+
+frame_55:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở - nước"]
+```
+
+frame_56:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang ở trên thuyền) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi, đang đứng) - ở - thuyền", "người1 (trẻ, mặc quần áo bơi, đang ở trên thuyền) - gần - người2 (trẻ, mặc quần áo bơi, đang đứng)", "người2 (trẻ, mặc quần áo bơi, đang đứng) - gần - thuyền"]
+```
+
+frame_57:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_58:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_59:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_60:
+```json
+["ghế1 (màu vàng) - ở trong - nước", "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_61:
+```json
+["chó1 (màu xanh lam) - ở trong - nước", "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_62:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_63:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_64:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_65:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi, không rõ hành động) - ở trong - nước"]
+```
+
+frame_66:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_67:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở cạnh - chó1", "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước", "chó1 - ở trong - nước"]
+```
+
+frame_68:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở cạnh - người2 (trẻ, mặc quần áo bơi, đang bơi)", "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_69:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở cạnh - người2 (trẻ, mặc quần áo bơi, đang bơi)", "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_70:
+```json
+["người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_71:
+```json
+["ghế1 (màu vàng) - ở trong - nước", "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước", "chó1 (màu xanh) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_72:
+```json
+["ghế1 (màu vàng) - ở trong - nước", "người1 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước", "tàu hỏa1 (màu xanh) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi, đang bơi) - ở trong - nước"]
+```
+
+frame_73:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở trong - nước", "chó1 (màu đen, mặc áo phao) - ở trong - nước", "xe hơi1 (màu tím) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - gần - chó1 (màu đen, mặc áo phao)", "chó1 (màu đen, mặc áo phao) - ngậm - tàu hỏa1 (màu xanh)"]
+```
+
+frame_74:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - gần - chó1 (màu đen, mặc áo phao)", "tuyết - ở dưới - nước"]
+```
+
+frame_75:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở trong - nước", "tàu hỏa1 (màu vàng) - ở trong - nước", "ghế1 (không rõ) - ở trong - nước"]
+```
+
+frame_76:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang ở trên) - trên - nền tảng"]
+```
+
+frame_77:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang ở trên) - trên - nền tảng", "người2 (trẻ, mặc quần áo bơi màu hồng, đang ở trên) - ở - nước", "nền tảng - liền kề - tường"]
+```
+
+frame_78:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở - nước", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - gần - vỉa hè", "vỉa hè - liền kề - sàn nhà"]
+```
+
+frame_79:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở - nước", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - gần - vỉa hè"]
+```
+
+frame_80:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở - nước", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - gần - ba lô (màu cam)", "ba lô (màu cam) - ở trên - người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi)", "bệ (màu trắng) - gần - người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi)", "bệ (màu trắng) - gần - vỉa hè"]
+```
+
+frame_81:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - gần - chó (đen)", "chó (đen) - ở - nước", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở - nước", "bể (màu trắng) - gần - người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi)", "bể (màu trắng) - gần - vỉa hè"]
+```
+
+frame_82:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở - nước", "bể (màu trắng) - gần - người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi)"]
+```
+
+frame_83:
+```json
+["người1 (trẻ, không mặc áo, đang bơi) - ở - nước", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở - nước"]
+```
+
+frame_84:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở - nước", "ghế1 (màu vàng) - ở - nước", "ghế2 (màu vàng) - ở - nước", "người1 (trẻ, không mặc áo, đang bơi) - ở - nước"]
+```
+
+frame_85:
+```json
+["người1 (trẻ, không mặc áo, đang bơi) - ở - nước", "chó1 (màu xanh dương) - ở - nước", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở - nước", "sàn - ở - nước"]
+```
+
+frame_86:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở - nước", "sàn - ở - nước"]
+```
+
+frame_87:
+```json
+["người1 (trẻ, mặc đồ bơi màu đỏ, đang bơi) - ở - nước", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở - nước", "bồn rửa (màu xám) - ở - nước"]
+```
+
+frame_88:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - đang tương tác với - chó (màu tối)", "chó (màu tối) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở trong - nước"]
+```
+
+frame_89:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở trong - nước"]
+```
+
+frame_90:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - đang bơi cùng - chó (đen, mặc áo phao)", "chó (đen, mặc áo phao) - ở trong - nước"]
+```
+
+frame_91:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - đang bơi cùng - chó (đen, mặc áo phao)", "chó (đen, mặc áo phao) - ở trong - nước"]
+```
+
+frame_92:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở trong - nước", "người1 (trẻ, mặc quần áo bơi màu cam, đang bơi) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - đang bơi cùng - chó (đen, mặc áo phao)", "chó (đen, mặc áo phao) - ở trong - nước", "người1 (trẻ, mặc quần áo bơi màu cam, đang bơi) - đang bơi cùng - chó (đen, mặc áo phao)"]
+```
+
+frame_93:
+```json
+["người1 (trẻ, mặc quần áo bơi màu cam, đang bơi) - ở trong - nước", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở trong - nước", "ba lô (màu hồng) - gần - người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi)"]
+```
+
+frame_94:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở trong - nước", "ba lô (màu hồng) - gần - người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi)", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở trên - vỉa hè"]
+```
+
+frame_95:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở trong - nước", "ba lô (màu hồng) - gần - người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi)", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở trên - sàn nhà"]
+```
+
+frame_96:
+```json
+["người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở gần - chó1 (màu xanh da trời)", "chó1 (màu xanh da trời) - ở trên - sàn nhà", "người2 (trẻ, mặc quần áo bơi màu hồng, đang bơi) - ở trên - sàn nhà"]
+```
+

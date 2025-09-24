@@ -1,0 +1,61 @@
+frame_0000.jpg: a baby sitting on a table eating a banana
+frame_0001.jpg: a baby sitting on a table eating a banana
+frame_0002.jpg: a baby sitting on a table eating a banana
+frame_0003.jpg: a baby sitting in a high chair eating a banana
+frame_0004.jpg: a baby sitting in a high chair eating a banana
+frame_0005.jpg: a baby sitting on a table eating a banana
+frame_0006.jpg: a baby sitting in a high chair eating a banana
+frame_0007.jpg: a baby sitting in a high chair eating a banana
+frame_0008.jpg: a baby sitting on a table eating a banana
+frame_0009.jpg: a baby eating a banana
+frame_0010.jpg: a baby sitting in a high chair eating a banana
+frame_0011.jpg: a baby sitting in a high chair eating a banana
+frame_0012.jpg: a baby sitting in a high chair eating a banana
+frame_0013.jpg: a baby sitting in a high chair eating a banana
+frame_0014.jpg: a baby sitting in a high chair eating a banana
+frame_0015.jpg: a baby sitting in a high chair eating a banana
+frame_0016.jpg: a baby sitting in a high chair eating a banana
+frame_0017.jpg: a baby sitting in a high chair eating a banana
+frame_0018.jpg: a baby sitting in a high chair eating a banana
+frame_0019.jpg: a baby sitting on a pink chair eating a banana
+frame_0020.jpg: a baby sitting on a chair eating a banana
+frame_0021.jpg: a baby sitting on a chair eating a banana
+frame_0022.jpg: a baby sitting in a high chair eating a banana
+frame_0023.jpg: a baby sitting in a high chair eating a banana
+frame_0024.jpg: a baby sitting in a high chair eating a banana
+frame_0025.jpg: a baby sitting on a chair eating a banana
+frame_0026.jpg: a baby sitting in a high chair eating a banana
+frame_0027.jpg: a baby eating a banana
+frame_0028.jpg: a baby eating a banana
+frame_0029.jpg: a baby eating a banana
+frame_0030.jpg: a baby is eating a banana
+frame_0031.jpg: a baby sitting on a table eating a banana
+frame_0032.jpg: a baby sitting on a pink chair eating a banana
+frame_0033.jpg: a baby holding a banana
+frame_0034.jpg: a baby sitting on a pink chair eating a banana
+frame_0035.jpg: a baby sitting on a chair eating a banana
+frame_0036.jpg: a baby is eating a banana
+frame_0037.jpg: a baby sitting at a table eating a banana
+frame_0038.jpg: a baby eating a banana
+frame_0039.jpg: a baby eating a banana
+frame_0040.jpg: a baby eating a banana
+frame_0041.jpg: a baby eating a banana
+frame_0042.jpg: a baby is eating something off of a paper towel
+frame_0043.jpg: a baby sitting in a high chair eating a banana
+frame_0044.jpg: a baby eating a banana
+frame_0045.jpg: a baby eating a banana
+frame_0046.jpg: a baby eating a banana
+frame_0047.jpg: a baby eating a banana
+frame_0048.jpg: a baby eating a banana
+frame_0049.jpg: a baby eating a banana
+frame_0050.jpg: a baby eating a banana
+frame_0051.jpg: a baby eating a banana
+frame_0052.jpg: a baby is eating a banana
+frame_0053.jpg: a baby eating a banana
+frame_0054.jpg: a baby sitting on a chair eating a banana
+frame_0055.jpg: a baby sitting on a chair eating a banana
+frame_0056.jpg: a baby sitting on a pink chair holding a banana
+frame_0057.jpg: a baby sitting on a chair eating a banana
+frame_0058.jpg: a baby sitting on a pink chair
+frame_0059.jpg: a baby sitting on a table eating something
+frame_0060.jpg: a person is holding a stuffed animal

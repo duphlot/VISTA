@@ -1,0 +1,115 @@
+frame_0000.jpg: a bear is walking around in the dirt
+frame_0001.jpg: a small bear is walking around in the dirt
+frame_0002.jpg: a baby rada in the zoo
+frame_0003.jpg: a group of wild animals in a zoo
+frame_0004.jpg: a bear is laying down in the dirt
+frame_0005.jpg: a small bird is sitting on the ground
+frame_0006.jpg: a small animal laying on the ground
+frame_0007.jpg: a small turtle is sitting on the ground
+frame_0008.jpg: a small animal is standing in the dirt
+frame_0009.jpg: a small bird sitting on top of a pile of wood
+frame_0010.jpg: a small animal is standing in the dirt
+frame_0011.jpg: a small bird is sitting on the ground
+frame_0012.jpg: a small bear is laying on the ground
+frame_0013.jpg: a bear is laying down in the dirt
+frame_0014.jpg: a bear is laying down on the ground
+frame_0015.jpg: a small pig is laying on the ground
+frame_0016.jpg: a small rodent is sitting on the ground
+frame_0017.jpg: a small animal is walking around a pile of wood chips
+frame_0018.jpg: a small bird sitting on top of a pile of wood
+frame_0019.jpg: a small animal is laying on the ground
+frame_0020.jpg: a small animal is laying on the ground
+frame_0021.jpg: a bear is laying on the ground in the zoo
+frame_0022.jpg: a small bird is standing on the ground
+frame_0023.jpg: a small dog is laying on the ground
+frame_0024.jpg: a small animal laying on the ground
+frame_0025.jpg: a lizard is seen in this und - toned video
+frame_0026.jpg: a small bird is sitting on the ground
+frame_0027.jpg: a small dog laying on the ground
+frame_0028.jpg: a man is standing in the dirt with a dog
+frame_0029.jpg: a bear is laying down in the dirt
+frame_0030.jpg: a group of elephants laying in the dirt
+frame_0031.jpg: a bear is laying down in the dirt
+frame_0032.jpg: a bear is laying down in the dirt
+frame_0033.jpg: a bear is laying down in the dirt
+frame_0034.jpg: a group of birds are standing in the dirt
+frame_0035.jpg: a group of wild animals are seen in this und - toned video
+frame_0036.jpg: a dog is laying on the ground
+frame_0037.jpg: a cat is laying on the ground
+frame_0038.jpg: a leopard is seen in the wild in the wild
+frame_0039.jpg: a dog laying on the ground next to a fence
+frame_0040.jpg: a group of birds are standing in the dirt
+frame_0041.jpg: a small animal is laying on the ground
+frame_0042.jpg: a cow is laying down in the dirt
+frame_0043.jpg: a tiger is laying on the ground
+frame_0044.jpg: a wild animal is seen in this und - toned video
+frame_0045.jpg: a black bear is laying down in the dirt
+frame_0046.jpg: a leopard is laying on the ground
+frame_0047.jpg: a dog laying on the ground in a yard
+frame_0048.jpg: a black bear is laying down in the dirt
+frame_0049.jpg: a black bear is seen in this und - toned video
+frame_0050.jpg: a bear is laying down in the dirt
+frame_0051.jpg: a bear is laying down in the dirt
+frame_0052.jpg: a black bear is playing with a stick
+frame_0053.jpg: a small bear is laying on the ground
+frame_0054.jpg: a bear is laying down in the dirt
+frame_0055.jpg: a black bear is seen in this und - toned video
+frame_0056.jpg: a dog laying on the ground in front of a rock
+frame_0057.jpg: a leopard is laying on the ground in the zoo
+frame_0058.jpg: a leopard is seen in this und - toned image
+frame_0059.jpg: a black bear walking across a dirt covered area
+frame_0060.jpg: a pig walking across a dirt covered field
+frame_0061.jpg: a pig walking across a dirt covered area
+frame_0062.jpg: a pig walking across a dirt covered area
+frame_0063.jpg: a pig walking in a zoo enclosure
+frame_0064.jpg: a bear walking in the dirt near a rock
+frame_0065.jpg: a small dog walking on a dirt covered ground
+frame_0066.jpg: a bear walking through a dirt covered area
+frame_0067.jpg: a bear walking on the ground near a rock
+frame_0068.jpg: a bear walking through a dirt covered area
+frame_0069.jpg: a bear walking on the ground near a building
+frame_0070.jpg: a bear walking on the ground near a rock
+frame_0071.jpg: a bear walking on a dirt covered ground
+frame_0072.jpg: a bear walking on a dirt covered ground
+frame_0073.jpg: a bear is walking around a rock
+frame_0074.jpg: a man is standing in front of a wall
+frame_0075.jpg: a dog is standing on the ground near a rock
+frame_0076.jpg: a bird is standing on the ground near a rock
+frame_0077.jpg: a bear is walking around a rock
+frame_0078.jpg: a bear walking on the ground in a zoo
+frame_0079.jpg: a bear is walking around a rock
+frame_0080.jpg: a bear walking on the ground near a rock
+frame_0081.jpg: a small pig is walking around a rock
+frame_0082.jpg: a small pig walking around a rock
+frame_0083.jpg: a small pig walking around a rock
+frame_0084.jpg: a small pig walking around a rock
+frame_0085.jpg: a small pig is walking around in the dirt
+frame_0086.jpg: a small pig walking around a rock
+frame_0087.jpg: a pig is walking around in the dirt
+frame_0088.jpg: a small pig is walking around a rock
+frame_0089.jpg: a pig is standing in the dirt
+frame_0090.jpg: a bear walking around a zoo enclosure
+frame_0091.jpg: a small pig is walking around in the dirt
+frame_0092.jpg: a small pig walking around a rock
+frame_0093.jpg: a small pig walking around a rock
+frame_0094.jpg: a small pig walking around a rock
+frame_0095.jpg: a pig is walking around a rock
+frame_0096.jpg: a small pig walking around a rock
+frame_0097.jpg: a pig is walking around a rock
+frame_0098.jpg: a small pig walking around a rock
+frame_0099.jpg: a small dog walking on top of a pile of dirt
+frame_0100.jpg: a pig is walking in the dirt
+frame_0101.jpg: a pig walking on the ground in a zoo
+frame_0102.jpg: a bear walking across a dirt covered area
+frame_0103.jpg: a bear walking across a dirt covered area
+frame_0104.jpg: a small bear walking across a dirt covered area
+frame_0105.jpg: a bear walking across a dirt covered area
+frame_0106.jpg: a small bear walking across a dirt covered area
+frame_0107.jpg: a small bear walking on a dirt covered ground
+frame_0108.jpg: a bear walking on the ground near rocks
+frame_0109.jpg: a small bear walking across a dirt covered area
+frame_0110.jpg: a small bear walking across a dirt covered area
+frame_0111.jpg: a bear walking across a dirt covered area
+frame_0112.jpg: a small dog is walking around a rock
+frame_0113.jpg: a man is standing in the dirt near a rock
+frame_0114.jpg: a bear walking on a dirt covered area

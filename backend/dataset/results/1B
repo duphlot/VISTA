@@ -1,0 +1,84 @@
+Video 10597533885 has 456 relations in scene graph.
+Processed video 10597533885: TP=1, ES=1, EM=1, Reason=Scene graph có đề cập đến em bé (bé gái) chơi với đồ chơi.
+Video 11681746823 has 94 relations in scene graph.
+Processed video 11681746823: TP=1, ES=1, EM=1, Reason=Trong nhiều frame có em bé cạnh người phụ nữ, có tương tác.
+Video 11871253306 has 351 relations in scene graph.
+Processed video 11871253306: TP=1, ES=1, EM=1, Reason=Scene graph có thông tin về người đàn ông, trẻ em và bóng, cho thấy khả năng người đàn ông chuyền bóng cho đứa trẻ.
+Video 2405940242 has 76 relations in scene graph.
+Processed video 2405940242: TP=1, ES=1, EM=1, Reason=Scene graph có thông tin "người phụ nữ (đang leo) - đội - mũ bảo hiểm (frame: 0014)" và "người phụ nữ (đang leo) - mặc - quần áo (phù hợp với hoạt động) (frame: 0014)". "Nón" có thể được suy ra từ "mũ bảo hiểm".
+Video 2435100235 has 373 relations in scene graph.
+Processed video 2435100235: TP=0, ES=0, EM=0, Reason=Scene graph không có thông tin về đồng hồ đeo tay và hành động "được bán cho".
+Video 2435633172 has 380 relations in scene graph.
+Processed video 2435633172: TP=1, ES=1, EM=1, Reason=Có người quan sát các động vật trong khu vực (vườn thú/sân chơi).
+Video 2503404966 has 158 relations in scene graph.
+Processed video 2503404966: TP=1, ES=1, EM=1, Reason=Scene graph mô tả bé trai trong nhiều tình huống vui chơi, phù hợp với việc cảm thấy vui vẻ.
+Video 2614918961 has 214 relations in scene graph.
+Processed video 2614918961: TP=1, ES=1, EM=1, Reason=Scene graph chứa thông tin em bé đang ngồi và chơi đùa trên bàn ăn, có đồ chơi.
+Video 2735019707 has 163 relations in scene graph.
+Processed video 2735019707: TP=1, ES=1, EM=1, Reason=Scene graph chứa thông tin về "người đàn ông mặc áo đỏ" và "cậu bé" cùng các hành động chơi trống.
+Video 2793260225 has 131 relations in scene graph.
+Processed video 2793260225: TP=1, ES=1, EM=1, Reason=Scene graph có thông tin người đàn ông giữ người phụ nữ và người đàn ông đội mũ lưỡi trai.
+Video 2793806282 has 293 relations in scene graph.
+Processed video 2793806282: TP=0, ES=0, EM=0, Reason=Ground truth nói về người phụ nữ mặc đồ xanh ngồi trên sàn nhà, scene graph không có thông tin nào liên quan đến việc người phụ nữ mặc đồ xanh ngồi trên sàn nhà.
+Video 2821968703 has 159 relations in scene graph.
+Processed video 2821968703: TP=1, ES=1, EM=1, Reason=Tương tự như trên, việc nghiêng người về phía sau giúp giữ thăng bằng khi di chuyển trên thuyền hoặc băng ski.
+Video 2830899473 has 112 relations in scene graph.
+Processed video 2830899473: TP=1, ES=1, EM=0, Reason=Scene graph có các cảnh "người (mặc áo cam và quần đen, đeo ba lô màu vàng cam, đang ôm) - ôm - người (mặc áo trắng và quần đen, cũng đeo ba lô màu vàng cam) (frame: 0003)" và "người đàn ông (ở giữa, đang ôm) - ôm - người đàn ông (bên phải) (frame: 0020)" cho thấy sự thể hiện tình cảm giữa hai người đàn ông. EM=0 vì có nhiều thông tin chi tiết trong ground truth mà scene graph không có.
+Video 2834146886 has 242 relations in scene graph.
+Processed video 2834146886: TP=1, ES=1, EM=1, Reason=Scene graph có đề cập đến chó trắng và chó đen. Hành động "ngửi" có thể suy ra từ việc chó ở gần nhau.
+Video 2976913210 has 118 relations in scene graph.
+Processed video 2976913210: TP=1, ES=1, EM=1, Reason=Scene graph có thông tin người đàn ông và di chuyển trên địa hình có bùn đất (khu vực đất bê tông, kênh rạch).
+Video 2984974097 has 223 relations in scene graph.
+Processed video 2984974097: TP=1, ES=1, EM=1, Reason=Scene graph có thông tin bé gái đi xe đạp, suy ra đang di chuyển về phía trước.
+Video 3066064005 has 288 relations in scene graph.
+Processed video 3066064005: TP=1, ES=1, EM=1, Reason=Scene graph có đề cập đến người phụ nữ và bàn ăn với các món ăn. "Dụng cụ ăn" có thể suy ra từ các món ăn được bày biện.
+Video 3121571439 has 281 relations in scene graph.
+Processed video 3121571439: TP=1, ES=1, EM=1, Reason=Scene graph có "người đàn ông (mặc áo đen, đội mũ lưỡi trai, nhìn về phía máy ảnh, vẻ mặt vui vẻ)" thể hiện mối quan hệ "vui vẻ" của người đàn ông mặc đồ đen.
+Video 3151715056 has 749 relations in scene graph.
+Processed video 3151715056: TP=1, ES=1, EM=0, Reason=Có 'bé gái' trên ghế và 'người phụ nữ' trong scene graph, và có thể suy ra hành động 'cúi xuống và chạm vào' từ bối cảnh. Tuy nhiên, đối tượng không match hoàn toàn.
+Video 3158022797 has 961 relations in scene graph.
+Processed video 3158022797: TP=1, ES=1, EM=1, Reason=Scene graph thể hiện được quan hệ đồng bộ động tác thông qua mô tả nhiều người cùng chơi Wii và cầm các thiết bị điều khiển.
+Video 3171006258 has 227 relations in scene graph.
+Processed video 3171006258: TP=0, ES=0, EM=0, Reason=Scene graph không có thông tin về "giày trượt băng" và "cải thiện thăng bằng".
+Video 3206694342 has 528 relations in scene graph.
+Processed video 3206694342: TP=1, ES=1, EM=1, Reason=Scene graph có thông tin về người trên sân khấu.
+Video 3429509208 has 76 relations in scene graph.
+Processed video 3429509208: TP=0, ES=0, EM=0, Reason=Không có thông tin về em bé giơ tay hoặc em bé lấy máy ảnh trong scene graph.
+Video 3441428429 has 475 relations in scene graph.
+Processed video 3441428429: TP=1, ES=1, EM=0, Reason=Scene graph có thông tin về người phụ nữ và người đàn ông biểu diễn trên sân khấu, có các động tác thể thao, nắm tay. Tuy không trực tiếp nhắc đến trượt băng nhưng có các frame có hoạt động thể thao trên mặt nước, tương tự như trượt băng.
+Video 3462517143 has 194 relations in scene graph.
+Processed video 3462517143: TP=1, ES=0, EM=0, Reason=Scene graph có chó trắng, thùng nhựa (có thể chứa nước), và vị trí tương đối của chúng cho thấy chó trắng có thể đi quanh thùng. Tuy nhiên, không có thông tin rõ ràng về vòi nước.
+Video 3477387686 has 441 relations in scene graph.
+Processed video 3477387686: TP=1, ES=1, EM=0, Reason=Scene graph chứa thông tin về cô gái trẻ đang cười và nhìn vào máy ảnh (cụ thể frame 0009).
+Video 3524939594 has 86 relations in scene graph.
+Processed video 3524939594: TP=1, ES=1, EM=0, Reason=Scene graph có nhiều người và bối cảnh có thể gợi ý đến cảm xúc hồi hộp.
+Video 3550839192 has 180 relations in scene graph.
+Processed video 3550839192: TP=1, ES=1, EM=1, Reason=Scene graph có đề cập đến em bé (bé trai) và bàn xe nôi (xe đẩy trẻ em)
+Video 3557498300 has 153 relations in scene graph.
+Processed video 3557498300: TP=1, ES=1, EM=1, Reason=Có 'bé trai (mặc áo màu xanh dương và quần vàng, đang chạy nhảy)' trong scene graph, tương ứng với 'cậu_bé_mặc_đồ_xanh - di_chuyển_bằng_cách - chạy'
+Video 3562017845 has 274 relations in scene graph.
+Processed video 3562017845: TP=1, ES=1, EM=1, Reason=Scene graph có thông tin chim trên đất.
+Video 3711681535 has 208 relations in scene graph.
+Processed video 3711681535: TP=0, ES=0, EM=0, Reason=Scene graph không có thông tin về tay cầm hay hành động buông.
+Video 3821781616 has 233 relations in scene graph.
+Processed video 3821781616: TP=1, ES=1, EM=1, Reason=Scene graph có đề cập đến 'người đàn ông' ở trong 'căn phòng (có tường màu vàng)', tương ứng với 'phòng khách'.
+Video 3851961428 has 440 relations in scene graph.
+Processed video 3851961428: TP=1, ES=1, EM=1, Reason=Scene graph có thông tin về người đàn ông, kính bảo hộ và hành động tháo.
+Video 3943634344 has 144 relations in scene graph.
+Processed video 3943634344: TP=1, ES=1, EM=1, Reason=Scene graph có thông tin người phụ nữ đang vỗ tay với vẻ mặt hạnh phúc, có thể suy luận ra hành động khen ngợi bé gái.
+Video 3963997053 has 141 relations in scene graph.
+Processed video 3963997053: TP=1, ES=1, EM=1, Reason=Scene graph có thông tin về xe ô tô chạy trên đường.
+Video 4010069381 has 95 relations in scene graph.
+Processed video 4010069381: TP=1, ES=1, EM=0, Reason=Scene graph có thông tin về hai người đàn ông và việc họ cầm nhạc cụ (đàn guitar), có thể suy ra hành động "quay" tay cầm đàn.
+Video 4094488636 has 178 relations in scene graph.
+Processed video 4094488636: TP=1, ES=1, EM=1, Reason=Scene graph có thông tin về chó nâu và việc chó nhìn xung quanh có thể suy luận từ việc chó đứng ở nhiều vị trí và hướng khác nhau.
+Video 4138579400 has 141 relations in scene graph.
+Processed video 4138579400: TP=1, ES=1, EM=1, Reason=Scene graph có thông tin về cậu bé và tay đặt lên đầu, tương đương với việc chạm vào tóc.
+Video 4217422838 has 275 relations in scene graph.
+Processed video 4217422838: TP=1, ES=1, EM=1, Reason="Scene graph có người phụ nữ và hộp quà, hành động đặt sang một bên có thể suy ra từ bối cảnh."
+Video 4260763967 has 233 relations in scene graph.
+Processed video 4260763967: TP=1, ES=1, EM=1, Reason=Scene graph thể hiện đầy đủ thông tin về cậu bé lắp ráp đồ chơi.
+Video 4263096481 has 143 relations in scene graph.
+Processed video 4263096481: TP=1, ES=1, EM=1, Reason=Scene graph có thông tin về người cắt đầu cá.
+Saved evaluation results to /Users/ptdung/Coding/Github/soICT/backend/dataset/scene_graph_eval_results_llm_simple.csv
+Average number of relations per video: 260.66

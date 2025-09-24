@@ -1,0 +1,182 @@
+frame_0:
+```json
+[
+  "người1 (trẻ, mặc áo khoác tối màu, đang lái xe) - ở trên - xe đạp1 (màu tối)",
+  "người1 (trẻ, mặc áo khoác tối màu, đang lái xe) - ở trong - bụi bẩn1",
+  "cây1 - ở trên - bụi bẩn1"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ, mặc áo khoác tối màu, đang lái xe) - ở trên - xe đạp1 (màu tối)",
+  "người1 (trẻ, mặc áo khoác tối màu, đang lái xe) - ở trong - bụi bẩn1",
+  "cây1 - ở trên - bụi bẩn1",
+  "cỏ1 - ở trên - bụi bẩn1"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ, mặc áo khoác tối màu, đang đi bộ) - ở trên - bụi bẩn1",
+  "người1 (trẻ, mặc áo khoác tối màu, đang đi bộ) - ở trên - xe đạp1 (màu tối)",
+  "cây1 - ở trên - bụi bẩn1",
+  "cỏ1 - ở trên - bụi bẩn1"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ, mặc áo khoác tối màu, đang đi xe đạp) - ở trên - bụi bẩn1",
+  "người1 (trẻ, mặc áo khoác tối màu, đang đi xe đạp) - ở trên - xe đạp1 (màu tối)",
+  "cây1 - ở trên - bụi bẩn1",
+  "cỏ1 - ở trên - bụi bẩn1",
+  "người1 (trẻ, mặc áo khoác tối màu, đang đi xe đạp) - điều khiển - xe đạp1 (màu tối)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ, mặc áo khoác tối màu, đang đứng) - ở trên - bụi bẩn1",
+  "người1 (trẻ, mặc áo khoác tối màu, đang đứng) - ở trên - xe đạp1 (màu tối)",
+  "cây1 - ở trên - bụi bẩn1",
+  "cỏ1 - ở trên - bụi bẩn1"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ, mặc áo khoác tối màu, đang đứng) - ở trên - bụi bẩn1",
+  "người1 (trẻ, mặc áo khoác tối màu, đang đứng) - ở trên - xe đạp1 (màu tối)",
+  "cây1 - ở trên - bụi bẩn1",
+  "cỏ1 - ở trên - bụi bẩn1"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ, mặc áo khoác tối màu, đang đạp xe) - ở trên - bụi bẩn1",
+  "người1 (trẻ, mặc áo khoác tối màu, đang đạp xe) - ở trên - xe đạp1 (màu tối)",
+  "cây1 - ở trên - bụi bẩn1",
+  "cỏ1 - ở trên - bụi bẩn1"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ, mặc áo khoác tối màu, đang ngồi) - ở trên - xe đạp1 (màu tối)",
+  "cây1 - ở trên - bụi bẩn1",
+  "cỏ1 - ở trên - bụi bẩn1",
+  "người1 (trẻ, mặc áo khoác tối màu, đang ngồi) - ở trên - xe máy1"
+]
+```
+
+frame_8:
+```json
+[
+  "nước1 - ở trên - bụi bẩn1",
+  "cây1 - ở trên - bụi bẩn1",
+  "cỏ1 - ở trên - bụi bẩn1"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (không rõ, mặc áo đỏ, đang đi xe đạp) - ở trên - bụi bẩn1",
+  "cỏ1 - ở trên - bụi bẩn1",
+  "cây1 - ở trên - bụi bẩn1"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (không rõ, mặc áo đỏ, đang đi xe đạp) - ở trên - cỏ",
+  "cây1 - ở trên - cỏ",
+  "hàng rào1 - ở trên - cỏ"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (không rõ, mặc áo đỏ, đang đi xe đạp) - ở trên - cỏ",
+  "cây1 - ở trên - cỏ"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (không rõ, mặc áo đỏ, đang đi xe đạp) - ở trên - xe đạp",
+  "cây1 - ở trên - cỏ"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (không rõ, mặc áo đỏ, đang đi xe đạp) - ở trên - xe đạp",
+  "cây1 - ở trên - cỏ",
+  "xe đạp - ở trên - vỉa hè"
+]
+```
+
+frame_14:
+cây1 - ở trên - cỏ
+
+frame_15:
+```json
+[
+  "cỏ - bao quanh - xe đạp1",
+  "cây - ở trên - cỏ",
+  "hoa - ở trên - xe đạp1",
+  "xe đạp1 - ở trên - bụi bẩn"
+]
+```
+
+frame_16:
+```json
+[
+  "cỏ - bao quanh - cây",
+  "cây - ở trên - cỏ"
+]
+```
+
+frame_17:
+```json
+[
+  "cỏ - bao quanh - cây",
+  "cây - ở trên - cỏ",
+  "người1 (trẻ, mặc áo đỏ, không rõ) - ở trên - đất"
+]
+```
+
+frame_18:
+```json
+[
+  "cỏ - bao quanh - cây",
+  "cây - ở trên - cỏ",
+  "người1 (trẻ, mặc áo đỏ, không rõ) - ở trên - cây"
+]
+```
+
+frame_19:
+```json
+[
+  "cỏ - bao quanh - cây",
+  "cây - ở trên - cỏ",
+  "người1 (trẻ, mặc áo đỏ, không rõ) - ở trên - cây",
+  "người1 (trẻ, mặc áo đỏ, đứng) - ở trên - đất",
+  "người1 (trẻ, mặc áo đỏ, đứng) - ở trong - cây"
+]
+```
+

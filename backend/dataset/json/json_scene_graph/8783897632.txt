@@ -1,0 +1,750 @@
+frame_0:
+```json
+[
+  "trời - xung quanh - cây",
+  "cây - chứa - người1",
+  "cây - chứa - cỏ",
+  "cỏ - xung quanh - cây"
+]
+```
+
+frame_1:
+```json
+[
+  "trời - xung quanh - cây",
+  "cây - chứa - người1",
+  "cây - chứa - cỏ",
+  "cỏ - xung quanh - cây"
+]
+```
+
+frame_2:
+```json
+[
+  "trời - xung quanh - cây",
+  "cây - chứa - người1",
+  "cây - chứa - cỏ",
+  "cỏ - xung quanh - cây"
+]
+```
+
+frame_3:
+```json
+[
+  "ngựa1 (76%) - bên trong - cây",
+  "cây - xung quanh - trời",
+  "cây - chứa - cỏ"
+]
+```
+
+frame_4:
+```json
+[
+  "ngựa1 - bên trong - cây",
+  "cây - xung quanh - trời",
+  "cây - chứa - cỏ"
+]
+```
+
+frame_5:
+```json
+[
+  "ngựa1 - bên trong - cây",
+  "cây - xung quanh - trời",
+  "cây - chứa - cỏ"
+]
+```
+
+frame_6:
+```json
+[
+  "ngựa1 - bên trong - cây",
+  "cây - xung quanh - trời",
+  "cây - chứa - cỏ",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang ngồi, không rõ cảm xúc) - gần - cỏ"
+]
+```
+
+frame_7:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời"
+]
+```
+
+frame_8:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_9:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_10:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_11:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_12:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_13:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - cưỡi - xe đạp (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_14:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - cưỡi - xe đạp (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_15:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đạp xe, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đạp xe, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đạp xe, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đạp xe, không rõ cảm xúc) - cưỡi - xe đạp (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đạp xe, không rõ cảm xúc)"
+]
+```
+
+frame_16:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đạp xe, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đạp xe, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đạp xe, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đạp xe, không rõ cảm xúc) - cưỡi - xe đạp (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đạp xe, không rõ cảm xúc)"
+]
+```
+
+frame_17:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang vẫy tay, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang vẫy tay, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang vẫy tay, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang vẫy tay, không rõ cảm xúc) - cưỡi - xe đạp (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang vẫy tay, không rõ cảm xúc)"
+]
+```
+
+frame_18:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc) - cưỡi - xe đạp (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)"
+]
+```
+
+frame_19:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc) - cưỡi - xe đạp (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)"
+]
+```
+
+frame_20:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc) - cưỡi - xe đạp (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)"
+]
+```
+
+frame_21:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc) - cưỡi - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)",
+  "chó - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc) - cưỡi - xe đạp2"
+]
+```
+
+frame_22:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc) - cưỡi - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)",
+  "chó - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang lái xe đạp, không rõ cảm xúc) - cưỡi - xe đạp2"
+]
+```
+
+frame_23:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "chó - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - xe đạp2"
+]
+```
+
+frame_24:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "chó - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - xe đạp2",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi, vui vẻ) - ở gần - xe đạp1 (màu nâu)",
+  "người3 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi, vui vẻ) - ở gần - cỏ",
+  "người3 (trẻ - không rõ giới tính, mặc áo hồng, đang ngồi, vui vẻ) - ở gần - cỏ"
+]
+```
+
+frame_25:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "chó - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - xe đạp2",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang đứng, vui vẻ) - ở gần - xe đạp1 (màu nâu)",
+  "người3 (trẻ - không rõ giới tính, mặc áo hồng, đang đứng, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - không rõ giới tính, mặc áo hồng, đang đứng, vui vẻ) - ở gần - cỏ",
+  "người3 (trẻ - không rõ giới tính, mặc áo hồng, đang đứng, vui vẻ) - ở gần - cỏ"
+]
+```
+
+frame_26:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "chó - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - xe đạp1 (màu nâu)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - cỏ"
+]
+```
+
+frame_27:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "chó - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc) - gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - xe đạp1 (màu nâu)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đi xe đạp, vui vẻ) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang nằm, không rõ cảm xúc)"
+]
+```
+
+frame_28:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đi xe đạp, vui vẻ) - ở gần - xe đạp1 (màu nâu)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đi xe đạp, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đi xe đạp, vui vẻ) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đi xe đạp, vui vẻ) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_29:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - xe đạp1 (màu nâu)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ)"
+]
+```
+
+frame_30:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - xe đạp1 (màu nâu)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang đứng, vui vẻ)"
+]
+```
+
+frame_31:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - xe đạp1 (màu nâu)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "xe đạp2 - thuộc về - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)"
+]
+```
+
+frame_32:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - xe đạp1 (màu nâu)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "xe đạp2 - thuộc về - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đứng, không rõ cảm xúc) - ở gần - xe đạp1 (màu nâu)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đứng, không rõ cảm xúc) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_33:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - xe đạp1 (màu nâu)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "xe đạp2 - thuộc về - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc) - ở gần - xe đạp1 (màu nâu)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_34:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - xe đạp1 (màu nâu)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "xe đạp2 - thuộc về - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc) - ở gần - xe đạp1 (màu nâu)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_35:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "xe đạp2 - thuộc về - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc) - ở gần - xe đạp1 (màu nâu)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "xe đạp1 (màu nâu) - thuộc về - người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc)"
+]
+```
+
+frame_36:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "xe đạp2 - thuộc về - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc) - ở gần - xe đạp1 (màu nâu)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "xe đạp1 (màu nâu) - thuộc về - người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc)"
+]
+```
+
+frame_37:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "xe đạp2 - thuộc về - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc) - ở gần - xe đạp1 (màu nâu)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "xe đạp1 (màu nâu) - thuộc về - người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)"
+]
+```
+
+frame_38:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "xe đạp2 - thuộc về - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc) - ở gần - xe đạp1 (màu nâu)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "xe đạp1 (màu nâu) - thuộc về - người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)"
+]
+```
+
+frame_39:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "xe đạp2 - thuộc về - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đi bộ, không rõ cảm xúc) - ở gần - xe đạp1 (màu nâu)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đi bộ, không rõ cảm xúc) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "xe đạp1 (màu nâu) - thuộc về - người3 (trưởng thành - nam, mặc quần áo cam, đang đi bộ, không rõ cảm xúc)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đi bộ, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)"
+]
+```
+
+frame_40:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "xe đạp2 - thuộc về - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, không rõ cảm xúc) - ở gần - xe đạp1 (màu nâu)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, không rõ cảm xúc) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang đứng, không rõ cảm xúc)",
+  "xe đạp1 (màu nâu) - thuộc về - người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, không rõ cảm xúc)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang dắt xe, vui vẻ)"
+]
+```
+
+frame_41:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang dắt xe, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang dắt xe, không rõ cảm xúc) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang dắt xe, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang dắt xe, không rõ cảm xúc) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang dắt xe, không rõ cảm xúc)",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, không rõ cảm xúc) - ở gần - xe đạp2",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, không rõ cảm xúc) - ở gần - cỏ",
+  "người2 (trẻ - nữ, mặc áo hồng, đang đứng, không rõ cảm xúc) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang dắt xe, không rõ cảm xúc)",
+  "người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang dắt xe, không rõ cảm xúc) - gần - người2 (trẻ - nữ, mặc áo hồng, đang đứng, không rõ cảm xúc)",
+  "xe đạp2 - thuộc về - người2 (trẻ - nữ, mặc áo hồng, đang đứng, không rõ cảm xúc)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường) - ở gần - xe đạp1 (màu nâu)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường) - ở gần - người1 (trẻ - không rõ giới tính, mặc quần áo tối màu, đang dắt xe, không rõ cảm xúc)",
+  "xe đạp1 (màu nâu) - thuộc về - người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường) - gần - người2 (trẻ - nữ, mặc áo hồng, đang đứng, không rõ cảm xúc)"
+]
+```
+
+frame_42:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người3 (trưởng thành - nam, mặc quần áo cam, đang đạp xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đạp xe đạp, bình thường) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người3 (trưởng thành - nam, mặc quần áo cam, đang đạp xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đạp xe đạp, bình thường) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người3 (trưởng thành - nam, mặc quần áo cam, đang đạp xe đạp, bình thường)",
+  "xe đạp1 (màu nâu) - thuộc về - người3 (trưởng thành - nam, mặc quần áo cam, đang đạp xe đạp, bình thường)"
+]
+```
+
+frame_43:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường)",
+  "xe đạp1 (màu nâu) - thuộc về - người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường)",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc đồ hồng, đang đứng, bình thường) - ở gần - cỏ",
+  "cỏ - ở gần - người2 (trưởng thành - chưa rõ giới tính, mặc đồ hồng, đang đứng, bình thường)"
+]
+```
+
+frame_44:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường)",
+  "xe đạp1 (màu nâu) - thuộc về - người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường)",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc đồ hồng, đang đi xe đạp, bình thường) - ở gần - cỏ",
+  "cỏ - ở gần - người2 (trưởng thành - chưa rõ giới tính, mặc đồ hồng, đang đi xe đạp, bình thường)",
+  "người2 (trưởng thành - chưa rõ giới tính, mặc đồ hồng, đang đi xe đạp, bình thường) - gần - xe đạp1 (màu nâu)"
+]
+```
+
+frame_45:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường)",
+  "xe đạp1 (màu nâu) - thuộc về - người3 (trưởng thành - nam, mặc quần áo cam, đang đi xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đẩy xe đạp, bình thường) - ở gần - cỏ"
+]
+```
+
+frame_46:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường)",
+  "xe đạp1 (màu nâu) - thuộc về - người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường) - ở gần - cỏ"
+]
+```
+
+frame_47:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường)",
+  "xe đạp1 (màu nâu) - thuộc về - người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang dắt xe đạp, bình thường) - ở gần - cỏ"
+]
+```
+
+frame_48:
+```json
+[
+  "cây - chứa - cỏ",
+  "cỏ - ở gần - người3 (trưởng thành - nam, mặc quần áo cam, đang đi bộ, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đi bộ, bình thường) - gần - cây",
+  "cây - xung quanh - trời",
+  "cỏ - bao quanh - người3 (trưởng thành - nam, mặc quần áo cam, đang đi bộ, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đi bộ, bình thường) - gần - xe đạp1 (màu nâu)",
+  "cây - chứa - người3 (trưởng thành - nam, mặc quần áo cam, đang đi bộ, bình thường)",
+  "xe đạp1 (màu nâu) - thuộc về - người3 (trưởng thành - nam, mặc quần áo cam, đang đi bộ, bình thường)",
+  "người3 (trưởng thành - nam, mặc quần áo cam, đang đi bộ, bình thường) - ở gần - cỏ"
+]
+```
+

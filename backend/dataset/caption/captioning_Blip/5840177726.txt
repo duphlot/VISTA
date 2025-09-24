@@ -1,0 +1,20 @@
+frame_0000.jpg: a person riding a bike down a dirt road
+frame_0001.jpg: a person riding a bike down a trail
+frame_0002.jpg: a person riding a bike down a dirt trail
+frame_0003.jpg: a man riding a bike down a dirt trail
+frame_0004.jpg: a man riding a bike down a hill
+frame_0005.jpg: a man riding a bike down a dirt trail
+frame_0006.jpg: a man is walking through the woods
+frame_0007.jpg: a person riding a dirt bike down a hill
+frame_0008.jpg: a bear is walking down a path in the woods
+frame_0009.jpg: a man riding a bike down a dirt trail
+frame_0010.jpg: a man riding a bike down a trail
+frame_0011.jpg: a man riding a bike down a hill
+frame_0012.jpg: a man riding a bike down a trail
+frame_0013.jpg: a person riding a bike down a dirt trail
+frame_0014.jpg: a person riding a bike down a hill
+frame_0015.jpg: a man is walking through the woods
+frame_0016.jpg: a man is walking through the woods
+frame_0017.jpg: a man riding a bike through the woods
+frame_0018.jpg: a man is walking through the woods
+frame_0019.jpg: a man is walking down a steep hill

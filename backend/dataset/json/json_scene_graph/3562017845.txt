@@ -1,0 +1,1423 @@
+frame_0:
+```json
+[
+  "chim1 (màu nâu) - trên - cỏ",
+  "nước - xung quanh - chim1 (màu nâu)"
+]
+```
+
+frame_1:
+```json
+[
+  "chim1 (màu nâu) - trên - cỏ",
+  "nước - xung quanh - chim1 (màu nâu)",
+  "chim1 (màu nâu) - trên - đất"
+]
+```
+
+frame_2:
+```json
+[
+  "chim1 (màu nâu) - trên - cỏ",
+  "nước - xung quanh - chim1 (màu nâu)",
+  "chim1 (màu nâu) - trên - đất"
+]
+```
+
+frame_3:
+```json
+[
+  "chim1 (màu nâu) - trên - cỏ",
+  "chim1 (màu nâu) - trên - đất"
+]
+```
+
+frame_4:
+```json
+[
+  "chim1 (màu nâu) - trên - cỏ",
+  "chim1 (màu nâu) - trên - nước",
+  "cỏ - xung quanh - chim1 (màu nâu)",
+  "đất - xung quanh - cỏ",
+  "nước - gần - đất"
+]
+```
+
+frame_5:
+```json
+[
+  "chim1 (màu nâu) - trên - cỏ",
+  "chim1 (màu nâu) - trên - nước",
+  "cỏ - xung quanh - chim1 (màu nâu)",
+  "đất - xung quanh - cỏ",
+  "nước - gần - đất"
+]
+```
+
+frame_6:
+```json
+[
+  "chim2 (màu đỏ) - trên - cỏ",
+  "chim2 (màu đỏ) - trên - nước",
+  "cỏ - xung quanh - chim2 (màu đỏ)",
+  "đất - xung quanh - cỏ",
+  "nước - gần - đất"
+]
+```
+
+frame_7:
+```json
+[
+  "chim1 (màu nâu) - trên - nước",
+  "chim1 (màu nâu) - trên - cỏ",
+  "chim2 (màu đỏ) - trên - cỏ",
+  "cỏ - xung quanh - chim2 (màu đỏ)",
+  "đất - xung quanh - cỏ",
+  "nước - gần - đất",
+  "sông - gần - nước"
+]
+```
+
+frame_8:
+```json
+[
+  "chim1 (màu nâu) - trên - nước",
+  "chim1 (màu nâu) - trên - cỏ",
+  "chim2 (màu đỏ) - trên - nước",
+  "cỏ - xung quanh - chim2 (màu đỏ)",
+  "đất - xung quanh - cỏ",
+  "nước - gần - đất",
+  "sông - gần - nước"
+]
+```
+
+frame_9:
+```json
+[
+  "chim (màu nâu) - trên - nước",
+  "chim (màu nâu) - trên - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "sông - gần - nước",
+  "chim (màu nâu) - trên - sông",
+  "sông - trên - đá"
+]
+```
+
+frame_10:
+```json
+[
+  "chim (màu nâu) - trên - nước",
+  "chim (màu nâu) - trên - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "sông - gần - nước",
+  "chim (màu nâu) - trên - sông",
+  "sông - trên - đá"
+]
+```
+
+frame_11:
+```json
+[
+  "chim1 (màu nâu) - trên - nước",
+  "chim1 (màu nâu) - trên - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "sông - gần - nước",
+  "chim1 (màu nâu) - trên - sông",
+  "sông - trên - đá",
+  "chim2 (màu hồng) - trên - sông",
+  "chim2 (màu hồng) - gần - cỏ"
+]
+```
+
+frame_12:
+```json
+[
+  "chim2 (màu hồng) - trên - nước",
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "chim2 (màu hồng) - trên - sông",
+  "sông - trên - đất",
+  "cỏ - gần - đất",
+  "nước - gần - cỏ"
+]
+```
+
+frame_13:
+```json
+[
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "sông - trên - đất",
+  "cỏ - gần - đất",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ"
+]
+```
+
+frame_14:
+```json
+[
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "sông - trên - đất",
+  "cỏ - gần - đất",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ"
+]
+```
+
+frame_15:
+```json
+[
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "sông - trên - đất",
+  "cỏ - gần - đất",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ"
+]
+```
+
+frame_16:
+```json
+[
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "sông - trên - đất",
+  "cỏ - gần - đất",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim (97%) - trên - đá"
+]
+```
+
+frame_17:
+```json
+[
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "sông - trên - đất",
+  "cỏ - gần - đất",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông"
+]
+```
+
+frame_18:
+```json
+[
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "sông - trên - đất",
+  "cỏ - gần - đất",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - nước"
+]
+```
+
+frame_19:
+```json
+[
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "sông - trên - đất",
+  "cỏ - gần - đất",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - nước",
+  "chim3 - trên - sông"
+]
+```
+
+frame_20:
+```json
+[
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "sông - trên - đất",
+  "cỏ - gần - đất",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - nước",
+  "chim3 - trên - sông"
+]
+```
+
+frame_21:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - nước",
+  "chim3 - trên - sông",
+  "nước - gần - đá"
+]
+```
+
+frame_22:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - nước",
+  "chim3 - trên - sông",
+  "nước - gần - đá",
+  "chim3 - trên - đá"
+]
+```
+
+frame_23:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - nước",
+  "chim3 - trên - sông",
+  "nước - gần - đá",
+  "chim3 - trên - đá"
+]
+```
+
+frame_24:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - sông",
+  "chim3 - trên - sông",
+  "nước - gần - đá",
+  "chim3 - trên - đá"
+]
+```
+
+frame_25:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - sông",
+  "chim3 - trên - sông",
+  "nước - gần - đá",
+  "chim3 - trên - đá",
+  "chim1 - đang đứng - đất"
+]
+```
+
+frame_26:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - sông",
+  "chim3 - trên - sông",
+  "nước - gần - đá",
+  "chim3 - trên - đá",
+  "chim1 - đang đứng - đất"
+]
+```
+
+frame_27:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - sông",
+  "chim3 - trên - sông",
+  "nước - gần - đá",
+  "chim3 - trên - đá",
+  "chim1 - đang đứng - đất",
+  "cừu1 (màu xám) - gần - đất"
+]
+```
+
+frame_28:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - sông",
+  "chim3 - trên - sông",
+  "nước - gần - đá",
+  "chim3 - trên - đá",
+  "chim1 - đang đứng - đất",
+  "cừu1 (màu xám) - gần - đất",
+  "chim3 - gần - sông"
+]
+```
+
+frame_29:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - sông",
+  "chim3 - trên - sông",
+  "nước - gần - đá",
+  "chim3 - trên - đá",
+  "chim1 - đang đứng - đất",
+  "đá - gần - sông",
+  "chim3 - gần - sông"
+]
+```
+
+frame_30:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - sông",
+  "chim3 - trên - sông",
+  "nước - gần - đá",
+  "chim3 - trên - đá",
+  "chim1 - đang đứng - đất",
+  "đá - gần - sông",
+  "chim3 - gần - sông"
+]
+```
+
+frame_31:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - sông",
+  "chim3 - trên - sông",
+  "nước - gần - đá",
+  "chim3 - trên - đá",
+  "chim1 - đang đứng - đất",
+  "đá - gần - sông",
+  "chim3 - gần - sông"
+]
+```
+
+frame_32:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim1 - gần - cỏ",
+  "chim3 - trên - nước",
+  "chim3 - gần - nước",
+  "chim3 - gần - cỏ",
+  "chim1 - trên - cỏ",
+  "chim1 - gần - nước",
+  "chim1 - gần - chim2 (màu hồng)",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - gần - đất",
+  "chim1 - gần - cỏ",
+  "chim3 - gần - sông",
+  "chim2 (màu hồng) - đứng trên - sông",
+  "chim3 - trên - sông",
+  "nước - gần - đá",
+  "chim3 - trên - đá",
+  "chim1 - đang đứng - đất",
+  "đá - gần - sông",
+  "chim3 - gần - sông"
+]
+```
+
+frame_33:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "mèo - gần - nước",
+  "chim - gần - cỏ",
+  "chim - gần - nước",
+  "chim - gần - cỏ",
+  "chim - gần - sông",
+  "chim (màu hồng) - gần - đất",
+  "mèo - gần - cỏ",
+  "chim - gần - cỏ",
+  "chim - gần - nước",
+  "chim (màu hồng) - đứng trên - sông",
+  "chim - trên - sông",
+  "nước - gần - đá",
+  "chim - trên - đá",
+  "đá - gần - sông"
+]
+```
+
+frame_34:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim1 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - sông",
+  "nước - gần - đá",
+  "chim2 - trên - sông",
+  "chim2 - gần - cỏ",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim3 (màu cam) - gần - sông",
+  "chim1 (màu hồng) - gần - cỏ",
+  "chim3 (màu cam) - gần - nước",
+  "chim3 (màu cam) - gần - đất",
+  "chim3 (màu cam) - gần - cỏ"
+]
+```
+
+frame_35:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim1 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - sông",
+  "nước - gần - đá",
+  "chim2 - trên - sông",
+  "chim2 - gần - cỏ",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 - gần - sông",
+  "chim1 (màu hồng) - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - đất",
+  "chim2 - gần - cỏ"
+]
+```
+
+frame_36:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim1 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - sông",
+  "nước - gần - đá",
+  "chim2 - trên - sông",
+  "chim2 - gần - cỏ",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 - gần - sông",
+  "chim1 (màu hồng) - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - đất",
+  "chim2 - gần - cỏ"
+]
+```
+
+frame_37:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim1 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - sông",
+  "nước - gần - đá",
+  "chim2 - trên - sông",
+  "chim2 - gần - cỏ",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 - gần - sông",
+  "chim1 (màu hồng) - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - đất",
+  "chim2 - gần - cỏ"
+]
+```
+
+frame_38:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim1 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - sông",
+  "nước - gần - đá",
+  "chim2 - trên - sông",
+  "chim2 - gần - cỏ",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 - gần - sông",
+  "chim1 (màu hồng) - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - đất",
+  "chim2 - gần - cỏ"
+]
+```
+
+frame_39:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim1 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - sông",
+  "nước - gần - đá",
+  "chim2 - trên - sông",
+  "chim2 - gần - cỏ",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 - gần - sông",
+  "chim1 (màu hồng) - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - đất",
+  "chim2 - gần - cỏ"
+]
+```
+
+frame_40:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim1 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - sông",
+  "nước - gần - đá",
+  "chim2 - trên - sông",
+  "chim2 - gần - cỏ",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 - gần - sông",
+  "chim1 (màu hồng) - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - đất",
+  "chim2 - gần - cỏ"
+]
+```
+
+frame_41:
+```json
+[
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim1 (màu hồng) - gần - cỏ",
+  "nước - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - sông",
+  "nước - gần - đá",
+  "chim2 - trên - sông",
+  "chim2 - gần - cỏ",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 - gần - sông",
+  "chim1 (màu hồng) - gần - cỏ",
+  "chim2 - gần - nước",
+  "chim2 - gần - đất",
+  "chim2 - gần - cỏ"
+]
+```
+
+frame_42:
+```json
+[
+  "mèo1 (màu hồng) - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - đất",
+  "chim2 (màu cam) - gần - cỏ",
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu cam) - gần - cỏ",
+  "nước - gần - đất",
+  "nước - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - đất",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_43:
+```json
+[
+  "mèo1 (màu hồng) - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - đất",
+  "chim2 (màu cam) - gần - cỏ",
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu cam) - gần - cỏ",
+  "nước - gần - đất",
+  "nước - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_44:
+```json
+[
+  "mèo1 (màu hồng) - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - đất",
+  "chim2 (màu cam) - gần - cỏ",
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu cam) - gần - cỏ",
+  "nước - gần - đất",
+  "nước - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_45:
+```json
+[
+  "mèo1 (màu hồng) - gần - đất",
+  "đất - xung quanh - cỏ",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - đất",
+  "chim2 (màu cam) - gần - cỏ",
+  "cỏ - gần - đất",
+  "sông - trên - đất",
+  "chim2 (màu cam) - gần - cỏ",
+  "nước - gần - đất",
+  "nước - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_46:
+```json
+[
+  "cỏ - gần - đất",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_47:
+```json
+[
+  "cỏ - gần - đất",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "mèo1 (màu hồng) - gần - nước",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_48:
+```json
+[
+  "cỏ - gần - đất",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "mèo1 (màu hồng) - gần - nước",
+  "chim1 (màu đỏ) - gần - đất",
+  "chim1 (màu đỏ) - gần - sông",
+  "chim1 (màu đỏ) - trên - sông",
+  "chim1 (màu đỏ) - gần - đá",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_49:
+```json
+[
+  "cỏ - gần - đất",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "mèo1 (màu hồng) - gần - nước",
+  "chim1 (màu đỏ) - gần - đất",
+  "chim1 (màu đỏ) - gần - sông",
+  "chim1 (màu đỏ) - trên - sông",
+  "chim1 (màu đỏ) - gần - đá",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_50:
+```json
+[
+  "cỏ - gần - đất",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "mèo1 (màu hồng) - gần - nước",
+  "chim1 (màu đỏ) - gần - đất",
+  "chim1 (màu đỏ) - gần - sông",
+  "chim1 (màu đỏ) - trên - sông",
+  "chim1 (màu đỏ) - gần - đá",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_51:
+```json
+[
+  "cỏ - gần - đất",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "mèo1 (màu hồng) - gần - nước",
+  "chim1 (màu đỏ) - gần - đất",
+  "chim1 (màu đỏ) - gần - sông",
+  "chim1 (màu đỏ) - trên - sông",
+  "chim1 (màu đỏ) - gần - đá",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_52:
+```json
+[
+  "cỏ - gần - đất",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "mèo1 (màu hồng) - gần - nước",
+  "chim1 (màu đỏ) - gần - đất",
+  "chim1 (màu đỏ) - gần - sông",
+  "chim1 (màu đỏ) - trên - sông",
+  "chim1 (màu đỏ) - gần - đá",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_53:
+```json
+[
+  "cỏ - gần - đất",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "mèo1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "mèo1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "mèo1 (màu hồng) - đứng trên - sông",
+  "mèo1 (màu hồng) - gần - nước",
+  "chim1 (màu đỏ) - gần - đất",
+  "chim1 (màu đỏ) - gần - sông",
+  "chim1 (màu đỏ) - trên - sông",
+  "chim1 (màu đỏ) - gần - đá",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_54:
+```json
+[
+  "cỏ - gần - đất",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "chim1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "chim1 (màu hồng) - gần - nước",
+  "chim1 (màu đỏ) - gần - đất",
+  "chim1 (màu đỏ) - gần - sông",
+  "chim1 (màu đỏ) - trên - sông",
+  "chim1 (màu đỏ) - gần - đá",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_55:
+```json
+[
+  "cỏ - gần - đất",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "chim1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "chim1 (màu hồng) - gần - nước",
+  "chim1 (màu hồng) - gần - đất",
+  "chim1 (màu hồng) - gần - sông",
+  "chim1 (màu hồng) - trên - sông",
+  "chim1 (màu hồng) - gần - đá",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_56:
+```json
+[
+  "cỏ - gần - đất",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "chim1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "chim1 (màu hồng) - gần - nước",
+  "chim1 (màu hồng) - gần - đất",
+  "chim1 (màu hồng) - gần - sông",
+  "chim1 (màu hồng) - trên - sông",
+  "chim1 (màu hồng) - gần - đá",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_57:
+```json
+[
+  "cỏ - gần - đất",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "chim1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "chim1 (màu hồng) - gần - nước",
+  "chim1 (màu hồng) - gần - đất",
+  "chim1 (màu hồng) - gần - sông",
+  "chim1 (màu hồng) - trên - sông",
+  "chim1 (màu hồng) - gần - đá",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_58:
+```json
+[
+  "cỏ - gần - đất",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "chim1 (màu hồng) - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "chim1 (màu hồng) - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 (màu hồng) - đứng trên - sông",
+  "chim1 (màu hồng) - gần - nước",
+  "chim1 (màu hồng) - gần - đất",
+  "chim1 (màu hồng) - gần - sông",
+  "chim1 (màu hồng) - trên - sông",
+  "chim1 (màu hồng) - gần - đá",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+
+frame_59:
+```json
+[
+  "cỏ - gần - đất",
+  "nước - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim2 (màu cam) - gần - sông",
+  "nước - gần - đá",
+  "chim2 (màu cam) - trên - sông",
+  "chim2 (màu cam) - gần - cỏ",
+  "chim1 - gần - đất",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 - đứng trên - sông",
+  "đá - gần - sông",
+  "chim2 (màu cam) - gần - sông",
+  "chim1 - gần - cỏ",
+  "chim2 (màu cam) - gần - nước",
+  "chim1 - đứng trên - sông",
+  "chim1 - gần - nước",
+  "chim1 - gần - đất",
+  "chim1 - gần - sông",
+  "chim1 - trên - sông",
+  "chim1 - gần - đá",
+  "chim2 (màu cam) - gần - cỏ"
+]
+```
+

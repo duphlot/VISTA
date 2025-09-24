@@ -1,0 +1,158 @@
+frame_0:
+```json
+[
+  "biển - lân cận - người1 (trẻ - nam, mặc áo xám, đang đứng, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đứng, vui vẻ) - gần - người2 (trưởng thành - nam, mặc quần đùi đen, đang đứng, trung lập)"
+]
+```
+
+frame_1:
+```json
+[
+  "tuyết - lân cận - người1 (trẻ - nam, mặc áo xám, đang đứng, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đứng, vui vẻ) - gần - vỉa hè",
+  "người1 (trẻ - nam, mặc áo xám, đang đứng, vui vẻ) - gần - nước"
+]
+```
+
+frame_2:
+```json
+[
+  "biển - lân cận - người1 (trẻ - nam, mặc áo xám, đang đứng, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đứng, vui vẻ) - gần - người2 (trẻ - nữ, mặc váy hồng, đang đứng, vui vẻ)",
+  "người1 (trẻ - nam, mặc áo xám, đang đứng, vui vẻ) - gần - nước",
+  "người2 (trẻ - nữ, mặc váy hồng, đang đứng, vui vẻ) - gần - nước"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - nam, mặc áo xám, đang đứng, vui vẻ) - gần - người2 (trẻ - nữ, mặc váy hồng, đang đứng, vui vẻ)"
+]
+```
+
+frame_4:
+```json
+[
+  "bầu trời - ở trên - tuyết"
+]
+```
+
+frame_5:
+```json
+[
+  "ng\u01b0\u1eddi1 - g\u1ea7n - b\u00e3i c\u00e1t",
+  "ng\u01b0\u1eddi1 - g\u1ea7n - bi\u1ec3n",
+  "ng\u01b0\u1eddi1 - g\u1ea7n - b\u1ea7u tr\u1eddi",
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - bi\u1ec3n",
+  "ng\u01b0\u1eddi1 (kh\u00f3 x\u00e1c \u0111\u1ecbnh - kh\u00f3 x\u00e1c \u0111\u1ecbnh, m\u1eb7c kh\u00f3 x\u00e1c \u0111\u1ecbnh, \u0111ang \u0111\u1ee9ng, kh\u00f3 x\u00e1c \u0111\u1ecbnh) - \u1edf tr\u01b0\u1edbc - b\u00e3i c\u00e1t"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - bãi cát",
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - biển",
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - bầu trời",
+  "bầu trời - ở trên - biển",
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - ở trước - bãi cát"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - bãi cát",
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - biển",
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - bầu trời",
+  "bầu trời - ở trên - biển",
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - ở trước - bãi cát"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - bãi cát",
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - biển",
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - bầu trời",
+  "bầu trời - ở trên - biển",
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - ở trước - bãi cát"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - tường",
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - sàn"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - biển",
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - cát",
+  "người2 (khó xác định - khó xác định, mặc khó xác định, đang với, khó xác định) - chạm vào - người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định)"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - biển",
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - cát",
+  "người2 (khó xác định - khó xác định, mặc khó xác định, đang với, khó xác định) - chạm vào - người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định)"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - biển",
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - cát",
+  "người2 (khó xác định - khó xác định, mặc khó xác định, đang với, khó xác định) - chạm vào - người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định)"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - biển",
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - cát",
+  "người3 (trẻ - chưa rõ, mặc áo dài tay màu cam, đang đứng, bình thường) - gần - biển"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - biển",
+  "người2 (khó xác định - khó xác định, mặc khó xác định, đang đứng, khó xác định) - gần - biển",
+  "người3 (trẻ - chưa rõ, mặc áo dài tay màu cam, đang đứng, bình thường) - gần - biển"
+]
+```
+
+frame_15:
+```json
+[
+  "người3 (trẻ - chưa rõ, mặc áo dài tay màu cam, đang đứng, bình thường) - gần - biển",
+  "người1 (trẻ - chưa rõ, mặc áo dài tay màu cam, đang đứng, bình thường) - gần - người2 (trẻ - chưa rõ, mặc áo dài tay màu cam, đang đứng, bình thường)",
+  "người1 (trẻ - chưa rõ, mặc áo dài tay màu cam, đang đứng, bình thường) - gần - biển",
+  "người2 (trẻ - chưa rõ, mặc áo dài tay màu cam, đang đứng, bình thường) - gần - biển"
+]
+```
+
+frame_16:
+```json
+[
+  "người3 (trẻ - chưa rõ, mặc áo dài tay màu cam, đang đứng, bình thường) - gần - biển",
+  "người1 (trẻ - chưa rõ, mặc áo dài tay màu cam, đang đứng, bình thường) - gần - người2 (trẻ - chưa rõ, mặc áo dài tay màu cam, đang đứng, bình thường)",
+  "người1 (trẻ - chưa rõ, mặc áo dài tay màu cam, đang đứng, bình thường) - gần - biển",
+  "người2 (trẻ - chưa rõ, mặc áo dài tay màu cam, đang đứng, bình thường) - gần - biển"
+]
+```
+

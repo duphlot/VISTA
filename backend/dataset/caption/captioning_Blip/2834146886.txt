@@ -1,0 +1,96 @@
+frame_0000.jpg: a dog and a cat are playing together
+frame_0001.jpg: a dog is standing in the kitchen with a cat
+frame_0002.jpg: a dog and a cat are playing together
+frame_0003.jpg: a white cat is walking around a couch
+frame_0004.jpg: a dog is sitting on a couch in a living room
+frame_0005.jpg: a dog is sitting on a couch in a living room
+frame_0006.jpg: a cat is sitting on a couch in a living room
+frame_0007.jpg: a man is sitting on a couch with a laptop
+frame_0008.jpg: a man is sitting at a desk with a laptop
+frame_0009.jpg: a cat is sitting on a couch with a laptop
+frame_0010.jpg: a man sitting on a couch with a laptop
+frame_0011.jpg: a man sitting on a couch with a laptop
+frame_0012.jpg: a couch with a laptop and a cup on it
+frame_0013.jpg: a cat is standing on the floor in a room
+frame_0014.jpg: a cat is walking on the floor in a room
+frame_0015.jpg: a cat is walking on the floor in a room
+frame_0016.jpg: a dog is standing on the floor in front of a couch
+frame_0017.jpg: a dog is standing in the middle of a room
+frame_0018.jpg: a small dog standing on the floor in front of a couch
+frame_0019.jpg: a dog is standing in the kitchen looking at something
+frame_0020.jpg: a small dog is standing on the floor
+frame_0021.jpg: a small dog is standing on the floor
+frame_0022.jpg: a small dog with a black nose and brown eyes
+frame_0023.jpg: a dog is standing in the kitchen with a bowl
+frame_0024.jpg: a black cat is standing on the floor
+frame_0025.jpg: a dog is standing on the floor looking at something
+frame_0026.jpg: a dog is standing on the floor looking at something
+frame_0027.jpg: a dog is standing on the floor looking at something
+frame_0028.jpg: a man is holding a knife in his hand
+frame_0029.jpg: two cats playing with each other cats
+frame_0030.jpg: a black cat is playing with a person ' s feet
+frame_0031.jpg: a black cat is playing with a white dog
+frame_0032.jpg: a cat is standing on a bed with a pillow
+frame_0033.jpg: a cat is standing on the floor in a room
+frame_0034.jpg: a cat is sitting on a couch in a room
+frame_0035.jpg: a cat is sitting in a cardboard box
+frame_0036.jpg: a cat is sitting on a cat bed
+frame_0037.jpg: a cat is laying on a cat bed
+frame_0038.jpg: a cat is laying in a cat bed
+frame_0039.jpg: a cat is laying in a cat bed
+frame_0040.jpg: a cat is laying in a cat bed
+frame_0041.jpg: a cat is laying in a cat bed
+frame_0042.jpg: a cat is laying in a cat bed
+frame_0043.jpg: a cat is sitting in a cat bed
+frame_0044.jpg: a close up of a diamond ring
+frame_0045.jpg: a dog is standing in a pile of rocks
+frame_0046.jpg: a dog is eating out of a bowl
+frame_0047.jpg: a dog is looking at a bowl of food
+frame_0048.jpg: a dog is looking at a bowl of food
+frame_0049.jpg: a dog is sitting on a bed with a bowl of food
+frame_0050.jpg: a dog is sitting on a bed with a toy
+frame_0051.jpg: a dog is laying on a bed with a toy
+frame_0052.jpg: a dog is laying on a bed with a toy
+frame_0053.jpg: a dog is sitting on a bed with a toy
+frame_0054.jpg: a dog is sitting on a bed with a toy
+frame_0055.jpg: a dog is sitting on a bed with a cat
+frame_0056.jpg: a dog is sitting on a bed with a cat
+frame_0057.jpg: a dog is sitting on a bed with a cat
+frame_0058.jpg: a dog is standing in a cage with its head down
+frame_0059.jpg: a dog is playing with a cat on a bed
+frame_0060.jpg: a dog is standing in a pen with a ball
+frame_0061.jpg: a dog is standing on a bed with a toy
+frame_0062.jpg: a dog is laying on the floor in a box
+frame_0063.jpg: a cat is laying on a bed in a room
+frame_0064.jpg: a dog is laying on a bed in the room
+frame_0065.jpg: a dog is laying on a bed in a room
+frame_0066.jpg: a dog is laying on a pillow in a room
+frame_0067.jpg: a man is sitting on a chair and playing with his feet
+frame_0068.jpg: a man is sitting on a bed and playing with his feet
+frame_0069.jpg: a cat is sitting on a chair and looking at the camera
+frame_0070.jpg: a dog is standing on the floor looking at a person
+frame_0071.jpg: a cat is sitting on a table with a bowl
+frame_0072.jpg: a small dog is standing on the floor
+frame_0073.jpg: a cat is walking on the floor
+frame_0074.jpg: a cat is standing on a table
+frame_0075.jpg: a bowl of fruit sitting on top of a wooden table
+frame_0076.jpg: a table with a bowl of fruit and a cup of coffee
+frame_0077.jpg: a table with a bowl of fruit and a cup of coffee
+frame_0078.jpg: a television sitting on top of a wooden table
+frame_0079.jpg: a small table with a drawer on top
+frame_0080.jpg: a cat is standing on the floor in a room
+frame_0081.jpg: a man is walking through a flooded room
+frame_0082.jpg: a dog is standing on the floor in front of a table
+frame_0083.jpg: a dog is standing on the floor in front of a table
+frame_0084.jpg: a dog is standing in front of a table
+frame_0085.jpg: a dog is standing in the middle of a room
+frame_0086.jpg: a dog is standing in the middle of a room
+frame_0087.jpg: a dog is walking in the hallway
+frame_0088.jpg: a dog is walking in the middle of a room
+frame_0089.jpg: a dog is walking on the floor
+frame_0090.jpg: a dog is standing on the floor and looking at something
+frame_0091.jpg: a dog is running around the floor
+frame_0092.jpg: a cat is walking on the floor
+frame_0093.jpg: a dog is playing with a toy on the floor
+frame_0094.jpg: a cat is standing on the floor in a room
+frame_0095.jpg: a dog is running around the floor

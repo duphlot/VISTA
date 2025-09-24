@@ -1,0 +1,93 @@
+frame_0000.jpg: a man sitting at a table with a board game
+frame_0001.jpg: a man sitting at a table with a board game
+frame_0002.jpg: a man sitting at a table with papers and papers
+frame_0003.jpg: a man and woman playing a game on a table
+frame_0004.jpg: a man and a boy playing a game
+frame_0005.jpg: a man and a boy playing a game
+frame_0006.jpg: a man and a woman playing a game
+frame_0007.jpg: a man and a boy playing a game
+frame_0008.jpg: a man and woman playing a game on a table
+frame_0009.jpg: a man sitting at a table with a game on it
+frame_0010.jpg: a man sitting at a table with a board game
+frame_0011.jpg: a man sitting at a table with a bunch of cards
+frame_0012.jpg: a man sitting at a table with a bunch of cards
+frame_0013.jpg: a man sitting at a table with papers on it
+frame_0014.jpg: a man and a woman playing a game
+frame_0015.jpg: a man sitting at a table with a bunch of cards
+frame_0016.jpg: a man and a child playing a game
+frame_0017.jpg: a man and a child playing monopoly
+frame_0018.jpg: a man and a boy playing a game
+frame_0019.jpg: a man and a child playing with a board game
+frame_0020.jpg: a man and a child playing a game
+frame_0021.jpg: a man and two boys playing a game
+frame_0022.jpg: a man and two boys playing a game
+frame_0023.jpg: a man and a child playing a game
+frame_0024.jpg: a group of people sitting around a table
+frame_0025.jpg: a family playing monopoly
+frame_0026.jpg: a man is playing with a group of children
+frame_0027.jpg: a man playing a game with a group of people
+frame_0028.jpg: a family playing monopoly
+frame_0029.jpg: a family playing a board game together
+frame_0030.jpg: a group of people playing a game of monopoly
+frame_0031.jpg: a man playing a game with children
+frame_0032.jpg: a group of people playing a game on a table
+frame_0033.jpg: a group of people playing a board game
+frame_0034.jpg: a group of people playing a game on a table
+frame_0035.jpg: a group of people playing a game on a table
+frame_0036.jpg: a group of people playing a game of monopoly
+frame_0037.jpg: a group of people playing a game of monopoly
+frame_0038.jpg: a group of people playing a game on a table
+frame_0039.jpg: a group of people playing a game of monopoly
+frame_0040.jpg: a group of people playing a game of monopoly
+frame_0041.jpg: a group of people playing a game of monopoly
+frame_0042.jpg: a group of people playing a game of monopoly
+frame_0043.jpg: a group of men playing a game of monopoly
+frame_0044.jpg: a group of people sitting around a table
+frame_0045.jpg: two men sitting at a table with a board game
+frame_0046.jpg: a group of people sitting around a table
+frame_0047.jpg: a person is playing a game on a table
+frame_0048.jpg: a group of people playing a game of monopoly
+frame_0049.jpg: a group of people playing a game of monopoly
+frame_0050.jpg: a group of people playing a game on a table
+frame_0051.jpg: a man and a boy playing a game
+frame_0052.jpg: a man and a little girl sitting at a table
+frame_0053.jpg: a man and a boy playing monopoly
+frame_0054.jpg: a man and a boy playing a game
+frame_0055.jpg: a man and a boy playing a game
+frame_0056.jpg: a man and two children playing monopoly
+frame_0057.jpg: a man and two boys playing a game
+frame_0058.jpg: a man and two children playing with cards
+frame_0059.jpg: a man and two boys playing monopoly
+frame_0060.jpg: a group of men playing a game of monopoly
+frame_0061.jpg: a man and two boys playing a game
+frame_0062.jpg: two boys playing a game with a man
+frame_0063.jpg: three men playing a game of monopoly
+frame_0064.jpg: a group of men sitting around a table
+frame_0065.jpg: a man is playing poker with two other men
+frame_0066.jpg: two boys sitting at a table with a plate of food
+frame_0067.jpg: a man and two boys playing a game
+frame_0068.jpg: three boys are playing with a toy at a table
+frame_0069.jpg: two boys are sitting at a table with a book
+frame_0070.jpg: three boys are playing with a board game
+frame_0071.jpg: two boys are playing with a board game
+frame_0072.jpg: a group of boys playing a game together
+frame_0073.jpg: a man and two boys playing a board game
+frame_0074.jpg: two men sitting at a table with paper and scissors
+frame_0075.jpg: a group of people playing a game with paper
+frame_0076.jpg: a man is playing a game with a remote controller
+frame_0077.jpg: a person playing a board game with a phone
+frame_0078.jpg: a man playing a game with a board
+frame_0079.jpg: a table with a game board and a bunch of dice
+frame_0080.jpg: a game board with a bunch of dice on it
+frame_0081.jpg: a game board with a bunch of dice on it
+frame_0082.jpg: a game board with a lot of dice and dice
+frame_0083.jpg: a game board with a lot of cards and a lot of cards
+frame_0084.jpg: a game board with a bunch of cards on it
+frame_0085.jpg: a game board with a bunch of cards and a bunch of cards
+frame_0086.jpg: a table with many pieces of paper on it
+frame_0087.jpg: a game board with many pieces of paper on it
+frame_0088.jpg: a table with a green rug and a red and white sign
+frame_0089.jpg: a game board with a bunch of cards on it
+frame_0090.jpg: a person is making a piece of paper
+frame_0091.jpg: a person is cutting paper on a table
+frame_0092.jpg: a game board with a yellow cloth and a blue cloth

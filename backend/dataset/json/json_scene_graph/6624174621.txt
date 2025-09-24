@@ -1,0 +1,1948 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn bánh, bình thường) - đối diện - bánh (vàng)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang ngồi, bình thường) - bên cạnh - tường-gỗ",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang ngồi, bình thường) - đối diện - bánh (vàng)",
+  "tường - phía sau - người1",
+  "tường - phía sau - người2",
+  "tường - phía sau - người3",
+  "chai - trên - bàn",
+  "bánh (vàng) - trên - bàn",
+  "bàn - chứa - bánh (vàng)",
+  "bàn - chứa - chai"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn bánh, vui vẻ) - đối diện - bánh (vàng)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang ngồi, bình thường) - bên cạnh - tường-gỗ",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang ngồi, bình thường) - đối diện - bánh (vàng)",
+  "tường - phía sau - người1",
+  "tường - phía sau - người2",
+  "tường - phía sau - người3",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2",
+  "cây - gần - đèn",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang ngồi, bình thường) - bên cạnh - bàn ăn"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn bánh, vui vẻ) - đối diện - bánh (vàng)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang ngồi, bình thường) - bên cạnh - tường-gỗ",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang ngồi, bình thường) - đối diện - bánh (vàng)",
+  "tường - phía sau - người1",
+  "tường - phía sau - người2",
+  "tường - phía sau - người3",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2",
+  "cây - gần - đèn",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang ngồi, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn bánh, vui vẻ) - đối diện - bánh (vàng)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang ngồi, bình thường) - bên cạnh - tường-gỗ",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang ngồi, bình thường) - đối diện - bánh (vàng)",
+  "tường - phía sau - người1",
+  "tường - phía sau - người2",
+  "tường - phía sau - người3",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2",
+  "cây - gần - đèn",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang ngồi, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang ngồi, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn bánh, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - đối diện - bàn ăn"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - bánh (vàng)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - tường-gỗ",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - đối diện - bánh (vàng)",
+  "tường - phía sau - người1",
+  "tường - phía sau - người2",
+  "tường - phía sau - người3",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2",
+  "cây - gần - đèn",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang ngồi, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang ngồi, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - đối diện - bàn ăn"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - bánh (vàng)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - tường-gỗ",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - đối diện - bánh (vàng)",
+  "tường - phía sau - người1",
+  "tường - phía sau - người2",
+  "tường - phía sau - người3",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2",
+  "đèn - gần - cây",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang ngồi, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang ngồi, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (vàng)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - tường-gỗ",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - đối diện - bánh (vàng)",
+  "tường - phía sau - người1",
+  "tường - phía sau - người2",
+  "tường - phía sau - người3",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2",
+  "đèn - gần - cây",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang ngồi, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang ngồi, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang ngồi, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang ngồi, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang ngồi, bình thường)"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - bánh (vàng)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - tường-gỗ",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bánh (vàng)",
+  "tường - phía sau - người1",
+  "tường - phía sau - người2",
+  "tường - phía sau - người3",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2",
+  "đèn - gần - cây",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)"
+]
+```
+
+frame_8:
+```json
+[
+  "tường - phía sau - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cây",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)"
+]
+```
+
+frame_9:
+```json
+[
+  "tường - phía sau - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cửa sổ",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "ghế (nâu) - bên cạnh - bàn ăn"
+]
+```
+
+frame_10:
+```json
+[
+  "tường - phía sau - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cửa sổ",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "ghế (nâu) - bên cạnh - bàn ăn"
+]
+```
+
+frame_11:
+```json
+[
+  "t\u01b0\u1eddng - ph\u00eda sau - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o x\u00e1m, \u0111ang n\u00f3i chuy\u1ec7n, vui v\u1ebb)",
+  "t\u01b0\u1eddng - ph\u00eda sau - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o \u0111en, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng)",
+  "t\u01b0\u1eddng - ph\u00eda sau - ng\u01b0\u1eddi3 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng)",
+  "chai (tr\u1eafng) - tr\u00ean - b\u00e0n \u0103n",
+  "b\u00e1nh (v\u00e0ng) - tr\u00ean - b\u00e0n \u0103n",
+  "b\u00e0n \u0103n - ch\u1ee9a - b\u00e1nh (v\u00e0ng)",
+  "b\u00e0n \u0103n - ch\u1ee9a - chai (tr\u1eafng)",
+  "c\u1eeda s\u1ed5 - ph\u00eda tr\u00ean - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o \u0111en, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng)",
+  "\u0111\u00e8n - g\u1ea7n - c\u1eeda s\u1ed5",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng) - b\u00ean c\u1ea1nh - b\u00e0n \u0103n",
+  "t\u01b0\u1eddng - ph\u00eda sau - ng\u01b0\u1eddi4 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o \u0111en, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng) - b\u00ean c\u1ea1nh - ng\u01b0\u1eddi4 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o \u0111en, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng) - b\u00ean c\u1ea1nh - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o x\u00e1m, \u0111ang n\u00f3i chuy\u1ec7n, vui v\u1ebb)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ed1i di\u1ec7n - b\u00e0n \u0103n",
+  "t\u01b0\u1eddng - ph\u00eda sau - r\u00e8m c\u1eeda",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o x\u00e1m, \u0111ang n\u00f3i chuy\u1ec7n, vui v\u1ebb) - b\u00ean c\u1ea1nh - chai (tr\u1eafng)",
+  "t\u01b0\u1eddng - ph\u00eda sau - ng\u01b0\u1eddi3 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng)",
+  "t\u01b0\u1eddng - b\u00ean c\u1ea1nh - b\u00e0n \u0103n",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o x\u00e1m, \u0111ang n\u00f3i chuy\u1ec7n, vui v\u1ebb) - \u0111\u1ed1i di\u1ec7n - ng\u01b0\u1eddi3 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng) - b\u00ean c\u1ea1nh - ng\u01b0\u1eddi3 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng) - b\u00ean c\u1ea1nh - b\u00e1nh (v\u00e0ng)",
+  "b\u00e0n \u0103n - b\u00ean d\u01b0\u1edbi - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o x\u00e1m, \u0111ang n\u00f3i chuy\u1ec7n, vui v\u1ebb)",
+  "b\u00e0n \u0103n - b\u00ean d\u01b0\u1edbi - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o \u0111en, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng)",
+  "b\u00e0n \u0103n - b\u00ean d\u01b0\u1edbi - ng\u01b0\u1eddi3 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng)",
+  "b\u00e0n \u0103n - b\u00ean d\u01b0\u1edbi - ng\u01b0\u1eddi4 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang n\u00f3i chuy\u1ec7n, b\u00ecnh th\u01b0\u1eddng)",
+  "gh\u1ebf (n\u00e2u) - b\u00ean c\u1ea1nh - b\u00e0n \u0103n",
+  "t\u01b0\u1eddng - ph\u00eda sau - ng\u01b0\u1eddi5 (tr\u1eafc tu\u1ed5i - n\u1eef, m\u1eb7c \u00e1o m\u00e0u h\u1ed3ng, \u0111ang n\u00f3i chuy\u1ec7n, vui v\u1ebb)",
+  "ng\u01b0\u1eddi5 (tr\u1eafc tu\u1ed5i - n\u1eef, m\u1eb7c \u00e1o m\u00e0u h\u1ed3ng, \u0111ang n\u00f3i chuy\u1ec7n, vui v\u1ebb) - ng\u1ed3i - b\u00e0n \u0103n"
+]
+```
+
+frame_12:
+```json
+[
+  "tường - phía sau - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cửa sổ",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "ghế (nâu) - bên cạnh - bàn ăn",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - ngồi - bàn ăn"
+]
+```
+
+frame_13:
+```json
+[
+  "tường - phía sau - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cửa sổ",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "ghế (nâu) - bên cạnh - bàn ăn",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - ngồi - bàn ăn"
+]
+```
+
+frame_14:
+```json
+[
+  "tường - phía sau - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cửa sổ",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "ghế (nâu) - bên cạnh - bàn ăn",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - ngồi - bàn ăn"
+]
+```
+
+frame_15:
+```json
+[
+  "tường - phía sau - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cửa sổ",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "ghế (nâu) - bên cạnh - bàn ăn",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - ngồi - bàn ăn",
+  "ly rượu vang - trên - bàn ăn"
+]
+```
+
+frame_16:
+```json
+[
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cửa sổ",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "ghế (nâu) - bên cạnh - bàn ăn",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - ngồi - bàn ăn",
+  "ly rượu vang - trên - bàn ăn",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)"
+]
+```
+
+frame_17:
+```json
+[
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cửa sổ",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "ghế (nâu) - bên cạnh - bàn ăn",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - ngồi - bàn ăn",
+  "ly rượu vang - trên - bàn ăn",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)"
+]
+```
+
+frame_18:
+```json
+[
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cửa sổ",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "ghế (nâu) - bên cạnh - bàn ăn",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - ngồi - bàn ăn",
+  "ly rượu vang - trên - bàn ăn",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "bàn ăn - chứa - pizza (xanh lá cây)"
+]
+```
+
+frame_19:
+```json
+[
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cửa sổ",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "ghế (nâu) - bên cạnh - bàn ăn",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - ngồi - bàn ăn",
+  "ly rượu vang - trên - bàn ăn",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "bàn ăn - chứa - pizza (xanh lá cây)"
+]
+```
+
+frame_20:
+```json
+[
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cửa sổ",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "ghế (nâu) - bên cạnh - bàn ăn",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - ngồi - bàn ăn",
+  "ly rượu vang - trên - bàn ăn",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "bàn ăn - chứa - pizza (xanh lá cây)"
+]
+```
+
+frame_21:
+```json
+[
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cửa sổ",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "ghế (nâu) - bên cạnh - bàn ăn",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - ngồi - bàn ăn",
+  "ly rượu vang - trên - bàn ăn",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "bàn ăn - chứa - pizza (xanh lá cây)"
+]
+```
+
+frame_22:
+```json
+[
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cửa sổ",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "ghế (nâu) - bên cạnh - bàn ăn",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - ngồi - bàn ăn",
+  "ly rượu vang - trên - bàn ăn",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "bàn ăn - chứa - pizza (xanh lá cây)"
+]
+```
+
+frame_23:
+```json
+[
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bánh (vàng) - trên - bàn ăn",
+  "bàn ăn - chứa - bánh (vàng)",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "đèn - gần - cửa sổ",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bánh (vàng)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "ghế (nâu) - bên cạnh - bàn ăn",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - ngồi - bàn ăn",
+  "ly rượu vang - trên - bàn ăn",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "bàn ăn - chứa - pizza (xanh lá cây)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - bên cạnh - người6 (trạc tuổi - không xác định, không mặc gì, đang ngồi, buồn bã)"
+]
+```
+
+frame_24:
+```json
+[
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - ngồi - bàn ăn",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "tường - phía sau - cây (màu xanh lá cây)"
+]
+```
+
+frame_25:
+```json
+[
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - ngồi - bàn ăn",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nói chuyện, bình thường)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nói chuyện, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "tường - phía sau - cây (màu xanh lá cây)"
+]
+```
+
+frame_26:
+```json
+[
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - ngồi - bàn ăn",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "tường - phía sau - cây (màu xanh lá cây)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_27:
+```json
+[
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - ngồi - bàn ăn",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "tường - phía sau - cây (màu xanh lá cây)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_28:
+```json
+[
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - ngồi - bàn ăn",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "tường - phía sau - cây (màu xanh lá cây)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_29:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)"
+]
+```
+
+frame_30:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn"
+]
+```
+
+frame_31:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)"
+]
+```
+
+frame_32:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)"
+]
+```
+
+frame_33:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)"
+]
+```
+
+frame_34:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)"
+]
+```
+
+frame_35:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)"
+]
+```
+
+frame_36:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang cười, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ) - bên cạnh - ly rượu (trong suốt)"
+]
+```
+
+frame_37:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ) - bên cạnh - ly rượu (trong suốt)"
+]
+```
+
+frame_38:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ) - bên cạnh - ly rượu (trong suốt)"
+]
+```
+
+frame_39:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ) - bên cạnh - ly rượu (trong suốt)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)"
+]
+```
+
+frame_40:
+```json
+[
+  "t\u01b0\u1eddng - ph\u00eda sau - ng\u01b0\u1eddi4 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng)",
+  "t\u01b0\u1eddng - ph\u00eda sau - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o \u0111en, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng)",
+  "t\u01b0\u1eddng - ph\u00eda sau - ng\u01b0\u1eddi5 (tr\u1ea1c tu\u1ed5i - n\u1eef, m\u1eb7c \u00e1o m\u00e0u h\u1ed3ng, \u0111ang nh\u00ecn, vui v\u1ebb)",
+  "chai (tr\u1eafng) - tr\u00ean - b\u00e0n \u0103n",
+  "b\u00e0n \u0103n - ch\u1ee9a - chai (tr\u1eafng)",
+  "c\u1eeda s\u1ed5 - ph\u00eda tr\u00ean - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o \u0111en, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng) - b\u00ean c\u1ea1nh - b\u00e0n \u0103n",
+  "t\u01b0\u1eddng - ph\u00eda sau - ng\u01b0\u1eddi3 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o \u0111en, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng) - b\u00ean c\u1ea1nh - ng\u01b0\u1eddi3 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o \u0111en, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng) - b\u00ean c\u1ea1nh - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o x\u00e1m, \u0111ang nh\u00ecn, vui v\u1ebb)",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng) - \u0111\u1ed1i di\u1ec7n - b\u00e0n \u0103n",
+  "t\u01b0\u1eddng - ph\u00eda sau - r\u00e8m c\u1eeda",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o x\u00e1m, \u0111ang nh\u00ecn, vui v\u1ebb) - \u0111\u1ed1i di\u1ec7n - ng\u01b0\u1eddi3 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng)",
+  "ng\u01b0\u1eddi3 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng) - b\u00ean c\u1ea1nh - ng\u01b0\u1eddi6 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng m\u1eb7c g\u00ec, \u0111ang ng\u1ed3i, bu\u1ed3n b\u00e3)",
+  "ng\u01b0\u1eddi5 (tr\u1ea1c tu\u1ed5i - n\u1eef, m\u1eb7c \u00e1o m\u00e0u h\u1ed3ng, \u0111ang nh\u00ecn, vui v\u1ebb) - b\u00ean c\u1ea1nh - ng\u01b0\u1eddi6 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng m\u1eb7c g\u00ec, \u0111ang ng\u1ed3i, bu\u1ed3n b\u00e3)",
+  "b\u00e0n \u0103n - b\u00ean d\u01b0\u1edbi - ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o x\u00e1m, \u0111ang nh\u00ecn, vui v\u1ebb)",
+  "b\u00e0n \u0103n - b\u00ean d\u01b0\u1edbi - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - n\u1eef, m\u1eb7c \u00e1o \u0111en, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng)",
+  "b\u00e0n \u0103n - b\u00ean d\u01b0\u1edbi - ng\u01b0\u1eddi3 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng)",
+  "b\u00e0n \u0103n - b\u00ean d\u01b0\u1edbi - ng\u01b0\u1eddi4 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng)",
+  "t\u01b0\u1eddng - ph\u00eda sau - ng\u01b0\u1eddi6 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng m\u1eb7c g\u00ec, \u0111ang ng\u1ed3i, bu\u1ed3n b\u00e3)",
+  "b\u00e0n \u0103n - b\u00ean d\u01b0\u1edbi - ng\u01b0\u1eddi6 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, kh\u00f4ng m\u1eb7c g\u00ec, \u0111ang ng\u1ed3i, bu\u1ed3n b\u00e3)",
+  "c\u1eeda s\u1ed5 - ph\u00eda sau - ng\u01b0\u1eddi5 (tr\u1ea1c tu\u1ed5i - n\u1eef, m\u1eb7c \u00e1o m\u00e0u h\u1ed3ng, \u0111ang nh\u00ecn, vui v\u1ebb)",
+  "t\u01b0\u1eddng - ph\u00eda sau - \u0111\u00e8n",
+  "b\u00e0n \u0103n - ch\u1ee9a - b\u00e1nh (tr\u1eafng)",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o x\u00e1m, \u0111ang nh\u00ecn, vui v\u1ebb) - \u0111\u1ed1i di\u1ec7n - b\u00e1nh (tr\u1eafng)",
+  "th\u00eca (kim lo\u1ea1i) - tr\u00ean - b\u00e0n \u0103n",
+  "b\u00e0n \u0103n - ch\u1ee9a - th\u00eca (kim lo\u1ea1i)",
+  "b\u00e0n \u0103n - ch\u1ee9a - ly r\u01b0\u1ee3u (trong su\u1ed1t)",
+  "ng\u01b0\u1eddi4 (tr\u1ebb - gi\u1edbi t\u00ednh kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang nh\u00ecn, b\u00ecnh th\u01b0\u1eddng) - b\u00ean c\u1ea1nh - ng\u01b0\u1eddi7 (trung ni\u00ean - n\u1eef, m\u1eb7c \u00e1o t\u00edm, \u0111ang ng\u1ed3i, vui v\u1ebb)",
+  "b\u00e0n \u0103n - b\u00ean d\u01b0\u1edbi - ng\u01b0\u1eddi7 (trung ni\u00ean - n\u1eef, m\u1eb7c \u00e1o t\u00edm, \u0111ang ng\u1ed3i, vui v\u1ebb)",
+  "t\u01b0\u1eddng - ph\u00eda sau - ng\u01b0\u1eddi7 (trung ni\u00ean - n\u1eef, m\u1eb7c \u00e1o t\u00edm, \u0111ang ng\u1ed3i, vui v\u1ebb)",
+  "ng\u01b0\u1eddi7 (trung ni\u00ean - n\u1eef, m\u1eb7c \u00e1o t\u00edm, \u0111ang ng\u1ed3i, vui v\u1ebb) - b\u00ean c\u1ea1nh - ly r\u01b0\u1ee3u (trong su\u1ed1t)",
+  "t\u01b0\u1eddng - b\u00ean c\u1ea1nh - b\u00e0n \u0103n",
+  "ng\u01b0\u1eddi1 (tr\u1ebb - n\u1eef, m\u1eb7c \u00e1o x\u00e1m, \u0111ang nh\u00ecn, vui v\u1ebb) - b\u00ean c\u1ea1nh - chai (tr\u1eafng)"
+]
+```
+
+frame_41:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ) - bên cạnh - ly rượu (trong suốt)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)"
+]
+```
+
+frame_42:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ) - bên cạnh - ly rượu (trong suốt)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)"
+]
+```
+
+frame_43:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ) - bên cạnh - ly rượu (trong suốt)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)"
+]
+```
+
+frame_44:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ) - bên cạnh - ly rượu (trong suốt)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)"
+]
+```
+
+frame_45:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ) - bên cạnh - ly rượu (trong suốt)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)"
+]
+```
+
+frame_46:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ) - bên cạnh - ly rượu (trong suốt)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)"
+]
+```
+
+frame_47:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ) - bên cạnh - ly rượu (trong suốt)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)"
+]
+```
+
+frame_48:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang ngồi, vui vẻ) - bên cạnh - ly rượu (trong suốt)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "người8 (trưởng thành - nữ, mặc áo tím, đang ngồi, vui vẻ) - đối diện - bàn ăn"
+]
+```
+
+frame_49:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ) - bên cạnh - ly rượu (trong suốt)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "người8 (trưởng thành - giới tính không xác định, không mặc gì, đang ngồi, bình thường) - đối diện - bàn ăn"
+]
+```
+
+frame_50:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ) - bên cạnh - ly rượu (trong suốt)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "người8 (trưởng thành - giới tính không xác định, không mặc gì, đang ngồi, bình thường) - đối diện - bàn ăn"
+]
+```
+
+frame_51:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ) - bên cạnh - ly rượu (trong suốt)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "người8 (trưởng thành - giới tính không xác định, không mặc gì, đang ngồi, bình thường) - đối diện - bàn ăn"
+]
+```
+
+frame_52:
+```json
+[
+  "tường - phía sau - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "tường - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "chai (trắng) - trên - bàn ăn",
+  "bàn ăn - chứa - chai (trắng)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - bàn ăn",
+  "tường - phía sau - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - đối diện - bàn ăn",
+  "tường - phía sau - rèm cửa",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ) - bên cạnh - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ)",
+  "bàn ăn - bên dưới - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "bàn ăn - bên dưới - người3 (trẻ - giới tính không xác định, mặc áo hồng, đang nhìn, bình thường)",
+  "bàn ăn - bên dưới - người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường)",
+  "tường - phía sau - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "bàn ăn - bên dưới - người6 (trẻ - giới tính không xác định, không mặc gì, đang ngồi, buồn bã)",
+  "cửa sổ - phía sau - người5 (trạc tuổi - nữ, mặc áo màu hồng, đang nhìn, vui vẻ)",
+  "tường - phía sau - đèn",
+  "bàn ăn - chứa - bánh (trắng)",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - đối diện - bánh (trắng)",
+  "thìa (kim loại) - trên - bàn ăn",
+  "bàn ăn - chứa - thìa (kim loại)",
+  "bàn ăn - chứa - ly rượu (trong suốt)",
+  "người4 (trẻ - giới tính không xác định, mặc áo đỏ, đang nhìn, bình thường) - bên cạnh - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "bàn ăn - bên dưới - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ) - bên cạnh - ly rượu (trong suốt)",
+  "tường - bên cạnh - bàn ăn",
+  "người1 (trẻ - nữ, mặc áo xám, đang nhìn, vui vẻ) - bên cạnh - chai (trắng)",
+  "tường - phía sau - người7 (trung niên - nữ, mặc áo tím, đang trò chuyện, vui vẻ)",
+  "cửa sổ - phía trên - người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường)",
+  "người8 (trưởng thành - giới tính không xác định, không mặc gì, đang ngồi, bình thường) - đối diện - bàn ăn"
+]
+```
+
+frame_53:
+```json
+[
+  "cây - trên - đất"
+]
+```
+
+frame_54:
+```json
+[
+  "tòa nhà - gần - cây",
+  "bầu trời - bên cạnh - cây"
+]
+```
+
+frame_55:
+```json
+[
+  "tòa nhà - gần - cây",
+  "bầu trời - bên cạnh - cây"
+]
+```
+
+frame_56:
+```json
+[
+  "tòa nhà - gần - cây",
+  "bầu trời - bên cạnh - cây"
+]
+```
+
+frame_57:
+```json
+[
+  "tòa nhà - gần - cây",
+  "bầu trời - bên cạnh - cây"
+]
+```
+
+frame_58:
+```json
+[
+  "cây - phía trên - cỏ",
+  "bầu trời - phía trên - cây"
+]
+```
+
+frame_59:
+```json
+[
+  "tòa nhà - gần - cây",
+  "cây - phía trên - cỏ",
+  "bầu trời - phía trên - cây",
+  "cây - phía trên - vỉa hè",
+  "cỏ - gần - vỉa hè"
+]
+```
+
+frame_60:
+```json
+[
+  "tòa nhà - gần - cây",
+  "cây - phía trên - cỏ",
+  "bầu trời - phía trên - cây",
+  "cây - phía trên - vỉa hè",
+  "cỏ - gần - vỉa hè"
+]
+```
+
+frame_61:
+```json
+[
+  "tòa nhà - gần - cây",
+  "cây - phía trên - cỏ",
+  "bầu trời - phía trên - cây",
+  "cây - phía trên - vỉa hè",
+  "cỏ - gần - vỉa hè"
+]
+```
+

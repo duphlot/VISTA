@@ -1,0 +1,2502 @@
+frame_0:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trên - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trong - nước",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trong - bầu trời"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trên - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trong - nước",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trên - biển",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trong - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trong - bầu trời"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - ở cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trong - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trong - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang trượt băng, vui vẻ) - trong - bầu trời",
+  "bầu trời - ở trên - nước",
+  "biển - ở trên - nước"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - ở cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trong - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - trong - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trong - bầu trời",
+  "bầu trời - ở trên - nước",
+  "biển - ở trên - nước",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - ở trên - cát",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - ở trên - vỉa hè"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - ở cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trong - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - trong - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trong - bầu trời",
+  "bầu trời - ở trên - nước",
+  "biển - ở trên - nước",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - trên - đất",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trên - đất",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - ở cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - trong - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - trong - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - trong - bầu trời",
+  "bầu trời - ở trên - nước",
+  "biển - ở trên - nước",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - trên - vỉa hè",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - trên - ván trượt",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - trên - ván trượt"
+]
+```
+
+frame_6:
+```json
+[
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u00f4m ng\u01b0\u1eddi2, vui v\u1ebb) - \u1edf c\u1ea1nh - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng im, vui v\u1ebb)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u00f4m ng\u01b0\u1eddi2, vui v\u1ebb) - tr\u00ean - n\u01b0\u1edbc",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng im, vui v\u1ebb) - tr\u00ean - n\u01b0\u1edbc",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng im, vui v\u1ebb) - trong - bi\u1ec3n",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u00f4m ng\u01b0\u1eddi2, vui v\u1ebb) - trong - bi\u1ec3n",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u00f4m ng\u01b0\u1eddi2, vui v\u1ebb) - trong - b\u1ea7u tr\u1eddi",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng im, vui v\u1ebb) - trong - b\u1ea7u tr\u1eddi",
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - n\u01b0\u1edbc",
+  "bi\u1ec3n - \u1edf tr\u00ean - n\u01b0\u1edbc",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u00f4m ng\u01b0\u1eddi2, vui v\u1ebb) - tr\u00ean - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng im, vui v\u1ebb) - tr\u00ean - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u00f4m ng\u01b0\u1eddi2, vui v\u1ebb) - \u1edf tr\u00ean - tuy\u1ebft",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng im, vui v\u1ebb) - \u1edf tr\u00ean - tuy\u1ebft",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u00f4m ng\u01b0\u1eddi2, vui v\u1ebb) - tr\u00ean - v\u00e1n tr\u01b0\u1ee3t",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng im, vui v\u1ebb) - tr\u00ean - v\u00e1n tr\u01b0\u1ee3t",
+  "c\u00e1t - \u1edf g\u1ea7n - tuy\u1ebft",
+  "c\u00e1t - \u1edf tr\u00ean - n\u01b0\u1edbc",
+  "tuy\u1ebft - \u1edf tr\u00ean - n\u01b0\u1edbc",
+  "c\u00e1t - g\u1ea7n - bi\u1ec3n",
+  "tuy\u1ebft - g\u1ea7n - bi\u1ec3n"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - ở cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - trong - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - trong - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - trong - bầu trời",
+  "bầu trời - ở trên - nước",
+  "biển - ở trên - nước",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - trên - vỉa hè",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - trên - ván trượt",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - trên - ván trượt",
+  "cát - ở gần - tuyết",
+  "cát - ở trên - nước",
+  "tuyết - ở trên - nước",
+  "cát - gần - biển",
+  "tuyết - gần - biển",
+  "người3 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, bình thường) - trên - nước"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - ở cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - trong - bầu trời",
+  "bầu trời - ở trên - tuyết",
+  "cát - ở gần - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm người2, vui vẻ) - trên - cát",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng im, vui vẻ) - trên - cát"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang giơ tay, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang giơ tay, vui vẻ) - trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang giơ tay, vui vẻ) - trong - bầu trời",
+  "bầu trời - ở trên - tuyết",
+  "nước - ở gần - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang giơ tay, vui vẻ) - trên - nước",
+  "biển - ở gần - người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "biển - ở gần - người2 (trưởng thành - không xác định, mặc áo tối màu, đang giơ tay, vui vẻ)",
+  "biển - ở trên - nước",
+  "nước - ở gần - biển"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang giơ tay, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang giơ tay, vui vẻ) - trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang giơ tay, vui vẻ) - trong - bầu trời",
+  "bầu trời - ở trên - sàn nhà",
+  "nước - ở gần - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang giơ tay, vui vẻ) - trên - nước",
+  "biển - ở gần - người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "biển - ở gần - người2 (trưởng thành - không xác định, mặc áo tối màu, đang giơ tay, vui vẻ)",
+  "biển - ở trên - nước",
+  "nước - ở gần - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trên - vỉa hè",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang giơ tay, vui vẻ) - trên - vỉa hè",
+  "nước - ở gần - vỉa hè",
+  "sàn nhà - ở trên - vỉa hè"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trên - vỉa hè",
+  "vỉa hè - ở gần - tường",
+  "vỉa hè - trên - sàn nhà",
+  "sàn nhà - ở gần - tường",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trong - bầu trời"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trên - vỉa hè",
+  "vỉa hè - ở gần - tường",
+  "vỉa hè - trên - tuyết",
+  "tuyết - ở gần - tường",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - trong - bầu trời"
+]
+```
+
+frame_13:
+```json
+[
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - trong - b\u1ea7u tr\u1eddi",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - \u1edf trong - bi\u1ec3n",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - \u1edf trong - n\u01b0\u1edbc"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết",
+  "người3 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người3 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - biển",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - nước",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "nước - ở trong - bầu trời",
+  "đất - ở trong - sân chơi",
+  "sân chơi - ở trong - tuyết",
+  "cỏ - ở trong - nước",
+  "cỏ - ở trong - tuyết",
+  "mặt đường - ở trong - bầu trời"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - nước",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - vỉa hè",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - nước",
+  "nước - ở trong - bầu trời",
+  "cát - ở trong - nước",
+  "cát - ở trong - vỉa hè",
+  "vỉa hè - ở trong - bầu trời"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết",
+  "nước - ở trong - bầu trời",
+  "cát - ở trong - tuyết",
+  "tuyết - ở trong - bầu trời"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết",
+  "bầu trời - chứa - nước",
+  "tuyết - chứa - cát",
+  "bầu trời - chứa - tuyết",
+  "mặt đường - nằm trên - tuyết"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết",
+  "bầu trời - chứa - nước",
+  "nước - chứa - mặt đường",
+  "bầu trời - chứa - tuyết",
+  "mặt đường - nằm trên - tuyết"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết",
+  "bầu trời - chứa - nước",
+  "nước - chứa - mặt đường",
+  "bầu trời - chứa - tuyết",
+  "mặt đường - nằm trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - cát",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - cát"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết",
+  "bầu trời - chứa - nước",
+  "nước - chứa - mặt đường",
+  "bầu trời - chứa - tuyết",
+  "mặt đường - nằm trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - cát",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - cát",
+  "bầu trời - chứa - nước",
+  "nước - chứa - mặt đường",
+  "bầu trời - chứa - tuyết",
+  "mặt đường - nằm trên - tuyết",
+  "người3 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - sàn nhà",
+  "mặt đường - nằm trên - sàn nhà"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết",
+  "bầu trời - chứa - nước",
+  "nước - chứa - mặt đường",
+  "bầu trời - chứa - tuyết",
+  "mặt đường - nằm trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - cát",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - cát",
+  "bầu trời - chứa - nước",
+  "nước - chứa - mặt đường",
+  "bầu trời - chứa - tuyết",
+  "mặt đường - nằm trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - sàn nhà",
+  "mặt đường - nằm trên - sàn nhà",
+  "tường - nằm trên - vỉa hè"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết",
+  "bầu trời - chứa - nước",
+  "nước - chứa - mặt đường",
+  "bầu trời - chứa - tuyết",
+  "mặt đường - nằm trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - cát",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - cát",
+  "bầu trời - chứa - nước",
+  "nước - chứa - mặt đường",
+  "bầu trời - chứa - tuyết",
+  "mặt đường - nằm trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - sàn nhà",
+  "mặt đường - nằm trên - sàn nhà",
+  "tường - nằm trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết",
+  "bầu trời - chứa - nước",
+  "nước - chứa - mặt đường",
+  "bầu trời - chứa - tuyết",
+  "mặt đường - nằm trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - cát",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - cát",
+  "bầu trời - chứa - nước",
+  "nước - chứa - mặt đường",
+  "bầu trời - chứa - tuyết",
+  "mặt đường - nằm trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - sàn nhà",
+  "mặt đường - nằm trên - sàn nhà",
+  "tường - nằm trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết"
+]
+```
+
+frame_26:
+```json
+[
+  "tường - nằm trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trong - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ôm, vui vẻ) - chạm vào - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "sàn nhà - nằm trên - sân chơi",
+  "sân chơi - chứa - tuyết",
+  "tường - nằm trên - sàn nhà"
+]
+```
+
+frame_27:
+```json
+[
+  "tường - nằm trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "sàn nhà - nằm trên - sân chơi",
+  "sân chơi - chứa - tường"
+]
+```
+
+frame_28:
+```json
+[
+  "tường - nằm trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "sàn nhà - nằm trên - sân chơi",
+  "sân chơi - chứa - tường",
+  "xe tải (màu trắng) - ở trên - sàn nhà"
+]
+```
+
+frame_29:
+```json
+[
+  "tường - nằm trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "sàn nhà - nằm trên - sân chơi",
+  "sân chơi - chứa - tường",
+  "xe tải (màu trắng) - ở trên - sàn nhà",
+  "trời - ở trên - vỉa hè",
+  "cây - ở trên - vỉa hè",
+  "vỉa hè - ở trên - tuyết",
+  "tuyết - ở trên - sàn nhà",
+  "đất - ở trên - sàn nhà"
+]
+```
+
+frame_30:
+```json
+[
+  "tường - nằm trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "sàn nhà - nằm trên - sân chơi",
+  "sân chơi - chứa - tường",
+  "xe tải (màu trắng) - ở trên - sàn nhà",
+  "trời - ở trên - vỉa hè",
+  "cây - ở trên - vỉa hè",
+  "vỉa hè - ở trên - tuyết",
+  "tuyết - ở trên - sàn nhà",
+  "đất - ở trên - sàn nhà",
+  "tường - nằm trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết",
+  "sàn nhà - nằm trên - tuyết"
+]
+```
+
+frame_31:
+```json
+[
+  "tường - nằm trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "sàn nhà - nằm trên - sân chơi",
+  "sân chơi - chứa - tường",
+  "xe tải (màu trắng) - ở trên - sàn nhà",
+  "trời - ở trên - vỉa hè",
+  "cây - ở trên - vỉa hè",
+  "vỉa hè - ở trên - tuyết",
+  "tuyết - ở trên - sàn nhà",
+  "đất - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết",
+  "sàn nhà - nằm trên - tuyết"
+]
+```
+
+frame_32:
+```json
+[
+  "tường - nằm trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - đứng cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "sàn nhà - nằm trên - sân chơi",
+  "sân chơi - chứa - tường",
+  "xe tải (màu trắng) - ở trên - sàn nhà",
+  "trời - ở trên - vỉa hè",
+  "cây - ở trên - vỉa hè",
+  "vỉa hè - ở trên - tuyết",
+  "tuyết - ở trên - sàn nhà",
+  "đất - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết",
+  "sàn nhà - nằm trên - tuyết",
+  "tường - nằm trên - trời",
+  "vỉa hè - nằm trên - tường",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - đứng cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)"
+]
+```
+
+frame_33:
+```json
+[
+  "tường - nằm trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - đứng cạnh - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "sàn nhà - nằm trên - sân chơi",
+  "sân chơi - chứa - tường",
+  "xe tải (màu trắng) - ở trên - sàn nhà",
+  "trời - ở trên - vỉa hè",
+  "cây - ở trên - vỉa hè",
+  "vỉa hè - ở trên - tuyết",
+  "tuyết - ở trên - sàn nhà",
+  "đất - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết",
+  "sàn nhà - nằm trên - tuyết",
+  "tường - nằm trên - trời",
+  "vỉa hè - nằm trên - tường",
+  "tường - nằm trên - tường gạch",
+  "bông hoa - nằm trên - vỉa hè",
+  "sàn nhà - ở trên - người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ)",
+  "trời - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - đứng cạnh - tuyết"
+]
+```
+
+frame_34:
+```json
+[
+  "hoa - nằm trên - sân chơi",
+  "trời - nằm trên - sân chơi",
+  "sân chơi - chứa - tường",
+  "cát - nằm trên - sân chơi",
+  "sàn nhà - nằm trên - sân chơi",
+  "đất - nằm trên - sân chơi",
+  "vỉa hè - nằm trên - sân chơi",
+  "cỏ - nằm trên - vỉa hè",
+  "tuyết - nằm trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - cầm - gậy bóng chày",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - ở trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang dang tay, vui vẻ) - ở trên - sân chơi"
+]
+```
+
+frame_35:
+```json
+[
+  "hoa - n\u1eb1m tr\u00ean - s\u00e2n ch\u01a1i",
+  "tr\u1eddi - n\u1eb1m tr\u00ean - s\u00e2n ch\u01a1i",
+  "s\u00e2n ch\u01a1i - ch\u1ee9a - t\u01b0\u1eddng",
+  "c\u00e1t - n\u1eb1m tr\u00ean - s\u00e2n ch\u01a1i",
+  "s\u00e0n nh\u00e0 - n\u1eb1m tr\u00ean - s\u00e2n ch\u01a1i",
+  "\u0111\u1ea5t - n\u1eb1m tr\u00ean - s\u00e2n ch\u01a1i",
+  "v\u1ec9a h\u00e8 - n\u1eb1m tr\u00ean - s\u00e2n ch\u01a1i",
+  "c\u1ecf - n\u1eb1m tr\u00ean - v\u1ec9a h\u00e8",
+  "tuy\u1ebft - n\u1eb1m tr\u00ean - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang n\u00e9m b\u00f3ng, vui v\u1ebb) - c\u1ea7m - l\u01b0\u1edbi",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang n\u00e9m b\u00f3ng, vui v\u1ebb) - \u1edf tr\u00ean - tuy\u1ebft",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang n\u00e9m b\u00f3ng, vui v\u1ebb) - \u1edf tr\u00ean - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang n\u00e9m b\u00f3ng, vui v\u1ebb) - \u1edf tr\u00ean - s\u00e2n ch\u01a1i"
+]
+```
+
+frame_36:
+```json
+[
+  "vỉa hè - nằm trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ném bóng, vui vẻ) - ở trên - sân chơi",
+  "sân chơi - chứa - tường",
+  "sàn nhà - nằm trên - sân chơi",
+  "đất - nằm trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ném bóng, vui vẻ) - ở trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang ném bóng, vui vẻ) - cầm - chim (màu tím)",
+  "chim (màu tím) - nằm trên - sân chơi"
+]
+```
+
+frame_37:
+```json
+[
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o t\u1ed1i m\u00e0u, \u0111ang \u0111\u1ee9ng, vui v\u1ebb) - \u1edf tr\u00ean - tuy\u1ebft",
+  "hoa - \u1edf tr\u00ean - c\u00e2y",
+  "c\u00e2y - \u1edf tr\u00ean - tuy\u1ebft"
+]
+```
+
+frame_38:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - nước",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn",
+  "tuyết - ở trên - sân chơi",
+  "tuyết - ở trên - vỉa hè",
+  "tuyết - ở trên - sàn",
+  "nước - ở trên - sân chơi",
+  "nước - ở trên - vỉa hè",
+  "nước - ở trên - sàn"
+]
+```
+
+frame_39:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - nước",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sân chơi",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - vỉa hè",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sân chơi",
+  "người3 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - vỉa hè",
+  "người3 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - tuyết",
+  "người3 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sàn",
+  "người3 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - nước",
+  "người3 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - sân chơi",
+  "tuyết - ở trên - vỉa hè",
+  "tuyết - ở trên - sàn",
+  "tuyết - ở trên - sân chơi",
+  "nước - ở trên - vỉa hè",
+  "nước - ở trên - sàn",
+  "nước - ở trên - sân chơi",
+  "bầu trời - ở trên - vỉa hè",
+  "bầu trời - ở trên - tuyết",
+  "bầu trời - ở trên - sàn",
+  "bầu trời - ở trên - nước",
+  "bầu trời - ở trên - sân chơi",
+  "đất - ở trên - sàn"
+]
+```
+
+frame_40:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - đất",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)"
+]
+```
+
+frame_41:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - ở trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ) - cầm - chuối (màu vàng)",
+  "tuyết - ở trên - người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "bầu trời - ở trên - bàn ăn (69%)",
+  "sàn nhà - xung quanh - người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)",
+  "cát - xung quanh - người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, vui vẻ)"
+]
+```
+
+frame_42:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang vẫy tay, vui vẻ) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang vẫy tay, vui vẻ) - ở trên - bầu trời"
+]
+```
+
+frame_43:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên) - ở trên - bầu trời"
+]
+```
+
+frame_44:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên) - ở trên - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - bầu trời",
+  "sàn nhà (màu xám) - gần - nước",
+  "nước - ở trên - vật thể tối"
+]
+```
+
+frame_45:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên) - ở trên - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - bầu trời",
+  "sàn nhà (màu xám) - gần - tuyết",
+  "tuyết - ở trên - vật thể tối",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên) - chạm vào - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên)",
+  "vỉa hè (màu xám) - ở trên - bầu trời"
+]
+```
+
+frame_46:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên) - ở trên - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - bầu trời",
+  "sàn nhà (màu xám) - gần - tuyết",
+  "tuyết - ở trên - vật thể tối",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên) - chạm vào - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên)",
+  "vỉa hè (màu xám) - ở trên - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "cỏ (màu xanh lá cây) - ở dưới - người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên)",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên)",
+  "bầu trời - ở trên - vỉa hè (màu xám)",
+  "nước - ở gần - tuyết",
+  "đất (màu xanh nhạt) - ở trên - cỏ (màu xanh lá cây)"
+]
+```
+
+frame_47:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - bầu trời",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - bầu trời",
+  "sàn nhà (màu xám) - gần - tuyết",
+  "tuyết - ở trên - vật thể tối",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - chạm vào - người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên)",
+  "vỉa hè (màu xám) - ở trên - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "cỏ (màu xanh lá cây) - ở dưới - người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên)",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên)",
+  "bầu trời - ở trên - vỉa hè (màu xám)",
+  "nước - ở gần - tuyết",
+  "đất (màu xanh nhạt) - ở trên - cỏ (màu xanh lá cây)",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - gần - toà nhà"
+]
+```
+
+frame_48:
+```json
+[
+  "tường - ở trên - bầu trời",
+  "vỉa hè (màu xám) - ở trên - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà (màu xám)",
+  "sàn nhà (màu xám) - gần - tuyết",
+  "tuyết - ở trên - vật thể tối",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà (màu xám)",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết"
+]
+```
+
+frame_49:
+```json
+[
+  "tường - ở trên - bầu trời",
+  "vỉa hè (màu xám) - ở trên - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà (màu xám)",
+  "sàn nhà (màu xám) - gần - tuyết",
+  "tuyết - ở trên - vật thể tối",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà (màu xám)",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "bầu trời - ở trên - sàn nhà (màu xám)",
+  "vỉa hè (màu xám) - ở trên - sàn nhà (màu xám)",
+  "đất - ở trên - sàn nhà (màu xám)"
+]
+```
+
+frame_50:
+```json
+[
+  "tường - ở trên - bầu trời",
+  "vỉa hè (màu xám) - ở trên - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà (màu xám)",
+  "sàn nhà (màu xám) - gần - tuyết",
+  "tuyết - ở trên - vật thể tối",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà (màu xám)",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "bầu trời - ở trên - sàn nhà (màu xám)",
+  "vỉa hè (màu xám) - ở trên - sàn nhà (màu xám)",
+  "đất - ở trên - sàn nhà (màu xám)"
+]
+```
+
+frame_51:
+```json
+[
+  "tường - ở trên - bầu trời",
+  "vỉa hè (màu xám) - ở trên - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - bầu trời",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà (màu xám)",
+  "sàn nhà (màu xám) - gần - tuyết",
+  "tuyết - ở trên - vật thể tối",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà (màu xám)",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "bầu trời - ở trên - sàn nhà (màu xám)",
+  "vỉa hè (màu xám) - ở trên - sàn nhà (màu xám)",
+  "đất - ở trên - sàn nhà (màu xám)"
+]
+```
+
+frame_52:
+```json
+[
+  "bầu trời - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "ván lướt sóng (màu nâu) - ở dưới - người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên)",
+  "cỏ - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên) - ở trên - tuyết"
+]
+```
+
+frame_53:
+```json
+[
+  "bầu trời - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "ván lướt sóng (màu nâu) - ở dưới - người1 (trưởng thành - không xác định, mặc áo tối màu, đang đứng, ngạc nhiên)",
+  "cỏ - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang leo trèo, phấn khích) - ở trên - mèo (màu tím)",
+  "mèo (màu tím) - ở dưới - người1 (trưởng thành - không xác định, mặc áo đỏ, đang leo trèo, phấn khích)",
+  "nước - ở trên - tuyết",
+  "tuyết - ở trong - nước"
+]
+```
+
+frame_54:
+```json
+[
+  "bầu trời - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang leo trèo, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - bầu trời",
+  "ván lướt sóng (màu nâu) - ở dưới - người1 (trưởng thành - không xác định, mặc áo đỏ, đang leo trèo, ngạc nhiên)",
+  "cỏ - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang leo trèo, ngạc nhiên) - ở trên - mèo (màu tím)",
+  "mèo (màu tím) - ở dưới - người1 (trưởng thành - không xác định, mặc áo đỏ, đang leo trèo, ngạc nhiên)",
+  "nước - ở trên - tuyết",
+  "tuyết - ở trong - nước",
+  "bầu trời - ở trên - chim (màu nâu)"
+]
+```
+
+frame_55:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "tuyết - ở trên - vỉa hè",
+  "vỉa hè - ở dưới - tuyết"
+]
+```
+
+frame_56:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "tuyết - ở trên - vỉa hè",
+  "vỉa hè - ở dưới - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - vỉa hè",
+  "nền nhà - ở trên - tuyết",
+  "nước - ở trên - nền nhà",
+  "bụi bẩn - ở trên - vỉa hè",
+  "vỉa hè - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)"
+]
+```
+
+frame_57:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "tuyết - ở trên - vỉa hè",
+  "vỉa hè - ở dưới - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - vỉa hè",
+  "nền nhà - ở trên - tuyết",
+  "nước - ở trên - nền nhà",
+  "bụi bẩn - ở trên - vỉa hè",
+  "vỉa hè - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "sàn gỗ - ở trên - vỉa hè",
+  "vỉa hè - ở trên - sàn gỗ",
+  "sàn nhà - ở trên - tuyết",
+  "tuyết - ở trên - nước",
+  "bụi bẩn - ở trên - sàn nhà",
+  "sàn nhà - ở trên - sàn gỗ",
+  "bầu trời - ở trên - sàn nhà"
+]
+```
+
+frame_58:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên)",
+  "tuyết - ở trên - vỉa hè",
+  "vỉa hè - ở dưới - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên) - ở trên - vỉa hè",
+  "nền nhà - ở trên - tuyết",
+  "nước - ở trên - nền nhà",
+  "bụi bẩn - ở trên - vỉa hè",
+  "vỉa hè - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên)",
+  "sàn gỗ - ở trên - vỉa hè",
+  "vỉa hè - ở trên - sàn gỗ",
+  "sàn nhà - ở trên - tuyết",
+  "tuyết - ở trên - nước",
+  "bụi bẩn - ở trên - sàn nhà",
+  "sàn nhà - ở trên - sàn gỗ",
+  "bầu trời - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang chạy, sợ hãi) - ở trên - tuyết",
+  "tuyết - ở dưới - người2 (trưởng thành - không xác định, mặc đồ hồng, đang chạy, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang chạy, sợ hãi) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - người2 (trưởng thành - không xác định, mặc đồ hồng, đang chạy, sợ hãi)"
+]
+```
+
+frame_59:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên)",
+  "tuyết - ở trên - vỉa hè",
+  "vỉa hè - ở dưới - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên) - ở trên - vỉa hè",
+  "nền nhà - ở trên - tuyết",
+  "nước - ở trên - nền nhà",
+  "bụi bẩn - ở trên - vỉa hè",
+  "vỉa hè - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên)",
+  "sàn gỗ - ở trên - vỉa hè",
+  "vỉa hè - ở trên - sàn gỗ",
+  "sàn nhà - ở trên - tuyết",
+  "tuyết - ở trên - nước",
+  "bụi bẩn - ở trên - sàn nhà",
+  "sàn nhà - ở trên - sàn gỗ",
+  "bầu trời - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang chạy, sợ hãi) - ở trên - tuyết",
+  "tuyết - ở dưới - người2 (trưởng thành - không xác định, mặc đồ hồng, đang chạy, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang chạy, sợ hãi) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - người2 (trưởng thành - không xác định, mặc đồ hồng, đang chạy, sợ hãi)",
+  "tuyết - ở trên - bầu trời"
+]
+```
+
+frame_60:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên)",
+  "tuyết - ở trên - vỉa hè",
+  "vỉa hè - ở dưới - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên) - ở trên - vỉa hè",
+  "nền nhà - ở trên - tuyết",
+  "nước - ở trên - nền nhà",
+  "bụi bẩn - ở trên - vỉa hè",
+  "vỉa hè - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên)",
+  "sàn gỗ - ở trên - vỉa hè",
+  "vỉa hè - ở trên - sàn gỗ",
+  "sàn nhà - ở trên - tuyết",
+  "tuyết - ở trên - nước",
+  "bụi bẩn - ở trên - sàn nhà",
+  "sàn nhà - ở trên - sàn gỗ",
+  "bầu trời - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang chạy, sợ hãi) - ở trên - tuyết",
+  "tuyết - ở dưới - người2 (trưởng thành - không xác định, mặc đồ hồng, đang chạy, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang chạy, sợ hãi) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - người2 (trưởng thành - không xác định, mặc đồ hồng, đang chạy, sợ hãi)",
+  "tuyết - ở trên - bầu trời"
+]
+```
+
+frame_61:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên) - ở trên - tuyết",
+  "tuyết - ở dưới - người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên)",
+  "tuyết - ở trên - vỉa hè",
+  "vỉa hè - ở dưới - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên) - ở trên - vỉa hè",
+  "nền nhà - ở trên - tuyết",
+  "nước - ở trên - nền nhà",
+  "bụi bẩn - ở trên - vỉa hè",
+  "vỉa hè - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên)",
+  "sàn gỗ - ở trên - vỉa hè",
+  "vỉa hè - ở trên - sàn gỗ",
+  "sàn nhà - ở trên - tuyết",
+  "tuyết - ở trên - nước",
+  "bụi bẩn - ở trên - sàn nhà",
+  "sàn nhà - ở trên - sàn gỗ",
+  "bầu trời - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - tuyết",
+  "tuyết - ở dưới - người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi)",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi)",
+  "tuyết - ở trên - bầu trời",
+  "chim (màu nâu) - ở trên - tuyết",
+  "tuyết - ở dưới - chim (màu nâu)",
+  "cỏ - ở trên - vỉa hè"
+]
+```
+
+frame_62:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên)",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi)",
+  "cây (màu xanh lá cây) - ở trên - vỉa hè",
+  "cỏ - ở trên - cây (màu xanh lá cây)",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - ván trượt (màu xanh mint)",
+  "ván trượt (màu xanh mint) - ở dưới - người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi)"
+]
+```
+
+frame_63:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên)",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi)",
+  "cây (màu xanh lá cây) - ở trên - vỉa hè",
+  "cỏ - ở trên - cây (màu xanh lá cây)",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - vỉa hè",
+  "sàn nhà - ở trên - vỉa hè",
+  "vỉa hè - ở trên - cát",
+  "cát - ở trên - cỏ",
+  "chim (màu hồng) - ở trên - cỏ",
+  "nước - ở trên - vỉa hè",
+  "bụi bẩn - ở trên - vỉa hè"
+]
+```
+
+frame_64:
+```json
+[
+  "tường - ở trên - hàng rào",
+  "sàn nhà - ở trên - vỉa hè",
+  "vỉa hè - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - sàn nhà",
+  "sàn nhà - ở trên - người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên) - ở trên - sàn nhà",
+  "sàn nhà - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên)"
+]
+```
+
+frame_65:
+```json
+[
+  "tường - ở trên - vỉa hè",
+  "sàn nhà - ở trên - vỉa hè",
+  "vỉa hè - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - sàn nhà",
+  "sàn nhà - ở trên - người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên) - ở trên - sàn nhà",
+  "sàn nhà - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang chạy, ngạc nhiên)"
+]
+```
+
+frame_66:
+```json
+[
+  "trời - ở trên - đất",
+  "trời - ở trên - nước",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "cát - ở trên - cỏ",
+  "đất - ở trên - cát",
+  "nước - ở trên - cát"
+]
+```
+
+frame_67:
+```json
+[
+  "trời - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết"
+]
+```
+
+frame_68:
+```json
+[
+  "trời - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi)"
+]
+```
+
+frame_69:
+```json
+[
+  "trời - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi)",
+  "chó1 (xanh dương) - ở trên - tuyết",
+  "người3 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, không rõ) - ở trên - tuyết"
+]
+```
+
+frame_70:
+```json
+[
+  "trời - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi)",
+  "tuyết - là một phần của - bầu trời",
+  "chim1 (đỏ) - ở trên - tuyết",
+  "tuyết - ở trên - bầu trời"
+]
+```
+
+frame_71:
+```json
+[
+  "trời - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi)",
+  "tuyết - là một phần của - bầu trời",
+  "tuyết - ở trên - bầu trời",
+  "nước - ở trên - tuyết",
+  "cỏ - ở trên - cát",
+  "sàn nhà - ở trên - tuyết",
+  "vỉa hè - ở trên - tuyết"
+]
+```
+
+frame_72:
+```json
+[
+  "trời - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, sợ hãi)",
+  "tuyết - là một phần của - bầu trời",
+  "tuyết - ở trên - bầu trời",
+  "nước - ở trên - tuyết",
+  "cỏ - ở trên - cát",
+  "sàn nhà - ở trên - tuyết",
+  "vỉa hè - ở trên - tuyết",
+  "hàng rào - ở trên - vỉa hè",
+  "đất - ở trên - tuyết"
+]
+```
+
+frame_73:
+```json
+[
+  "cây - ở trên - vỉa hè",
+  "bầu trời - ở trên - vỉa hè",
+  "người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, lo lắng) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc đồ hồng, đang đứng, lo lắng)",
+  "tuyết - là một phần của - bầu trời",
+  "tuyết - ở trên - bầu trời",
+  "nước - ở trên - tuyết",
+  "cỏ - ở trên - vỉa hè",
+  "sàn nhà - ở trên - tuyết",
+  "vỉa hè - ở trên - tuyết",
+  "đất - ở trên - tuyết",
+  "tuyết - ở trên - vỉa hè"
+]
+```
+
+frame_74:
+```json
+[
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang ôm, ngạc nhiên)",
+  "bầu trời - ở trên - người2 (trưởng thành - không xác định, mặc đồ hồng, đang ôm, lo lắng)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang ôm, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc đồ hồng, đang ôm, lo lắng)"
+]
+```
+
+frame_75:
+```json
+[
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang chỉ, ngạc nhiên)",
+  "bầu trời - ở trên - người2 (trưởng thành - không xác định, mặc đồ hồng, đang chỉ, lo lắng)"
+]
+```
+
+frame_76:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "nước - ở trên - tuyết",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)"
+]
+```
+
+frame_77:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "nước - ở trên - tuyết",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - vỉa hè",
+  "cây - ở trên - vỉa hè"
+]
+```
+
+frame_78:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "nước - ở trên - tuyết",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "bầu trời - ở trên - tuyết"
+]
+```
+
+frame_79:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "nước - ở trên - tuyết",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "bầu trời - ở trên - tuyết",
+  "tuyết - chứa - bụi bẩn"
+]
+```
+
+frame_80:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "nước - ở trên - tuyết",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "bầu trời - ở trên - tuyết",
+  "tuyết - chứa - nước"
+]
+```
+
+frame_81:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "nước - ở trên - tuyết",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "bầu trời - ở trên - tuyết",
+  "tuyết - chứa - nước",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - chạm vào - người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - cát",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - cát",
+  "đường (màu xám) - ở trên - cát",
+  "tuyết - ở trên - cát",
+  "cát - ở dưới - bầu trời"
+]
+```
+
+frame_82:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "nước - ở trên - tuyết",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "bầu trời - ở trên - tuyết",
+  "tuyết - chứa - nước",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - chạm vào - người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - vỉa hè",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "đường (màu xám) - ở trên - vỉa hè",
+  "tuyết - ở trên - vỉa hè",
+  "cây (màu xanh lá cây) - ở trên - vỉa hè",
+  "sàn (màu tím) - ở trên - vỉa hè",
+  "vỉa hè - ở dưới - cây (màu xanh lá cây)",
+  "robot - ở trên - sàn (màu tím)"
+]
+```
+
+frame_83:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "nước - ở trên - tuyết",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "bầu trời - ở trên - tuyết",
+  "tuyết - chứa - nước",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - chạm vào - người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - vỉa hè",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "đường (màu xám) - ở trên - vỉa hè",
+  "tuyết - ở trên - vỉa hè",
+  "cây (màu xanh lá cây) - ở trên - vỉa hè",
+  "sàn (màu tím) - ở trên - vỉa hè",
+  "vỉa hè - ở dưới - cây (màu xanh lá cây)",
+  "robot - ở trên - sàn (màu tím)",
+  "người3 (trưởng thành - nam, đội mũ bảo hiểm, đang trượt tuyết, phấn khích) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết",
+  "tuyết - ở trên - cây (màu xanh lá cây)"
+]
+```
+
+frame_84:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "nước - ở trên - tuyết",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "bầu trời - ở trên - tuyết",
+  "tuyết - chứa - nước",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - chạm vào - người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - vỉa hè",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "đường (màu xám) - ở trên - vỉa hè",
+  "tuyết - ở trên - vỉa hè",
+  "cây (màu xanh lá cây) - ở trên - vỉa hè",
+  "sàn (màu tím) - ở trên - vỉa hè",
+  "vỉa hè - ở dưới - cây (màu xanh lá cây)",
+  "robot - ở trên - sàn (màu tím)",
+  "người3 (trưởng thành - nam, đội mũ bảo hiểm, đang trượt tuyết, phấn khích) - ở trên - tuyết",
+  "cây (màu xanh lá cây) - ở trên - tuyết",
+  "tuyết - ở trên - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè",
+  "tuyết - ở trên - vỉa hè"
+]
+```
+
+frame_85:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "nước - ở trên - tuyết",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "bầu trời - ở trên - tuyết",
+  "tuyết - chứa - nước",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - chạm vào - người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - sân chơi",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "hàng rào (màu xám) - ở trên - sân chơi",
+  "tuyết - ở trên - sân chơi",
+  "cây (màu xanh lá cây) - ở trên - hàng rào",
+  "sàn (màu tím) - ở trên - hàng rào",
+  "sân chơi - ở dưới - cây (màu xanh lá cây)",
+  "robot - ở trên - sàn (màu tím)",
+  "cây (màu xanh lá cây) - ở trên - tuyết",
+  "tuyết - ở trên - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - sân chơi",
+  "tuyết - ở trên - sân chơi"
+]
+```
+
+frame_86:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang ném, ngạc nhiên) - ở trên - tuyết",
+  "nước - ở trên - tuyết",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang ném, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang ném, ngạc nhiên) - ở trên - tuyết",
+  "bầu trời - ở trên - tuyết",
+  "tuyết - chứa - nước",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang ném, ngạc nhiên) - chạm vào - người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang ném, ngạc nhiên) - ở trên - sân chơi",
+  "người2 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "hàng rào (màu xám) - ở trên - sân chơi",
+  "tuyết - ở trên - sân chơi",
+  "cây (màu xanh lá cây) - ở trên - hàng rào",
+  "sàn (màu tím) - ở trên - hàng rào",
+  "sân chơi - ở dưới - cây (màu xanh lá cây)",
+  "robot - ở trên - sàn (màu tím)",
+  "cây (màu xanh lá cây) - ở trên - tuyết",
+  "tuyết - ở trên - cây (màu xanh lá cây)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang ném, ngạc nhiên) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang ném, ngạc nhiên) - ở trên - sân chơi",
+  "tuyết - ở trên - sân chơi",
+  "vỉa hè - ở trên - sân chơi"
+]
+```
+
+frame_87:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang ném, ngạc nhiên) - ở trên - tuyết",
+  "nước - ở trên - tuyết",
+  "bầu trời - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang ném, ngạc nhiên)",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang ném, ngạc nhiên) - ở trên - tuyết",
+  "bầu trời - ở trên - tuyết",
+  "tuyết - chứa - nước",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang ném, ngạc nhiên) - ở trên - sân chơi",
+  "tuyết - ở trên - sân chơi",
+  "vỉa hè - ở trên - sân chơi",
+  "quả bóng thể thao (màu xanh lam) - ở gần - người1 (trưởng thành - không xác định, mặc áo đỏ, đang ném, ngạc nhiên)",
+  "tuyết - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang ném, ngạc nhiên)"
+]
+```
+
+frame_88:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - đường",
+  "hàng rào - ở trên - vỉa hè",
+  "đất - ở trên - cỏ",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - đất",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - hàng rào"
+]
+```
+
+frame_89:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "vỉa hè - ở trên - tuyết",
+  "cây - ở trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè"
+]
+```
+
+frame_90:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "vỉa hè - ở trên - tuyết",
+  "cây - ở trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè",
+  "nước - ở dưới - vỉa hè",
+  "tòa nhà - ở trên - vỉa hè",
+  "bầu trời - ở trên - tòa nhà"
+]
+```
+
+frame_91:
+```json
+[
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "vỉa hè - ở trên - tuyết",
+  "cây - ở trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè",
+  "nước - ở dưới - vỉa hè",
+  "tòa nhà - ở trên - vỉa hè",
+  "bầu trời - ở trên - tòa nhà"
+]
+```
+
+frame_92:
+```json
+[
+  "tường - ở trên - vỉa hè",
+  "bầu trời - ở trên - tường",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè",
+  "sàn nhà - ở trên - cát",
+  "vỉa hè - ở trên - tuyết"
+]
+```
+
+frame_93:
+```json
+[
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - t\u01b0\u1eddng",
+  "t\u01b0\u1eddng - \u1edf tr\u00ean - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - s\u00e2n ch\u01a1i",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - tuy\u1ebft",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - tuy\u1ebft",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - s\u00e2n ch\u01a1i",
+  "v\u1ec9a h\u00e8 - \u1edf tr\u00ean - tuy\u1ebft",
+  "s\u00e0n nh\u00e0 - \u1edf tr\u00ean - s\u00e2n ch\u01a1i",
+  "s\u00e0n nh\u00e0 - \u1edf tr\u00ean - c\u00e1t"
+]
+```
+
+frame_94:
+```json
+[
+  "bầu trời - ở trên - tường",
+  "tường - ở trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - sân chơi",
+  "vỉa hè - ở trên - tuyết",
+  "sàn nhà - ở trên - sân chơi"
+]
+```
+
+frame_95:
+```json
+[
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - n\u01b0\u1edbc",
+  "m\u1eb7t bi\u1ec3n - \u1edf tr\u00ean - n\u01b0\u1edbc",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111\u1ee9ng, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - c\u00e1t",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111\u1ee9ng, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - tuy\u1ebft",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - c\u00e1t",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang \u0111\u1ee9ng, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - tuy\u1ebft",
+  "c\u00e1t - \u1edf tr\u00ean - tuy\u1ebft"
+]
+```
+
+frame_96:
+```json
+[
+  "bầu trời - ở trên - nước",
+  "mặt biển - ở trên - nước",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - cát",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đứng, ngạc nhiên) - ở trên - cát",
+  "cát - ở trên - mặt đường",
+  "sân chơi - ở trên - mặt đường",
+  "tường - ở trên - sàn nhà",
+  "hàng rào - ở trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đứng, ngạc nhiên) - ở trên - sàn nhà"
+]
+```
+
+frame_97:
+```json
+[
+  "bầu trời - ở trên - nước",
+  "mặt biển - ở trên - nước",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - mặt đường",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đứng, ngạc nhiên) - ở trên - mặt đường",
+  "cát - ở trên - mặt đường",
+  "sân chơi - ở trên - mặt đường",
+  "tường - ở trên - sàn nhà",
+  "hàng rào - ở trên - sân chơi",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đứng, ngạc nhiên) - ở trên - sàn nhà",
+  "mặt đường - là một phần của - sân chơi",
+  "sàn nhà - là một phần của - tường",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang vươn tay, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "nền - ở trên - tuyết",
+  "nước - ở trên - tuyết",
+  "sàn nhà - ở trên - tuyết"
+]
+```
+
+frame_98:
+```json
+[
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - t\u01b0\u1eddng",
+  "n\u01b0\u1edbc - \u1edf tr\u00ean - t\u01b0\u1eddng",
+  "n\u1ec1n - \u1edf tr\u00ean - s\u00e0n nh\u00e0",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111\u1ee9ng, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang v\u01b0\u01a1n tay, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - v\u1ec9a h\u00e8",
+  "v\u1ec9a h\u00e8 - \u1edf tr\u00ean - s\u00e0n nh\u00e0",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111\u1ee9ng, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - s\u00e0n nh\u00e0",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang v\u01b0\u01a1n tay, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - s\u00e0n nh\u00e0",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang v\u01b0\u01a1n tay, ng\u1ea1c nhi\u00ean) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111\u1ee9ng, ng\u1ea1c nhi\u00ean)"
+]
+```
+
+frame_99:
+```json
+[
+  "bầu trời - ở trên - tường",
+  "nước - ở trên - tường",
+  "nền - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên)",
+  "sân chơi - ở trên - tuyết",
+  "tuyết - ở trên - sàn nhà",
+  "tường - ở trên - vỉa hè"
+]
+```
+
+frame_100:
+```json
+[
+  "bầu trời - ở trên - vỉa hè",
+  "cây (màu xanh lá) - ở trên - vỉa hè",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - vỉa hè",
+  "vỉa hè - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - đứng cạnh - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên)",
+  "tuyết - ở trên - sàn nhà",
+  "sàn nhà - ở trên - tuyết"
+]
+```
+
+frame_101:
+```json
+[
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - v\u1ec9a h\u00e8",
+  "c\u00e2y (m\u00e0u xanh l\u00e1) - \u1edf tr\u00ean - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - v\u1ec9a h\u00e8",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - v\u1ec9a h\u00e8",
+  "v\u1ec9a h\u00e8 - \u1edf tr\u00ean - s\u00e0n nh\u00e0",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - s\u00e0n nh\u00e0",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - s\u00e0n nh\u00e0",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o cam, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - \u0111\u1ee9ng c\u1ea1nh - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o \u0111\u1ecf, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean)",
+  "tuy\u1ebft - \u1edf tr\u00ean - s\u00e0n nh\u00e0",
+  "s\u00e0n nh\u00e0 - \u1edf tr\u00ean - tuy\u1ebft",
+  "t\u01b0\u1eddng - \u1edf tr\u00ean - v\u1ec9a h\u00e8"
+]
+```
+
+frame_102:
+```json
+[
+  "tường - ở trên - sàn nhà",
+  "cỏ - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà",
+  "sàn nhà - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên)",
+  "sàn nhà - ở trên - người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên)"
+]
+```
+
+frame_103:
+```json
+[
+  "tường - ở trên - sàn nhà",
+  "cỏ - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà",
+  "người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà",
+  "sàn nhà - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên)",
+  "sàn nhà - ở trên - người2 (trưởng thành - không xác định, mặc áo cam, đang đi bộ, ngạc nhiên)",
+  "tuyết - ở trên - sàn nhà",
+  "sân chơi - ở trên - vỉa hè"
+]
+```
+
+frame_104:
+```json
+[
+  "trời - ở trên - tuyết",
+  "tuyết - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên)",
+  "tuyết - ở trên - cây",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang trượt tuyết, ngạc nhiên) - ở trên - tuyết"
+]
+```
+
+frame_105:
+```json
+[
+  "trời - ở trên - tuyết",
+  "tuyết - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên)",
+  "nước - ở trên - tuyết"
+]
+```
+
+frame_106:
+```json
+[
+  "trời - ở trên - tuyết",
+  "tuyết - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên)",
+  "nước - ở trên - tuyết",
+  "tuyết - là một phần của - trời"
+]
+```
+
+frame_107:
+```json
+[
+  "trời - ở trên - tuyết",
+  "tuyết - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên)",
+  "sàn - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên)",
+  "mặt đường - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên)",
+  "tuyết - là một phần của - trời"
+]
+```
+
+frame_108:
+```json
+[
+  "trời - ở trên - tuyết",
+  "tuyết - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên)",
+  "sàn - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên)",
+  "mặt đường - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đi bộ, ngạc nhiên)",
+  "tuyết - là một phần của - trời",
+  "cỏ - ở trên - trời"
+]
+```
+
+frame_109:
+```json
+[
+  "trời - ở trên - tuyết",
+  "tuyết - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "sàn - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "mặt đường - ở trên - người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên)",
+  "tuyết - là một phần của - trời",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên) - ở trên - tuyết",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên) - ở trên - mặt đường",
+  "người1 (trưởng thành - không xác định, mặc áo đỏ, đang đứng, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên)"
+]
+```
+
+frame_110:
+```json
+[
+  "trời - ở trên - tuyết",
+  "tuyết - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên)",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên)",
+  "tuyết - là một phần của - trời",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên) - ở trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên) - ở trên - mặt đường",
+  "trời - ở trên - nước",
+  "tuyết - ở trên - mặt đường",
+  "bụi bẩn - là một phần của - trời",
+  "nước - là một phần của - trời",
+  "mặt đường - là một phần của - trời"
+]
+```
+
+frame_111:
+```json
+[
+  "trời - ở trên - tuyết",
+  "tuyết - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên)",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên)",
+  "tuyết - là một phần của - trời",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên) - ở trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên) - ở trên - mặt đường",
+  "trời - ở trên - nước",
+  "tuyết - ở trên - mặt đường",
+  "bụi bẩn - là một phần của - trời",
+  "nước - là một phần của - trời",
+  "mặt đường - là một phần của - trời",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang cúi người, buồn bã) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang cúi người, buồn bã) - ở trên - mặt đường"
+]
+```
+
+frame_112:
+```json
+[
+  "trời - ở trên - tuyết",
+  "tuyết - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên)",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên)",
+  "tuyết - là một phần của - trời",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên) - ở trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên) - ở trên - mặt đường",
+  "trời - ở trên - nước",
+  "tuyết - ở trên - mặt đường",
+  "bụi bẩn - là một phần của - trời",
+  "nước - là một phần của - trời",
+  "mặt đường - là một phần của - trời",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đứng thẳng, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đứng thẳng, ngạc nhiên) - ở trên - mặt đường",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đứng thẳng, ngạc nhiên)",
+  "tuyết - ở trên - người1 (trưởng thành - không xác định, mặc áo nâu, đang đứng thẳng, ngạc nhiên)"
+]
+```
+
+frame_113:
+```json
+[
+  "tường - ở trên - tuyết",
+  "tuyết - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên)",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên)",
+  "tuyết - là một phần của - tường",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên) - ở trên - nước",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên) - ở trên - mặt đường",
+  "tường - ở trên - nước",
+  "tuyết - ở trên - mặt đường",
+  "bụi bẩn - là một phần của - tường",
+  "nước - là một phần của - tường",
+  "mặt đường - là một phần của - tường",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang trượt ván, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang trượt ván, ngạc nhiên) - ở trên - mặt đường",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đứng, ngạc nhiên) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang trượt ván, ngạc nhiên)",
+  "tuyết - ở trên - người1 (trưởng thành - không xác định, mặc áo nâu, đang trượt ván, ngạc nhiên)",
+  "ván trượt - ở trên - mặt đường",
+  "ván trượt - ở trên - tuyết"
+]
+```
+
+frame_114:
+```json
+[
+  "tường - ở trên - mặt đường",
+  "mặt đường - là một phần của - tường",
+  "sàn - là một phần của - tường",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang nhảy, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang trượt ván, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang nhảy, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang nhảy, ngạc nhiên)"
+]
+```
+
+frame_115:
+```json
+[
+  "tường - ở trên - mặt đường",
+  "mặt đường - là một phần của - tường",
+  "sàn - là một phần của - tường",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "tv (màu vàng) - ở trên - mặt đường",
+  "xe hơi (màu tím) - ở trên - mặt đường",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên) - gần - xe hơi (màu tím)"
+]
+```
+
+frame_116:
+```json
+[
+  "b\u1ea7u tr\u1eddi - \u1edf tr\u00ean - m\u1eb7t \u0111\u01b0\u1eddng",
+  "m\u1eb7t \u0111\u01b0\u1eddng - l\u00e0 m\u1ed9t ph\u1ea7n c\u1ee7a - b\u1ea7u tr\u1eddi",
+  "s\u00e0n - l\u00e0 m\u1ed9t ph\u1ea7n c\u1ee7a - b\u1ea7u tr\u1eddi",
+  "ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang gi\u01a1 tay, ng\u1ea1c nhi\u00ean) - \u1edf tr\u00ean - s\u00e0n",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o n\u00e2u, \u0111ang \u0111i b\u1ed9, ng\u1ea1c nhi\u00ean) - g\u1ea7n - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang gi\u01a1 tay, ng\u1ea1c nhi\u00ean)",
+  "m\u1eb7t \u0111\u01b0\u1eddng - \u1edf tr\u00ean - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang gi\u01a1 tay, ng\u1ea1c nhi\u00ean)",
+  "gh\u1ebf (m\u00e0u n\u00e2u) - \u1edf tr\u00ean - m\u1eb7t \u0111\u01b0\u1eddng",
+  "gh\u1ebf d\u1ef1a (m\u00e0u h\u1ed3ng) - \u1edf tr\u00ean - ng\u01b0\u1eddi2 (tr\u01b0\u1edfng th\u00e0nh - kh\u00f4ng x\u00e1c \u0111\u1ecbnh, m\u1eb7c \u00e1o h\u1ed3ng, \u0111ang gi\u01a1 tay, ng\u1ea1c nhi\u00ean)"
+]
+```
+
+frame_117:
+```json
+[
+  "tường - ở trên - sân chơi",
+  "sân chơi - ở dưới - tường",
+  "sân chơi - là một phần của - sàn",
+  "sàn - là một phần của - sân chơi",
+  "bầu trời - ở trên - sân chơi",
+  "sân chơi - là một phần của - bầu trời",
+  "sàn - ở trên - mặt đường",
+  "mặt đường - ở dưới - sàn",
+  "sàn - là một phần của - mặt đường",
+  "mặt đường - là một phần của - sàn",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang giơ tay, ngạc nhiên)",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang giơ tay, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang giơ tay, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang chạy, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang giơ tay, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang chạy, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "người4 (trưởng thành - không xác định, mặc áo hồng, đang chạy, vui vẻ) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang chạy, vui vẻ)",
+  "người4 (trưởng thành - không xác định, mặc áo hồng, đang chạy, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang giơ tay, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang giơ tay, ngạc nhiên)",
+  "nền - ở trên - mặt đường"
+]
+```
+
+frame_118:
+```json
+[
+  "tường - ở trên - sân chơi",
+  "sân chơi - ở dưới - tường",
+  "sân chơi - là một phần của - sàn",
+  "sàn - là một phần của - sân chơi",
+  "bầu trời - ở trên - sân chơi",
+  "sân chơi - là một phần của - bầu trời",
+  "sàn - ở trên - mặt đường",
+  "mặt đường - ở dưới - sàn",
+  "sàn - là một phần của - mặt đường",
+  "mặt đường - là một phần của - sàn",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "người4 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)",
+  "người4 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "nền - ở trên - mặt đường"
+]
+```
+
+frame_119:
+```json
+[
+  "tường - ở trên - sân chơi",
+  "sân chơi - ở dưới - tường",
+  "sân chơi - là một phần của - sàn",
+  "sàn - là một phần của - sân chơi",
+  "bầu trời - ở trên - sân chơi",
+  "sân chơi - là một phần của - bầu trời",
+  "sàn - ở trên - mặt đường",
+  "mặt đường - ở dưới - sàn",
+  "sàn - là một phần của - mặt đường",
+  "mặt đường - là một phần của - sàn",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "người4 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)",
+  "người4 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "nền - ở trên - mặt đường",
+  "tường - ở trên - bức tường",
+  "bức tường - ở trên - nền",
+  "nền - là một phần của - bức tường",
+  "bức tường - là một phần của - nền",
+  "bục - ở trên - nước",
+  "nước - ở dưới - bục"
+]
+```
+
+frame_120:
+```json
+[
+  "tường - ở trên - sân chơi",
+  "sân chơi - ở dưới - tường",
+  "sân chơi - là một phần của - sàn",
+  "sàn - là một phần của - sân chơi",
+  "bầu trời - ở trên - sân chơi",
+  "sân chơi - là một phần của - bầu trời",
+  "sàn - ở trên - mặt đường",
+  "mặt đường - ở dưới - sàn",
+  "sàn - là một phần của - mặt đường",
+  "mặt đường - là một phần của - sàn",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "người4 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)",
+  "người4 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "nền - ở trên - mặt đường",
+  "tường - ở trên - bức tường",
+  "bức tường - ở trên - nền",
+  "nền - là một phần của - bức tường",
+  "bức tường - là một phần của - nền",
+  "bức - ở trên - nước",
+  "nước - ở dưới - bức",
+  "mặt đường - là một phần của - tuyết (trắng)",
+  "tuyết (trắng) - là một phần của - mặt đường",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - ở trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)"
+]
+```
+
+frame_121:
+```json
+[
+  "tường - ở trên - sân chơi",
+  "sân chơi - ở dưới - tường",
+  "sân chơi - là một phần của - sàn",
+  "sàn - là một phần của - sân chơi",
+  "bầu trời - ở trên - sân chơi",
+  "sân chơi - là một phần của - bầu trời",
+  "sàn - ở trên - mặt đường",
+  "mặt đường - ở dưới - sàn",
+  "sàn - là một phần của - mặt đường",
+  "mặt đường - là một phần của - sàn",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "nền - ở trên - mặt đường",
+  "tường - ở trên - bức tường",
+  "bức tường - ở trên - nền",
+  "nền - là một phần của - bức tường",
+  "bức tường - là một phần của - nền",
+  "bức - ở trên - nước",
+  "nước - ở dưới - bức",
+  "mặt đường - là một phần của - tuyết (trắng)",
+  "tuyết (trắng) - là một phần của - mặt đường",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - ở trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - đứng trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)"
+]
+```
+
+frame_122:
+```json
+[
+  "tường - ở trên - sân chơi",
+  "sân chơi - ở dưới - tường",
+  "sân chơi - là một phần của - sàn",
+  "sàn - là một phần của - sân chơi",
+  "bầu trời - ở trên - sân chơi",
+  "sân chơi - là một phần của - bầu trời",
+  "sàn - ở trên - mặt đường",
+  "mặt đường - ở dưới - sàn",
+  "sàn - là một phần của - mặt đường",
+  "mặt đường - là một phần của - sàn",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "nền - ở trên - mặt đường",
+  "tường - ở trên - bức tường",
+  "bức tường - ở trên - nền",
+  "nền - là một phần của - bức tường",
+  "bức tường - là một phần của - nền",
+  "bức - ở trên - nước",
+  "nước - ở dưới - bức",
+  "mặt đường - là một phần của - tuyết (trắng)",
+  "tuyết (trắng) - là một phần của - mặt đường",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - ở trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - đứng trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)"
+]
+```
+
+frame_123:
+```json
+[
+  "tường - ở trên - sân chơi",
+  "sân chơi - ở dưới - tường",
+  "sân chơi - là một phần của - sàn",
+  "sàn - là một phần của - sân chơi",
+  "bầu trời - ở trên - sân chơi",
+  "sân chơi - là một phần của - bầu trời",
+  "sàn - ở trên - mặt đường",
+  "mặt đường - ở dưới - sàn",
+  "sàn - là một phần của - mặt đường",
+  "mặt đường - là một phần của - sàn",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "nền - ở trên - mặt đường",
+  "tường - ở trên - bức tường",
+  "bức tường - ở trên - nền",
+  "nền - là một phần của - bức tường",
+  "bức tường - là một phần của - nền",
+  "bức - ở trên - nước",
+  "nước - ở dưới - bức",
+  "mặt đường - là một phần của - tuyết (trắng)",
+  "tuyết (trắng) - là một phần của - mặt đường",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - ở trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - đứng trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)"
+]
+```
+
+frame_124:
+```json
+[
+  "tường - ở trên - sân chơi",
+  "sân chơi - ở dưới - tường",
+  "sân chơi - là một phần của - sàn",
+  "sàn - là một phần của - sân chơi",
+  "bầu trời - ở trên - sân chơi",
+  "sân chơi - là một phần của - bầu trời",
+  "sàn - ở trên - mặt đường",
+  "mặt đường - ở dưới - sàn",
+  "sàn - là một phần của - mặt đường",
+  "mặt đường - là một phần của - sàn",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "nền - ở trên - mặt đường",
+  "tường - ở trên - bức tường",
+  "bức tường - ở trên - nền",
+  "nền - là một phần của - bức tường",
+  "bức tường - là một phần của - nền",
+  "bức - ở trên - nước",
+  "nước - ở dưới - bức",
+  "mặt đường - là một phần của - tuyết (trắng)",
+  "tuyết (trắng) - là một phần của - mặt đường",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - ở trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - đứng trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "mặt đường - là một phần của - vỉa hè",
+  "sàn - là một phần của - vỉa hè"
+]
+```
+
+frame_125:
+```json
+[
+  "tường - ở trên - sân chơi",
+  "sân chơi - ở dưới - tường",
+  "sân chơi - là một phần của - sàn",
+  "sàn - là một phần của - sân chơi",
+  "bầu trời - ở trên - sân chơi",
+  "sân chơi - là một phần của - bầu trời",
+  "sàn - ở trên - mặt đường",
+  "mặt đường - ở dưới - sàn",
+  "sàn - là một phần của - mặt đường",
+  "mặt đường - là một phần của - sàn",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "nền - ở trên - mặt đường",
+  "tường - ở trên - bức tường",
+  "bức tường - ở trên - nền",
+  "nền - là một phần của - bức tường",
+  "bức tường - là một phần của - nền",
+  "bức - ở trên - nước",
+  "nước - ở dưới - bức",
+  "mặt đường - là một phần của - tuyết (trắng)",
+  "tuyết (trắng) - là một phần của - mặt đường",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - ở trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - đứng trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "mặt đường - là một phần của - vỉa hè",
+  "sàn - là một phần của - vỉa hè"
+]
+```
+
+frame_126:
+```json
+[
+  "tường - ở trên - sân chơi",
+  "sân chơi - ở dưới - tường",
+  "sân chơi - là một phần của - sàn",
+  "sàn - là một phần của - sân chơi",
+  "bầu trời - ở trên - sân chơi",
+  "sân chơi - là một phần của - bầu trời",
+  "sàn - ở trên - mặt đường",
+  "mặt đường - ở dưới - sàn",
+  "sàn - là một phần của - mặt đường",
+  "mặt đường - là một phần của - sàn",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "nền - ở trên - mặt đường",
+  "tường - ở trên - bức tường",
+  "bức tường - ở trên - nền",
+  "nền - là một phần của - bức tường",
+  "bức tường - là một phần của - nền",
+  "bức - ở trên - nước",
+  "nước - ở dưới - bức",
+  "mặt đường - là một phần của - tuyết (trắng)",
+  "tuyết (trắng) - là một phần của - mặt đường",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - ở trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - đứng trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "mặt đường - là một phần của - vỉa hè",
+  "sàn - là một phần của - vỉa hè",
+  "mèo (màu tím) - ở trên - sàn",
+  "sàn - ở dưới - mèo (màu tím)",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - đứng trên - mèo (màu tím)",
+  "mèo (màu tím) - ở dưới - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - đứng trên - mèo (màu tím)",
+  "mèo (màu tím) - ở dưới - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)"
+]
+```
+
+frame_127:
+```json
+[
+  "tường - ở trên - sân chơi",
+  "sân chơi - ở dưới - tường",
+  "sân chơi - là một phần của - sàn",
+  "sàn - là một phần của - sân chơi",
+  "bầu trời - ở trên - sân chơi",
+  "sân chơi - là một phần của - bầu trời",
+  "sàn - ở trên - mặt đường",
+  "mặt đường - ở dưới - sàn",
+  "sàn - là một phần của - mặt đường",
+  "mặt đường - là một phần của - sàn",
+  "sàn - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở trên - sàn",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "nền - ở trên - mặt đường",
+  "tường - ở trên - bức tường",
+  "bức tường - ở trên - nền",
+  "nền - là một phần của - bức tường",
+  "bức tường - là một phần của - nền",
+  "bức - ở trên - nước",
+  "nước - ở dưới - bức",
+  "mặt đường - là một phần của - tuyết (trắng)",
+  "tuyết (trắng) - là một phần của - mặt đường",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - ở trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - đứng trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "mặt đường - là một phần của - vỉa hè",
+  "sàn - là một phần của - vỉa hè",
+  "mèo (màu tím) - ở trên - sàn",
+  "sàn - ở dưới - mèo (màu tím)",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - đứng trên - mèo (màu tím)",
+  "mèo (màu tím) - ở dưới - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - đứng trên - mèo (màu tím)",
+  "mèo (màu tím) - ở dưới - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)"
+]
+```
+
+frame_128:
+```json
+[
+  "tường - ở trên - sàn",
+  "sàn - ở dưới - tường",
+  "sàn - là một phần của - sàn nhà",
+  "sàn nhà - là một phần của - sàn",
+  "bầu trời - ở trên - sàn",
+  "sàn - là một phần của - bầu trời",
+  "sàn nhà - ở trên - mặt đường",
+  "mặt đường - ở dưới - sàn nhà",
+  "sàn nhà - là một phần của - mặt đường",
+  "mặt đường - là một phần của - sàn nhà",
+  "sàn nhà - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên) - ở trên - sàn nhà",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "mặt đường - ở trên - người2 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, ngạc nhiên)",
+  "nền - ở trên - mặt đường",
+  "tường - ở trên - bức tường",
+  "bức tường - ở trên - nền",
+  "nền - là một phần của - bức tường",
+  "bức tường - là một phần của - nền",
+  "bức - ở trên - nước",
+  "nước - ở dưới - bức",
+  "mặt đường - là một phần của - tuyết (trắng)",
+  "tuyết (trắng) - là một phần của - mặt đường",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - ở trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - đứng trên - tuyết (trắng)",
+  "tuyết (trắng) - ở dưới - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "mặt đường - là một phần của - vỉa hè",
+  "sàn nhà - là một phần của - vỉa hè",
+  "mèo (màu tím) - ở trên - sàn",
+  "sàn - ở dưới - mèo (màu tím)",
+  "người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên) - đứng trên - mèo (màu tím)",
+  "mèo (màu tím) - ở dưới - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ) - đứng trên - mèo (màu tím)",
+  "mèo (màu tím) - ở dưới - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)",
+  "tường - ở trên - chăn",
+  "chăn - ở dưới - tường",
+  "sàn nhà - ở trên - chăn",
+  "chăn - ở dưới - sàn nhà",
+  "người4 (trưởng thành - không xác định, mặc áo cam, đang đứng, ngạc nhiên) - gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "người4 (trưởng thành - không xác định, mặc áo cam, đang đứng, ngạc nhiên) - gần - người3 (trưởng thành - không xác định, mặc áo hồng, đang đi bộ, vui vẻ)",
+  "tuyết (trắng) - ở trên - sàn"
+]
+```
+
+frame_129:
+```json
+[
+  "tường - ở trên - sàn",
+  "sàn - ở dưới - tường",
+  "sàn - là một phần của - sàn nhà",
+  "sàn nhà - là một phần của - sàn",
+  "bầu trời - ở trên - sàn",
+  "sàn - là một phần của - bầu trời",
+  "sàn nhà - ở trên - mặt đường",
+  "mặt đường - ở dưới - sàn nhà",
+  "sàn nhà - là một phần của - mặt đường",
+  "mặt đường - là một phần của - sàn nhà",
+  "tường - ở trên - bức tường",
+  "bức tường - ở trên - nền",
+  "nền - là một phần của - bức tường",
+  "bức tường - là một phần của - nền",
+  "bức - ở trên - nước",
+  "nước - ở dưới - bức",
+  "mặt đường - là một phần của - tuyết (trắng)",
+  "tuyết (trắng) - là một phần của - mặt đường",
+  "mặt đường - là một phần của - vỉa hè",
+  "sàn nhà - là một phần của - vỉa hè",
+  "mèo (màu tím) - ở trên - sàn",
+  "sàn - ở dưới - mèo (màu tím)",
+  "tường - ở trên - chăn",
+  "chăn - ở dưới - tường",
+  "sàn nhà - ở trên - chăn",
+  "chăn - ở dưới - sàn nhà",
+  "tuyết (trắng) - ở trên - sàn",
+  "giường - ở trên - sàn",
+  "sàn - ở dưới - giường",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang nằm trên giường, ngạc nhiên) - nằm trên - giường",
+  "giường - ở dưới - người2 (trưởng thành - không xác định, mặc áo hồng, đang nằm trên giường, ngạc nhiên)",
+  "tường - ở trên - giường",
+  "giường - ở dưới - tường",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang nằm trên giường, ngạc nhiên) - ở gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)"
+]
+```
+
+frame_130:
+```json
+[
+  "tường - ở trên - sàn",
+  "sàn - ở dưới - tường",
+  "sàn - là một phần của - sàn nhà",
+  "sàn nhà - là một phần của - sàn",
+  "bầu trời - ở trên - sàn",
+  "sàn - là một phần của - bầu trời",
+  "sàn nhà - ở trên - mặt đường",
+  "mặt đường - ở dưới - sàn nhà",
+  "sàn nhà - là một phần của - mặt đường",
+  "mặt đường - là một phần của - sàn nhà",
+  "tường - ở trên - bức tường",
+  "bức tường - ở trên - nền",
+  "nền - là một phần của - bức tường",
+  "bức tường - là một phần của - nền",
+  "bức - ở trên - nước",
+  "nước - ở dưới - bức",
+  "mặt đường - là một phần của - tuyết (trắng)",
+  "tuyết (trắng) - là một phần của - mặt đường",
+  "mặt đường - là một phần của - vỉa hè",
+  "sàn nhà - là một phần của - vỉa hè",
+  "mèo (màu tím) - ở trên - sàn",
+  "sàn - ở dưới - mèo (màu tím)",
+  "tường - ở trên - chăn",
+  "chăn - ở dưới - tường",
+  "sàn nhà - ở trên - chăn",
+  "chăn - ở dưới - sàn nhà",
+  "tuyết (trắng) - ở trên - sàn",
+  "giường - ở trên - sàn",
+  "sàn - ở dưới - giường",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang nằm trên giường, ngạc nhiên) - nằm trên - giường",
+  "giường - ở dưới - người2 (trưởng thành - không xác định, mặc áo hồng, đang nằm trên giường, ngạc nhiên)",
+  "tường - ở trên - giường",
+  "giường - ở dưới - tường",
+  "người2 (trưởng thành - không xác định, mặc áo hồng, đang nằm trên giường, ngạc nhiên) - ở gần - người1 (trưởng thành - không xác định, mặc áo nâu, đang đi bộ, ngạc nhiên)",
+  "mèo (màu tím) - ở trên - tường"
+]
+```
+
+frame_131:
+```json
+[
+  "tivi - trên - mèo (màu tím)",
+  "mèo (màu tím) - ở trên - sàn"
+]
+```
+
+frame_132:
+```json
+[
+  "cây - ở trên - trời",
+  "sàn - ở trên - tuyết",
+  "tuyết - một phần của - trời"
+]
+```
+
+frame_133:
+```json
+[
+  "người1 (không rõ - không rõ, không rõ, không rõ, không rõ) - trên - tuyết",
+  "bầu trời - ở trên - hàng rào",
+  "bầu trời - ở trên - bánh rán",
+  "tuyết - một phần của - hàng rào"
+]
+```
+
+frame_134:
+```json
+[
+  "người2 (không rõ - không rõ, không rõ, không rõ, không rõ) - trên - tuyết",
+  "bầu trời - ở trên - hàng rào",
+  "bầu trời - ở trên - bánh rán",
+  "tuyết - một phần của - hàng rào",
+  "người1 (không rõ - không rõ, không rõ, không rõ, không rõ) - trên - cỏ",
+  "tuyết - xung quanh - người1"
+]
+```
+
+frame_135:
+```json
+[
+  "người1 (không rõ - không rõ, không rõ, không rõ, không rõ) - ở trên - tuyết",
+  "bầu trời - ở trên - người1",
+  "bầu trời - ở trên - người2",
+  "người2 (không rõ - không rõ, không rõ, không rõ, không rõ) - ở trên - tuyết"
+]
+```
+
+frame_136:
+```json
+[
+  "chim1 (hồng) - ở trên - bầu trời",
+  "người1 (không rõ - không rõ, không rõ, không rõ, không rõ) - ở trên - bầu trời",
+  "bầu trời - ở trên - người1",
+  "bầu trời - ở trên - chim1"
+]
+```
+
+frame_137:
+```json
+[
+  "bầu trời - ở trên - người1",
+  "tuyết - ở trên - người1",
+  "người1 (không rõ - không rõ, không rõ, không rõ, không rõ) - ở trên - bầu trời",
+  "người1 (không rõ - không rõ, không rõ, không rõ, không rõ) - ở trên - tuyết"
+]
+```
+

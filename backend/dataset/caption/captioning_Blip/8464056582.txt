@@ -1,0 +1,67 @@
+frame_0000.jpg: a dog is playing with a boy in the kitchen
+frame_0001.jpg: a dog is playing with a toy in the kitchen
+frame_0002.jpg: a small child is playing with a donkey
+frame_0003.jpg: a dog is playing with a child in the kitchen
+frame_0004.jpg: a dog is standing on the floor and looking at a person
+frame_0005.jpg: a dog is standing on the floor with a person
+frame_0006.jpg: a small child is playing with a horse
+frame_0007.jpg: a dog is playing with a child in the kitchen
+frame_0008.jpg: a small dog is playing with a small dog
+frame_0009.jpg: a small child playing with a dog in a living room
+frame_0010.jpg: a small dog is playing with a small dog
+frame_0011.jpg: a dog is playing with a child in the living room
+frame_0012.jpg: a dog is playing with a child in the living room
+frame_0013.jpg: a dog is standing on the floor next to a baby
+frame_0014.jpg: a dog is playing with a baby in the living room
+frame_0015.jpg: a dog and a baby are playing in the living room
+frame_0016.jpg: a dog is standing on the floor with a toy
+frame_0017.jpg: a dog is standing on the floor with a toy
+frame_0018.jpg: a dog is playing with a child in the living room
+frame_0019.jpg: a dog is standing next to a child
+frame_0020.jpg: a dog is standing next to a baby
+frame_0021.jpg: a small child sitting on the floor next to a dog
+frame_0022.jpg: a small child sitting on the floor
+frame_0023.jpg: a small child sitting on the floor
+frame_0024.jpg: a small brown dog
+frame_0025.jpg: a dog and a cat playing with a toy
+frame_0026.jpg: a dog is playing with a boy in the kitchen
+frame_0027.jpg: a dog is playing with a child in the kitchen
+frame_0028.jpg: a dog is playing with a child in the kitchen
+frame_0029.jpg: a dog playing with a toy in a room
+frame_0030.jpg: a dog is playing with a toy in the living room
+frame_0031.jpg: a dog is playing with a toy in the living room
+frame_0032.jpg: a small dog playing with a small child
+frame_0033.jpg: a boy playing with a dog in a room
+frame_0034.jpg: a small dog is playing with a small child
+frame_0035.jpg: a small child playing with a dog in a living room
+frame_0036.jpg: a small child playing with a toy horse
+frame_0037.jpg: a small child sitting on the floor playing with toys
+frame_0038.jpg: a small child sitting on the floor playing with a toy
+frame_0039.jpg: a small child sitting on the floor
+frame_0040.jpg: a small child sitting on the floor in a room
+frame_0041.jpg: a small child is playing with a toy
+frame_0042.jpg: a small child in a blue shirt playing with a toy
+frame_0043.jpg: a small child playing with a toy on the floor
+frame_0044.jpg: a baby is playing with a toy in the kitchen
+frame_0045.jpg: a small child playing with a toy
+frame_0046.jpg: a small child playing with a toy on the floor
+frame_0047.jpg: a small child playing with a toy on the floor
+frame_0048.jpg: a small child playing with a toy on the floor
+frame_0049.jpg: a baby playing with a toy in a room
+frame_0050.jpg: a small child playing with a toy in a kitchen
+frame_0051.jpg: a small child playing with a toy on the floor
+frame_0052.jpg: a small child playing with a toy in a room
+frame_0053.jpg: a baby playing with a toy in a kitchen
+frame_0054.jpg: a baby playing with a toy in a room
+frame_0055.jpg: a baby playing with a toy in a room
+frame_0056.jpg: a baby playing with a toy in a room
+frame_0057.jpg: a baby playing with a toy in a room
+frame_0058.jpg: a baby boy playing with a toy in a room
+frame_0059.jpg: a small child playing with a toy in a room
+frame_0060.jpg: a small child playing with a toy horse
+frame_0061.jpg: a small child playing with a dog in a kitchen
+frame_0062.jpg: a small child playing with a dog in a room
+frame_0063.jpg: a dog is playing with a toy in the kitchen
+frame_0064.jpg: a small dog playing with a small boy
+frame_0065.jpg: a dog playing with a toy in a kitchen
+frame_0066.jpg: a dog playing with a toy in a room

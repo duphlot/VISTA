@@ -1,0 +1,106 @@
+Processed video 10597533885: TP=1, ES =1, EM = 0, Reason=Scene graph có thông tin em bé và đồ chơi, có hành động đang chơi. Thiếu thông tin "chơi_với".
+Processed video 11681746823: TP=1, ES =1, EM = 0, Reason='em bé - chơi với - người phụ nữ': Scene graph có thông tin người1 cạnh người2 (em bé). Có các frame người 1 tương tác với em bé.
+Processed video 11871253306: TP=1, ES =1, EM = 0, Reason=Scene graph có người lớn và trẻ em, có quả bóng. Tuy không có hành động "chuyền" nhưng bối cảnh cho phép suy luận hành động này có thể xảy ra. "Người đàn ông" và "đứa trẻ" không xuất hiện trực tiếp nên EM = 0.
+Processed video 2405940242: TP=0, ES =0, EM = 0, Reason=Không tìm thấy "nón" trong scene graph.
+Processed video 2435100235: TP=0, ES =0, EM = 0, Reason=Không có thông tin về "người đàn ông đạp xe", "đồng hồ đeo tay", "cố gắng bán", "cho xem", "bán cho", "người đàn ông đi xe xích lô".
+Processed video 2435633172: TP=1, ES =1, EM = 1, Reason=Scene graph có "Người1 (trẻ - không rõ giới tính, mặc áo đỏ, đi bộ, vui vẻ) - ở trên - Tường" và có bò/cừu, chó nên có thể suy ra quan hệ "người - xem - động_vật".
+Processed video 2503404966: TP=1, ES =1, EM = 0, Reason=Scene graph có đối tượng 'người' với trạng thái 'vui vẻ'. Tuy không trực tiếp nhắc đến 'cậu bé', nhưng có thể suy luận từ 'người trẻ' và cảm xúc 'vui vẻ'. Tuy nhiên, scene graph không có thông tin 'cậu bé', vì vậy EM = 0.
+Processed video 2614918961: TP=1, ES =1, EM = 0, Reason=Người1 (trẻ, mặc áo đỏ) ngồi trên bàn ăn và đang chơi (động tác ngồi có thể suy ra, trẻ con thường chơi)
+Processed video 2735019707: TP=1, ES =1, EM = 0, Reason=Scene graph có người đàn ông mặc áo đỏ (người 2) và cậu bé (người 1), và có nhiều quan hệ giữa họ, cho thấy có tương tác. EM=0 vì có sự khác biệt về chi tiết mô tả và cách thể hiện quan hệ.
+Processed video 2793260225: TP=1, ES =1, EM = 1, Reason=Người3 đội mũ, người3 là đàn ông
+Processed video 2793806282: TP=1, ES =1, EM = 0, Reason=Có frame người2 (ngồi, mặc áo đỏ) - ở trên - sàn, có thể suy ra người phụ nữ mặc đồ xanh.
+Processed video 2821968703: TP=1, ES =1, EM = 1, Reason=Trong các frame, người trượt ván có thể nghiêng về phía sau để giữ thăng bằng tốt hơn, hành động này phù hợp với bối cảnh.
+Processed video 2830899473: TP=1, ES =1, EM = 1, Reason=Từ frame 10 trở đi, có thông tin về người2 (trẻ, mặc áo cam, đang ôm) - ôm - người3 (trẻ, mặc áo trắng, đang đi bộ) cho thấy hai người thể hiện tình cảm với nhau.
+Processed video 2834146886: TP=1, ES =0, EM = 0, Reason=Có chó1 và chó2, nên có thể suy ra hành động ngửi giữa 2 chó. Tuy nhiên, không có thông tin về màu sắc chó trắng và chó đen.
+Processed video 2976913210: TP=1, ES =1, EM = 1, Reason=Scene graph thể hiện người di chuyển trên xe máy trong bùn đất (bụi bẩn).
+Processed video 2984974097: TP=1, ES =1, EM = 1, Reason=Người lái xe đạp.
+Processed video 3066064005: TP=1, ES =0, EM = 0, Reason=Scene graph có 'người4 (trưởng thành - nữ, mặc áo hồng, đang chỉ tay, vui vẻ) - ở phía trước - thức ăn', 'dụng cụ ăn' không được đề cập.
+Processed video 3121571439: TP=1, ES =1, EM = 0, Reason=Scene graph có người đàn ông mặc đồ đen và mô tả trạng thái "vui vẻ" của anh ta.
+Processed video 3151715056: TP=1, ES =1, EM = 0, Reason=Scene graph có thông tin về người phụ nữ, cô gái, và hành động "cúi xuống và chạm vào" có thể suy luận từ các frame liên tiếp. Tuy nhiên, không match hoàn toàn về tên đối tượng.
+Processed video 3158022797: TP=0, ES =0, EM = 0, Reason=Không có thông tin về 'đồng_bộ' và 'động tác'.
+Processed video 3171006258: TP=0, ES =0, EM = 0, Reason=Scene graph không đề cập đến việc cải thiện thăng bằng.
+Processed video 3206694342: TP=0, ES =0, EM = 0, Reason=Không có thông tin nào trong scene graph cho thấy vị trí là sân khấu.
+Processed video 3429509208: TP=0, ES =0, EM = 0, Reason=Scene graph không có thông tin về việc em bé giơ tay hoặc lấy máy ảnh.
+Processed video 3441428429: TP=0, ES =0, EM = 0, Reason=Scene graph không thể hiện hành động trượt băng hay đặt xuống, thiếu thông tin quan trọng.
+Processed video 3462517143: TP=0, ES =0, EM = 0, Reason=Không có thông tin về "vòi nước" và hành động "đi_quanh" trong scene graph.
+Processed video 3477387686: TP=1, ES =1, EM = 0, Reason=Scene graph có người (trẻ - nữ) và mô tả trạng thái vui vẻ, phù hợp với "cười_với" máy quay. EM=0 vì không có đối tượng "máy quay".
+Processed video 3524939594: TP=1, ES =1, EM = 0, Reason=Scene graph có nhiều người, có thể suy ra có hai người đàn ông, và bối cảnh có thể khiến họ cảm thấy hồi hộp. EM=0 vì scene graph mô tả nhiều người hơn.
+Processed video 3550839192: TP=0, ES =0, EM = 0, Reason=Không có quan hệ "giữ" giữa em bé và bàn xe nôi trong scene graph, cũng không có "bàn xe nôi".
+Processed video 3557498300: TP=1, ES =1, EM = 0, Reason=Ground truth nói về cậu bé mặc đồ xanh chạy, trong scene graph có người mặc áo xanh di chuyển, có các hành động như đi bộ, bò, nhảy, chạy có thể suy ra từ các hành động đó.
+Processed video 3562017845: TP=1, ES =1, EM = 1, Reason=Scene graph có thông tin chim ở trên đất.
+Processed video 3711681535: TP=0, ES =0, EM = 0, Reason=Không có tay cầm
+Processed video 3821781616: TP=1, ES =1, EM = 0, Reason=Scene graph có 'người1 (trẻ, mặc áo phông đen, đang uống) - phía trước - tường (màu vàng)' và tường màu vàng gợi ý phòng khách.
+Processed video 3851961428: TP=0, ES =0, EM = 0, Reason=Không có thông tin về việc người đàn ông tháo kính bảo hộ.
+Processed video 3943634344: TP=0, ES =0, EM = 0, Reason=Không có thông tin "khen ngợi" (cảm xúc) trong scene graph.
+Processed video 3963997053: TP=0, ES =0, EM = 0, Reason=Không có thông tin về "buổi biểu diễn" trong scene graph.
+Processed video 4010069381: TP=0, ES =0, EM = 0, Reason=Không thể suy luận hành động "quay" và đối tượng "tay cầm" từ scene graph.
+Processed video 4094488636: TP=1, ES =1, EM = 1, Reason=Chó nâu có thể nhìn xung quanh.
+Processed video 4138579400: TP=0, ES =0, EM = 0, Reason=Không có thông tin về hành động "chạm vào" hay đối tượng "tóc" trong scene graph.
+Processed video 4217422838: TP=0, ES =0, EM = 0, Reason=Không tìm thấy thông tin về việc người phụ nữ đặt hộp sang một bên.
+Processed video 4260763967: TP=0, ES =0, EM = 0, Reason=Không có thông tin về việc cậu bé lắp ráp đồ chơi trong scene graph, chỉ có thông tin đang chơi, cầm đồ chơi, nghịch đồ.
+Processed video 4263096481: TP=1, ES =1, EM = 0, Reason=Scene graph có 'người1 (trưởng thành, mặc áo đỏ, đang giữ) - giữ - cá (màu bạc)' thể hiện việc người giữ cá và có thể suy luận ra hành động cắt. EM=0 vì thiếu "đầu cá".
+Processed video 4273039295: TP=0, ES =0, EM = 0, Reason=scene graph không có thông tin về mũ len xanh lá.
+Processed video 4279106208: TP=1, ES =1, EM = 0, Reason=Người lớn đang giúp đỡ trẻ em trượt thể hiện sự đảm bảo an toàn.
+Processed video 4584426085: TP=0, ES =0, EM = 0, Reason=Không có quan hệ "mặc quần áo cho" trong scene graph, và scene graph không đủ thông tin để suy luận quan hệ này.
+Processed video 4815534482: TP=1, ES =0, EM = 0, Reason=Có người trẻ (cậu bé) trong scene graph, có hành động lái xe (chơi đùa) nhưng không rõ hành động chơi đùa cụ thể.
+Processed video 4822859674: TP=1, ES =1, EM = 0, Reason=Scene graph có thông tin về em bé, sàn nhà và khả năng trèo.
+Processed video 4882821564: TP=1, ES =0, EM = 0, Reason=Scene graph có trẻ con, có quà, có ghế sofa. Thiếu hành động "lấy" và di chuyển rõ ràng, nhưng bối cảnh cho thấy khả năng này. Không match hết object
+Processed video 4942054721: TP=1, ES =1, EM = 0, Reason=Scene graph có thông tin về "cừu" (có thể suy ra là dê) và môi trường xung quanh, cho thấy có người có thể nhìn thấy chúng. EM = 0 vì ground truth đề cập đến "người", nhưng scene graph không đề cập trực tiếp đến "người".
+Processed video 4978714491: TP=1, ES =1, EM = 0, Reason=Đèn giao thông được xác định vị trí trên tòa nhà, và có sự thay đổi giữa các frame.
+Processed video 4984331176: TP=1, ES =1, EM = 1, Reason=Người muốn vượt qua nhanh có thể suy ra từ người đang chạy.
+Processed video 5026660202: TP=1, ES =0, EM = 0, Reason=Scene graph không có thông tin về sân khấu, chỉ có sàn. Không có EM vì thiếu thông tin về sân khấu.
+Processed video 5116088152: TP=0, ES =0, EM = 0, Reason=Scene graph không có thông tin về em bé và hành động "cầm chặt".
+Processed video 5256928210: TP=1, ES =1, EM = 0, Reason=Người trong scene graph vuốt ve chó. Không exact match vì scene graph có thông tin chi tiết hơn về người (trưởng thành, mặc áo hồng, đang ngồi) và chó (màu xanh), cũng như giới tính của người.
+Processed video 5296635780: TP=1, ES =0, EM = 0, Reason=Scene graph có người đàn ông và người phụ nữ, có hành động cười. Có thể suy luận ra hành động nghiêng người về phía trước sau khi đấm. Tuy nhiên thiếu hành động "đấm".
+Processed video 5328004991: TP=1, ES =1, EM = 1, Reason=Có trẻ em và dụng cụ khuấy (que) được đề cập trong scene graph, trẻ em đang cầm que.
+Processed video 5333075105: TP=0, ES =0, EM = 1, Reason=Không có thông tin về cảm xúc "mỉm cười" hay việc "hoàn thành leo núi".
+Processed video 5445581571: TP=0, ES =0, EM = 0, Reason=Scene graph không chứa thông tin chó trắng đứng dậy sau khi nhìn lên.
+Processed video 5561024834: TP=1, ES =1, EM = 0, Reason=Scene graph có thông tin về người (trẻ em) và phòng ngủ (giường, tường,...).
+Processed video 5635265624: TP=1, ES =1, EM = 0, Reason=Trong scene graph, người lớn mặc áo đỏ bế em bé mặc áo hồng, có thể suy ra hành động vỗ đầu. Các đối tượng trong ground truth đều có mặt trong scene graph nhưng tên gọi khác nhau.
+Processed video 5679866364: TP=0, ES =0, EM = 0, Reason=Scene graph không đề cập đến "nói chuyện" và không có đủ thông tin để suy ra hành động "nói chuyện" giữa các đối tượng. EM=0 vì không có ông lão, bà lão.
+Processed video 5735711594: TP=0, ES =0, EM = 0, Reason=Không thể suy ra quan hệ nhảy giữa chó trắng và chó nâu từ scene graph, và màu sắc cũng không khớp.
+Processed video 5833145209: TP=0, ES =0, EM = 0, Reason=Không thể suy ra hành động "uống" từ scene graph, không thể xác định chim có uống nước không.
+Processed video 5840177726: TP=1, ES =1, EM = 1, Reason=Scene graph có thông tin người lái xe đạp.
+Processed video 5902452647: TP=1, ES =1, EM = 0, Reason=Scene graph có "người1 (trẻ, mặc áo xám, đang ném) - giữ - bóng (màu xanh lam)" và "người2 (trẻ, mặc áo hồng, đang đứng) - đứng cạnh - người1 (trẻ, mặc áo xám, đang ném)", suy luận được em bé cầm quả bóng và em bé tiến tới cô bé. EM=0 vì scene graph mô tả chi tiết hơn về đối tượng (ví dụ màu sắc quần áo).
+Processed video 5987365500: TP=1, ES =1, EM = 0, Reason=Người đang hát, cầm micro, có thể suy ra là đang cố gắng hát.
+Processed video 6018490041: TP=0, ES =0, EM = 0, Reason=Không có thông tin "đập lon" trong scene graph, và mô tả người không khớp.
+Processed video 6136926089: TP=1, ES =1, EM = 1, Reason=Trong scene graph có thông tin về em bé và cầu trượt, và có thể suy luận ra em bé di chuyển về phía cầu trượt.
+Processed video 6160414832: TP=1, ES =1, EM = 0, Reason=Scene graph có thông tin về người chơi, bàn và các quân cờ.
+Processed video 6201488511: TP=1, ES =1, EM = 0, Reason=Người phụ nữ có hành động che nắng được mô tả trong frame 48, 49, có thể suy ra từ scene graph. Tuy nhiên, không có thông tin chính xác về việc "tránh nắng" nên EM=0.
+Processed video 6265968082: TP=0, ES =0, EM = 0, Reason=Không có thông tin về kính râm.
+Processed video 6329077812: TP=0, ES =0, EM = 0, Reason=Scene graph không đề cập đến hành động "lấy" khăn ăn, chỉ có sơ sinh cầm khăn.
+Processed video 6356067859: TP=1, ES =1, EM = 0, Reason=Có người trẻ, nữ cho ngựa ăn.
+Processed video 6582763207: TP=1, ES =1, EM = 0, Reason=Scene graph chứa thông tin 'người1 (trưởng thành - nữ, mặc áo phông đen, đang chơi guitar, bình thường) - chơi - guitar"' thể hiện người phụ nữ chơi nhạc cụ guitar. EM=0 do có thêm nhiều đối tượng khác trong scene graph không có trong ground truth.
+Processed video 6624174621: TP=1, ES =1, EM = 1, Reason=Scene graph chứa thông tin "người2 (trưởng thành - nữ, mặc áo đen, đang nói chuyện, bình thường) - bên cạnh - người1 (trẻ - nữ, mặc áo xám, đang nói chuyện, vui vẻ)", tương đương với cô gái ngồi cạnh người phụ nữ.
+Processed video 6793786769: TP=0, ES =0, EM = 0, Reason=Không có thông tin về người mặc đồ đen, cậu bé, tàu hỏa trong scene graph.
+Processed video 6895608152: TP=0, ES =0, EM = 0, Reason=Không có thông tin xác định đây là ba lê.
+Processed video 7001078933: TP=1, ES =1, EM = 1, Reason=Scene graph có đề cập đến video quay tại sân chơi, có thể suy luận sân chơi = cánh đồng
+Processed video 7149153537: TP=1, ES =1, EM = 1, Reason="người1 ở trong nước" tương đương "em bé ở trong nước".
+Processed video 7164729910: TP=1, ES =1, EM = 1, Reason=Scene graph có thông tin về người điều khiển xe đồ chơi.
+Processed video 7308042410: TP=1, ES =1, EM = 1, Reason=Người nữ đang nặn gốm.
+Processed video 7416295940: TP=0, ES =0, EM = 0, Reason=Scene graph không có 'chó' và hành động 'lùi_lại'.
+Processed video 7499763064: TP=0, ES =0, EM = 0, Reason=Không có "dây nịt" trong scene graph.
+Processed video 7508439506: TP=1, ES =1, EM = 1, Reason=Người3 (trưởng thành) bế người2 (trẻ) tương ứng cậu_bé bế em_bé. Có phòng trong scene graph.
+Processed video 7533369046: TP=1, ES =1, EM = 0, Reason='video - quay_tại - nhà' suy ra từ sàn gỗ, tường gỗ; 'em bé - kéo - hộp trắng' suy ra từ Người1 với các hành động ở các frame và sự xuất hiện của các đồ vật xung quanh. Tuy nhiên, đối tượng không khớp hoàn toàn.
+Processed video 7786283208: TP=0, ES =0, EM = 0, Reason=Scene graph không có thông tin về vị trí hoặc hành động "lên".
+Processed video 8064178441: TP=0, ES =0, EM = 0, Reason=Không có thông tin về ném đồ chơi trong scene graph.
+Processed video 8107573462: TP=1, ES =1, EM = 0, Reason=Scene graph mô tả có tuyết, cây, phù hợp với cánh đồng tuyết. Địa điểm có thể suy ra từ bối cảnh. Tuyết ở đây có thể suy ra là cánh đồng tuyết. EM = 0 vì không có entity "địa_điểm_này".
+Processed video 8132842161: TP=0, ES =0, EM = 0, Reason=Không có thông tin về hành động nói của người đàn ông áo trắng.
+Processed video 8464056582: TP=0, ES =0, EM = 0, Reason=Không có hành động "ngửi" trong scene graph, không có thông tin "đầu em bé" và không tìm thấy được sự liên quan giữa chó và đầu em bé.
+Processed video 8547321641: TP=1, ES =1, EM = 0, Reason=Scene graph chứa thông tin về sự hiện diện của người (có thể là em bé) trong video.
+Processed video 8557532213: TP=1, ES =1, EM = 1, Reason=Có thể suy luận ra từ scene graph: cậu bé mặc áo vàng tương ứng với người1 (trẻ - nam, mặc áo sơ mi vàng, đang đứng, trung lập), đợi bắt bóng tương ứng với ngữ cảnh đá bóng, và cậu bé mặc áo xanh tương ứng với người2 (trẻ - nữ, mặc áo xanh, đang đẩy xe, vui vẻ), đá bóng.
+Processed video 8740703217: TP=1, ES =1, EM = 0, Reason=Scene graph mô tả người1 đang ăn, có bàn ăn và các đối tượng khác liên quan, cho thấy có thể có thức ăn. Tuy không có đối tượng "thức ăn" rõ ràng, nhưng có thể suy ra từ hành động "ăn" và bối cảnh. Tuy nhiên, EM = 0 vì không có đối tượng "em bé" và "thức ăn" trong scene graph.
+Processed video 8783897632: TP=0, ES =0, EM = 1, Reason=Không có thông tin về dốc.
+Processed video 9082180631: TP=0, ES =0, EM = 0, Reason=Không có người phụ nữ mặc quần xanh và quan hệ "giám sát" không thể suy luận từ scene graph.
+Processed video 9088819598: TP=1, ES =1, EM = 1, Reason='Scene graph thể hiện em bé liếm bóng và di chuyển cơ thể (nằm, giữ bóng).'
+Processed video 9213637099: TP=1, ES =1, EM = 1, Reason=Scene graph cho thấy nhiều người đang đứng cạnh nhau ở nhiều frame, có thể suy ra họ tham gia hoạt động. Số lượng người có thể đếm được.
+Processed video 9293415110: TP=1, ES =0, EM = 0, Reason=Có người đang ngồi, và người chơi guitar. Tuy nhiên không rõ số lượng "mọi người phía sau" và "cô gái".
+Processed video 9473479950: TP=1, ES =1, EM = 1, Reason=Người phụ nữ cầm bát được thể hiện qua các frame 10, 11, 12, 13, 14.
+Processed video 9565310990: TP=1, ES =1, EM = 1, Reason='scene graph có em bé (người1) và chăn (vải) gần nhau, có thể suy ra em bé chạm vào vải'
+Processed video 9873067604: TP=1, ES =1, EM = 1, Reason=Scene graph có thông tin 'người3 (trẻ - nam, mặc áo trắng, đang nói chuyện, bình thường) - ngồi trên - giường (màu tím)"' frame 5, có thể suy ra cậu bé nói chuyện.
+No ground truth for video Bob Dylan - Subterranean Homesick Blues (Official Video) - YouTube, skipping...
+No ground truth for video Late for work - One shot short film - YouTube, skipping...
+No ground truth for video ONE SHOT 2 PHÚT TỐN ĐẾN 1 TỶ ĐỒNG CỦA TRẤN THÀNH - YouTube, skipping...
+No ground truth for video One Shot 4 phút màn -đấu khẩu- kịch tính của cha con Bố Già - YouTube, skipping...
+No ground truth for video suitcase - one shot, short film - YouTube, skipping...
+Saved evaluation results to /content/drive/MyDrive/soICT/scene_graph_eval_results_llm_simple.csv

@@ -1,0 +1,695 @@
+frame_0:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo vàng, đang trượt tuyết, không rõ cảm xúc) - trên - ván trượt tuyết1 (màu trắng)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo vàng, đang trượt tuyết, không rõ cảm xúc) - ở - tuyết",
+  "bầu trời - ở trên - người1 (trẻ - chưa rõ giới tính, mặc áo vàng, đang trượt tuyết, không rõ cảm xúc)",
+  "núi - ở bên - người1 (trẻ - chưa rõ giới tính, mặc áo vàng, đang trượt tuyết, không rõ cảm xúc)",
+  "đá - ở bên - người1 (trẻ - chưa rõ giới tính, mặc áo vàng, đang trượt tuyết, không rõ cảm xúc)",
+  "cây - ở bên - người1 (trẻ - chưa rõ giới tính, mặc áo vàng, đang trượt tuyết, không rõ cảm xúc)"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo vàng, đang đứng, không rõ cảm xúc) - ở gần - tường (màu tím)",
+  "tường (màu tím) - ở gần - núi",
+  "núi - ở gần - đá",
+  "đá - ở gần - cây",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo vàng, đang đứng, không rõ cảm xúc) - ở gần - cây"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo vàng, đang đứng, không rõ cảm xúc) - ở gần - tường (màu tím)",
+  "tường (màu tím) - ở gần - núi",
+  "núi - ở gần - đá",
+  "đá - ở gần - cây",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo vàng, đang đứng, không rõ cảm xúc) - ở gần - cây",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo vàng, đang đứng, không rõ cảm xúc) - ở trên - tuyết",
+  "tường (màu tím) - ở trên - tuyết"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo vàng, đang đứng, không rõ cảm xúc) - ở trên - tuyết",
+  "đá - ở gần - tuyết",
+  "núi - ở gần - tuyết"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đứng, không rõ cảm xúc) - ở trên - tuyết",
+  "đá - ở gần - tuyết",
+  "núi - ở gần - tuyết"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "đá - ở gần - tuyết",
+  "núi - ở gần - tuyết"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "đá - ở gần - tuyết",
+  "núi - ở gần - tuyết"
+]
+```
+
+frame_7:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "đá - ở gần - tuyết"
+]
+```
+
+frame_8:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "cây - ở trên - tuyết",
+  "bầu trời - ở trên - tuyết"
+]
+```
+
+frame_9:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "bầu trời - ở trên - tuyết",
+  "tường - ở trên - núi",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết"
+]
+```
+
+frame_10:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "bầu trời - ở trên - tuyết",
+  "tường - ở trên - núi",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết"
+]
+```
+
+frame_11:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "bầu trời - ở trên - tuyết",
+  "tường - ở trên - núi",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết"
+]
+```
+
+frame_12:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "bầu trời - ở trên - tuyết",
+  "tường - ở trên - núi",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết"
+]
+```
+
+frame_13:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "cây - ở gần - tuyết"
+]
+```
+
+frame_14:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "cây - ở gần - tuyết",
+  "tường - ở gần - tuyết"
+]
+```
+
+frame_15:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết"
+]
+```
+
+frame_16:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "ván trượt - ở gần - người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang trượt tuyết, không rõ cảm xúc)"
+]
+```
+
+frame_17:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "ván trượt - ở gần - người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang trượt tuyết, không rõ cảm xúc)"
+]
+```
+
+frame_18:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết"
+]
+```
+
+frame_19:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "cây - ở gần - tuyết"
+]
+```
+
+frame_20:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "cây - ở gần - tuyết"
+]
+```
+
+frame_21:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "cây - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đứng, không rõ cảm xúc) - ở trên - tuyết"
+]
+```
+
+frame_22:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "cây - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết"
+]
+```
+
+frame_23:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "cây - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết"
+]
+```
+
+frame_24:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "cây - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết"
+]
+```
+
+frame_25:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "cây - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết"
+]
+```
+
+frame_26:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "cây - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết"
+]
+```
+
+frame_27:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "cây - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết"
+]
+```
+
+frame_28:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết"
+]
+```
+
+frame_29:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - cây"
+]
+```
+
+frame_30:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - cây"
+]
+```
+
+frame_31:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - cây"
+]
+```
+
+frame_32:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - cây"
+]
+```
+
+frame_33:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đi bộ, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - cây"
+]
+```
+
+frame_34:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang bò, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang bò, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - cây"
+]
+```
+
+frame_35:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang bò, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang bò, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - cây"
+]
+```
+
+frame_36:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đứng, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang đứng, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - cây"
+]
+```
+
+frame_37:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang bò, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang bò, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - cây",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang bò, không rõ cảm xúc) - ở trên - ván trượt tuyết1 (màu tím)"
+]
+```
+
+frame_38:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - cây"
+]
+```
+
+frame_39:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - đá"
+]
+```
+
+frame_40:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - đá"
+]
+```
+
+frame_41:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - đá"
+]
+```
+
+frame_42:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - đá"
+]
+```
+
+frame_43:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - đá",
+  "cây - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở gần - tuyết"
+]
+```
+
+frame_44:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - đá",
+  "cây - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở gần - tuyết",
+  "ván trượt - ở trên - tuyết"
+]
+```
+
+frame_45:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - đá",
+  "cây - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở gần - tuyết",
+  "ván trượt - ở trên - tuyết"
+]
+```
+
+frame_46:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - đá",
+  "cây - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở gần - tuyết"
+]
+```
+
+frame_47:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - đá",
+  "cây - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - cầm - băng"
+]
+```
+
+frame_48:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - đá",
+  "cây - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở gần - băng",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - đá"
+]
+```
+
+frame_49:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - đá",
+  "cây - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở gần - băng",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - đá"
+]
+```
+
+frame_50:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - đá",
+  "cây - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở gần - băng",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo đỏ, đang leo núi, không rõ cảm xúc) - ở trên - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở gần - ván trượt tuyết (xanh dương)",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở trên - núi"
+]
+```
+
+frame_51:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - đá",
+  "cây - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở gần - băng",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở trên - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở trên - núi",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở trên - tuyết"
+]
+```
+
+frame_52:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "núi - ở gần - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "tường - ở gần - tuyết",
+  "tường - ở gần - đá",
+  "cây - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở gần - băng",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở trên - đá",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở gần - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở trên - núi",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang leo núi, không rõ cảm xúc) - ở trên - tuyết"
+]
+```
+
+frame_53:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang trượt tuyết, không rõ cảm xúc) - ở trên - ván trượt tuyết (màu tím)",
+  "tuyết - ở gần - đá",
+  "cây - ở trên - tuyết"
+]
+```
+
+frame_54:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang trượt tuyết, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang trượt tuyết, không rõ cảm xúc) - ở trên - ván trượt tuyết (màu tím)",
+  "tuyết - ở gần - tường",
+  "ván trượt tuyết (màu tím) - ở trên - tuyết"
+]
+```
+
+frame_55:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - gần - núi",
+  "tuyết - ở gần - tường",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - ở gần - tường",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - ở gần - đá"
+]
+```
+
+frame_56:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - gần - núi",
+  "tuyết - ở gần - tường",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - ở gần - tường",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - ở gần - đá"
+]
+```
+
+frame_57:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - gần - núi",
+  "tuyết - ở gần - tường",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - ở gần - tường",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - ở gần - đá",
+  "bầu trời - ở trên - tuyết"
+]
+```
+
+frame_58:
+```json
+[
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - ở trên - tuyết",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - gần - núi",
+  "tuyết - ở gần - tường",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - ở gần - tường",
+  "người1 (trẻ - chưa rõ giới tính, mặc áo cam, đang đứng, không rõ cảm xúc) - ở gần - đá",
+  "bầu trời - ở trên - tuyết"
+]
+```
+

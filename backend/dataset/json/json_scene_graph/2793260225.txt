@@ -1,0 +1,409 @@
+frame_0:
+```json
+[
+  "người1 (trưởng thành, không mặc áo, đang bơi) - ở trong - biển",
+  "người2 (trưởng thành, đội mũ, đang bơi) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang bơi) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang bơi) - ở trong - biển",
+  "núi - ở trên - biển",
+  "ô1 (màu vàng) - ở trên - bãi biển",
+  "ô2 (màu vàng) - ở trên - bãi biển",
+  "đá - ở trên - biển"
+]
+```
+
+frame_1:
+```json
+[
+  "người1 (trưởng thành, không mặc áo, đang bơi) - ở trong - biển",
+  "người2 (trưởng thành, đội mũ, đang bơi) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang bơi) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang bơi) - ở trong - biển",
+  "núi - ở trên - biển",
+  "ô1 (màu vàng) - ở trên - bãi biển",
+  "ô2 (màu vàng) - ở trên - bãi biển",
+  "đá - ở trên - biển"
+]
+```
+
+frame_2:
+```json
+[
+  "người1 (trưởng thành, không mặc áo, đang cúi người) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang cúi người) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang cúi người) - ở trong - biển",
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển"
+]
+```
+
+frame_3:
+```json
+[
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang cãi người) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang cãi người) - ở trong - biển",
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trên - người3 (trưởng thành, đội mũ, đang cãi người)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - đỡ - người4 (trưởng thành, mặc bikini, đang cãi người)"
+]
+```
+
+frame_4:
+```json
+[
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang cãi người) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang cãi người) - ở trong - biển",
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trên - người3 (trưởng thành, đội mũ, đang cãi người)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - đỡ - người4 (trưởng thành, mặc bikini, đang cãi người)",
+  "ô (màu xanh) - ở trong - biển"
+]
+```
+
+frame_5:
+```json
+[
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang cãi người) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang cãi người) - ở trong - biển",
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trên - người3 (trưởng thành, đội mũ, đang cãi người)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - đỡ - người4 (trưởng thành, mặc bikini, đang cãi người)",
+  "ô (màu xanh) - ở trong - biển"
+]
+```
+
+frame_6:
+```json
+[
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang trèo) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang ngồi) - ở trong - biển",
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trên - người3 (trưởng thành, đội mũ, đang ngồi)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - đỡ - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "ô (màu xanh) - ở trong - biển",
+  "trời - ở trên - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "cây - ở trên - người1 (trưởng thành, không mặc áo, đang đỡ)"
+]
+```
+
+frame_7:
+```json
+[
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang trèo) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang ngồi) - ở trong - biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trên - người3 (trưởng thành, đội mũ, đang ngồi)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - đỡ - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "trời - ở trên - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "cây - ở trên - người1 (trưởng thành, không mặc áo, đang đỡ)",
+  "bò1 (màu trắng) - ở trong - biển"
+]
+```
+
+frame_8:
+```json
+[
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang trèo) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang ngồi) - ở trong - biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trên - người3 (trưởng thành, đội mũ, đang ngồi)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - đỡ - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "trời - ở trên - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "cây - ở trên - người1 (trưởng thành, không mặc áo, đang đỡ)",
+  "biển - ở gần - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "người1 (trưởng thành, không mặc áo, đang ôm) - chạm vào - người3 (trưởng thành, đội mũ, đang ngồi)"
+]
+```
+
+frame_9:
+```json
+[
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang trèo) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang ngồi) - ở trong - biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trên - người3 (trưởng thành, đội mũ, đang ngồi)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - đỡ - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "trời - ở trên - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "cây - ở trên - người1 (trưởng thành, không mặc áo, đang đỡ)",
+  "biển - ở gần - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "người1 (trưởng thành, không mặc áo, đang ôm) - chạm vào - người3 (trưởng thành, đội mũ, đang ngồi)"
+]
+```
+
+frame_10:
+```json
+[
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang trèo) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang ngồi) - ở trong - biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trên - người3 (trưởng thành, đội mũ, đang ngồi)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - đỡ - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "trời - ở trên - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "núi - ở trên - người1 (trưởng thành, không mặc áo, đang đỡ)",
+  "biển - ở gần - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "người1 (trưởng thành, không mặc áo, đang ôm) - chạm vào - người3 (trưởng thành, đội mũ, đang ngồi)"
+]
+```
+
+frame_11:
+```json
+[
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang trèo) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang ngồi) - ở trong - biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trên - người3 (trưởng thành, đội mũ, đang ngồi)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - đỡ - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "trời - ở trên - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "núi - ở trên - người1 (trưởng thành, không mặc áo, đang đỡ)",
+  "biển - ở gần - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "người1 (trưởng thành, không mặc áo, đang ôm) - chạm vào - người3 (trưởng thành, đội mũ, đang ngồi)"
+]
+```
+
+frame_12:
+```json
+[
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang trèo) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang ngồi) - ở trong - biển",
+  "người1 (trưởng thành, không mặc áo, đang ôm) - ở trên - người3 (trưởng thành, đội mũ, đang ngồi)",
+  "người1 (trưởng thành, không mặc áo, đang ôm) - đỡ - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "trời - ở trên - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "núi - ở trên - người1 (trưởng thành, không mặc áo, đang ôm)",
+  "biển - ở gần - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "người1 (trưởng thành, không mặc áo, đang ôm) - ôm - người3 (trưởng thành, đội mũ, đang ngồi)"
+]
+```
+
+frame_13:
+```json
+[
+  "n\u00fai - \u1edf tr\u00ean - bi\u1ec3n",
+  "\u0111\u00e1 - \u1edf tr\u00ean - bi\u1ec3n",
+  "bi\u1ec3n - \u1edf tr\u00ean - \u0111\u00e1y bi\u1ec3n",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh, kh\u00f4ng m\u1eb7c \u00e1o, \u0111ang \u0111\u1ee1) - \u1edf trong - bi\u1ec3n",
+  "ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c bikini, \u0111ang tr\u00e8o) - \u1edf trong - bi\u1ec3n",
+  "ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh, \u0111\u1ed9i m\u0169, \u0111ang ng\u1ed3i) - \u1edf trong - bi\u1ec3n",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh, kh\u00f4ng m\u1eb7c \u00e1o, \u0111ang \u0111\u1ee1) - \u1edf tr\u00ean - ng\u01b0\u1eddi3 (tr\u01b0\u1edfng th\u00e0nh, \u0111\u1ed9i m\u0169, \u0111ang ng\u1ed3i)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh, kh\u00f4ng m\u1eb7c \u00e1o, \u0111ang \u0111\u1ee1) - \u0111\u1ee1 - ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c bikini, \u0111ang tr\u00e8o)",
+  "tr\u1eddi - \u1edf tr\u00ean - ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c bikini, \u0111ang tr\u00e8o)",
+  "n\u00fai - \u1edf tr\u00ean - ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh, kh\u00f4ng m\u1eb7c \u00e1o, \u0111ang \u0111\u1ee1)",
+  "bi\u1ec3n - \u1edf g\u1ea7n - ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c bikini, \u0111ang tr\u00e8o)",
+  "ng\u01b0\u1eddi1 (tr\u01b0\u1edfng th\u00e0nh, kh\u00f4ng m\u1eb7c \u00e1o, \u0111ang \u0111\u1ee1) - \u00f4m - ng\u01b0\u1eddi4 (tr\u01b0\u1edfng th\u00e0nh, m\u1eb7c bikini, \u0111ang tr\u00e8o)"
+]
+```
+
+frame_14:
+```json
+[
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang trèo) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang ngồi) - ở trong - biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trên - người3 (trưởng thành, đội mũ, đang ngồi)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - đỡ - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "trời - ở trên - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "núi - ở trên - người1 (trưởng thành, không mặc áo, đang đỡ)",
+  "biển - ở gần - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ôm - người4 (trưởng thành, mặc bikini, đang trèo)"
+]
+```
+
+frame_15:
+```json
+[
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang trèo) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang ngồi) - ở trong - biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trên - người3 (trưởng thành, đội mũ, đang ngồi)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - đỡ - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "trời - ở trên - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "núi - ở trên - người1 (trưởng thành, không mặc áo, đang đỡ)",
+  "biển - ở gần - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "người1 (trưởng thành, không mặc áo, đang ôm) - ôm - người4 (trưởng thành, mặc bikini, đang ôm)",
+  "cây - ở trên - núi",
+  "ô (màu xanh lá cây) - ở trên - biển",
+  "xe hơi (màu xanh da trời) - ở trên - biển",
+  "người2 (trưởng thành, mặc đồ bơi, đang đứng) - ở trên - biển"
+]
+```
+
+frame_16:
+```json
+[
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang trèo) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang ngồi) - ở trong - biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trên - người3 (trưởng thành, đội mũ, đang ngồi)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - đỡ - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "trời - ở trên - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "núi - ở trên - người1 (trưởng thành, không mặc áo, đang đỡ)",
+  "biển - ở gần - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ôm - người4 (trưởng thành, mặc bikini, đang ôm)",
+  "cây - ở trên - núi",
+  "ô (màu xanh lá cây) - ở trên - biển",
+  "xe hơi (màu xanh da trời) - ở trên - biển",
+  "người2 (trưởng thành, mặc đồ bơi, đang đứng) - ở trên - biển"
+]
+```
+
+frame_17:
+```json
+[
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "biển - ở trên - đáy biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang trèo) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang ngồi) - ở trong - biển",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ở trên - người3 (trưởng thành, đội mũ, đang ngồi)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - đỡ - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "trời - ở trên - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "núi - ở trên - người1 (trưởng thành, không mặc áo, đang đỡ)",
+  "biển - ở gần - người4 (trưởng thành, mặc bikini, đang trèo)",
+  "người1 (trưởng thành, không mặc áo, đang đỡ) - ôm - người4 (trưởng thành, mặc bikini, đang ôm)",
+  "cây - ở trên - núi",
+  "ô (màu xanh lá cây) - ở trên - biển",
+  "xe hơi (màu xanh da trời) - ở trên - biển",
+  "người2 (trưởng thành, mặc đồ bơi, đang đứng) - ở trên - biển"
+]
+```
+
+frame_18:
+```json
+["người1 (trưởng thành, không mặc áo, đang lặn) - ở trong - biển", "người4 (trưởng thành, mặc bikini, đang lặn) - ở trong - biển", "người3 (trưởng thành, đội mũ, đang ngụp) - ở trong - biển", "núi - ở trên - biển", "đá - ở trên - biển", "người2 (trưởng thành, mặc đồ bơi, đang bơi) - ở trong - biển"]
+```
+
+frame_19:
+```json
+["người1 (trưởng thành, không mặc áo, đang bơi) - ở trong - biển", "người4 (trưởng thành, mặc bikini, đang bơi) - ở trong - biển", "người3 (trưởng thành, đội mũ, đang bơi) - ở trong - biển", "núi - ở trên - biển", "đá - ở trên - biển", "người2 (trưởng thành, mặc đồ bơi, đang bơi) - ở trong - biển"]
+```
+
+frame_20:
+```json
+["người1 (trưởng thành, không mặc áo, đang bơi) - ở trong - biển", "người4 (trưởng thành, mặc bikini, đang bơi) - ở trong - biển", "người3 (trưởng thành, đội mũ, đang bơi) - ở trong - biển", "núi - ở trên - biển", "đá - ở trên - biển", "người2 (trưởng thành, mặc đồ bơi, đang bơi) - ở trong - biển"]
+```
+
+frame_21:
+```json
+["người4 (trưởng thành, mặc bikini, đang bơi) - ở trong - biển", "núi - ở trên - biển", "đá - ở trên - biển", "người2 (trưởng thành, mặc đồ bơi, đang bơi) - ở trong - biển", "người1 (trưởng thành, không mặc áo, đang bơi) - ở trong - biển", "người3 (trưởng thành, đội mũ, đang bơi) - ở trong - biển"]
+```
+
+frame_22:
+```json
+["người4 (trưởng thành, mặc bikini, đang bơi) - ở trong - biển", "núi - ở trên - biển", "đá - ở trên - biển", "người2 (trưởng thành, mặc đồ bơi, đang bơi) - ở trong - biển", "người1 (trưởng thành, không mặc áo, đang bơi) - ở trong - biển", "người3 (trưởng thành, đội mũ, đang bơi) - ở trong - biển"]
+```
+
+frame_23:
+```json
+[
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "thuyền (màu xanh) - ở trên - biển",
+  "người1 (trưởng thành, không mặc áo, đang bơi) - ở trong - biển",
+  "người2 (trưởng thành, mặc đồ bơi, đang bơi) - ở trong - biển",
+  "người3 (trưởng thành, đội mũ, đang bơi) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang bơi) - ở trong - biển"
+]
+```
+
+frame_24:
+```json
+[
+  "núi - ở trên - biển",
+  "đá - ở trên - biển",
+  "người1 (trưởng thành, không mặc áo, đang bơi) - ở trong - biển",
+  "người2 (trưởng thành, mặc đồ bơi, đang bơi) - ở trong - biển",
+  "biển - ở gần - người2 (trưởng thành, mặc đồ bơi, đang bơi)",
+  "người3 (trưởng thành, đội mũ, đang bơi) - ở trong - biển",
+  "người4 (trưởng thành, mặc bikini, đang bơi) - ở trong - biển"
+]
+```
+
+frame_25:
+```json
+[
+  "bầu trời - ở trên - biển",
+  "đá - ở trên - biển",
+  "người1 (trưởng thành, không mặc áo, đang bơi) - ở trong - biển",
+  "người2 (trưởng thành, mặc đồ bơi, đang bơi) - ở trong - biển",
+  "biển - ở gần - người2 (trưởng thành, mặc đồ bơi, đang bơi)",
+  "người3 (trưởng thành, đội mũ, đang bơi) - ở trong - biển"
+]
+```
+
+frame_26:
+```json
+[
+  "bầu trời - ở trên - biển",
+  "đá - ở trên - biển",
+  "người1 (trưởng thành, không mặc áo, đang bơi) - ở trong - biển",
+  "người2 (trưởng thành, mặc đồ bơi, đang bơi) - ở trong - biển",
+  "biển - ở gần - người2 (trưởng thành, mặc đồ bơi, đang bơi)",
+  "người3 (trưởng thành, đội mũ, đang bơi) - ở trong - biển"
+]
+```
+
+frame_27:
+```json
+[
+  "bầu trời - ở trên - biển",
+  "đá - ở trên - biển",
+  "người1 (trưởng thành, không mặc áo, đang bơi) - ở trong - biển",
+  "người2 (trưởng thành, mặc đồ bơi, đang bơi) - ở trong - biển",
+  "biển - ở gần - người2 (trưởng thành, mặc đồ bơi, đang bơi)",
+  "người3 (trưởng thành, đội mũ, đang bơi) - ở trong - biển"
+]
+```
+
+frame_28:
+```json
+[
+  "bầu trời - ở trên - biển",
+  "đá - ở trên - biển",
+  "người1 (trưởng thành, không mặc áo, đang đứng) - ở trong - biển",
+  "người2 (trưởng thành, mặc đồ bơi, đang bơi) - ở trong - biển",
+  "biển - ở gần - người2 (trưởng thành, mặc đồ bơi, đang bơi)",
+  "người3 (trưởng thành, đội mũ, đang bơi) - ở trong - biển"
+]
+```
+

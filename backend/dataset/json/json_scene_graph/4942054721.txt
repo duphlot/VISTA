@@ -1,0 +1,430 @@
+frame_0:
+```json
+[
+  "cừu - trên - núi",
+  "cừu - trên - cỏ",
+  "cây - trên - núi"
+]
+```
+
+frame_1:
+```json
+[
+  "cỏ - ở - núi",
+  "cừu - trên - núi",
+  "cừu - trên - cỏ",
+  "cây - trên - núi"
+]
+```
+
+frame_2:
+```json
+[
+  "cỏ - ở - núi",
+  "cây - trên - núi"
+]
+```
+
+frame_3:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cừu3 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cỏ - xung quanh - cừu3"
+]
+```
+
+frame_4:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cừu3 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cỏ - xung quanh - cừu3",
+  "cừu4 - trên - cỏ",
+  "bò1 - trên - cỏ",
+  "bò2 - trên - cỏ",
+  "cỏ - xung quanh - bò1",
+  "cỏ - xung quanh - bò2",
+  "cỏ - xung quanh - cừu4"
+]
+```
+
+frame_5:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cừu3 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cỏ - xung quanh - cừu3"
+]
+```
+
+frame_6:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cừu3 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cỏ - xung quanh - cừu3",
+  "cừu3 - gần - bò1",
+  "bò1 - gần - cừu3",
+  "cừu4 - trên - cỏ",
+  "cây - trên - cỏ"
+]
+```
+
+frame_7:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cừu3 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cỏ - xung quanh - cừu3",
+  "cừu3 - gần - bò1",
+  "bò1 - gần - cừu3",
+  "cừu4 - trên - cỏ",
+  "cây - trên - cỏ"
+]
+```
+
+frame_8:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cừu3 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cỏ - xung quanh - cừu3",
+  "cừu3 - gần - bò1",
+  "bò1 - gần - cừu3",
+  "cừu4 - trên - cỏ",
+  "cây - trên - cỏ"
+]
+```
+
+frame_9:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cừu3 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cỏ - xung quanh - cừu3",
+  "cừu3 - gần - bò1",
+  "bò1 - gần - cừu3",
+  "cừu4 - trên - cỏ",
+  "cây - trên - cỏ",
+  "cỏ - che khuất - cừu3"
+]
+```
+
+frame_10:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cừu3 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cỏ - xung quanh - cừu3",
+  "cừu3 - gần - bò1",
+  "bò1 - gần - cừu3",
+  "cừu4 - trên - cỏ",
+  "cây - trên - cỏ",
+  "cỏ - che khuất - cừu3",
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cừu4 - trên - cỏ"
+]
+```
+
+frame_11:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2"
+]
+```
+
+frame_12:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây"
+]
+```
+
+frame_13:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây"
+]
+```
+
+frame_14:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 (màu trắng) - trên - cỏ"
+]
+```
+
+frame_15:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ"
+]
+```
+
+frame_16:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ"
+]
+```
+
+frame_17:
+```json
+[
+  "c\u1eebu1 - tr\u00ean - c\u1ecf",
+  "c\u1eebu2 - tr\u00ean - c\u1ecf",
+  "c\u1ecf - xung quanh - c\u1eebu1",
+  "c\u1ecf - xung quanh - c\u1eebu2",
+  "c\u1eebu1 - g\u1ea7n - c\u00e2y",
+  "c\u1eebu3 - tr\u00ean - c\u1ecf"
+]
+```
+
+frame_18:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ"
+]
+```
+
+frame_19:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ"
+]
+```
+
+frame_20:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ"
+]
+```
+
+frame_21:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ"
+]
+```
+
+frame_22:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ"
+]
+```
+
+frame_23:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ"
+]
+```
+
+frame_24:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ"
+]
+```
+
+frame_25:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ"
+]
+```
+
+frame_26:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ",
+  "cừu4 - trên - cỏ"
+]
+```
+
+frame_27:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ",
+  "cừu4 - trên - cỏ",
+  "cừu4 - gần - cỏ"
+]
+```
+
+frame_28:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - núi",
+  "cừu3 - trên - cỏ",
+  "cừu4 - trên - cỏ",
+  "cừu4 - gần - cỏ"
+]
+```
+
+frame_29:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - núi",
+  "cừu3 - trên - cỏ",
+  "cừu4 - trên - cỏ",
+  "cừu4 - gần - cỏ"
+]
+```
+
+frame_30:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ",
+  "cừu4 - trên - cỏ",
+  "cừu4 - gần - cỏ",
+  "cây - gần - bụi bẩn"
+]
+```
+
+frame_31:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ",
+  "cừu4 - trên - cỏ",
+  "cừu4 - gần - cỏ",
+  "cây - gần - bụi bẩn"
+]
+```
+
+frame_32:
+```json
+[
+  "cừu1 - trên - cỏ",
+  "cừu2 - trên - cỏ",
+  "cỏ - xung quanh - cừu1",
+  "cỏ - xung quanh - cừu2",
+  "cừu1 - gần - cây",
+  "cừu3 - trên - cỏ",
+  "cừu4 - trên - cỏ",
+  "cừu4 - gần - cỏ",
+  "cây - gần - bụi bẩn"
+]
+```
+

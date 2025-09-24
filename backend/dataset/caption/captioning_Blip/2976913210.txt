@@ -1,0 +1,28 @@
+frame_0000.jpg: a man riding a quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad
+frame_0001.jpg: a man riding a quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad
+frame_0002.jpg: a man riding an atv through a puddle
+frame_0003.jpg: a man riding a atv through a stream
+frame_0004.jpg: a man riding a quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad
+frame_0005.jpg: a man riding a atv through a muddy road
+frame_0006.jpg: a man riding a quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad
+frame_0007.jpg: a man riding a quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad
+frame_0008.jpg: a man riding a atv through a stream
+frame_0009.jpg: a man riding a quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad
+frame_0010.jpg: a man riding a quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad
+frame_0011.jpg: a man is riding a quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad
+frame_0012.jpg: a man riding a four wheeler atv through a stream
+frame_0013.jpg: a man is riding a atv through a stream
+frame_0014.jpg: a man riding a atv through a muddy road
+frame_0015.jpg: a man is riding a motorcycle through a stream
+frame_0016.jpg: a man is riding a atv through a stream
+frame_0017.jpg: a man is riding a atv through a stream
+frame_0018.jpg: a man riding a atv through a river
+frame_0019.jpg: a man is riding a atv through a stream
+frame_0020.jpg: a man is standing in the water with a snowmobile
+frame_0021.jpg: a motorcycle is in the water near a river
+frame_0022.jpg: a motorcycle is stuck in the water
+frame_0023.jpg: a motorcycle is stuck in the water
+frame_0024.jpg: a man is riding a atv through a stream
+frame_0025.jpg: a man riding a atv through a river
+frame_0026.jpg: a man riding a motorcycle through a river
+frame_0027.jpg: a man riding a atv through a river

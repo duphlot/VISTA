@@ -1,0 +1,129 @@
+frame_0000.jpg: a man and woman standing on a field
+frame_0001.jpg: a man and woman standing in a field
+frame_0002.jpg: a man and woman standing in a field
+frame_0003.jpg: a man and woman are standing in a field
+frame_0004.jpg: a man and woman are standing in a field
+frame_0005.jpg: a man and woman standing in a field
+frame_0006.jpg: a man and woman are standing in a field
+frame_0007.jpg: a man and woman standing in a field
+frame_0008.jpg: a man and woman standing in a field
+frame_0009.jpg: a woman is standing in a field with a red frc
+frame_0010.jpg: a woman in a white shirt and a man in a white shirt
+frame_0011.jpg: a woman in a white shirt is talking to a man
+frame_0012.jpg: a woman in a white shirt is standing in a field
+frame_0013.jpg: a woman in a white shirt is standing in a field
+frame_0014.jpg: a woman in a white shirt is standing in a field
+frame_0015.jpg: a woman in a white shirt and a man in a white shirt
+frame_0016.jpg: a man and woman standing in a field
+frame_0017.jpg: a woman in a white shirt and a man in a white shirt
+frame_0018.jpg: a man and woman are standing in a field
+frame_0019.jpg: a man and woman standing in a field
+frame_0020.jpg: a man and woman standing in a field
+frame_0021.jpg: a man and woman are standing in a field
+frame_0022.jpg: a man and woman standing in a field
+frame_0023.jpg: a woman in a white shirt is standing in a field
+frame_0024.jpg: a woman in a white shirt holding a red cup
+frame_0025.jpg: a man and woman standing in a field
+frame_0026.jpg: a woman in a white shirt and a man in a white shirt
+frame_0027.jpg: a woman in a white shirt and a man in a white shirt
+frame_0028.jpg: a man and woman standing in a field
+frame_0029.jpg: a woman in a white shirt and a man in a white shirt
+frame_0030.jpg: a woman in a white shirt and a man in a white shirt
+frame_0031.jpg: a man and woman standing in a field
+frame_0032.jpg: a man and woman are standing in a field
+frame_0033.jpg: a man and woman are standing in a field
+frame_0034.jpg: a man and woman standing in a field
+frame_0035.jpg: a man and woman standing in a field
+frame_0036.jpg: a man and woman are standing in a field
+frame_0037.jpg: a man and woman standing in a field
+frame_0038.jpg: a man and woman standing in a field
+frame_0039.jpg: a man and woman are standing in a field
+frame_0040.jpg: a man and woman standing in a field
+frame_0041.jpg: a man and woman standing in a field
+frame_0042.jpg: a man and woman are standing in a field
+frame_0043.jpg: a man and woman standing in a field
+frame_0044.jpg: a man and woman standing in a field
+frame_0045.jpg: a man and woman are standing in a field
+frame_0046.jpg: a man and woman are standing in a field
+frame_0047.jpg: a man in a white shirt is standing on a field
+frame_0048.jpg: a woman in a white shirt is standing on a field
+frame_0049.jpg: a man and woman are standing in a field
+frame_0050.jpg: a man and woman are standing in a field
+frame_0051.jpg: a man and woman are standing in a field
+frame_0052.jpg: a man and woman are standing in a field
+frame_0053.jpg: a man and woman are standing on a field
+frame_0054.jpg: a man and woman are standing in a field
+frame_0055.jpg: a man in a white shirt and a woman in a white shirt
+frame_0056.jpg: a man in a white shirt and a woman in a white shirt
+frame_0057.jpg: a man with long hair and a white shirt
+frame_0058.jpg: a man in a white shirt is standing on a field
+frame_0059.jpg: a man in a white shirt and a woman in a white shirt
+frame_0060.jpg: a man and woman are standing in a field
+frame_0061.jpg: a man in a white shirt and a woman in a white shirt
+frame_0062.jpg: a man in a white shirt and a woman in a white shirt
+frame_0063.jpg: a man with long hair
+frame_0064.jpg: a man in a white shirt is standing on a field
+frame_0065.jpg: a man in a white shirt and a woman in a white shirt
+frame_0066.jpg: a man and woman are standing in a field
+frame_0067.jpg: a man and woman are standing in a field
+frame_0068.jpg: a man and woman are standing in a field
+frame_0069.jpg: a woman in a white shirt and a man in a white shirt
+frame_0070.jpg: a woman in a white shirt and a man in a white shirt
+frame_0071.jpg: a woman in a white shirt and a man in a white shirt
+frame_0072.jpg: a man and woman are standing in a field
+frame_0073.jpg: a woman in a white shirt and a man in a white shirt
+frame_0074.jpg: a man and woman standing in a field
+frame_0075.jpg: a man and woman standing in a field
+frame_0076.jpg: a woman in a white shirt and a man in a white shirt
+frame_0077.jpg: a man and woman are standing in a field
+frame_0078.jpg: a man and woman are flying a kite
+frame_0079.jpg: a woman in a white shirt is standing next to a man
+frame_0080.jpg: a man and woman standing in front of a building
+frame_0081.jpg: a man and woman are standing in a field
+frame_0082.jpg: a man and woman standing in a field
+frame_0083.jpg: a man and woman are standing in a field
+frame_0084.jpg: a man and woman are flying a kite
+frame_0085.jpg: a man and woman are standing in a field
+frame_0086.jpg: a man and woman standing in a field
+frame_0087.jpg: a man and woman standing in a field
+frame_0088.jpg: a man and woman standing in a field
+frame_0089.jpg: a man and woman are standing in a field
+frame_0090.jpg: a woman is standing in a field with a cup
+frame_0091.jpg: a man and woman are standing in a field
+frame_0092.jpg: a woman in a white shirt holding a can
+frame_0093.jpg: a woman in a white shirt and a man in a white shirt
+frame_0094.jpg: a man and woman standing in a field
+frame_0095.jpg: a man and woman standing in a field
+frame_0096.jpg: a man and woman are standing in a field
+frame_0097.jpg: a man and woman standing in a field
+frame_0098.jpg: a man and woman standing in a field
+frame_0099.jpg: a man and woman standing on a field
+frame_0100.jpg: a man and woman standing in a field
+frame_0101.jpg: a man and woman standing in a field
+frame_0102.jpg: a man and woman are standing in a field
+frame_0103.jpg: a man and woman standing in a field
+frame_0104.jpg: a man and woman standing in a field
+frame_0105.jpg: a man and woman standing in front of a field
+frame_0106.jpg: a man and woman are standing in a field
+frame_0107.jpg: a woman is standing in front of a man
+frame_0108.jpg: a man and woman are standing in a field
+frame_0109.jpg: a man and woman are standing in a field
+frame_0110.jpg: a man and woman are standing in a field
+frame_0111.jpg: a man and woman are standing on a boat
+frame_0112.jpg: a man and woman are standing in a field
+frame_0113.jpg: a man and woman standing in front of a building
+frame_0114.jpg: a man in a white shirt and a woman in a white shirt
+frame_0115.jpg: a man and woman standing on a beach
+frame_0116.jpg: a man and woman standing in a field
+frame_0117.jpg: a man and woman are standing in a field
+frame_0118.jpg: a man and woman standing in a field
+frame_0119.jpg: a man and woman are standing on a golf course
+frame_0120.jpg: a man and woman standing in a field
+frame_0121.jpg: a man and woman standing in a field
+frame_0122.jpg: a man and woman are standing in a field
+frame_0123.jpg: a woman is standing in front of a man
+frame_0124.jpg: a man and woman standing in a field
+frame_0125.jpg: a man and woman standing in a field
+frame_0126.jpg: a man and woman standing in a field
+frame_0127.jpg: a man and woman standing in a field
+frame_0128.jpg: a man and woman standing in a field
