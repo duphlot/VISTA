@@ -1,4 +1,4 @@
-# soICT - Video Scene Understanding & Question Answering System
+# VISTA - Video Scene Understanding & Question Answering System
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB.svg)](https://reactjs.org/)
@@ -6,7 +6,7 @@
 
 ## Overview
 
-**soICT** is a cutting-edge video analysis system that combines computer vision, natural language processing, and graph reasoning to understand video content and answer complex questions about videos. The system can analyze video scenes, detect objects and relationships, generate comprehensive scene graphs, and provide intelligent answers to user queries.
+**VISTA** is a cutting-edge video analysis system that combines computer vision, natural language processing, and graph reasoning to understand video content and answer complex questions about videos. The system can analyze video scenes, detect objects and relationships, generate comprehensive scene graphs, and provide intelligent answers to user queries.
 
 ## Demo Video
 
@@ -17,7 +17,7 @@ Watch our system in action:
   Your browser does not support the video tag.
 </video>
 
-*Preview of the soICT system analyzing videos and answering questions in real-time*
+*Preview of the VISTA system analyzing videos and answering questions in real-time*
 
 **Note**: If the video doesn't display above, you can [download and view it here](media/record.mov)
 
@@ -61,8 +61,8 @@ The system consists of three main components:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/soICT.git
-   cd soICT
+   git clone https://github.com/your-username/VISTA.git
+   cd VISTA
    ```
 
 2. **Set up the backend**
@@ -195,8 +195,8 @@ For complete API documentation, visit `/docs` when the server is running.
 
 ### Citation
 ```bibtex
-@article{soict2024,
-  title={soICT: Advanced Video Scene Understanding and Question Answering},
+@article{VISTA2024,
+  title={VISTA: Advanced Video Scene Understanding and Question Answering},
   author={Your Name},
   journal={Conference/Journal Name},
   year={2024}
@@ -216,8 +216,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Issues & Support
 
-- **Bug Reports**: [GitHub Issues](https://github.com/your-username/soICT/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/soICT/discussions)
+- **Bug Reports**: [GitHub Issues](https://github.com/your-username/VISTA/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/your-username/VISTA/discussions)
 - **Email**: your-email@domain.com
 
 ## Roadmap
