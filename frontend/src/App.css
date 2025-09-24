@@ -7,13 +7,7 @@
   scrollbar-width: none;  
 }
 
-body {
-  background-image: url('./assets/images/image.png');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
+/* Background image removed - keeping all gradients and colors intact */
 
 .bg-overlay {
   background: rgba(255, 255, 255, 0.85);

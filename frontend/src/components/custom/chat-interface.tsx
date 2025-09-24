@@ -105,52 +105,57 @@ export function ChatInterface({ sessionInfo, onBack }: ChatInterfaceProps) {
     };
 
     return (
-        <div className="w-full max-w-6xl mx-auto relative bg-gradient-to-br from-yellow-50/20 via-white/40 to-amber-50/30">
-            {/* Header Section */}
-            <div className="bg-gradient-to-r from-white/80 to-yellow-50/80 backdrop-blur-md border border-amber-200/50 rounded-2xl p-5 m-4 shadow-lg">
-                <div className="flex items-center justify-between mb-3">
-                    <div>
-                        <h1 className="text-xl font-bold text-amber-800 mb-1">
-                            VISTA: Video Scene Graph Reasoning
-                        </h1>
-                        <p className="text-amber-700 text-xs">
-                            Video Scene Graph Reasoning with Agents for Vietnamese Video Understanding
-                        </p>
-                    </div>
-                    <Button 
-                        variant="outline" 
-                        onClick={onBack}
-                        className="border-amber-300 text-amber-700 hover:bg-amber-100 text-sm px-3 py-1"
-                    >
-                        Quay lại
-                    </Button>
-                </div>
-                
-                {/* Analysis Summary */}
-                <div className="flex gap-4 text-xs text-amber-800 bg-white/60 backdrop-blur-sm rounded-xl p-3 border border-amber-200/40">
-                    <div className="flex items-center gap-2">
-                        <BarChart3 className="h-3 w-3 text-amber-700" />
-                        <span className="font-semibold">{sessionInfo.analysis_results?.keyframes_count || 0}</span>
-                        <span>khung hình phân tích</span>
-                    </div>
-                    <div className="flex items-center gap-2">
-                        <Video className="h-3 w-3 text-amber-700" />
-                        <span className="font-semibold">{sessionInfo.analysis_results?.scene_graph_relations || 0}</span>
-                        <span>mối quan hệ cảnh</span>
+        <div className="h-full bg-gradient-to-br from-yellow-50/20 via-white/40 to-amber-50/30 flex flex-col">
+            {/* Fixed Header */}
+            <div className="sticky top-0 z-20 bg-gradient-to-br from-yellow-50/95 via-white/95 to-amber-50/95 backdrop-blur-md border-b border-amber-200/50">
+                <div className="max-w-6xl mx-auto p-4">
+                    <div className="bg-gradient-to-r from-white/90 to-yellow-50/90 backdrop-blur-md border border-amber-200/50 rounded-2xl p-5 shadow-lg">
+                        <div className="flex items-center justify-between mb-3">
+                            <div>
+                                <h1 className="text-xl font-bold text-amber-800 mb-1">
+                                    VISTA: Video Scene Graph Reasoning
+                                </h1>
+                                <p className="text-amber-700 text-xs">
+                                    Video Scene Graph Reasoning with Agents for Vietnamese Video Understanding
+                                </p>
+                            </div>
+                            <Button 
+                                variant="outline" 
+                                onClick={onBack}
+                                className="border-amber-300 text-amber-700 hover:bg-amber-100 text-sm px-3 py-1"
+                            >
+                                Quay lại
+                            </Button>
+                        </div>
+                        
+                        {/* Analysis Summary */}
+                        <div className="flex gap-4 text-xs text-amber-800 bg-white/60 backdrop-blur-sm rounded-xl p-3 border border-amber-200/40">
+                            <div className="flex items-center gap-2">
+                                <BarChart3 className="h-3 w-3 text-amber-700" />
+                                <span className="font-semibold">{sessionInfo.analysis_results?.keyframes_count || 0}</span>
+                                <span>khung hình phân tích</span>
+                            </div>
+                            <div className="flex items-center gap-2">
+                                <Video className="h-3 w-3 text-amber-700" />
+                                <span className="font-semibold">{sessionInfo.analysis_results?.scene_graph_relations || 0}</span>
+                                <span>mối quan hệ cảnh</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
 
-            {/* Chat Messages */}
-            <div className="px-4 pb-32">
-                <div className="space-y-4">
+            {/* Chat Messages Container - Scrollable */}
+            <div className="flex-1 overflow-y-auto px-4 py-4">
+                <div className="max-w-6xl mx-auto">
+                    <div className="space-y-4 pb-4">
                         {messages.map((message) => (
                             <div key={message.id}>
-                                {/* Video message - display video outside message bubble */}
+                                {/* Video message */}
                                 {message.hasVideo && message.videoPath && (
                                     <div className={`flex gap-2 mb-3 ${message.isUser ? 'justify-end' : 'justify-start'}`}>
                                         {!message.isUser && (
-                                            <div className={`flex-shrink-0 w-7 h-7 ${message.hasVideo ? 'bg-gradient-to-br from-purple-400 to-blue-500' : 'bg-gradient-to-br from-gray-100 to-gray-200'} rounded-full flex items-center justify-center border ${message.hasVideo ? 'border-purple-300' : 'border-gray-300'}`}>
+                                            <div className="flex-shrink-0 w-7 h-7 bg-gradient-to-br from-purple-400 to-blue-500 rounded-full flex items-center justify-center border border-purple-300">
                                                 <Video className="h-3 w-3 text-white" />
                                             </div>
                                         )}
@@ -170,14 +175,14 @@ export function ChatInterface({ sessionInfo, onBack }: ChatInterfaceProps) {
                                         </div>
 
                                         {message.isUser && (
-                                            <div className={`flex-shrink-0 w-7 h-7 ${message.hasVideo ? 'bg-gradient-to-br from-purple-400 to-blue-500' : 'bg-gradient-to-br from-gray-100 to-gray-200'} rounded-full flex items-center justify-center border ${message.hasVideo ? 'border-purple-300' : 'border-gray-300'}`}>
+                                            <div className="flex-shrink-0 w-7 h-7 bg-gradient-to-br from-purple-400 to-blue-500 rounded-full flex items-center justify-center border border-purple-300">
                                                 <Video className="h-3 w-3 text-white" />
                                             </div>
                                         )}
                                     </div>
                                 )}
 
-                                {/* Text message - display in message bubble */}
+                                {/* Text message */}
                                 {(!message.hasVideo || message.text !== 'Video đã tải lên:') && (
                                     <div className={`flex gap-2 ${message.isUser ? 'justify-end' : 'justify-start'}`}>
                                         {!message.isUser && (
@@ -211,6 +216,7 @@ export function ChatInterface({ sessionInfo, onBack }: ChatInterfaceProps) {
                             </div>
                         ))}
                         
+                        {/* Loading indicator */}
                         {isLoading && (
                             <div className="flex gap-2 justify-start">
                                 <div className="flex-shrink-0 w-7 h-7 bg-gradient-to-br from-amber-100 to-yellow-100 rounded-full flex items-center justify-center border border-amber-200">
@@ -225,12 +231,15 @@ export function ChatInterface({ sessionInfo, onBack }: ChatInterfaceProps) {
                                 </div>
                             </div>
                         )}
+                        
+                        <div ref={messagesEndRef} />
                     </div>
-                    <div ref={messagesEndRef} />
                 </div>
+            </div>
 
-            <div className="fixed bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-amber-50/80 via-yellow-50/60 to-transparent backdrop-blur-sm">
-                <div className="w-full max-w-4xl mx-auto">
+            {/* Sticky Input Bar */}
+            <div className="sticky bottom-0 z-10 p-4 bg-gradient-to-t from-amber-50/90 via-yellow-50/70 to-transparent backdrop-blur-sm">
+                <div className="max-w-6xl mx-auto">
                     <div className="bg-gradient-to-r from-yellow-50 to-amber-100 border-2 border-amber-200 rounded-2xl p-4 shadow-xl backdrop-blur-sm">
                         <div className="flex gap-3">
                             <Input

@@ -15,32 +15,34 @@ export function Chat() {
         setSessionInfo(null);
     };
 
+    // If we have session info, render ChatInterface without extra containers
+    if (sessionInfo) {
+        return (
+            <ChatInterface 
+                sessionInfo={sessionInfo} 
+                onBack={handleBackToUpload}
+            />
+        );
+    }
+
+    // Upload page with containers
     return (
-        <div className="min-h-screen bg-gradient-to-br from-yellow-25 via-white to-amber-25 p-4">
+        <div className="min-h-screen bg-gray-50 p-4">
             <div className="max-w-6xl mx-auto">
                 {/* Header when uploading */}
-                {!sessionInfo && (
-                    <div className="mb-8 text-center">
-                        <h1 className="text-4xl font-bold bg-gradient-to-r from-amber-600 to-yellow-600 bg-clip-text text-transparent mb-4">
-                            VISTA
-                        </h1>
-                        <p className="text-xl text-amber-700 mb-2">
-                            Video Scene Graph Reasoning with Agents
-                        </p>
-                        <p className="text-amber-600">
-                            for Vietnamese Video Understanding
-                        </p>
-                    </div>
-                )}
+                <div className="mb-8 text-center">
+                    <h1 className="text-4xl font-bold text-gray-800 mb-4">
+                        VISTA
+                    </h1>
+                    <p className="text-xl text-gray-600 mb-2">
+                        Video Scene Graph Reasoning with Agents
+                    </p>
+                    <p className="text-gray-500">
+                        for Vietnamese Video Understanding
+                    </p>
+                </div>
 
-                {!sessionInfo ? (
-                    <VideoUpload onVideoUploaded={handleVideoUploaded} />
-                ) : (
-                    <ChatInterface 
-                        sessionInfo={sessionInfo} 
-                        onBack={handleBackToUpload}
-                    />
-                )}
+                <VideoUpload onVideoUploaded={handleVideoUploaded} />
             </div>
         </div>
     );

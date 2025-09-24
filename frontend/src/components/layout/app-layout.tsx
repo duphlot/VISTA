@@ -154,7 +154,7 @@ export function AppLayout({ children }: LayoutProps) {
       </div>
 
       {/* Main Chat Area */}
-      <div className={`h-screen overflow-auto ${isSidebarOpen ? 'pl-64' : 'pl-14'} ${isRightSidebarOpen ? 'pr-80' : 'pr-12'} transition-all duration-300`}>
+      <div className={`h-screen overflow-hidden ${isSidebarOpen ? 'pl-64' : 'pl-14'} ${isRightSidebarOpen ? 'pr-80' : 'pr-12'} transition-all duration-300`}>
         {children}
       </div>
 
