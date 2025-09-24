@@ -193,16 +193,6 @@ For complete API documentation, visit `/docs` when the server is running.
 - **Scalability**: Handles videos up to 30 minutes duration
 - **Memory Efficient**: Optimized for both CPU and GPU processing
 
-### Citation
-```bibtex
-@article{soict2024,
-  title={soICT: Advanced Video Scene Understanding and Question Answering},
-  author={Your Name},
-  journal={Conference/Journal Name},
-  year={2024}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
