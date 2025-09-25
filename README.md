@@ -16,8 +16,6 @@ Watch our system in action:
 
 *Preview of the VISTA system analyzing videos and answering questions in real-time*
 
-![System Workflow](media/visgg-workflow.drawio.png)
-
 ### Key Features
 
 - **Intelligent Video Analysis**: Advanced keyframe extraction and scene understanding
@@ -30,7 +28,7 @@ Watch our system in action:
 
 ## System Architecture
 
-![Agent Architecture](media/visgg-agent.drawio.png)
+![Agent Architecture](media/f991102507028d5cd413.jpg)
 
 The system consists of three main components:
 
@@ -41,8 +39,7 @@ The system consists of three main components:
 ![Dataset Overview](/media/ee5332ea25cdaf93f6dc.jpg)
 
 ## System Design
-
-![System S1 Design](media/f991102507028d5cd413.jpg)
+![System S1 Design](/media/b833dab44d91c7cf9e80.jpg)
 
 ## Quick Start
 
@@ -201,9 +198,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Issues & Support
 
-- **Bug Reports**: [GitHub Issues](https://github.com/your-username/VISTA/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/VISTA/discussions)
-- **Email**: your-email@domain.com
+- **Bug Reports**: [GitHub Issues](https://github.com/duphlot/VISTA/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/duphlot/VISTA/discussions)
 
 ## Roadmap
 
