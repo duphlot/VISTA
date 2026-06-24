@@ -59,13 +59,13 @@ class VideoAnalysisTool:
             # Extract video ID
             video_name = self._extract_video_id(user_message)
             if not video_name:
-                return "❌ Không tìm thấy ID video trong yêu cầu. Vui lòng cung cấp ID video (ví dụ: 3557498300)."
+                return "Không tìm thấy ID video trong yêu cầu. Vui lòng cung cấp ID video (ví dụ: 3557498300)."
             
             # Load frames
             try:
                 processed_frames = self._load_frames(video_name)
             except FileNotFoundError as e:
-                return f"❌ {str(e)}"
+                return f"{str(e)}"
             
             # Analyze using image relation tool
             all_relations = self.image_relation_tool.analyze_video_frames(processed_frames, video_name)
@@ -74,12 +74,12 @@ class VideoAnalysisTool:
             return self._format_results(video_name, all_relations, len(processed_frames))
             
         except Exception as e:
-            return f"❌ Lỗi trong quá trình phân tích: {str(e)}"
+            return f"Lỗi trong quá trình phân tích: {str(e)}"
     
     def _format_results(self, video_name: str, all_relations: Dict[str, List[str]], total_frames: int) -> str:
         """Format analysis results into markdown string"""
         result_lines = [
-            f"# 📹 Kết quả phân tích video {video_name}",
+            f"# Kết quả phân tích video {video_name}",
             f"**Tổng số frames:** {total_frames}",
             ""
         ]
@@ -87,7 +87,7 @@ class VideoAnalysisTool:
         relation_count = 0
         for frame_name, relations in all_relations.items():
             frame_num = frame_name.replace("frame_", "")
-            result_lines.append(f"## 🎬 Frame {frame_num}")
+            result_lines.append(f"## Frame {frame_num}")
             
             if relations:
                 for relation in relations:

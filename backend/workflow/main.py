@@ -9,10 +9,7 @@ import cv2
 import torch
 import clip
 from pathlib import Path
-from src.utils.basetools.preprocess_video import VideoPreprocessor
-from src.utils.agents.image_relation_agent import ImageRelationAgent, ImageRelationInput, RelationOutput
-from src.utils.agents.scene_graph_agent import SameEntityAgent, SceneGraphInput
-from src.utils.agents.graph_reasoning_agent import GraphReasoningAgent, GraphReasoningInput
+from src.utils.agents.captain_agent import CaptainAgent
 
 load_dotenv()
 device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -26,9 +23,9 @@ BATCH_SIZE = 8
 HIDDEN_DIM = 512
 NUM_HEADS = 8
 
-def process_video(video_path: str, question: str = "YOUR QUESTION"):
+def process_video(video_path: str, question: str = "Mô tả nội dung của video này"):
     """
-    Process video locally without Google Colab
+    Process video using the VISTA Multi-Agent framework
     
     Args:
         video_path: Path to the video file
@@ -44,90 +41,23 @@ def process_video(video_path: str, question: str = "YOUR QUESTION"):
     output_dir = Path(f"./output/keyframes_output/{sample_video_path.stem}")
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    # Initialize video preprocessor
-    video_preprocessor_enhanced = VideoPreprocessor(frame_interval=1, similarity_threshold=0.8)
+    # Initialize VISTA Captain Agent
+    captain = CaptainAgent()
     
-    print(f"Processing video: {sample_video_path}")
-    video_info = video_preprocessor_enhanced.get_video_info(str(sample_video_path))
-    print(f"Video info: {video_info}")
+    # Run the VISTA orchestration pipeline
+    result = captain.process_video(str(sample_video_path), question)
     
-    # Extract keyframes
-    filtered_frames, selected_indices = video_preprocessor_enhanced.extract_keyframes_with_redundancy_removal(
-        str(sample_video_path),
-        max_frames=video_info['frame_count']
-    )
-    
-    print(f"Selected {len(filtered_frames)} keyframes")
-    
-    # Save keyframes
-    for i, frame in enumerate(filtered_frames):
+    # Save keyframes for frontend UI display
+    for i, frame in enumerate(result["keyframes"]):
         frame_path = output_dir / f"frame_{i:04d}.jpg"
         cv2.imwrite(str(frame_path), cv2.cvtColor(frame, cv2.COLOR_RGB2BGR))
-    
+        
     print(f"Saved keyframes to {output_dir}")
     
-    # Process relations
-    agent = ImageRelationAgent()
-    all_frame_relations = {}
+    # Merge output_dir into results
+    result["output_dir"] = output_dir
     
-    for i, frame in enumerate(filtered_frames):
-        input_data = ImageRelationInput(
-            mask_frame=frame,
-            original_img=filtered_frames[i], 
-            prev_objects=agent.prev_objects
-        )
-        result = agent.run(input_data)
-        all_frame_relations[f"frame_{i}"] = result.relations
-        
-        # Add delay between API calls to avoid rate limiting
-        if i < len(filtered_frames) - 1:  # Not the last frame
-            print(f"⏳ Waiting 1 second before processing next frame...")
-            time.sleep(1)
-    
-    # Print frame relations
-    for frame_name, rels in all_frame_relations.items():
-        print(f"{frame_name}:")
-        for r in rels:
-            print(r)
-        print()
-    
-    print(f"⏳ Waiting 2 seconds before scene graph processing...")
-    time.sleep(2)
-    
-    # Process scene graph
-    same_entity_agent = SameEntityAgent()
-    scene_graph_input = SceneGraphInput(frames_dict=all_frame_relations)
-    linked_result = same_entity_agent.run(scene_graph_input)
-    linked_scene_graph = linked_result.combined_relations
-    
-    for r in linked_scene_graph:
-        print(r)
-    
-    print(f"⏳ Waiting 2 seconds before reasoning...")
-    time.sleep(2)
-    
-    # Answer question
-    graph_text_for_question = "\n".join(linked_scene_graph)
-    
-    reasoning_agent = GraphReasoningAgent()
-    input_data = GraphReasoningInput(
-        question=question,
-        graph_text=graph_text_for_question
-    )
-    
-    result = reasoning_agent.run(input_data)
-    answer = result.answer
-    
-    print(f"Question: {question}")
-    print(f"Answer: {answer}")
-    
-    return {
-        "keyframes": filtered_frames,
-        "relations": all_frame_relations,
-        "scene_graph": linked_scene_graph,
-        "answer": answer,
-        "output_dir": output_dir
-    }
+    return result
 
 @cl.on_chat_start
 async def start():

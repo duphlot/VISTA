@@ -78,7 +78,7 @@ export function VideoUpload({ onVideoUploaded, sessionId }: VideoUploadProps) {
                         setAnalysisResults(sessionStatus);
                         setUploadStatus('success');
                         
-                        console.log('✅ Analysis completed! Session:', sessionStatus);
+                        console.log('Analysis completed! Session:', sessionStatus);
                         // Call the callback with full session info
                         onVideoUploaded(sessionStatus);
                         return; // Exit the function completely

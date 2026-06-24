@@ -50,8 +50,8 @@ Path("output").mkdir(exist_ok=True)
 async def process_video_async(session_id: str, video_path: Path):
     """Process video asynchronously using real workflow"""
     try:
-        print(f"🎯 [PROCESSING] Starting REAL video analysis for session: {session_id}")
-        print(f"🎬 [PROCESSING] Video path: {video_path}")
+        print(f"[PROCESSING] Starting REAL video analysis for session: {session_id}")
+        print(f"[PROCESSING] Video path: {video_path}")
         
         # Update session status
         sessions[session_id]["status"] = "processing"
@@ -62,15 +62,15 @@ async def process_video_async(session_id: str, video_path: Path):
             if parent_dir not in sys.path:
                 sys.path.append(parent_dir)
             
-            print(f"🔧 [PROCESSING] Import path added: {parent_dir}")
+            print(f"[PROCESSING] Import path added: {parent_dir}")
             from workflow.main import process_video
-            print(f"✅ [PROCESSING] Successfully imported process_video")
+            print(f"[PROCESSING] Successfully imported process_video")
             
         except ImportError as import_error:
-            print(f"❌ [PROCESSING] Import error: {import_error}")
+            print(f"[PROCESSING] Import error: {import_error}")
             raise Exception(f"Cannot import workflow: {import_error}")
         
-        print(f"⏳ [PROCESSING] Running real video analysis...")
+        print(f"[PROCESSING] Running real video analysis...")
         
         # Call the real process_video function
         # Using a default question for automatic processing
@@ -78,15 +78,15 @@ async def process_video_async(session_id: str, video_path: Path):
         
         try:
             result_data = process_video(str(video_path), default_question)
-            print(f"📊 [PROCESSING] Real workflow completed!")
-            print(f"🎯 [PROCESSING] Result keys: {list(result_data.keys()) if result_data else 'None'}")
+            print(f"[PROCESSING] Real workflow completed!")
+            print(f"[PROCESSING] Result keys: {list(result_data.keys()) if result_data else 'None'}")
             
             # Debug: Print all result data to understand structure
             if result_data:
-                print(f"🔍 [DEBUG] Full result_data: {result_data}")
+                print(f"[DEBUG] Full result_data: {result_data}")
             
         except Exception as process_error:
-            print(f"❌ [PROCESSING] Real processing failed: {process_error}")
+            print(f"[PROCESSING] Real processing failed: {process_error}")
             # Fallback to basic processing info
             result_data = {
                 "answer": f"Đã upload và xử lý video: {video_path.name}. Lỗi xử lý: {str(process_error)}",
@@ -98,7 +98,7 @@ async def process_video_async(session_id: str, video_path: Path):
         # Create output directory
         output_dir = Path("output") / "keyframes_output" / session_id
         output_dir.mkdir(parents=True, exist_ok=True)
-        print(f"📁 [PROCESSING] Created output directory: {output_dir}")
+        print(f"[PROCESSING] Created output directory: {output_dir}")
         
         # Extract real video information for UI
         video_info = result_data.get("video_info", {})
@@ -112,10 +112,10 @@ async def process_video_async(session_id: str, video_path: Path):
         elif "selected_keyframes" in result_data:
             keyframes_count = result_data["selected_keyframes"]
         
-        print(f"🔍 [DEBUG] Extracted keyframes_count: {keyframes_count}")
+        print(f"[DEBUG] Extracted keyframes_count: {keyframes_count}")
         
         # Create detailed analysis summary
-        analysis_summary = f"📹 Video Analysis Results:\n"
+        analysis_summary = f"Video Analysis Results:\n"
         if video_info:
             analysis_summary += f"• Duration: {video_info.get('duration', 'Unknown')} seconds\n"
             analysis_summary += f"• Resolution: {video_info.get('width', '?')}x{video_info.get('height', '?')}\n"
@@ -140,12 +140,12 @@ async def process_video_async(session_id: str, video_path: Path):
         sessions[session_id]["scene_graph"] = result_data.get("scene_graph", [])
         sessions[session_id]["analysis_data"] = result_data  # Store full analysis for reuse
         
-        print(f"✅ [PROCESSING] REAL video analysis completed for session: {session_id}")
-        print(f"📊 [RESULTS] Found {result['keyframes_count']} keyframes")
-        print(f"🔗 [RESULTS] Generated {len(result['scene_graph'])} scene graph relations")
+        print(f"[PROCESSING] REAL video analysis completed for session: {session_id}")
+        print(f"[RESULTS] Found {result['keyframes_count']} keyframes")
+        print(f"[RESULTS] Generated {len(result['scene_graph'])} scene graph relations")
         
     except Exception as e:
-        print(f"❌ [ERROR] Processing failed for session {session_id}: {str(e)}")
+        print(f"[ERROR] Processing failed for session {session_id}: {str(e)}")
         sessions[session_id]["status"] = "processing_error"
         sessions[session_id]["error"] = str(e)
 
@@ -219,15 +219,15 @@ async def create_session():
 @app.get("/api/sessions/{session_id}/status")
 async def get_processing_status(session_id: str):
     """Get processing status for session"""
-    print(f"📊 [STATUS] Checking status for session: {session_id}")
-    print(f"📋 [STATUS] Available sessions: {list(sessions.keys())}")
+    print(f"[STATUS] Checking status for session: {session_id}")
+    print(f"[STATUS] Available sessions: {list(sessions.keys())}")
     
     if session_id not in sessions:
-        print(f"❌ [STATUS] Session {session_id} not found in memory")
+        print(f"[STATUS] Session {session_id} not found in memory")
         raise HTTPException(status_code=404, detail="Session not found")
     
     session = sessions[session_id]
-    print(f"📊 [STATUS] Session data: {session}")
+    print(f"[STATUS] Session data: {session}")
     
     # Format analysis results if available
     analysis_results = None
@@ -254,7 +254,7 @@ async def get_processing_status(session_id: str):
         "error": session.get("error")
     }
     
-    print(f"📊 [STATUS] Returning status: {status_info}")
+    print(f"[STATUS] Returning status: {status_info}")
     return status_info
 
 @app.get("/api/sessions/{session_id}", response_model=SessionInfo)
@@ -274,37 +274,37 @@ async def get_session(session_id: str):
 @app.post("/api/sessions/{session_id}/upload")
 async def upload_video(session_id: str, file: UploadFile = File(...)):
     """Upload video file to session"""
-    print(f"🎬 [UPLOAD] Starting video upload for session: {session_id}")
-    print(f"📁 [UPLOAD] File: {file.filename}, Content-Type: {file.content_type}, Size: {file.size}")
-    print(f"📋 [UPLOAD] Total sessions before upload: {len(sessions)}")
+    print(f"[UPLOAD] Starting video upload for session: {session_id}")
+    print(f"[UPLOAD] File: {file.filename}, Content-Type: {file.content_type}, Size: {file.size}")
+    print(f"[UPLOAD] Total sessions before upload: {len(sessions)}")
     
     if session_id not in sessions:
-        print(f"❌ [ERROR] Session {session_id} not found in memory")
-        print(f"📋 [ERROR] Available sessions: {list(sessions.keys())}")
+        print(f"[ERROR] Session {session_id} not found in memory")
+        print(f"[ERROR] Available sessions: {list(sessions.keys())}")
         raise HTTPException(status_code=404, detail="Session not found")
     
     if not file.content_type or not file.content_type.startswith("video/"):
-        print(f"❌ [ERROR] Invalid file type: {file.content_type}")
+        print(f"[ERROR] Invalid file type: {file.content_type}")
         raise HTTPException(status_code=400, detail="File must be a video")
     
     # Create upload directory
     upload_dir = Path("uploads/videos")
     upload_dir.mkdir(parents=True, exist_ok=True)
-    print(f"📂 [UPLOAD] Created upload directory: {upload_dir}")
+    print(f"[UPLOAD] Created upload directory: {upload_dir}")
     
     # Save uploaded file
     video_path = upload_dir / f"{session_id}_{file.filename}"
     
     try:
-        print(f"💾 [UPLOAD] Saving video to: {video_path}")
+        print(f"[UPLOAD] Saving video to: {video_path}")
         content = await file.read()
         file_size_mb = len(content) / (1024 * 1024)
-        print(f"📊 [UPLOAD] Video file size: {file_size_mb:.2f} MB")
+        print(f"[UPLOAD] Video file size: {file_size_mb:.2f} MB")
         
         with open(video_path, "wb") as f:
             f.write(content)
         
-        print(f"✅ [UPLOAD] Video saved successfully!")
+        print(f"[UPLOAD] Video saved successfully!")
         
         # Update session
         sessions[session_id]["video_path"] = str(video_path)
@@ -312,10 +312,10 @@ async def upload_video(session_id: str, file: UploadFile = File(...)):
         sessions[session_id]["filename"] = file.filename
         
         print(f"🔄 [SESSION] Updated session {session_id} status to 'video_uploaded'")
-        print(f"📋 [SESSION] Session data: {sessions[session_id]}")
+        print(f"[SESSION] Session data: {sessions[session_id]}")
         
         # Automatically start video processing
-        print(f"🚀 [PROCESSING] Starting automatic video analysis...")
+        print(f"[PROCESSING] Starting automatic video analysis...")
         await process_video_async(session_id, video_path)
         
         return {
@@ -326,7 +326,7 @@ async def upload_video(session_id: str, file: UploadFile = File(...)):
         }
         
     except Exception as e:
-        print(f"❌ [ERROR] Upload failed: {str(e)}")
+        print(f"[ERROR] Upload failed: {str(e)}")
         sessions[session_id]["status"] = "upload_error" 
         raise HTTPException(status_code=500, detail=f"Error uploading video: {str(e)}")
 
@@ -410,7 +410,7 @@ async def chat_with_video(session_id: str, request: dict):
     if not question:
         raise HTTPException(status_code=400, detail="Message is required")
     
-    print(f"💬 [CHAT] Session {session_id}: {question}")
+    print(f"[CHAT] Session {session_id}: {question}")
     
     try:
         # Use pre-computed analysis data instead of reprocessing
@@ -418,52 +418,41 @@ async def chat_with_video(session_id: str, request: dict):
         scene_graph = session.get("scene_graph", [])
         
         if not analysis_data or not scene_graph:
-            print(f"❌ [CHAT] No pre-computed analysis data found")
+            print(f"[CHAT] No pre-computed analysis data found")
             raise HTTPException(status_code=400, detail="No scene graph data available")
         
         print(f"🔄 [CHAT] Using pre-computed scene graph with {len(scene_graph)} relations")
-        print(f"📊 [CHAT] Analysis data keys: {list(analysis_data.keys())}")
+        print(f"[CHAT] Analysis data keys: {list(analysis_data.keys())}")
         
-        # Import and use GraphReasoningAgent
-        try:
-            parent_dir = os.path.dirname(os.path.dirname(__file__))
-            if parent_dir not in sys.path:
-                sys.path.append(parent_dir)
+            # Import MessengerAgent and CaptainAgent
+            from src.utils.agents.captain_agent import CaptainAgent
+            from src.utils.agents.messenger_agent import MessengerAgent
             
-            print(f"🔧 [CHAT] Import path added: {parent_dir}")
+            print(f"[CHAT] Initializing MessengerAgent...")
+            messenger = MessengerAgent()
             
-            # Import GraphReasoningAgent for intelligent chat
-            from src.utils.agents.graph_reasoning_agent import GraphReasoningAgent, GraphReasoningInput
-            print(f"✅ [CHAT] Successfully imported GraphReasoningAgent")
+            # Use MessengerAgent to answer question based on scene graph
+            print(f"[CHAT] Using MessengerAgent with {len(scene_graph)} scene graph items")
+            result = messenger.run(question, scene_graph)
+            answer = result["answer"]
+            print(f"[CHAT] Messenger response: {answer[:200]}...")
             
-            # Convert scene graph to text format
-            graph_text = "\n".join(scene_graph) if isinstance(scene_graph, list) else str(scene_graph)
-            
-            # Use GraphReasoningAgent to answer question based on scene graph
-            reasoning_agent = GraphReasoningAgent()
-            reasoning_input = GraphReasoningInput(
-                question=question,
-                graph_text=graph_text,
-                top_k=200
-            )
-            
-            print(f"🤖 [CHAT] Using GraphReasoningAgent with {len(scene_graph)} scene graph items")
-            result = reasoning_agent.run(reasoning_input)
-            answer = result.answer
-            print(f"🤖 [CHAT] Agent response: {answer[:200]}...")
+            # Generate collaborative VISTA multi-agent thoughts
+            captain = CaptainAgent()
+            parts = captain.generate_chat_thoughts(question, answer)
             
         except ImportError as e:
-            print(f"❌ [CHAT] Could not import GraphReasoningAgent: {e}")
-            # Basic fallback if agent import fails
+            print(f"[CHAT] Could not import VISTA Agents: {e}")
             answer = f"Xin lỗi, không thể tải agent. Dựa trên scene graph có {len(scene_graph)} mối quan hệ, tôi không thể trả lời chi tiết cho câu hỏi: '{question}'"
+            parts = [{"type": "text", "content": answer, "author": "Messenger Agent"}]
             
         except Exception as e:
-            print(f"❌ [CHAT] GraphReasoningAgent error: {e}")
-            # Fallback for agent execution errors
+            print(f"[CHAT] VISTA Agents error: {e}")
             if "503" in str(e) or "UNAVAILABLE" in str(e) or "quá tải" in str(e):
                 answer = "Xin lỗi, hệ thống AI tạm thời quá tải. Vui lòng thử lại sau 2-3 phút."
             else:
                 answer = f"Có lỗi khi xử lý câu hỏi: {str(e)}"
+            parts = [{"type": "text", "content": answer, "author": "Messenger Agent"}]
         
         # Store chat history in session
         if "chat_history" not in session:
@@ -476,15 +465,37 @@ async def chat_with_video(session_id: str, request: dict):
         }
         session["chat_history"].append(chat_entry)
         
+        # Persistence: Store user and assistant messages for right sidebar tabs
+        if "messages" not in session:
+            session["messages"] = []
+            
+        user_message = {
+            "content": question,
+            "role": "user",
+            "id": str(uuid.uuid4())
+        }
+        
+        assistant_message = {
+            "content": answer,
+            "role": "assistant",
+            "id": str(uuid.uuid4()),
+            "parts": parts
+        }
+        
+        session["messages"].extend([user_message, assistant_message])
+        
         return {
             "session_id": session_id,
             "question": question,
             "answer": answer,
+            "content": answer,
+            "role": "assistant",
+            "parts": parts,
             "timestamp": datetime.now().isoformat()
         }
         
     except Exception as e:
-        print(f"❌ [CHAT] Error: {str(e)}")
+        print(f"[CHAT] Error: {str(e)}")
         import traceback
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=f"Chat processing error: {str(e)}")
@@ -514,9 +525,9 @@ async def delete_session(session_id: str):
 @app.get("/api/sessions")
 async def list_sessions():
     """List all sessions"""
-    print(f"📋 [DEBUG] Total sessions in memory: {len(sessions)}")
+    print(f"[DEBUG] Total sessions in memory: {len(sessions)}")
     for sid, data in sessions.items():
-        print(f"  📁 Session {sid}: status={data['status']}, video={data.get('filename', 'none')}")
+        print(f"  Session {sid}: status={data['status']}, video={data.get('filename', 'none')}")
     
     return {
         "sessions": [

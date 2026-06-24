@@ -61,7 +61,7 @@ class SameEntityAgent:
                         retry_delay *= 2  # Exponential backoff
                         continue
                     else:
-                        print("❌ [ERROR] Scene graph API unavailable after all retries")
+                        print("[ERROR] Scene graph API unavailable after all retries")
                         return []
                 else:
                     raise e  # Re-raise non-503 errors

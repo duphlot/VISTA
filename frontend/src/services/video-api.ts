@@ -122,12 +122,12 @@ export class VideoAnalysisAPI {
 
         if (!response.ok) {
             const errorText = await response.text();
-            console.error('❌ Chat API error:', response.status, errorText);
+            console.error('Chat API error:', response.status, errorText);
             throw new Error(`Chat API error: ${response.status} ${errorText}`);
         }
 
         const result = await response.json();
-        console.log('📥 Chat response:', result);
+        console.log('Chat response:', result);
         return result;
     }
     

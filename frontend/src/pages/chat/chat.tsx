@@ -7,7 +7,7 @@ export function Chat() {
     const [sessionInfo, setSessionInfo] = useState<SessionInfo | null>(null);
 
     const handleVideoUploaded = (session: SessionInfo) => {
-        console.log('🎯 Video analysis completed:', session);
+        console.log('Video analysis completed:', session);
         setSessionInfo(session);
     };
 

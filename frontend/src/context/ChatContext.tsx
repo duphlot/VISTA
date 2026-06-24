@@ -12,6 +12,9 @@ interface Message {
   role: 'user' | 'assistant';
   content: string;
   parts?: MessagePart[];
+  timestamp?: Date;
+  videoPath?: string;
+  hasVideo?: boolean;
 }
 
 interface ChatContextType {

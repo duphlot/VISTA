@@ -3,16 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Send, Bot, User, Video, BarChart3 } from "lucide-react";
 import { SessionInfo, VideoAnalysisAPI } from '@/services/video-api';
-import { useChatContext } from '@/context/ChatContext';
-
-interface Message {
-    id: string;
-    text: string;
-    isUser: boolean;
-    timestamp: Date;
-    videoPath?: string;
-    hasVideo?: boolean;
-}
+import { useChatContext, Message } from '@/context/ChatContext';
 
 interface ChatInterfaceProps {
     sessionInfo: SessionInfo;
@@ -20,9 +11,8 @@ interface ChatInterfaceProps {
 }
 
 export function ChatInterface({ sessionInfo, onBack }: ChatInterfaceProps) {
-    const [messages, setMessages] = useState<Message[]>([]);
+    const { messages, setMessages, isLoading, setIsLoading } = useChatContext();
     const [inputText, setInputText] = useState('');
-    const { isLoading, setIsLoading } = useChatContext();
     const messagesEndRef = useRef<HTMLDivElement>(null);
 
     const scrollToBottom = () => {
@@ -36,34 +26,34 @@ export function ChatInterface({ sessionInfo, onBack }: ChatInterfaceProps) {
     useEffect(() => {
         const welcomeMessage: Message = {
             id: 'welcome',
-            text: `Xin chào! Tôi đã phân tích video của bạn và tìm thấy ${sessionInfo.analysis_results?.keyframes_count || 0} khung hình quan trọng với ${sessionInfo.analysis_results?.scene_graph_relations || 0} mối quan hệ. Bạn có thể hỏi tôi bất kỳ câu hỏi nào về nội dung video!`,
-            isUser: false,
+            role: 'assistant',
+            content: `Xin chào! Tôi đã phân tích video của bạn và tìm thấy ${sessionInfo.analysis_results?.keyframes_count || 0} khung hình quan trọng với ${sessionInfo.analysis_results?.scene_graph_relations || 0} mối quan hệ. Bạn có thể hỏi tôi bất kỳ câu hỏi nào về nội dung video!`,
             timestamp: new Date()
         };
 
-        const messages = [welcomeMessage];
+        const initialMessages = [welcomeMessage];
         if (sessionInfo.video_path) {
             const videoMessage: Message = {
                 id: 'uploaded-video',
-                text: 'Video đã tải lên:',
-                isUser: true,
+                role: 'user',
+                content: 'Video đã tải lên:',
                 timestamp: new Date(new Date().getTime() - 1000), 
                 videoPath: sessionInfo.video_path,
                 hasVideo: true
             };
-            messages.unshift(videoMessage); 
+            initialMessages.unshift(videoMessage); 
         }
 
-        setMessages(messages);
-    }, [sessionInfo]);
+        setMessages(initialMessages);
+    }, [sessionInfo, setMessages]);
 
     const handleSendMessage = async () => {
         if (!inputText.trim() || isLoading) return;
 
         const userMessage: Message = {
             id: Date.now().toString(),
-            text: inputText,
-            isUser: true,
+            role: 'user',
+            content: inputText,
             timestamp: new Date()
         };
 
@@ -77,9 +67,10 @@ export function ChatInterface({ sessionInfo, onBack }: ChatInterfaceProps) {
             
             const botResponse: Message = {
                 id: (Date.now() + 1).toString(),
-                text: response.answer || 'Không thể tạo câu trả lời.',
-                isUser: false,
-                timestamp: new Date()
+                role: 'assistant',
+                content: response.answer || 'Không thể tạo câu trả lời.',
+                timestamp: new Date(),
+                parts: response.parts
             };
 
             setMessages(prev => [...prev, botResponse]);
@@ -87,8 +78,8 @@ export function ChatInterface({ sessionInfo, onBack }: ChatInterfaceProps) {
             console.error('Error sending message:', error);
             const errorMessage: Message = {
                 id: (Date.now() + 1).toString(),
-                text: 'Xin lỗi, có lỗi xảy ra khi xử lý tin nhắn của bạn. Vui lòng thử lại.',
-                isUser: false,
+                role: 'assistant',
+                content: 'Xin lỗi, có lỗi xảy ra khi xử lý tin nhắn của bạn. Vui lòng thử lại.',
                 timestamp: new Date()
             };
             setMessages(prev => [...prev, errorMessage]);
@@ -153,8 +144,8 @@ export function ChatInterface({ sessionInfo, onBack }: ChatInterfaceProps) {
                             <div key={message.id}>
                                 {/* Video message */}
                                 {message.hasVideo && message.videoPath && (
-                                    <div className={`flex gap-2 mb-3 ${message.isUser ? 'justify-end' : 'justify-start'}`}>
-                                        {!message.isUser && (
+                                    <div className={`flex gap-2 mb-3 ${message.role === 'user' ? 'justify-end' : 'justify-start'}`}>
+                                        {message.role === 'assistant' && (
                                             <div className="flex-shrink-0 w-7 h-7 bg-gradient-to-br from-purple-400 to-blue-500 rounded-full flex items-center justify-center border border-purple-300">
                                                 <Video className="h-3 w-3 text-white" />
                                             </div>
@@ -170,11 +161,11 @@ export function ChatInterface({ sessionInfo, onBack }: ChatInterfaceProps) {
                                                 Trình duyệt của bạn không hỗ trợ video.
                                             </video>
                                             <p className="text-xs text-amber-600 mt-1">
-                                                {message.timestamp.toLocaleTimeString('vi-VN')}
+                                                {message.timestamp ? message.timestamp.toLocaleTimeString('vi-VN') : new Date().toLocaleTimeString('vi-VN')}
                                             </p>
                                         </div>
 
-                                        {message.isUser && (
+                                        {message.role === 'user' && (
                                             <div className="flex-shrink-0 w-7 h-7 bg-gradient-to-br from-purple-400 to-blue-500 rounded-full flex items-center justify-center border border-purple-300">
                                                 <Video className="h-3 w-3 text-white" />
                                             </div>
@@ -183,9 +174,9 @@ export function ChatInterface({ sessionInfo, onBack }: ChatInterfaceProps) {
                                 )}
 
                                 {/* Text message */}
-                                {(!message.hasVideo || message.text !== 'Video đã tải lên:') && (
-                                    <div className={`flex gap-2 ${message.isUser ? 'justify-end' : 'justify-start'}`}>
-                                        {!message.isUser && (
+                                {(!message.hasVideo || message.content !== 'Video đã tải lên:') && (
+                                    <div className={`flex gap-2 ${message.role === 'user' ? 'justify-end' : 'justify-start'}`}>
+                                        {message.role === 'assistant' && (
                                             <div className="flex-shrink-0 w-7 h-7 bg-gradient-to-br from-amber-100 to-yellow-100 rounded-full flex items-center justify-center border border-amber-200">
                                                 <Bot className="h-3 w-3 text-amber-700" />
                                             </div>
@@ -193,20 +184,20 @@ export function ChatInterface({ sessionInfo, onBack }: ChatInterfaceProps) {
                                         
                                         <div
                                             className={`max-w-[80%] rounded-lg px-3 py-2 shadow-sm ${
-                                                message.isUser
+                                                message.role === 'user'
                                                     ? 'bg-gradient-to-r from-amber-500 to-yellow-500 text-white'
                                                     : 'bg-gradient-to-r from-yellow-50 to-amber-50 border border-amber-200 text-gray-800'
                                             }`}
                                         >
-                                            <p className="text-sm leading-relaxed">{message.text}</p>
+                                            <p className="text-sm leading-relaxed">{message.content}</p>
                                             <p className={`text-xs mt-1 ${
-                                                message.isUser ? 'text-amber-100' : 'text-amber-600'
+                                                message.role === 'user' ? 'text-amber-100' : 'text-amber-600'
                                             }`}>
-                                                {message.timestamp.toLocaleTimeString('vi-VN')}
+                                                {message.timestamp ? message.timestamp.toLocaleTimeString('vi-VN') : new Date().toLocaleTimeString('vi-VN')}
                                             </p>
                                         </div>
 
-                                        {message.isUser && !message.hasVideo && (
+                                        {message.role === 'user' && !message.hasVideo && (
                                             <div className="flex-shrink-0 w-7 h-7 bg-gradient-to-br from-gray-100 to-gray-200 rounded-full flex items-center justify-center border border-gray-300">
                                                 <User className="h-3 w-3 text-gray-600" />
                                             </div>

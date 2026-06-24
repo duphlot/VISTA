@@ -48,7 +48,7 @@ class GraphReasoningAgent:
         relevant_graph = self._retrieve_relevant_relations(
             data.question, data.graph_text, data.top_k
         )
-        print(f"🔍 [GRAPH] Retrieved {len(relevant_graph.splitlines())} relevant relations.")
+        print(f"[GRAPH] Retrieved {len(relevant_graph.splitlines())} relevant relations.")
 
         prompt = f"""
 Bạn là một hệ thống reasoning dựa trên scene graph.
@@ -81,7 +81,7 @@ Chỉ trả về câu trả lời, không thêm giải thích.
                         retry_delay *= 2  # Exponential backoff
                         continue
                     else:
-                        print("❌ [ERROR] API unavailable after all retries")
+                        print("[ERROR] API unavailable after all retries")
                         return "Xin lỗi, hệ thống tạm thời quá tải. Vui lòng thử lại sau ít phút."
                 else:
                     raise e  # Re-raise non-503 errors
